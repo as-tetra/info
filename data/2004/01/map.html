@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>map</title>
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA2FbE_tq_3Z6n_wlbDTOBCxTdQPqLcOYiKKSyFKPrNVvw2sTohRQ3QJXJtDxFvZd_0yZ3LL8RhXhzkw" type="text/javascript" charset="utf-8">
+    </script>
+    <script type="text/javascript">
+    //<![CDATA[
+    //GMapを入れる変数
+    var map;
+    //緑色のピンのアイコン
+    var icon = new GIcon();
+    icon.image = "http://labs.google.com/ridefinder/images/mm_20_green.png";
+    icon.shadow = "http://labs.google.com/ridefinder/images/mm_20_shadow.png";
+    icon.iconSize = new GSize(12, 20);
+    icon.shadowSize = new GSize(22, 20);
+    icon.iconAnchor = new GPoint(6, 20);
+    icon.infoWindowAnchor = new GPoint(5, 1);
+
+    //指定されたpoint(緯度経度)、icon、htmlをもったGMarkerを作って返す関数
+    function createMarker(point, icon, html) {
+      var marker = new GMarker(point, icon);
+      //クリックしたら吹き出し表示
+      GEvent.addListener(marker, 'click', function() {
+			   marker.openInfoWindowHtml(html);
+			 });
+      return marker;
+    }
+
+    //マウススクロールイベントに合わせてズームを変えるための関数
+    function zoomByWheel(event) {
+      if (!event) event = window.event;
+      var zoom = map.getZoomLevel();
+      var delta = 0;
+      if (event.wheelDelta) //IE
+	delta = event.wheelDelta;
+      else if (event.detail) //Mozilla
+	delta = -event.detail;
+      if (delta) {
+	delta = delta < 0 ? -1 : +1;
+	zoom += delta;
+	if (zoom >= 0) {
+	  map.zoomTo(zoom);
+	  //イベントを停止
+	  if (event.preventDefault) { //Firefox
+	    event.preventDefault();
+	    event.stopPropagation();
+	  } else { //IE
+	    event.returnValue = false;
+	    event.cancelBubble = true;
+	  }
+	}
+      }
+    }
+
+    //ページがロードされたときに実行される関数
+    function onLoad() {
+      //ブラウザがGoogle Mapsをサポートしていれば実行
+      if (GBrowserIsCompatible()) {
+        //id="map" のHTMLタグを地図として初期化
+        map = new GMap(document.getElementById("map"));
+	map.addControl(new GLargeMapControl());
+	map.addControl(new GMapTypeControl());
+	map.addControl(new GScaleControl());
+	//デフォルトの表示位置
+	map.setCenter(new GLatLng(33.59611341777977, 130.40392488241196), 17);
+
+	//マウスホイールでスクロールする
+	var mapElem = document.getElementById("map");
+	if (mapElem.addEventListener) //Mozilla
+	mapElem.addEventListener('DOMMouseScroll', zoomByWheel, false);
+	mapElem.onmousewheel = zoomByWheel;
+
+	//アイコンを追加
+	map.addOverlay(createMarker(new GLatLng(33.59611341777977, 130.40392488241196), icon, "<nobr>art space tetra</nobr>"));
+      }
+    }
+    //]]>
+    </script>
+  </head>
+
+  <body onload="onLoad()">
+    <div id="map" style="width: 480px; height: 540px"></div>
+  </body>
+</html>

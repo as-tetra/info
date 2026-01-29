@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="content-type" content="text/html;charset=Shift_JIS">
+<TITLE>バックナンバー一覧</TITLE>
+</HEAD>
+<BODY bgcolor="#EBEBEB">
+<div align="center"><table width="700" bgcolor="#FFFFFF"><tr><td>
+
+
+
+<style>
+td { font-size:12px; }
+</style>
+<div align="center">バックナンバー一覧<br><br>
+
+  <br>
+  <table border="0" cellspacing="1" cellpadding="5" width="650" bgcolor="#FF9900">
+  <tr><td bgcolor="#FFFFFF" valign="top">
+  日付一覧<br>
+  <!-- TMPL_LOOP NAME=backnumber_list -->
+  <a href="backnumber.cgi?id=<!-- TMPL_VAR NAME=id -->"><!-- TMPL_VAR NAME=end_send_date --></a><br>
+  <!-- /TMPL_LOOP -->
+</td>
+<td bgcolor="#FFFFFF" valign="top">
+
+<table border="0" cellspacing="1" cellpadding="5" width="400" bgcolor="#4B4B4B">
+<tr><td bgcolor="#FFFFFF">
+<!-- TMPL_VAR ESCAPE=HTML NAME=end_send_date -->
+</td>
+</tr>
+<!-- TMPL_IF NAME=htmlpreview -->
+<tr><td bgcolor="#FFFFFF">
+<a href="backnumber_previewhtml.cgi?id=<!-- TMPL_VAR NAME=id -->" target="blank">プレビュー</a>
+</td>
+</tr>
+<!-- /TMPL_IF -->
+<tr><td bgcolor="#FFFFFF">
+<!-- TMPL_VAR NAME=mail_title -->
+</td>
+</tr>
+<tr><td bgcolor="#FFFFFF">
+<!-- TMPL_VAR NAME=mail_body -->
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+  </table>
+</div>
+<br><br>
+
+
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+<!-- TMPL_UNLESS NAME=writing -->
+<div align="center">
+<!-- ■■■■■■著作権について（重要！）■■■■■■ -->
+<!-- 本システムは、AHREFに無断で下記著作権表示を削除・改変・非表示にすることは禁止しております -->
+<!-- 詳しくはこちらをご確認下さい。 -->
+<!-- http://www.ahref.org/cgityosaku.html -->
+<!-- ■■■■■■■■■■■■■■■■■■■■■■■■ -->
+<a href="http://www.ahref.org/" target="_blank"><img src="http://www.ahref.org/ahref_logo_s.gif" width="75" height="33" alt="AHREFロゴ" border="0"></a> <br>
+<font size="-1" color=#999999>Copyright (C) 2007 ahref.org All Rights Reserved.
+</font>
+</div>
+</div>
+<!-- /TMPL_UNLESS -->
+</td></tr></table>
+</BODY>
+</HTML>

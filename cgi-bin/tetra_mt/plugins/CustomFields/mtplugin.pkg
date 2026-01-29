@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<plugin version="2.0">
+  <name>CustomFields</name>
+  <version_url>http://plugins.movalog.com/customfields/plugin-manager.xml</version_url>
+  <sig>CustomFields/customfields.pl</sig>
+  <files>
+    <file>
+      <src>CustomFields/plugins/CustomFields</src>
+      <destination>plugins/CustomFields</destination>
+    </file>
+    <file>
+      <src>CustomFields/mt-static/plugins/CustomFields</src>
+      <destination>plugins/CustomFields</destination>
+      <static>1</static>
+    </file>
+  </files>
+  <uninstall>
+    <rmdir>plugins/CustomFields</rmdir>
+    <rmdir static="1">plugins/CustomFields</rmdir>
+  </uninstall>
+</plugin>

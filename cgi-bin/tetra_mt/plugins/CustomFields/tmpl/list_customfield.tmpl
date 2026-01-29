@@ -1,0 +1,168 @@
+<TMPL_INCLUDE NAME="header.tmpl">
+<script type="text/javascript" src="<TMPL_VAR NAME=STATIC_URI>plugins/CustomFields/fat.js"></script>
+<div id="list-commenters">
+
+<script type="text/javascript">
+<!--
+var tableSelect;
+function init()
+{
+	// setup
+	tableSelect = new TC.TableSelect( "selector" );
+	tableSelect.rowSelect = true;
+}
+	
+TC.attachLoadEvent( init );
+
+function doRemoveItems (f, singular, plural, nameRestrict, args) {
+    var count = countMarked(f, nameRestrict);
+    if (!count) {
+        alert(trans('You did not select any [_1] to delete.', plural));
+        return false;
+    }
+    var toRemove = "";
+    for (var i = 0; i < f.childNodes.length; i++) {
+        if (f.childNodes[i].name == '_type') {
+            toRemove = f.childNodes[i].value;
+            break;
+        }
+    }
+    if(toRemove == 'author') {
+        singularMessage = trans('Deleting an author is an irrevocable action which creates orphans of the author\'s entries.  If you wish to retire an author or remove their access to the system, removing all of their permissions is the recommended course of action.  Are you sure you want to delete this author?');
+        pluralMessage = trans('Deleting an author is an irrevocable action which creates orphans of the author\'s entries.  If you wish to retire an author or remove their access to the system, removing all of their permissions is the recommended course of action.  Are you sure you want to delete the [_1] selected authors?');
+    } else {
+        singularMessage = trans('Are you sure you want to delete this [_1]?');
+        pluralMessage = trans('Are you sure you want to delete the [_1] selected [_2]?');
+    } 
+
+    if (confirm(count == 1 ? trans(singularMessage, singular) : trans(pluralMessage, count, plural))) {
+        return doForMarkedInThisWindow(f, singular, plural, nameRestrict, 'delete_customfields', args, trans('to delete'));
+    }
+}
+
+// -->
+</script>
+
+<h2><span class="weblog-title-highlight"><TMPL_IF NAME=BLOG_ID><TMPL_VAR NAME=BLOG_NAME ESCAPE=HTML><TMPL_ELSE><MT_TRANS phrase="System-wide"></TMPL_IF>:</span> <TMPL_IF NAME=IS_ENTRY><MT_TRANS phrase="Entry"></TMPL_IF><TMPL_IF NAME=IS_CATEGORY><MT_TRANS phrase="Category"></TMPL_IF><TMPL_IF NAME=IS_AUTHOR><MT_TRANS phrase="Author"></TMPL_IF> <MT_TRANS phrase="Custom Fields"></h2>
+
+<p class="page-desc"><MT_TRANS phrase="TBD"></p>
+
+<TMPL_IF NAME=SAVED>
+<div class="message"><MT_TRANS phrase="Your changes have been saved."></div>
+</TMPL_IF>
+
+<TMPL_IF NAME=SAVED_DELETED>
+<h4 class="message"><MT_TRANS phrase="You have successfully deleted the custom field(s)."></h4>
+</TMPL_IF>
+
+<div class="tabs">
+<ul>
+<li<TMPL_IF NAME=IS_ENTRY> class="yah"</TMPL_IF>><a href="<TMPL_VAR NAME=SCRIPT_URL>?__mode=list_customfields&amp;blog_id=<TMPL_VAR NAME=BLOG_ID>&amp;datasource=entry"><MT_TRANS phrase="Entry Custom Fields"></a></li>
+<li<TMPL_IF NAME=IS_CATEGORY> class="yah"</TMPL_IF>><a href="<TMPL_VAR NAME=SCRIPT_URL>?__mode=list_customfields&amp;blog_id=<TMPL_VAR NAME=BLOG_ID>&amp;datasource=category"><MT_TRANS phrase="Category Custom Fields"></a></li>
+<li<TMPL_IF NAME=IS_AUTHOR> class="yah"</TMPL_IF>><a href="<TMPL_VAR NAME=SCRIPT_URL>?__mode=list_customfields&amp;datasource=author"><MT_TRANS phrase="Author Custom Fields"></a></li>
+
+<li class="special">
+<img src="<TMPL_VAR NAME=STATIC_URI>images/status_icons/create.gif" alt="<MT_TRANS phrase="Create New Field">" width="9" height="9" />
+<a href="<TMPL_VAR NAME=SCRIPT_URL>?__mode=edit_customfields&amp;<TMPL_IF NAME=BLOG_ID>blog_id=<TMPL_VAR NAME=BLOG_ID></TMPL_IF>&amp;datasource=<TMPL_VAR NAME=DATASOURCE>"><MT_TRANS phrase="New Field"></a>
+</li>
+</ul>
+</div>
+
+<div class="list-wrapper">
+<TMPL_IF NAME=OBJECT_LOOP>
+<form method="post" action="<TMPL_VAR NAME=SCRIPT_URL>" onsubmit="return this['__mode'] ? true : false">
+<input type="hidden" name="__mode" value="" />
+<input type="hidden" name="_type" value="customfield" /><TMPL_IF NAME=EDIT_BLOG_ID>
+<input type="hidden" name="blog_id" value="<TMPL_VAR NAME=EDIT_BLOG_ID>" />
+</TMPL_IF><input type="hidden" name="action_name" value="" />
+<input type="hidden" name="itemset_action_input" value="" />
+<input type="hidden" name="filter_args" value="<TMPL_VAR NAME=FILTER_ARGS>" />
+<input type="hidden" name="return_args" value="<TMPL_VAR NAME=RETURN_ARGS ESCAPE=HTML>" />
+<input type="hidden" name="magic_token" value="<TMPL_VAR NAME=MAGIC_TOKEN>" />
+
+
+<TMPL_IF NAME=POSITION_ACTIONS_TOP>
+<div class="list-actions-footer">
+<div class="list-actions">
+
+<div class="button-bar">
+
+<input
+   type="button"
+   name="delete_customfields"
+   accesskey="x"
+   title="<MT_TRANS phrase="Delete selected custom fields (x)">"
+   value="<MT_TRANS phrase="Delete">"
+   onclick="doRemoveItems(this.form, '<MT_TRANS phrase="custom field">', '<MT_TRANS phrase="custom fields">')"
+/>
+
+</div>
+
+</div> 
+</div>
+</TMPL_IF>
+
+
+<div class="list" id="selector">
+<table cellspacing="0" class="<TMPL_UNLESS NAME=EDIT_BLOG_ID>show-weblog </TMPL_UNLESS><TMPL_IF NAME=VIEW_EXPANDED>expanded<TMPL_ELSE>compact</TMPL_IF>">
+
+<thead>
+<tr>
+<th class="cb"><input type="checkbox" name="id-head" value="all" class="select" /></th>
+<th id="as-file-status"><img src="<TMPL_VAR NAME=STATIC_URI>images/status_icons/flag.gif" alt="<MT_TRANS phrase="Required?">" title="<MT_TRANS phrase="Required?">" width="9" height="9" /></th>
+<th id="cf-name"><MT_TRANS phrase="Name"></th>
+<th id="cf-type"><MT_TRANS phrase="Type"></th>
+<th id="cf-tag"><MT_TRANS phrase="Template Tag"></th>
+</tr>
+</thead>
+<tbody>
+
+<TMPL_LOOP NAME=OBJECT_LOOP>
+<tr class="<TMPL_IF __ODD__>odd<TMPL_ELSE>even</TMPL_IF>">
+<td class="cb"><input type="checkbox" name="id" value="<TMPL_VAR NAME=ID>" class="select" /></td>
+<td class="status-<TMPL_IF NAME=REQUIRED>linked<TMPL_ELSE>unlinked</TMPL_IF>"><img src="<TMPL_VAR NAME=STATIC_URI>images/spacer.gif" <TMPL_IF NAME=REQUIRED>alt="<MT_TRANS phrase="Required">"<TMPL_ELSE>alt="<MT_TRANS phrase="Not Required">"</TMPL_IF> width="9" height="9" /</td>
+<td><a href="<TMPL_VAR NAME=SCRIPT_URL>?__mode=edit_customfields&amp;<TMPL_IF NAME=BLOG_ID>blog_id=<TMPL_VAR NAME=BLOG_ID></TMPL_IF>&amp;id=<TMPL_VAR NAME=ID>&amp;datasource=<TMPL_VAR NAME=DATASOURCE>"><TMPL_VAR NAME=NAME></a></td>
+<td><TMPL_VAR NAME=TYPE></td>
+<td><TMPL_VAR NAME=TAG></td>
+</tr>
+</TMPL_LOOP>
+
+</tbody>
+</table>
+</div>
+
+<TMPL_IF NAME=POSITION_ACTIONS_BOTTOM>
+<div class="list-actions-footer">
+<div class="list-actions">
+
+<div class="button-bar">
+
+<input
+   type="button"
+   name="delete_customfields"
+   accesskey="x"
+   title="<MT_TRANS phrase="Delete selected custom fields (x)">"
+   value="<MT_TRANS phrase="Delete">"
+   onclick="doRemoveItems(this.form, '<MT_TRANS phrase="custom field">', '<MT_TRANS phrase="custom fields">')"
+/>
+
+</div>
+
+</div> 
+</div>
+</TMPL_IF>
+
+</form>
+
+<TMPL_INCLUDE NAME=pager.tmpl>
+
+
+<TMPL_ELSE>
+<br /><h4 class="message"><MT_TRANS phrase="No custom fields could be found."></h4>
+</TMPL_IF>
+
+</div>
+
+</div>
+
+<TMPL_INCLUDE NAME="footer.tmpl">

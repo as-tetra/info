@@ -1,0 +1,1 @@
+art space tetra	as-tetra	szk215	service@as-tetra.info	��̾��	�Ķ�								TT	checked										�ƥȥ顦�᡼��ޥ�����	1	http://www.as-tetra.info/cgi-bin/acmailer3/	1	1					/virtual/calamari/public_html/www.as-tetra.info/cgi-bin/acmailer3/	

@@ -1,0 +1,53 @@
+<!-- TMPL_INCLUDE NAME=html_mobileheader.tmpl -->
+
+<br><br>
+<div align="center"><b><font size="1"><!-- TMPL_VAR NAME=title --></font></b><br>
+  <br>
+  <table border="0" cellspacing="1" cellpadding="5" width="500" bgcolor="#FF9900">
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">メール配信</td>
+    </tr>
+	<tr>
+      <td bgcolor="#FFFFFF">
+		<a href="m_email_send.cgi?sid=<!-- TMPL_VAR NAME=sid -->">メール配信</a>
+		</td>
+	</tr>
+	
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">メールアドレス管理</td>
+    </tr>
+	<tr>
+	      <td bgcolor="#FFFFFF">
+		<a href="m_email_list.cgi?sid=<!-- TMPL_VAR NAME=sid -->">メールアドレス一覧</a><br>
+		<a href="m_email_add.cgi?sid=<!-- TMPL_VAR NAME=sid -->">メールアドレス登録</a><br>
+		<a href="m_email_del.cgi?sid=<!-- TMPL_VAR NAME=sid -->">メールアドレス削除</a>
+		</td>
+
+	</tr>
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">配信履歴</td>
+   </tr>
+   <tr>
+         <td bgcolor="#FFFFFF"><a href="m_hist_list.cgi?sid=<!-- TMPL_VAR NAME=sid -->">配信履歴</a></td>
+   </tr>
+    <tr valign="top"> 
+      <td colspan="2" align="center" bgcolor="#FFFFFF"><a href="m_logout_ctl.cgi?sid=<!-- TMPL_VAR NAME=sid -->">ログアウト</a></td>
+    </tr>
+
+
+  </table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_mobilefooter.tmpl -->

@@ -1,0 +1,104 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+<script language="JavaScript">
+<!--
+function changenum_hist(dispnum,year){
+	window.location.href = "hist_list.cgi?dispnum=" + dispnum + '<!-- TMPL_VAR NAME=search_url -->' ;
+
+}
+//-->
+</script>
+<style>
+td { font-size:12px; }
+</style>
+<div align="center">送信履歴<br><br>
+
+
+<br>
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+  <form action="hist_list.cgi" method="post">
+    <tr> 
+      <td bgcolor="#FFCC66" align="center">検索</td>
+	</tr>
+	<tr>
+	<td bgcolor="#FFFFFF">
+	<input type="text" name="s_year" value="<!-- TMPL_VAR NAME=s_year -->" size="4">年<input type="text" name="s_mon" value="<!-- TMPL_VAR NAME=s_mon -->" size="2">月<input type="text" name="s_day" value="<!-- TMPL_VAR NAME=s_day -->" size="2">日〜<input type="text" name="e_year" value="<!-- TMPL_VAR NAME=e_year -->" size="4">年<input type="text" name="e_mon" value="<!-- TMPL_VAR NAME=e_mon -->" size="2">月<input type="text" name="e_day" value="<!-- TMPL_VAR NAME=e_day -->" size="2">日
+	</td>
+	</tr>
+	<tr>
+	  <td bgcolor="#FFFFFF" align="center"><input type="submit" value="検索"></td>
+	  <input type="hidden" name="dispnum" value="<!-- TMPL_VAR NAME=dispnum -->">
+	</tr>
+  </form>
+   </table>
+   
+  <br>
+  <table border="0" cellspacing="1" cellpadding="5" width="650" bgcolor="#FF9900">
+<form action="backnumber_add_ctl.cgi" method="post">
+<tr><td bgcolor="#FFFFFF" colspan="8" align="center">
+<input type="submit" value="バックナンバーに設定">
+<input type="hidden" name="mode" value="add">
+</td></tr>
+    <tr valign="top">
+	  <td bgcolor="#FFCC66">選択</td>
+      <td bgcolor="#FFCC66">送信開始日時</td>
+      <td bgcolor="#FFCC66">送信終了日時</td>
+      <td bgcolor="#FFCC66">送信タイプ</td>
+	  <td bgcolor="#FFCC66">件名</td>
+	  <td bgcolor="#FFCC66">送信数</td>
+	  <td bgcolor="#FFCC66">詳細</td>
+	  <td bgcolor="#FFCC66">削除</td>
+    </tr>
+	<!-- TMPL_LOOP NAME=hist_list -->
+	<!-- TMPL_IF NAME=fail -->
+    <tr valign="top" bgcolor="#FFCCCC">
+	<!-- TMPL_ELSE -->
+    <tr valign="top" bgcolor="#FFFFFF">
+	<!-- /TMPL_IF -->
+	  <td><!-- TMPL_UNLESS NAME=fail --><input type="checkbox" name="<!-- TMPL_VAR NAME=id -->_backnumber" value="1" <!-- TMPL_VAR NAME=backnumber_selected -->>
+	  <!-- TMPL_ELSE -->
+	  送信中
+	  <!-- /TMPL_UNLESS --></td>
+      <td><!-- TMPL_VAR NAME=start_send_date --></td>
+      <td><!-- TMPL_VAR NAME=end_send_date --></td>
+      <td><!-- TMPL_VAR NAME=disp_send_type --></td>
+	  <td><!-- TMPL_VAR NAME=mail_title --></td>
+	  <td align="right"><!-- TMPL_VAR NAME=total_count -->通</td>
+	  <td><a href="hist_detail.cgi?id=<!-- TMPL_VAR NAME=id -->">詳細</a></td>
+	  <td><a href="hist_del_ctl.cgi?id=<!-- TMPL_VAR NAME=id -->" onclick="return confirm('削除してもよろしいですか？')">削除</a></td>
+    </tr>
+	<!-- /TMPL_LOOP -->
+<tr><td bgcolor="#FFFFFF" colspan="8" align="center">
+<input type="submit" value="バックナンバーに設定">
+</td></tr>
+<tr><td bgcolor="#FFFFFF" align="center" colspan="8">
+
+<br>
+<!-- TMPL_VAR NAME=pagelink -->｜
+<br><br>
+<!-- TMPL_IF NAME=backlink -->
+<A href="hist_list.cgi?page=<!-- TMPL_VAR NAME=page_m1 -->&dispnum=<!-- TMPL_VAR NAME=dispnum --><!-- TMPL_VAR NAME=search_url -->" title="前のページ">＜前のページ</A>
+<!-- /TMPL_IF -->
+　
+<!-- TMPL_IF NAME=nextlink -->
+<A href="hist_list.cgi?page=<!-- TMPL_VAR NAME=page_p1 -->&dispnum=<!-- TMPL_VAR NAME=dispnum --><!-- TMPL_VAR NAME=search_url -->" title="次のページ">次のページ＞</A>
+<!-- /TMPL_IF -->
+
+<br><br>
+
+<SELECT name="dispnum"  onchange="changenum_hist(options[selectedIndex].value)">
+<OPTION value="">表示件数切替</OPTION>
+<OPTION value="10" <!-- TMPL_VAR NAME=dispnum10_selected -->>10件</OPTION>
+<OPTION value="25" <!-- TMPL_VAR NAME=dispnum25_selected -->>25件</OPTION>
+<OPTION value="50" <!-- TMPL_VAR NAME=dispnum50_selected -->>50件</OPTION>
+<OPTION value="100" <!-- TMPL_VAR NAME=dispnum100_selected -->>100件</OPTION>
+<OPTION value="all" <!-- TMPL_VAR NAME=dispnumall_selected -->>全件</OPTION>
+</SELECT>
+
+</td></tr>
+</form>
+  </table>
+</div>
+<br><div align="center"><a href="index.cgi">戻る</a> </div><br>
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->
