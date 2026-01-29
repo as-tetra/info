@@ -1,0 +1,50 @@
+{#
+  再利用可能なページネーションコンポーネント
+  MTのMTPaginateNavigator相当
+
+  使用例:
+  {% include "components/pagination.njk" with {
+    baseUrl: '/category-slug',
+    currentPage: 0,
+    totalPages: 5,
+    separator: ' | '
+  } %}
+#}
+
+{% if totalPages > 1 %}
+<div class="block_page">
+  <span class="pagenate">
+    <p>
+      {# 前ページリンク #}
+      {% if currentPage > 0 %}
+        {% if currentPage === 1 %}
+          <a href="{{ (baseUrl + '/') | url }}">&laquo;</a>
+        {% else %}
+          <a href="{{ (baseUrl + '/page/' + currentPage + '/') | url }}">&laquo;</a>
+        {% endif %}
+      {% endif %}
+
+      {# ページ番号リンク #}
+      {% for i in range(0, totalPages) %}
+        {% if i == currentPage %}
+          {# 現在のページ #}
+          &nbsp;{{ i + 1 }}&nbsp;
+        {% else %}
+          {# リンク #}
+          {% if separator and i > 0 %}{{ separator }}{% endif %}
+          {% if i == 0 %}
+            <a href="{{ (baseUrl + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+          {% else %}
+            <a href="{{ (baseUrl + '/page/' + (i + 1) + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {# 次ページリンク #}
+      {% if currentPage < totalPages - 1 %}
+        <a href="{{ (baseUrl + '/page/' + (currentPage + 2) + '/') | url }}">&raquo;</a>
+      {% endif %}
+    </p>
+  </span>
+</div>
+{% endif %}

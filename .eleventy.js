@@ -42,8 +42,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('2009');
 
   // アーカイブ・カテゴリページ
-  eleventyConfig.addPassthroughCopy('archives');
-  eleventyConfig.addPassthroughCopy('genre');
+  // archives/ は year-archives テンプレートから index.html を生成するため、
+  // 個別エントリーファイル（*.html）のみコピー
+  eleventyConfig.addPassthroughCopy('archives/**/*.html');
+  eleventyConfig.ignores.add('archives/**/index.html');
+  // genre/ は genre-paginated テンプレートから生成されるためコメントアウト
+  // eleventyConfig.addPassthroughCopy('genre');
 
   // その他の静的コンテンツ
   eleventyConfig.addPassthroughCopy('special');
