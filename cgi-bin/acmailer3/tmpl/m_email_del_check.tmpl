@@ -1,0 +1,83 @@
+<!-- TMPL_INCLUDE NAME=html_mobileheader.tmpl -->
+
+<div align="center">メールアドレス一括削除<br><br>
+
+
+<form name="form1" method="post" action="m_email_del_ctl.cgi">
+<!-- TMPL_IF NAME=addnum -->
+以下の内容で削除します。よろしければ削除ボタンを押してください。<br><br>
+
+削除可能数：<!-- TMPL_VAR NAME=addnum -->件 <input type="submit" value="一括削除">
+<!-- TMPL_ELSE -->
+削除できるデータがありません。
+<!-- /TMPL_IF -->
+<br><br>
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+    <tr bgcolor="#FFCC66"> 
+      <td bgcolor="#FFCC66">&nbsp;</td>
+      <td align="center" bgcolor="#FFCC66"><font size="1">メールアドレス</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col1name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col2name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col3name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col4name -->&nbsp;</td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col5name -->&nbsp;</font></font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col6name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col7name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col8name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col9name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1"><!-- TMPL_VAR NAME=col10name -->&nbsp;</font></td>
+      <td align="center" bgcolor="#FFCC66"><font size="1">状態</td>
+    </tr>
+    <tr bgcolor="#EEEEEE"> 
+      <td bgcolor="#EEEEEE">&nbsp;</td>
+      <td align="center" bgcolor="#EEEEEE">(必須)</td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col1checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col2checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col3checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col4checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col5checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col6checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col7checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col8checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col9checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE"><font size="1"><!-- TMPL_IF NAME=col10checked -->(必須)<!-- /TMPL_IF -->&nbsp;</font></td>
+      <td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+    </tr>
+<!-- TMPL_LOOP NAME=loop --> 
+    <tr bgcolor="#FFFFFF"> 
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=i --></font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=email --></font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col1 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col2 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col3 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col4 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col5 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col6 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col7 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col8 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col9 -->&nbsp;</font></td>
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=col10 -->&nbsp;</font></td>
+		
+      <td bgcolor="#FFFFFF"><font size="1"><!-- TMPL_VAR NAME=status --></font></td>
+    </tr>
+<!-- /TMPL_LOOP -->
+  </table>
+
+<input type="hidden" name="emailall" value="<!-- TMPL_VAR NAME=emailall -->">
+<input type="hidden" name="sid" value="<!-- TMPL_VAR NAME=sid -->">
+
+</form>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_mobilefooter.tmpl -->

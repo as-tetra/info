@@ -1,0 +1,147 @@
+<li><a href="#Compare">About the Compare Plugin</a></li>
+<li><a href="#Values">Comparison Values</a></li>
+<li><a href="#Options">Comparison Options</a></li>
+<li><a href="#MTIfEqual">MTIfEqual</a></li>
+<li><a href="#MTIfNotEqual">MTIfNotEqual</a></li>
+<li><a href="#MTIfGreater">MTIfGreater</a></li>
+<li><a href="#MTIfGreaterOrEqual">MTIfGreaterOrEqual</a></li>
+<li><a href="#MTIfLess">MTIfLess</a></li>
+<li><a href="#MTIfLessOrEqual">MTIfLessOrEqual</a></li>
+<li><a href="#MTIfBetween">MTIfBetween</a></li>
+<li><a href="#MTIfNotBetween">MTIfNotBetween</a></li>
+<li><a href="#MTIfBetweenExclusive">MTIfBetweenExclusive</a></li>
+<li><a href="#VersionHistory">Version History</a></li>
+</ul>
+
+<h2><a name="Compare"></a>About the Compare Plugin</h2>
+<p>This <a href="http://www.sixapart.com/movabletype/">Movable Type</a> plugin implements a set of <a href="http://www.sixapart.com/movabletype/docs/mtmanual_tags.html#template%20tags">template tags</a> for displaying a portion of a template conditionally, depending on the results of a comparison between values. The values compared can be literal strings or numbers, or they can be pieces of MT template code that the plugin will build and evaluate, using the result in the comparison.</p>
+<p>MT users have developed a number of techniques in PHP and JavaScript to implement various useful conditional-display features on MT-based sites. The tags in the Compare plugin should let you accomplish many of these same tasks within your MT templates, without using PHP or JavaScript tricks. For example:
+<ul>
+<li>Display different text in the Comments link for each entry depending on how many comments have been posted</li>
+<li>Use a different display format for entries by a particular author or set of authors</li>
+<li>Within a category listing on a category archive page, display the current page's category differently from the rest</li>
+<li>Display different text on an entry depending on what time of day it was entered ("morning," "afternoon," etc.)</li>
+</ul>
+<p>These tags are intended for doing straight comparisons of equality and inequality. If you want to compare things against regular expressions (for instance, finding out whether a string contains another string), you should try Brad Choate's powerful and flexible <a href="http://www.bradchoate.com/past/mtregex.php">Regex plugin</a>. (The <code>MTIfMatches</code> tag in that plugin overlaps somewhat in functionality with the <a href="#MTIfEqual"><code>MTIfEqual</code></a> and <a href="#MTIfNotEqual"><code>MTIfNotEqual</code></a> tags in this one.)</p>
+
+<p><strong>Installation</strong></p>
+<p>To install the Compare plugin, upload the file <I>Compare.pl</I> to the <i>plugins</i> directory within your Movable Type directory. If you do not already have a <i>plugins</i> directory, create one before uploading the file. For more information about Movable Type plugins, see the <A HREF="http://www.sixapart.com/movabletype/docs/mtmanual_programmatic.html#plugins">documentation</A>.</p>
+
+<?php include '/home/staggernation/staggernation.com/mtplugins/support.inc'; ?>
+
+<p>
+<h2><a name="Values"></a>Comparison Values</h2></p>
+<p>Each of the <code>Equal/Greater/Less</code> tags takes two required attributes, <code>a</code> and <code>b</code>. The tag compares <code>a</code> to <code>b</code> and displays its contents or not depending on the result.</p>
+<p>The <code>Equal</code> tags can take additional <code>b1, b2...</code>, etc. attributes, as described below.</p>
+<p>Each of the <code>Between</code> tags takes three required attributes, <code>a</code>, <code>lower</code>, and <code>upper</code> (and no <code>b</code> value).</p>
+<p>Within any of these attributes, you can include one or more Movable Type template tags, by using square brackets instead of angle brackets (and no dollar signs) and single quotes instead of double quotes. (To include a literal square bracket or single quote, escape it with a backslash.) The plugin will evaluate any such tags as if they were part of a template, and use the result in the comparison.</p>
+<p>The following example (within an <a href="http://www.sixapart.com/movabletype/docs/mtmanual_tags.html#item_MTEntries"><code>MTEntries</code></a> container) will display an author's nickname only if it is different from the author's name:
+<pre>
+&lt;MTIfNotEqual a="[MTEntryAuthor]" b="[MTEntryAuthorNickname]"&gt;
+ &lt;$MTEntryAuthorNickname$&gt;
+&lt;/MTIfNotEqual&gt;
+</pre>
+
+<p>
+<h2><a name="Options"></a>Comparison Options</h2></p>
+<p>Each of the tags can take two optional attributes:</p>
+<ul>
+<li><strong>numeric="1"</strong><br>
+By default, the values will be compared as strings (alphanumeric comparison). Pass <code>numeric="1"</code> to indicate that the values should be compared as numbers.
+<p>If you compare two strings that contain numerals without using the <code>numeric</code> option, the results will probably be incorrect. For example, <code>9</code> is "greater than" <code>10</code> in an alphanumeric comparison.</p>
+<li><strong>case_sensitive="1"</strong><br>
+By default, the plugin will disregard case (capitalization) when comparing strings. Pass <code>case_sensitive="1"</code> to indicate that the comparison should be case-sensitive.
+<pre>
+&lt;MTIfEqual a="hello" b="Hello"&gt;
+ This will display.
+&lt;/MTIfEqual&gt;
+&lt;MTIfEqual a="hello" b="Hello" case_sensitive="1"&gt;
+ This will not.
+&lt;/MTIfEqual&gt;
+</pre>
+<p>Obviously, using this option only makes sense if you're not also using the <code>numeric</code> option.
+<p>Note that case-sensitive <code>Greater/Less/Between</code> string comparisons will consider lower-case letters to be greater than upper-case letters: <code>abraham</code> is "greater than" <code>Zinnia</code>.
+</ul>
+
+<p>
+<h2><a name="MTIfEqual"></a>MTIfEqual</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is equal to <code>b</code>, or to any additional value named <code>b1</code>, <code>b2</code>, etc.</p>
+<p>The following example will display a particular image for entries authored by Bob, Carol, Ted, or Alice:
+<pre>
+&lt;MTIfEqual a="[MTEntryAuthor]" b="Bob" b1="Carol" b2="Ted" b3="Alice"&gt;
+ &lt;img src="/images/special_people.gif"&gt;
+&lt;/MTIfEqual&gt;
+</pre>
+
+<p>
+<h2><a name="MTIfNotEqual"></a>MTIfNotEqual</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is not equal to <code>b</code>, or to any additional value named <code>b1</code>, <code>b2</code>, etc.</p>
+<p>The following example will display a particular template module unless the variable <code>showed_already</code> is equal to <code>yes<code>.
+<pre>
+&lt;MTIfNotEqual a="[MTGetVar name='showed_already']" b="yes"&gt;
+ &lt;$MTInclude module="sidebar"$&gt;
+&lt;/MTIfNotEqual&gt;
+</pre>
+<p>
+<h2><a name="MTIfGreater"></a>MTIfGreater</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is greater than <code>b</code>.</p>
+
+<p>
+<h2><a name="MTIfGreaterOrEqual"></a>MTIfGreaterOrEqual</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is greater than or equal to <code>b</code>.</p>
+
+<p>
+<h2><a name="MTIfLess"></a>MTIfLess</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is less than <code>b</code>.</p>
+
+<p>
+<h2><a name="MTIfLessOrEqual"></a>MTIfLessOrEqual</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is less than or equal to <code>b</code>.</p>
+
+<p>
+<h2><a name="MTIfBetween"></a>MTIfBetween</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is between <code>lower</code> and <code>upper</code>, inclusive of those two values.</p>
+<p>The following example displays different text depending on how many comments an entry has:
+<pre>
+&lt;MTIfEqual a="[MTEntryCommentCount]" b="0" numeric="1"&gt;
+ No comments yet.
+&lt;/MTIfEqual&gt;
+&lt;MTIfBetween a="[MTEntryCommentCount]" lower="1" upper="10" numeric="1"&gt;
+ A glimmer of interest.
+&lt;/MTIfBetween&gt;
+&lt;MTIfBetween a="[MTEntryCommentCount]" lower="11" upper="30" numeric="1"&gt;
+ Quite a lively discussion!
+&lt;/MTIfBetween&gt;
+&lt;MTIfGreater a="[MTEntryCommentCount]" b="30" numeric="1"&gt;
+ Shut up, already!
+&lt;/MTIfGreater&gt;
+</pre>
+
+<p>
+<h2><a name="MTIfNotBetween"></a>MTIfNotBetween</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is not between <code>lower</code> and <code>upper</code>, inclusive of those two values.</p>
+
+<p>
+<h2><a name="MTIfBetweenExclusive"></a>MTIfBetweenExclusive</h2></p>
+<p>This container tag displays its contents if and only if <code>a</code> is between <code>lower</code> and <code>upper</code>, exclusive of those two values.</p>
+
+
+<p>
+<h2><a name="VersionHistory"></a>Version History</h2></p>
+
+<p>7/12/04 - version 1.1<br>
+<ul>
+<li>Plugin now registers itself with MT 3 interface.</li>
+<li>Added $VERSION variable.</li>
+<li>Conditional container tags are now declared as conditional tags, so they should work with MTElse.</li>
+</ul>
+</p>
+
+<p>9/10/03 - version 1.01<br>
+<ul>
+<li>All tags now pass conditions along when building contents, so they'll work outside conditional tags within MTEntries, etc. (ervin, Stepan Riha)</li>
+</ul>
+</p>
+
+<p>12/3/02 - version 1.0 released</p>
+

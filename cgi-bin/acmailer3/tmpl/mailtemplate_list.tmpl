@@ -1,0 +1,50 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+<script language="JavaScript"><!--
+function radio_clear()
+{
+    var obj = document.forms[0].elements;
+    for(i=0;i<obj.length;i++){
+		if (obj[i].name.match("default")) {
+	        obj[i].checked = false;
+		}
+    }
+}
+// --></script>
+
+
+<div align="center">メールテンプレート一覧<br><br>
+
+  <br>
+  <a href="mailtemplate_add.cgi">新規登録</a>
+  <table border="0" cellspacing="1" cellpadding="5" width="650" bgcolor="#FF9900">
+
+    <tr valign="top">
+	  <td bgcolor="#FFCC66">テンプレート名</td>
+	  <td bgcolor="#FFCC66">詳細</td>
+	  <td bgcolor="#FFCC66">削除</td>
+	  <td bgcolor="#FFCC66">デフォルト表示</td>
+    </tr>
+	<form action="mailtemplate_edit_ctl.cgi" method="post">
+	<!-- TMPL_LOOP NAME=template_list -->
+    <tr valign="top"> 
+      <td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=template_name --></td>
+	  <td bgcolor="#FFFFFF"><a href="mailtemplate_edit.cgi?id=<!-- TMPL_VAR NAME=id -->">編集</a></td>
+	  <td bgcolor="#FFFFFF"><a href="mailtemplate_del_ctl.cgi?id=<!-- TMPL_VAR NAME=id -->" onclick="return confirm('削除してもよろしいですか？')">削除</a></td>
+	  <td bgcolor="#FFFFFF"><input type="radio" name="default" value="<!-- TMPL_VAR NAME=id -->" <!-- TMPL_VAR NAME=default_checked -->></td>
+    </tr>
+	<!-- /TMPL_LOOP -->
+	<input type="hidden" name="mode" value="default">
+	<tr>
+	<td bgcolor="#FFFFFF" align="center" colspan="4">
+	<input type="button" value="クリア" onclick="javascript:radio_clear();">
+	<input type="submit" value="デフォルト更新">
+	</td>
+	</tr>
+	</form>
+  </table>
+</div>
+<br><div align="center"><a href="index.cgi">戻る</a> </div><br>
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

@@ -1,0 +1,86 @@
+.sans10 {
+	font-family: "Myriad Roman", "Myriad", "Trebuchet MS", "Trebuchet MS Regular", "Arial", "Helvetica", "sans-serif";
+	font-size: 10px;
+	letter-spacing: 0.1em;
+	line-height: 1.3em;
+}
+.sans12 {
+	font-family: "Myriad Roman", "Myriad", "Trebuchet MS", "Trebuchet MS Regular", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	line-height: 1.3em;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	letter-spacing: 0.1em;
+}
+.gothic10 {
+	font-family: "Hiragino Kaku Ghothic Pro", "Hiragino Kaku Ghothic Pro W3", "MS PGothic", "ƒqƒ‰ƒMƒmŠpƒS Pro W3", "‚l‚r ‚oƒSƒVƒbƒN", "sans-serif";
+	font-size: 10px;
+	letter-spacing: 0.1em;
+}
+.min10 {
+	font-family: "Hiragino Mincho Pro", "Hiragino Mincho Pro W3", "ƒqƒ‰ƒMƒm–¾’© Pro W3", "‚l‚r ‚o–¾’©", "•½¬–¾’©‘Ì", "serif";
+	font-size: 10px;
+	line-height: 1.4em;
+	letter-spacing: 0.1em;
+}
+.gothic12 {
+	font-family: "Hiragino Kaku Ghothic Pro", "Hiragino Kaku Ghothic Pro W3", "MS PGothic", "ƒqƒ‰ƒMƒmŠpƒS Pro W3", "‚l‚r ‚oƒSƒVƒbƒN", "sans-serif";
+	font-size: 12px;
+	line-height: 1.3em;
+	letter-spacing: 0.1em;
+}
+.min12 {
+	font-family: "Hiragino Mincho Pro", "Hiragino Mincho Pro W3", "ƒqƒ‰ƒMƒm–¾’© Pro W3", "‚l‚r ‚o–¾’©", "•½¬–¾’©‘Ì", "serif";
+	font-size: 12px;
+	line-height: 1.4em;
+	letter-spacing: 0.1em;
+}
+.serif10 {
+	font-family: "Georgia", "Times New Roman", "Times", "serif";
+	font-size: 10px;
+	line-height: 1.2em;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	letter-spacing: 0.1em;
+}
+.serif12 {
+	font-family: "Georgia", "Times New Roman", "Times", "serif";
+	font-size: 12px;
+	line-height: 1.2em;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	letter-spacing: 0.1em;
+}
+.gothic11 {
+	font-family: "Hiragino Kaku Ghothic Pro", "Hiragino Kaku Ghothic Pro W3", "MS PGothic", "ƒqƒ‰ƒMƒmŠpƒS Pro W3", "‚l‚r ‚oƒSƒVƒbƒN", "sans-serif";
+	font-size: 11px;
+	letter-spacing: 0.1em;
+}
+.sans11 {
+	font-family: "Myriad Roman", "Myriad", "Trebuchet MS", "Trebuchet MS Regular", "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	letter-spacing: 0.1em;
+}
+.min11 {
+	font-family: "Hiragino Mincho Pro", "Hiragino Mincho Pro W3", "ƒqƒ‰ƒMƒm–¾’© Pro W3", "‚l‚r ‚o–¾’©", "•½¬–¾’©‘Ì", "serif";
+	font-size: 11px;
+	line-height: 1.6em;
+	letter-spacing: 0.1em;
+}
+.gothic9 {
+	font-family: "Hiragino Kaku Ghothic Pro", "Hiragino Kaku Ghothic Pro W3", "MS PGothic", "ƒqƒ‰ƒMƒmŠpƒS Pro W3", "‚l‚r ‚oƒSƒVƒbƒN", "sans-serif";
+	font-size: 9px;
+	letter-spacing: 0.1em;
+}
+.sans14 {
+	font-family: "Myriad Roman", "Myriad", "Trebuchet MS", "Trebuchet MS Regular", "Arial", "Helvetica", "sans-serif";
+	font-size: 14px;
+	line-height: 1.3em;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	letter-spacing: 0.1em;
+}

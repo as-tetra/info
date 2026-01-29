@@ -1,0 +1,27 @@
+<TMPL_INCLUDE NAME="header.tmpl">
+
+<p>Rebuilds...</p>
+<ul>
+<TMPL_LOOP NAME=REBUILD_IDS>
+<li><a href="<TMPL_VAR NAME=BLOG_LINK>"><TMPL_VAR NAME=BLOG_NAME></a> (<TMPL_VAR NAME=BLOG_ID>)</li>
+</TMPL_LOOP>
+</ul>
+
+<p>Rebuilt by...</p>
+<ul>
+<TMPL_LOOP NAME=REBUILDER_IDS>
+<li><a href="<TMPL_VAR NAME=BLOG_LINK>"><TMPL_VAR NAME=BLOG_NAME></a> (<TMPL_VAR NAME=BLOG_ID>)</li>
+</TMPL_LOOP>
+</ul>
+
+<p><a href="<TMPL_VAR NAME=MULTIBLOG_URL>?__mode=new_trigger&blog_id=<TMPL_VAR NAME=BLOG_ID>">Add a new rebuild trigger</a>.<form method="get" action="<TMPL_VAR NAME=MULTIBLOG_URL>">
+<input type="hidden" name="__mode" value="new_trigger" />
+<input type="hidden" name="blog_id" value="<TMPL_VAR NAME=BLOG_ID>" />
+<input type="submit" value="Add a new rebuild trigger" /></form></p>
+
+<p><form method="get" action="<TMPL_VAR NAME=MULTIBLOG_URL>">
+<input type="hidden" name="__mode" value="select_transfer_type" />
+<input type="hidden" name="blog_id" value="<TMPL_VAR NAME=BLOG_ID>" />
+<input type="submit" value="Initiate a transfer" /></form></p>
+
+<TMPL_INCLUDE NAME="footer.tmpl">

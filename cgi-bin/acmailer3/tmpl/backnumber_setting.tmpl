@@ -1,0 +1,32 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+<div align="center">バックナンバー設定<br><br>
+
+  <br>
+<!-- TMPL_IF NAME=oktext -->
+<font color="red"><b><!-- TMPL_VAR NAME=oktext --></b></font><br>
+<!-- /TMPL_IF -->
+<form name="form1" method="post" action="backnumber_setting_ctl.cgi">
+  <table border="0" cellspacing="1" cellpadding="5" width="650" bgcolor="#FF9900">
+    <tr valign="top"> 
+      <td colspan="2" bgcolor="#FFFFFF"><div align="center"> 
+      バックナンバーページは下記URLを参照してください。<br>
+	  <a href="http://<!-- TMPL_VAR NAME=http_host --><!-- TMPL_VAR NAME=request_uri -->" target="blank">http://<!-- TMPL_VAR NAME=http_host --><!-- TMPL_VAR NAME=request_uri --></a>
+	  </td>
+    </tr>
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">公開件数</td>
+      <td bgcolor="#FFFFFF"> 最新のものから<input type="text" name="disp_num" size="4" value="<!-- TMPL_VAR NAME=disp_num -->">件</td>
+    </tr>
+    <tr valign="top"> 
+      <td colspan="2" bgcolor="#FFFFFF"><div align="center"> 
+            <input type="submit" name="Submit" value="変更">
+
+          <br></div></td>
+    </tr>
+  </table>
+</form>
+</div>
+<br><div align="center"><a href="index.cgi">戻る</a> </div><br>
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

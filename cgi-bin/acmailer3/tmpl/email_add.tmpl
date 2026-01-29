@@ -1,0 +1,49 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+
+
+<div align="center">メールアドレス一括登録<br><br>
+  <br>
+<!-- TMPL_IF NAME=oktext -->
+<font color="red"><b><!-- TMPL_VAR NAME=oktext --></b></font><br>
+<!-- /TMPL_IF -->
+
+		<form name="form1" method="post" action="email_add_check.cgi" ENCTYPE="multipart/form-data">
+
+CSVファイルもしくはテキスト貼付より一括登録が可能です。
+
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">CSVファイル</td>
+      <td bgcolor="#FFFFFF">
+		<input type="file" name="filename">
+		</td>
+    </tr>
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">テキスト貼付</td>
+      <td bgcolor="#FFFFFF"> テキスト貼り付けはカンマ区切りで入力してください。<br><textarea  name="emailall" rows="10" cols="50" ></textarea><br>
+		</td>
+    </tr>
+    <tr valign="top"> 
+      <td colspan="2" bgcolor="#FFFFFF"><div align="center"> 
+            <input type="submit" name="Submit" value="一括追加">
+
+          <br></div></td>
+    </tr>
+  </table>
+		</form>
+</div><br>
+<div align="center"><a href="index.cgi">戻る</a> </div>
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

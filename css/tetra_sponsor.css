@@ -1,0 +1,42 @@
+/* テーブルレイアウト */
+.company-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+  font-size: 14px;
+}
+.company-table th, .company-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+.company-table th {
+  background-color: #666;
+  color: #fff;
+  width: 30%;
+}
+.company-table td {
+  background-color: #f9f9f9;
+}
+
+.sponsor-box {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+.sponsor-title {
+  color: #004080;
+  font-size: 18px;
+  margin: 0, 0, 10px, 0;
+}
+.sponsor-text {
+  line-height: 1.6;
+  font-size: 14px;
+}
+.sponsor-image {
+  width: 100%;
+  max-width: 300px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+}

@@ -1,0 +1,78 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+<br><br>
+<div align="center"><b><!-- TMPL_VAR NAME=title --></b><br>
+  <br>
+  <table border="0" cellspacing="1" cellpadding="5" width="500" bgcolor="#FF9900">
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">メール配信</td>
+      <td bgcolor="#FFFFFF">
+		<a href="email_send.cgi">メール配信</a>
+		</td>
+    </tr>
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">メールアドレス管理</td>
+      <td bgcolor="#FFFFFF">
+		<a href="email_list.cgi">メールアドレス一覧</a><br>
+		<a href="email_add.cgi">メールアドレス一括登録</a><br>
+		<a href="email_del.cgi">メールアドレス一括削除</a><br>
+		<a href="email_csvdown.cgi">メールアドレスCSVダウンロード</a><br>
+		<a href="email_alldel.cgi">メールアドレス完全削除</a>
+		</td>
+    </tr>
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">配信履歴</td>
+      <td bgcolor="#FFFFFF"><a href="hist_list.cgi">配信履歴</a></td>
+   </tr>
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">バックナンバー</td>
+      <td bgcolor="#FFFFFF">
+		<a href="backnumber_setting.cgi">バックナンバー設定</a>
+		</td>
+   </tr>
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">各種設定</td>
+      <td bgcolor="#FFFFFF">
+		<a href="admin_edit.cgi">各種設定</a>
+		<!-- TMPL_IF NAME=double_opt -->
+		<br>
+		<a href="clean_double_opt.cgi">仮登録データ一覧</a>
+		<!-- /TMPL_IF -->
+		</td>
+    </tr>
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">メールテンプレート</td>
+      <td bgcolor="#FFFFFF">
+		<a href="mailtemplate_list.cgi">配信メールテンプレート</a><br>
+		<a href="form_edit.cgi">自動返信メールテンプレート</a><br>
+		</td>
+    </tr>
+   <tr valign="top"> 
+      <td bgcolor="#FFCC66">メルマガ登録フォーム</td>
+      <td bgcolor="#FFFFFF">
+		<a href="regform.cgi">メルマガフォーム設定例</a><br>
+		</td>
+    </tr>
+
+
+    <tr valign="top"> 
+      <td colspan="2" align="center" bgcolor="#FFFFFF"><a href="logout_ctl.cgi">ログアウト</a></td>
+    </tr>
+
+
+  </table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

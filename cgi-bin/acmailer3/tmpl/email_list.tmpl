@@ -1,0 +1,118 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+
+<div align="center">メールアドレス管理<br><br>
+<!-- TMPL_IF NAME=oktext -->
+<font color="red"><b><!-- TMPL_VAR NAME=oktext --></b></font><br>
+<!-- /TMPL_IF -->
+
+
+<!-- TMPL_IF NAME=totalnum -->
+
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+    <tr> 
+      <td bgcolor="#FFCC66">総数</td><td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=totalnum --></td>
+      <td bgcolor="#FFCC66">重複</td><td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=zyunum --><!-- TMPL_IF NAME=zyunum --><br><font size="-2"><a href="email_zyudel_ctl.cgi" onclick="return confirm('重複メールアドレスを一括削除しますか？')">(一括削除)</a></font><!-- /TMPL_IF --></td>
+      <td bgcolor="#FFCC66">エラー数<br>(重複除く)</td><td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=errornum --><!-- TMPL_IF NAME=errornum --><br><font size="-2"><a href="email_errordel_ctl.cgi" onclick="return confirm('エラーメールアドレスを一括削除しますか？（重複メールアドレス分のエラーメールも削除されます）')">(一括削除)</a></font><!-- /TMPL_IF --></td>
+      <td bgcolor="#FFCC66">有効総数</td><td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=emailnum --></td>
+    </tr>
+   </table>
+
+
+
+<br>
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+  <form action="email_list.cgi" method="post">
+    <tr> 
+      <td bgcolor="#FFCC66" align="center">検索</td>
+	</tr>
+	<tr>
+	  <td bgcolor="#FFFFFF">
+<!-- TMPL_LOOP NAME=search --> 
+	<select name="search<!-- TMPL_VAR NAME=search_id -->">
+	<option value="">---
+	<!-- TMPL_LOOP NAME=select -->
+	<option value="<!-- TMPL_VAR NAME=col -->" <!-- TMPL_VAR NAME=selected -->><!-- TMPL_VAR NAME=colname -->
+	<!-- /TMPL_LOOP -->
+	</select>
+	<input type="text" name="search_text<!-- TMPL_VAR NAME=search_id -->" value="<!-- TMPL_VAR NAME=search_text -->" size="30"><br>
+<!-- /TMPL_LOOP -->
+	  </td>
+	</tr>
+	<tr>
+	  <td bgcolor="#FFFFFF" align="center"><input type="submit" value="検索"></td>
+	  <input type="hidden" name="dispnum" value="<!-- TMPL_VAR NAME=dispnum -->">
+	</tr>
+  </form>
+   </table>
+   
+<br>
+
+
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+    <tr bgcolor="#FFCC66"> 
+      <td>&nbsp;</td>
+      <td align="center">メールアドレス</td>
+      <td align="center">状態</td>
+      <td align="center">編集</td>
+      <td align="center">削除</td>
+    </tr>
+<!-- TMPL_LOOP NAME=loop --> 
+    <tr bgcolor="#FFFFFF"> 
+      <td><!-- TMPL_VAR NAME=i --></td>
+      <td><!-- TMPL_VAR NAME=email --></td>
+      <td><!-- TMPL_VAR NAME=status --></td>
+      <td>【<a href="email_edit.cgi?email=<!-- TMPL_VAR NAME=email_disp -->">編集</a>】</td>
+      <td>【<a href="email_del_one_ctl.cgi?email=<!-- TMPL_VAR NAME=email_url -->" onclick="return confirm('このアドレスを削除しますか？')">削除</a>】</td>
+    </tr>
+<!-- /TMPL_LOOP -->
+  </table>
+
+<br>
+<!-- TMPL_VAR NAME=pagelink -->｜
+<br><br>
+<!-- TMPL_IF NAME=backlink -->
+<A href="email_list.cgi?page=<!-- TMPL_VAR NAME=page_m1 -->&dispnum=<!-- TMPL_VAR NAME=dispnum --><!-- TMPL_VAR NAME=search_url -->" title="前のページ">＜前のページ</A>
+<!-- /TMPL_IF -->
+　
+<!-- TMPL_IF NAME=nextlink -->
+<A href="email_list.cgi?page=<!-- TMPL_VAR NAME=page_p1 -->&dispnum=<!-- TMPL_VAR NAME=dispnum --><!-- TMPL_VAR NAME=search_url -->" title="次のページ">次のページ＞</A>
+<!-- /TMPL_IF -->
+
+<br><br>
+
+<SELECT name="dispnum"  onchange="changenum(options[selectedIndex].value)">
+<OPTION value="">表示件数切替</OPTION>
+<OPTION value="10" <!-- TMPL_VAR NAME=dispnum10_selected -->>10件</OPTION>
+<OPTION value="25" <!-- TMPL_VAR NAME=dispnum25_selected -->>25件</OPTION>
+<OPTION value="50" <!-- TMPL_VAR NAME=dispnum50_selected -->>50件</OPTION>
+<OPTION value="100" <!-- TMPL_VAR NAME=dispnum100_selected -->>100件</OPTION>
+<OPTION value="all" <!-- TMPL_VAR NAME=dispnumall_selected -->>全件</OPTION>
+</SELECT>
+
+<br><br>
+<br><div align="center"><a href="index.cgi">戻る</a> </div><br>
+
+
+
+<!-- TMPL_ELSE -->
+現在登録されているメールアドレスはありません
+<br><br>
+<br><div align="center"><a href="Javascript:history.back()">戻る</a> </div><br>
+
+
+<!-- /TMPL_IF -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->
