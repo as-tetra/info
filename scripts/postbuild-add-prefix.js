@@ -67,6 +67,16 @@ function addPathPrefix(content, prefix) {
       from: /url\((\/(?!\/)[^)]*?)\)/g,
       to: `url(${prefix}$1)`
     },
+    // JavaScript: cssPath: '/xxx' → cssPath: '/prefix/xxx'
+    {
+      from: /cssPath:\s*['"](\/(css\/[^'"]*?))['"]/g,
+      to: `cssPath: '${prefix}$1'`
+    },
+    // JavaScript: {cssPath: '/xxx'} → {cssPath: '/prefix/xxx'}
+    {
+      from: /\{cssPath:\s*['"](\/(css\/[^'"]*?))['"]\}/g,
+      to: `{cssPath: '${prefix}$1'}`
+    },
   ];
 
   for (const pattern of patterns) {
