@@ -1,0 +1,73 @@
+<h1>art space tetra archives</h1>
+<h2>webサイトのアーカイブページ</h2>
+<h3>ビルドコマンド一覧</h3>
+<h4>1. ローカル開発（プレフィックスなし）</h4>
+<pre><code class="language-bash">npm run serve
+# または
+npm run build:local
+</code></pre>
+<ul>
+<li><code>PATH_PREFIX=&quot;&quot;</code> （空文字列）</li>
+<li>すべてのパスは <code>/css/</code>, <code>/upload/</code>, <code>/js/</code> などルートからの絶対パス</li>
+<li>ローカルサーバー（localhost:8080）で動作確認</li>
+</ul>
+<h4>2. GitHub Pages サブディレクトリ配置</h4>
+<pre><code class="language-bash">npm run build:ghpages
+</code></pre>
+<ul>
+<li><code>PATH_PREFIX=&quot;/info&quot;</code></li>
+<li>すべてのパスに <code>/info/</code> プレフィックスが追加される</li>
+<li>GitHub Actions で自動実行（main/develop ブランチへのpush時）</li>
+<li>公開URL: https://as-tetra.github.io/info/</li>
+</ul>
+<h4>3. カスタムドメイン（プレフィックスなし）</h4>
+<pre><code class="language-bash">npm run build:custom
+# または手動で
+PATH_PREFIX=&quot;&quot; npm run build
+</code></pre>
+<ul>
+<li>カスタムドメインをGitHub Pagesに設定した場合</li>
+<li>プレフィックス不要なので空文字列</li>
+</ul>
+<h4>4. その他の環境（任意のプレフィックス）</h4>
+<pre><code class="language-bash">PATH_PREFIX=&quot;/myprefix&quot; npm run build
+PATH_PREFIX=&quot;/myprefix&quot; node scripts/postbuild-add-prefix.js
+</code></pre>
+<h3>仕組み</h3>
+<ol>
+<li>
+<p><strong>ソースファイル</strong>：すべてクリーンな状態（プレフィックスなし）で管理</p>
+<ul>
+<li><code>href=&quot;/css/tetra.css&quot;</code> のまま</li>
+<li>Git管理されるのはこの状態</li>
+</ul>
+</li>
+<li>
+<p><strong>Eleventy ビルド時</strong>：</p>
+<ul>
+<li><code>.eleventy.js</code> が <code>PATH_PREFIX</code> 環境変数を読み取る</li>
+<li>Nunjucks テンプレートの <code>| url</code> フィルターがプレフィックスを追加</li>
+<li>ショートコードも動的にプレフィックスを追加</li>
+</ul>
+</li>
+<li>
+<p><strong>ポストビルド処理</strong>：</p>
+<ul>
+<li><code>scripts/postbuild-add-prefix.js</code> が <code>_site/</code> 内の全HTMLをスキャン</li>
+<li>静的にコピーされたHTMLファイルにもプレフィックスを追加</li>
+<li>CSS の <code>url()</code> にも対応</li>
+</ul>
+</li>
+</ol>
+<h3>GitHub Actions 自動デプロイ</h3>
+<p><code>.github/workflows/deploy.yml</code> が以下を自動実行：</p>
+<pre><code class="language-yaml">- name: Build with Eleventy for GitHub Pages
+  run: npm run build:ghpages
+</code></pre>
+<h3>注意事項</h3>
+<ul>
+<li><strong>ソースファイルを編集する際</strong>：常にプレフィックスなしで記述</li>
+<li><strong>デプロイ環境が変わる場合</strong>：適切なビルドコマンドを選択</li>
+<li><strong>ローカル確認時</strong>：<code>npm run serve</code> を使用（自動リロード有効）</li>
+<li><strong>GitHub Pages プレビュー時</strong>：<code>npm run serve:ghpages</code> で /info/ 付きで確認可能</li>
+</ul>

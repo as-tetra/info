@@ -1,0 +1,131 @@
+<h1>CLAUDE.md - Movable Type to Eleventy Static Migration Project</h1>
+<h2>Project Overview</h2>
+<ul>
+<li>目的: 古いMovable Typeサイト（PHP動的 + 静的アーカイブ混合）を完全に静的HTML/CSS/JSのみに変換し、GitHub Pagesで公開。</li>
+<li>リポジトリ: https://github.com/as-tetra/info.git</li>
+<li>ローカルパス: /Users/unicorn195/Documents/mywork/monogswork/tetra/as-tetra.info</li>
+<li>静的サイトジェネレータ: Eleventy (11ty) を使用（Node.jsベース）</li>
+<li>テンプレートエンジン: 優先 Nunjucks &gt; Liquid &gt; EJS</li>
+<li>画像処理: sharp を使用（upload/ 約700MB → 最適化必須）</li>
+<li>出力ディレクトリ: _site/ （GitHub Pages用）</li>
+<li>公開ブランチ: main （または gh-pages）</li>
+</ul>
+<h2>Tech Stack &amp; Rules (厳守)</h2>
+<ul>
+<li>Node.js LTS (v20 or v22推奨)</li>
+<li>依存: @11ty/eleventy, sharp, xml2js, fs-extra, glob</li>
+<li>画像最適化: 常に品質75%、最大幅1200px、withoutEnlargement: true</li>
+<li>PHP関連ファイル（mtview.php, image.php, php.cgiなど）は削除/無効化。リンクは静的パスに置換。</li>
+<li>.htaccess → GitHub Pagesでは無効 → 削除または無視</li>
+<li>Git LFS → 使わない（GitHub PagesでLFS非対応）</li>
+<li>画像外部化推奨: Cloudflare R2 / ImgBB / AWS S3（GitHub 1GB制限回避）</li>
+</ul>
+<h2>Directory Structure (重要)</h2>
+<ul>
+<li>upload/          → 最適化後 optimized/ に出力</li>
+<li>archives/        → 年別/月別アーカイブ（既存HTML活用 or 再生成）</li>
+<li>2004/～2009/     → 年別静的アーカイブ（そのままコピー可）</li>
+<li>css/, js/, images/ → そのまま _site/ にコピー</li>
+<li>data/            → MT XMLやJSONがあればここから読み込み</li>
+<li>_includes/       → Nunjucks partials（header.njk, footer.njk など）</li>
+<li>_layouts/        → ベースレイアウト（base.njk）</li>
+<li>_site/           → ビルド出力（gitignore推奨）</li>
+</ul>
+<h2>Coding Style &amp; Best Practices</h2>
+<ol>
+<li>常にエラー処理を追加（try-catch, fs.existsSyncなど）</li>
+<li>コードはコメント豊富に（特にsharp処理、pagination）</li>
+<li>ファイル出力時は markdown コードブロックで:</li>
+<li>変更は最小限に。既存静的HTML（index.html, archives内のファイル）は可能な限り再利用。</li>
+<li>ページネーション: Eleventyのpagination機能優先。手作りならコレクション + ループ。</li>
+<li>localhost確認: 常に npx @11ty/eleventy --serve または npm run serve を提案。</li>
+<li>サイズ対策: ビルド前に画像最適化スクリプトを走らせるよう促す。</li>
+</ol>
+<h2>Workflow Preferencesまず計画（Plan）を提示 → 承認後にコード生成</h2>
+<ul>
+<li>ステップバイステップで進める（例: 1. 画像最適化 → 2. Eleventy設定 → 3. データ読み込み）</li>
+<li>エラー時はログを分析して修正提案</li>
+<li>最終確認: localhost:8080 で動作確認を促す</li>
+</ul>
+<h2>NEVER DO</h2>
+<ul>
+<li>PHPコードを残さない</li>
+<li>動的リンク（?entry_id= など）をそのままにする</li>
+<li>画像を圧縮せずにコピー</li>
+<li>Eleventyの設定を上書きせずに提案</li>
+<li>GitHub Pagesで動的機能（フォームなど）を期待させる</li>
+</ul>
+<p>このプロジェクトでは上記を厳密に守ってください。質問があれば明確に確認してから進めて。</p>
+<h2>Build Environments &amp; Path Prefix Management</h2>
+<p>このプロジェクトは、環境変数<code>PATH_PREFIX</code>を使用して、異なるデプロイ環境に対応しています。</p>
+<h3>ビルドコマンド一覧</h3>
+<h4>1. ローカル開発（プレフィックスなし）</h4>
+<pre><code class="language-bash">npm run serve
+# または
+npm run build:local
+</code></pre>
+<ul>
+<li><code>PATH_PREFIX=&quot;&quot;</code> （空文字列）</li>
+<li>すべてのパスは <code>/css/</code>, <code>/upload/</code>, <code>/js/</code> などルートからの絶対パス</li>
+<li>ローカルサーバー（localhost:8080）で動作確認</li>
+</ul>
+<h4>2. GitHub Pages サブディレクトリ配置</h4>
+<pre><code class="language-bash">npm run build:ghpages
+</code></pre>
+<ul>
+<li><code>PATH_PREFIX=&quot;/info&quot;</code></li>
+<li>すべてのパスに <code>/info/</code> プレフィックスが追加される</li>
+<li>GitHub Actions で自動実行（main/develop ブランチへのpush時）</li>
+<li>公開URL: https://as-tetra.github.io/info/</li>
+</ul>
+<h4>3. カスタムドメイン（プレフィックスなし）</h4>
+<pre><code class="language-bash">npm run build:custom
+# または手動で
+PATH_PREFIX=&quot;&quot; npm run build
+</code></pre>
+<ul>
+<li>カスタムドメインをGitHub Pagesに設定した場合</li>
+<li>プレフィックス不要なので空文字列</li>
+</ul>
+<h4>4. その他の環境（任意のプレフィックス）</h4>
+<pre><code class="language-bash">PATH_PREFIX=&quot;/myprefix&quot; npm run build
+PATH_PREFIX=&quot;/myprefix&quot; node scripts/postbuild-add-prefix.js
+</code></pre>
+<h3>仕組み</h3>
+<ol>
+<li>
+<p><strong>ソースファイル</strong>：すべてクリーンな状態（プレフィックスなし）で管理</p>
+<ul>
+<li><code>href=&quot;/css/tetra.css&quot;</code> のまま</li>
+<li>Git管理されるのはこの状態</li>
+</ul>
+</li>
+<li>
+<p><strong>Eleventy ビルド時</strong>：</p>
+<ul>
+<li><code>.eleventy.js</code> が <code>PATH_PREFIX</code> 環境変数を読み取る</li>
+<li>Nunjucks テンプレートの <code>| url</code> フィルターがプレフィックスを追加</li>
+<li>ショートコードも動的にプレフィックスを追加</li>
+</ul>
+</li>
+<li>
+<p><strong>ポストビルド処理</strong>：</p>
+<ul>
+<li><code>scripts/postbuild-add-prefix.js</code> が <code>_site/</code> 内の全HTMLをスキャン</li>
+<li>静的にコピーされたHTMLファイルにもプレフィックスを追加</li>
+<li>CSS の <code>url()</code> にも対応</li>
+</ul>
+</li>
+</ol>
+<h3>GitHub Actions 自動デプロイ</h3>
+<p><code>.github/workflows/deploy.yml</code> が以下を自動実行：</p>
+<pre><code class="language-yaml">- name: Build with Eleventy for GitHub Pages
+  run: npm run build:ghpages
+</code></pre>
+<h3>注意事項</h3>
+<ul>
+<li><strong>ソースファイルを編集する際</strong>：常にプレフィックスなしで記述</li>
+<li><strong>デプロイ環境が変わる場合</strong>：適切なビルドコマンドを選択</li>
+<li><strong>ローカル確認時</strong>：<code>npm run serve</code> を使用（自動リロード有効）</li>
+<li><strong>GitHub Pages プレビュー時</strong>：<code>npm run serve:ghpages</code> で /info/ 付きで確認可能</li>
+</ul>
