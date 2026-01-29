@@ -1,0 +1,52 @@
+# ========================================
+# Eleventy Ignore File
+# ========================================
+
+# Node.js
+node_modules/
+package.json
+package-lock.json
+
+# PHP関連ファイル（Movable Type残骸）
+*.php
+mtview.php
+image.php
+php.cgi
+php.cgi-*
+.cache_atqa.php
+.htaccess
+
+# 開発用スクリプト
+scripts/
+
+# 元画像（optimized/を使用）
+upload/
+
+# キャッシュ・一時ファイル
+tmp/
+templates_c/
+cgi-bin/
+scheduler/
+
+# データファイル（必要に応じてコメントアウト解除）
+data/
+data_en/
+pc2m/
+
+# Git
+.git/
+.gitignore
+
+# ビルド出力
+_site/
+
+# エディタ・OS
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# プロジェクトドキュメント
+CLAUDE.md
+README.md

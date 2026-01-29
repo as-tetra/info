@@ -1,0 +1,111 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+
+<div align="center">メール配信<br>
+
+<form name="form1" method="post" action="email_send_check.cgi">
+
+   
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">送信先件数</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=totalnum -->　<a href="email_list.cgi"><font size="-1">(→送信先確認)</font></a></td>
+    </tr>
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">差出人</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_VAR NAME=admin_name --> &lt;<!-- TMPL_VAR NAME=admin_email -->&gt;　<a href="admin_edit.cgi"><font size="-1">(→変更)</font></a></td>
+    </tr>
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">絞込</td>
+      <td bgcolor="#FFFFFF">
+<!-- TMPL_LOOP NAME=search --> 
+	<select name="search<!-- TMPL_VAR NAME=search_id -->">
+	<option value="">---
+	<!-- TMPL_LOOP NAME=select -->
+	<option value="<!-- TMPL_VAR NAME=col -->"><!-- TMPL_VAR NAME=colname -->
+	<!-- /TMPL_LOOP -->
+	</select>
+	<input type="text" name="search_text<!-- TMPL_VAR NAME=search_id -->" size="30"><br>
+<!-- /TMPL_LOOP -->
+      
+      </td>
+    </tr>
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">配信テンプレート</td>
+      <td bgcolor="#FFFFFF">
+	  <select name="template_list" onchange="template_change();">
+	  <option value="">---
+	  <!-- TMPL_LOOP NAME=template_list -->
+	  <option value="<!-- TMPL_VAR NAME=id -->" <!-- TMPL_VAR NAME=selected -->><!-- TMPL_VAR NAME=template_name -->
+	  <!-- /TMPL_LOOP -->
+	  </select>
+	  </td>
+    </tr>
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">メール形式</td>
+      <td bgcolor="#FFFFFF">
+	  <input type="radio" name="mail_type" value="plain" checked>テキスト
+	  <input type="radio" name="mail_type" value="html">HTML
+	  </td>
+    </tr>
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">件名</td>
+      <td bgcolor="#FFFFFF"><input type="text" name="mail_title" size="60" value="<!-- TMPL_VAR ESCAPE=HTML NAME=mail_title -->"></td>
+    </tr>
+
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">本文</td>
+      <td bgcolor="#FFFFFF"><textarea  name="mail_body" rows="25" cols="50" ><!-- TMPL_VAR NAME=mail_body --></textarea><br></td>
+    </tr>
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">変数オプション</td>
+      <td bgcolor="#FFFFFF">
+      {EMAIL}：登録されたメールアドレス<br>
+	  <!-- TMPL_LOOP NAME=col_list -->
+	  {COL<!-- TMPL_VAR NAME=col -->}：<!-- TMPL_VAR NAME=colname --><br>
+	  <!-- /TMPL_LOOP -->
+	  </font></td>
+    </tr>
+    <tr valign="top"> 
+      <td bgcolor="#FFCC66">オプション</td>
+      <td bgcolor="#FFFFFF"><input type="checkbox" name="send_test" value="テスト">配信テスト　<font size="-1">※チェックを入れると差出人宛のみに送信を行います。</font></td>
+    </tr>
+    <tr valign="top"> 
+      <td colspan="2" bgcolor="#FFFFFF"><div align="center"> 
+            <input type="submit" name="Submit" value="送信確認画面へ">
+
+          <br></div></td>
+    </tr>
+  </table>
+</form>
+
+</div>
+<div align="center"><a href="index.cgi">戻る</a> </div>
+
+
+
+
+<script type="text/javascript"><!--
+<!-- TMPL_VAR NAME=java_array -->
+function template_change() {
+	var id = document.form1.template_list.value;
+	if (!id) {
+		document.form1.mail_title.value = "";
+		document.form1.mail_body.value = "";
+		return "";
+	}
+	document.form1.mail_title.value = arrtemplate[id + "1"];
+	document.form1.mail_body.value = arrtemplate[id + "2"];
+	return 1;
+}
+// --></script>
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

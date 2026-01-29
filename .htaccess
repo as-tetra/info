@@ -1,0 +1,13 @@
+RewriteEngine On
+##RewriteCond %{HTTP_USER_AGENT} ^(DoCoMo|KDDI|DDIPOKET|UPﾂ･.Browser|J-PHONE|Vodafone|SoftBank)
+##RewriteRule ^$ /index_m.php [R]
+RewriteRule ^(.*)_m\.php(.*) /$1.html$2 [R=301,L]
+
+ErrorDocument 404 /404.html
+
+AddHandler myphp-script .html .php
+Action myphp-script /php.cgi
+RewriteEngine on
+RewriteCond %{QUERY_STRING} ^[^=]*$
+RewriteCond %{QUERY_STRING} %2d|\- [NC]
+RewriteRule .? - [F,L]

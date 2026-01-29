@@ -1,0 +1,105 @@
+<!-- TMPL_INCLUDE NAME=html_mobileheader.tmpl -->
+
+
+<div align="center">メールアドレス管理<br>
+<!-- TMPL_IF NAME=oktext -->
+<font color="red"><b><!-- TMPL_VAR NAME=oktext --></b></font><br>
+<!-- /TMPL_IF -->
+
+
+<!-- TMPL_IF NAME=totalnum -->
+<br>
+  <form action="m_email_list.cgi" method="post">
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+    <tr> 
+      <td bgcolor="#FFCC66" align="center"><font size="-1">検索(<!-- TMPL_VAR NAME=totalnum -->件)</font></td>
+	</tr>
+	<tr>
+	  <td bgcolor="#FFFFFF">
+	  <font size="-1">
+<!-- TMPL_LOOP NAME=search --> 
+	<select name="search<!-- TMPL_VAR NAME=search_id -->">
+	<option value="">---
+	<!-- TMPL_LOOP NAME=select -->
+	<option value="<!-- TMPL_VAR NAME=col -->" <!-- TMPL_VAR NAME=selected -->><!-- TMPL_VAR NAME=colname -->
+	<!-- /TMPL_LOOP -->
+	</select>
+	<input type="text" name="search_text<!-- TMPL_VAR NAME=search_id -->" value="<!-- TMPL_VAR NAME=search_text -->" size="10"><br>
+<!-- /TMPL_LOOP -->
+</font>
+	  </td>
+	</tr>
+	<tr>
+	  <td bgcolor="#FFFFFF" align="center"><font size="-1"><input type="submit" value="検索"></font></td>
+	  <input type="hidden" name="dispnum" value="<!-- TMPL_VAR NAME=dispnum -->">
+	</tr>
+	<input type="hidden" name="sid" value="<!-- TMPL_VAR NAME=sid -->">
+   </table>
+  </form>
+<br><div align="center"><a href="m_index.cgi?sid=<!-- TMPL_VAR NAME=sid -->">戻る</a> </div><br>
+   
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+    <tr bgcolor="#FFCC66">
+      <td align="center"><font size="-1">メールアドレス</font></td>
+      <td align="center"><font size="-1">編集</font></td>
+      <td align="center"><font size="-1">削除</font></td>
+    </tr>
+<!-- TMPL_LOOP NAME=loop --> 
+    <tr bgcolor="#FFFFFF">
+      <td><font size="-1"><!-- TMPL_VAR NAME=email --></font></td>
+      <td><font size="-1"><a href="m_email_edit.cgi?email=<!-- TMPL_VAR NAME=email_disp -->&sid=<!-- TMPL_VAR NAME=sid -->">編集</a></font></td>
+      <td><font size="-1"><a href="m_email_del_one_check.cgi?email=<!-- TMPL_VAR NAME=email_url -->&sid=<!-- TMPL_VAR NAME=sid -->">削除</a></font></td>
+    </tr>
+<!-- /TMPL_LOOP -->
+  </table>
+<font size="1">
+<br>
+<!-- TMPL_VAR NAME=pagelink -->｜
+<br><br>
+<!-- TMPL_IF NAME=backlink -->
+<A href="m_email_list.cgi?page=<!-- TMPL_VAR NAME=page_m1 -->&dispnum=<!-- TMPL_VAR NAME=dispnum --><!-- TMPL_VAR NAME=search_url -->&sid=<!-- TMPL_VAR NAME=sid -->" title="前のページ">＜前のページ</A>
+<!-- /TMPL_IF -->
+　
+<!-- TMPL_IF NAME=nextlink -->
+<A href="m_email_list.cgi?page=<!-- TMPL_VAR NAME=page_p1 -->&dispnum=<!-- TMPL_VAR NAME=dispnum --><!-- TMPL_VAR NAME=search_url -->&sid=<!-- TMPL_VAR NAME=sid -->" title="次のページ">次のページ＞</A>
+<!-- /TMPL_IF -->
+</font>
+<br><br>
+<form action="m_email_list.cgi?<!-- TMPL_VAR NAME=search_url -->" method="get">
+<SELECT name="dispnum">
+<OPTION value="">表示件数切替</OPTION>
+<OPTION value="10" <!-- TMPL_VAR NAME=dispnum10_selected -->>10件</OPTION>
+<OPTION value="25" <!-- TMPL_VAR NAME=dispnum25_selected -->>25件</OPTION>
+<OPTION value="50" <!-- TMPL_VAR NAME=dispnum50_selected -->>50件</OPTION>
+<OPTION value="100" <!-- TMPL_VAR NAME=dispnum100_selected -->>100件</OPTION>
+<OPTION value="all" <!-- TMPL_VAR NAME=dispnumall_selected -->>全件</OPTION>
+</SELECT>
+<input type="hidden" name="sid" value="<!-- TMPL_VAR NAME=sid -->">
+<input type="submit" value="表示変更">
+</form>
+<br>
+<br><div align="center"><a href="m_index.cgi?sid=<!-- TMPL_VAR NAME=sid -->">戻る</a> </div><br>
+
+
+
+<!-- TMPL_ELSE -->
+現在登録されているメールアドレスはありません
+
+<br><div align="center"><a href="m_index.cgi?sid=<!-- TMPL_VAR NAME=sid -->">戻る</a> </div><br>
+
+
+<!-- /TMPL_IF -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_mobilefooter.tmpl -->

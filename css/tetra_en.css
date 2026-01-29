@@ -1,0 +1,8 @@
+
+.jp {
+	visibility: hidden;
+	display: none;
+}
+.en {
+	visibility: visible;
+}

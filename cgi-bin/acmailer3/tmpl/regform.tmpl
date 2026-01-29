@@ -1,0 +1,294 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+<style>
+td { font-size:12px;
+</style>
+<div align="center">メルマガ登録フォーム貼り付けタグ<br><br>
+
+  <br>
+<!-- TMPL_IF NAME=oktext -->
+<font color="red"><b><!-- TMPL_VAR NAME=oktext --></b></font><br>
+<!-- /TMPL_IF -->
+
+  <table border="0" width="700" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+
+    <tr valign="top"> 
+      <td bgcolor="#FFFFFF" width="150">
+■登録・削除一体型フォーム<br>
+<textarea cols="50" rows="5"><form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> 
+	  <td bgcolor="#ffcccc"> <b>メルマガ登録</b> </td>
+	</tr>
+	<tr>
+	  <td> <input type="text" name="email">
+		  <div align="center">
+	      <input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+		  <input type="radio" name="reg" value="add" checked>
+		  登録 
+		  <input type="radio" name="reg" value="del">
+		  削除 
+		  <input type="submit" value="送信" name="submit">
+		  </div><br><!-- TMPL_UNLESS NAME=writing -->
+		<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	  </td>
+	</tr>
+  </table>
+</form></textarea>
+</td>
+<td bgcolor="#FFFFFF" valign="center"><br>
+
+<form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> 
+	  <td bgcolor="#ffcccc"> <b>メルマガ登録</b> </td>
+	</tr>
+	<tr>
+	  <td> <input type="text" name="email">
+		  <div align="center">
+	      <input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+		  <input type="radio" name="reg" value="add" checked>
+		  登録 
+		  <input type="radio" name="reg" value="del">
+		  削除 
+		  <input type="submit" value="送信" name="submit">
+		  </div><br><!-- TMPL_UNLESS NAME=writing -->
+		<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	  </td>
+	</tr>
+  </table>
+</form>
+
+
+
+
+	  </td>
+    </tr>
+
+
+    <tr valign="top"> 
+      <td bgcolor="#FFFFFF" width="150">■登録専用フォーム<br>
+	<textarea cols="50" rows="5"><form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> 
+	  <td bgcolor="#ffcccc"> <b>メルマガ登録</b> </td>
+	</tr>
+	<tr>
+	  <td>
+	<div align="center">
+        <input type="text" name="email">
+	    <input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+        <input type="hidden" name="reg" value="add">
+        <input type="submit" value="登録">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	  </td>
+	</tr>
+  </table>
+</form></textarea>
+      </td>
+	<td bgcolor="#FFFFFF" valign="center"><br>
+
+
+<form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> 
+	  <td bgcolor="#ffcccc"> <b>メルマガ登録</b> </td>
+	</tr>
+	<tr>
+	  <td>
+	<div align="center">
+        <input type="text" name="email">
+	    <input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+        <input type="hidden" name="reg" value="add">
+        <input type="submit" value="登録">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	  </td>
+	</tr>
+  </table>
+</form>
+
+
+
+	  </td>
+    </tr>
+
+
+    <tr valign="top"> 
+      <td bgcolor="#FFFFFF" width="150">■解除専用フォーム<br>
+	<textarea cols="50" rows="5"><form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> 
+	  <td bgcolor="#ffcccc"> <b>メルマガ解除</b> </td>
+	</tr>
+	<tr>
+	  <td>
+	<div align="center">
+        <input type="text" name="email">
+        <input type="hidden" name="reg" value="del">
+        <input type="submit" value="解除">
+	    <input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	  </td>
+	</tr>
+  </table>
+</form></textarea>
+      </td>
+	  <td bgcolor="#FFFFFF" valign="center">
+
+<form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> 
+	  <td bgcolor="#ffcccc"> <b>メルマガ解除</b> </td>
+	</tr>
+	<tr>
+	  <td>
+	<div align="center">
+        <input type="text" name="email">
+        <input type="hidden" name="reg" value="del">
+	    <input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+        <input type="submit" value="解除">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	  </td>
+	</tr>
+  </table>
+</form>
+	  </td>
+    </tr>
+
+
+    <tr valign="top"> 
+      <td bgcolor="#FFFFFF" width="150">■メールアドレス＋項目１
+	<textarea cols="50" rows="5"><form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> <td bgcolor="#ffcccc"> <b>メルマガ登録</b></td></tr>
+	<tr><td>
+	<div align="center">
+	<input type="text" name="email">
+	<select name="col1">
+	<option value="男">男
+	<option value="女">女
+	</select>
+	<input type="hidden" name="reg" value="add">
+	<input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+	<input type="submit" value="登録">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	</td>
+	</tr>
+  </table>
+</form></textarea>
+      </td>
+	  <td bgcolor="#FFFFFF" valign="center">
+
+<form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> <td bgcolor="#ffcccc"> <b>メルマガ登録</b></td></tr>
+	<tr><td>
+	<div align="center">
+	<input type="text" name="email">
+	<select name="col1">
+	<option value="男">男
+	<option value="女">女
+	</select>
+	<input type="hidden" name="reg" value="add">
+	<input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+	<input type="submit" value="登録">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	</td>
+	</tr>
+  </table>
+</form>
+
+
+	  </td>
+    </tr>
+
+
+
+    <tr valign="top"> 
+      <td bgcolor="#FFFFFF">■メールアドレス＋項目１＋項目２
+	<textarea cols="50" rows="5"><form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr> <td bgcolor="#ffcccc"> <b>メルマガ登録</b></td></tr>
+	<tr><td>
+	<div align="center">
+	<input type="text" name="email">
+	<select name="col1">
+	<option value="男">男
+	<option value="女">女
+	</select><br>
+	備考<input type="text" name="col2" value="">
+	<input type="hidden" name="reg" value="add">
+	<input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+	<input type="submit" value="登録">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	</td>
+	</tr>
+  </table>
+</form></textarea>
+      </td>
+	  <td bgcolor="#FFFFFF" valign="center">
+
+
+<form action="<!-- TMPL_VAR NAME=form_url -->" method="post">
+  <table border="3" cellspacing="0" cellpadding="3" bordercolor="#FFCCCC">
+	<tr><td bgcolor="#ffcccc"> <b>メルマガ登録</b></td></tr>
+	<tr><td>
+	<div align="center">
+	<input type="text" name="email">
+	<select name="col1">
+	<option value="男">男
+	<option value="女">女
+	</select><br>
+	お名前<input type="text" name="col2" value="">
+	<input type="hidden" name="reg" value="add">
+	<input type="hidden" name="encode" value="文字コード">
+	      <input type="hidden" name="force" value="">
+	<input type="submit" value="登録">
+	</div><br><!-- TMPL_UNLESS NAME=writing -->
+	<div align="center"><font size=-2 color=#999999>メルマガ配信CGI <a href="http://www.ahref.org/" title="メルマガ配信CGI ACMAILER">ACMAILER</a></font></div><!-- /TMPL_UNLESS -->
+	</td>
+	</tr>
+  </table>
+</form>
+
+
+	  </td>
+    </tr>
+
+
+    <tr valign="top">
+      <td bgcolor="#FFFFFF" width="150">■登録数カウンター
+	<textarea cols="50" rows="5"><img src="<!-- TMPL_VAR NAME=counter_url -->" border="0" title="登録数"></textarea>
+      </td>
+	  <td bgcolor="#FFFFFF" valign="center">
+
+	  <img src="<!-- TMPL_VAR NAME=counter_url -->" border="0" title="登録数">
+	  <br><br>
+	  </td>
+    </tr>
+
+
+
+  </table>
+
+</div>
+<br><div align="center"><a href="index.cgi">戻る</a> </div><br>
+
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

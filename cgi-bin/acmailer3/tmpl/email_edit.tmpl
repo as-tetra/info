@@ -1,0 +1,99 @@
+<!-- TMPL_INCLUDE NAME=html_header.tmpl -->
+
+
+
+
+
+
+
+
+
+<div align="center">メールアドレス編集<br><br>
+  <br>
+<form name="form1" method="post" action="email_edit_ctl.cgi">
+  <table border="0" cellspacing="1" cellpadding="5" bgcolor="#FF9900">
+
+
+    <tr> 
+      <td bgcolor="#FFCC66">メールアドレス</td>
+      <td bgcolor="#FFFFFF"><font size="-2">(必須)</font></td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="email" size="50" value="<!-- TMPL_VAR NAME=email -->">
+		<input type="hidden" name="email_org" size="50" value="<!-- TMPL_VAR NAME=email -->">
+		</td>
+    </tr>
+
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col1name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col1checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col1" size="50" value="<!-- TMPL_VAR NAME=col1 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col2name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col2checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col2" size="50" value="<!-- TMPL_VAR NAME=col2 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col3name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col3checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col3" size="50" value="<!-- TMPL_VAR NAME=col3 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col4name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col4checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col4" size="50" value="<!-- TMPL_VAR NAME=col4 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col5name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col5checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col5" size="50" value="<!-- TMPL_VAR NAME=col5 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col6name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col6checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col6" size="50" value="<!-- TMPL_VAR NAME=col6 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col7name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col7checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col7" size="50" value="<!-- TMPL_VAR NAME=col7 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col8name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col8checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col8" size="50" value="<!-- TMPL_VAR NAME=col8 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col9name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col9checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col9" size="50" value="<!-- TMPL_VAR NAME=col9 -->"></td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC66"><!-- TMPL_VAR NAME=col10name -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"><!-- TMPL_IF NAME=col10checked --><font size="-2">(必須)</font><!-- /TMPL_IF -->&nbsp;</td>
+      <td bgcolor="#FFFFFF"> <input type="text" name="col10" size="50" value="<!-- TMPL_VAR NAME=col10 -->"></td>
+    </tr>
+
+
+    <tr valign="top"> 
+      <td colspan="3" bgcolor="#FFFFFF"><div align="center"> 
+            <input type="hidden" name="id" value="<!-- TMPL_VAR NAME=id -->">
+            <input type="submit" name="Submit" value="編集">
+            <input type="button" name="Submit" onClick='javascript:history.back();' value="戻る">
+
+          <br></div></td>
+    </tr>
+  </table>
+</form>
+<div align="center"><a href="admin_edit.cgi">項目1-10の名称、必須設定はこちら</a> </div><br>
+
+
+
+
+
+
+
+
+
+
+
+<!-- TMPL_INCLUDE NAME=html_footer.tmpl -->

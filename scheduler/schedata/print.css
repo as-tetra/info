@@ -1,0 +1,62 @@
+body{
+	font-family: "Helvetica", "Geneva", "Arial", "sans-serif";
+	line-height: 1.4em;
+}
+table{
+	line-height: 1.4em;
+}
+p{
+	background-color:#FAF3E8;
+	padding: 0.3em;
+}
+a {
+	text-decoration:none;
+	color:#000;
+}
+
+body,table {
+	font-size: 6.5pt;
+}
+font.title{
+	font-size: 8pt;
+	font-weight: bold;
+	padding: 0 0 0.3em 0;
+	color:#000;
+}
+.waku{
+	background-color: #000;
+	padding: 0;
+	width: 95%;
+	margin: 0;
+}
+.top {
+	padding: 0.5em 0;
+	width: 95%;
+}
+.footer{
+	padding: 0;
+	height: 0; 
+}
+.dt{
+	color: #000;
+	width: 100%;
+	border: 1px dotted #000;
+	padding: 0 0.2em;
+}
+.ds{
+	font-size: 10pt;
+	width: 100%;
+	border: 1px dotted #666666;
+	padding: 0 0.2em;
+}
+input, textarea{
+	font-family: "ƒqƒ‰ƒMƒmŠpƒS Pro W3", "Hiragino Kaku Gothic Pro", "‚l‚r ‚oƒSƒVƒbƒN", sans-serif;
+}
+
+
+
+
+table.header, .footer {
+	display: none;
+	visibility: visible;
+}
