@@ -25,8 +25,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build with Eleventy
-        run: npm run build
+      - name: Build with Eleventy for GitHub Pages
+        run: npm run build:ghpages
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3

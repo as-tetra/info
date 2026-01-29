@@ -5,11 +5,16 @@
   "scripts": {
     "optimize-images": "node scripts/optimize-images.js",
     "optimize-images:webp": "node scripts/optimize-images.js --webp",
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
-    "start": "npx @11ty/eleventy --serve",
     "clean": "rm -rf _site",
     "prebuild": "npm run clean",
+    "build": "npx @11ty/eleventy",
+    "postbuild": "node scripts/postbuild-add-prefix.js",
+    "build:local": "PATH_PREFIX= npx @11ty/eleventy",
+    "build:ghpages": "PATH_PREFIX=/info npx @11ty/eleventy && PATH_PREFIX=/info node scripts/postbuild-add-prefix.js",
+    "build:custom": "npm run build && npm run postbuild",
+    "serve": "PATH_PREFIX= npx @11ty/eleventy --serve",
+    "serve:ghpages": "PATH_PREFIX=/info npx @11ty/eleventy --serve",
+    "start": "npm run serve",
     "fix-urls": "node scripts/fix-absolute-urls.js",
     "fix-urls:dry": "node scripts/fix-absolute-urls.js --dry-run",
     "fix-urls:all": "node scripts/fix-absolute-urls.js --fix-upload",
@@ -17,7 +22,11 @@
     "remove-php:dry": "node scripts/remove-php-and-rename-index.js --dry-run",
     "extract-entries": "node scripts/extract-entries.js",
     "replace-image-php": "node scripts/replace-image-php.js",
-    "replace-image-php:dry": "node scripts/replace-image-php.js --dry-run"
+    "replace-image-php:dry": "node scripts/replace-image-php.js --dry-run",
+    "add-path-prefix": "node scripts/add-path-prefix.js",
+    "add-path-prefix:dry": "node scripts/add-path-prefix.js --dry-run",
+    "remove-path-prefix": "node scripts/remove-path-prefix.js",
+    "remove-path-prefix:dry": "node scripts/remove-path-prefix.js --dry-run"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",

@@ -15,7 +15,7 @@ layout: base.njk
 <div class="archive-list">
   {% for entry in pagination.items %}
   <div class="block1">
-    <h2><a href="{{ entry.url }}">{{ entry.title }}</a></h2>
+    <h2><a href="{{ entry.url | url }}">{{ entry.title }}</a></h2>
     {% if entry.date %}
     <p class="entry-date">{{ entry.date | dateFormat }}</p>
     {% endif %}
@@ -41,7 +41,7 @@ layout: base.njk
     {# Previous Link #}
     {% if pagination.href.previous %}
     <li class="pagination-item pagination-prev">
-      <a href="{{ pagination.href.previous }}" rel="prev">&laquo; Prev</a>
+      <a href="{{ pagination.href.previous | url }}" rel="prev">&laquo; Prev</a>
     </li>
     {% else %}
     <li class="pagination-item pagination-prev disabled">
@@ -56,7 +56,7 @@ layout: base.njk
       {% if loop.index0 == pagination.pageNumber %}
       <span class="current">{{ pageNumber }}</span>
       {% else %}
-      <a href="{{ pagination.hrefs[loop.index0] }}">{{ pageNumber }}</a>
+      <a href="{{ pagination.hrefs[loop.index0] | url }}">{{ pageNumber }}</a>
       {% endif %}
     </li>
     {% endfor %}
@@ -64,7 +64,7 @@ layout: base.njk
     {# Next Link #}
     {% if pagination.href.next %}
     <li class="pagination-item pagination-next">
-      <a href="{{ pagination.href.next }}" rel="next">Next &raquo;</a>
+      <a href="{{ pagination.href.next | url }}" rel="next">Next &raquo;</a>
     </li>
     {% else %}
     <li class="pagination-item pagination-next disabled">

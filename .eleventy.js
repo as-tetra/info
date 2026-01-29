@@ -12,6 +12,16 @@ const path = require('path');
 module.exports = function (eleventyConfig) {
 
   // ========================================
+  // 環境設定
+  // ========================================
+
+  // PATH_PREFIX 環境変数から読み取り
+  // 例: PATH_PREFIX="/info" npm run build
+  // ローカル開発: PATH_PREFIX="" npm run serve (デフォルト)
+  // GitHub Pages: PATH_PREFIX="/info" npm run build:ghpages
+  const pathPrefix = process.env.PATH_PREFIX || '';
+
+  // ========================================
   // Passthrough Copy - 静的ファイルをそのままコピー
   // ========================================
 
@@ -128,9 +138,10 @@ module.exports = function (eleventyConfig) {
   // ショートコード（必要に応じて追加）
   // ========================================
 
-  // 最適化画像用ショートコード
+  // 最適化画像用ショートコード（pathPrefix対応）
   eleventyConfig.addShortcode('image', (src, alt, className) => {
-    const optimizedSrc = src.replace(/^\/?(upload)\//i, '/upload/');
+    const imagePath = src.replace(/^\/?(upload)\//i, '/upload/');
+    const optimizedSrc = pathPrefix ? `${pathPrefix}${imagePath}` : imagePath;
     const classAttr = className ? ` class="${className}"` : '';
     return `<img src="${optimizedSrc}" alt="${alt || ''}"${classAttr} loading="lazy">`;
   });
@@ -147,6 +158,10 @@ module.exports = function (eleventyConfig) {
   // ディレクトリ設定
   // ========================================
   return {
+    // 環境変数から pathPrefix を設定
+    // 空文字列の場合は pathPrefix を設定しない（ローカル開発用）
+    ...(pathPrefix && { pathPrefix }),
+
     dir: {
       input: '.',
       output: '_site',
