@@ -1,0 +1,81 @@
+---
+pagination:
+  data: genrePages
+  size: 1
+  alias: page
+permalink: "{{ page.permalink }}"
+layout: base.njk
+eleventyComputed:
+  title: "{{ page.categoryName }}"
+---
+
+{# genreカテゴリーアーカイブ - 既存HTMLのblock_box構造を維持 #}
+<div class="main">
+  {# カテゴリータイトルblock_box #}
+  <div class="block_box">
+    <h1 class="menu_title">{{ page.categoryName }}</h1>
+  </div>
+  <!-- Events -->
+
+  {# エントリーリスト - 既存のblock_box構造をそのまま出力 #}
+  {% for entry in page.entries %}
+  <div class="block_box">
+    <div class="{% if entry.isPast %}date_past{% else %}date{% endif %}">
+      {{ entry.date }}</div>
+    <span class="jp">
+      <h1><a href="{{ entry.url | url }}">{{ entry.titleJp }}</a></h1>
+    </span>
+    <span class="en">
+      <h1><a href="{{ entry.url | url }}">{{ entry.titleEn }}</a></h1>
+    </span>
+    {% if entry.imgSrc %}
+    <a href="{{ entry.url | url }}">
+      <img src="{{ entry.imgSrc | url }}" alt="{{ entry.imgAlt }}" {% if entry.imgWidth %}width="{{ entry.imgWidth }}"{% endif %}>
+    </a>
+    {% endif %}
+  </div>
+  {% endfor %}
+
+  {# ページネーション (MTPaginate相当) #}
+  {% if page.totalPages > 1 %}
+  <div class="block_page">
+    <span class="pagenate">
+      <p>
+        {# 前ページリンク #}
+        {% if not page.isFirstPage %}
+          {% if page.pageNumber === 1 %}
+            <a href="{{ ('/genre/' + page.categorySlug + '/') | url }}">&laquo;</a>
+          {% else %}
+            <a href="{{ ('/genre/' + page.categorySlug + '/page/' + page.pageNumber + '/') | url }}">&laquo;</a>
+          {% endif %}
+        {% endif %}
+
+        {# ページ番号リンク #}
+        {% for i in range(0, page.totalPages) %}
+          {% if i == page.pageNumber %}
+            &nbsp;{{ i + 1 }}&nbsp;
+          {% else %}
+            {% if i == 0 %}
+              | <a href="{{ ('/genre/' + page.categorySlug + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+            {% else %}
+              | <a href="{{ ('/genre/' + page.categorySlug + '/page/' + (i + 1) + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {# 次ページリンク #}
+        {% if not page.isLastPage %}
+          <a href="{{ ('/genre/' + page.categorySlug + '/page/' + (page.pageNumber + 2) + '/') | url }}">&raquo;</a>
+        {% endif %}
+      </p>
+    </span>
+  </div>
+  {% endif %}
+
+  {# ページ情報（デバッグ用） #}
+  {% if page.totalPages > 1 %}
+  <div class="page-info" style="text-align: center; color: #666; padding: 20px; font-size: 0.9em;">
+    Page {{ page.pageNumber + 1 }} of {{ page.totalPages }} ({{ page.categoryCount }} entries total)
+  </div>
+  {% endif %}
+</div>

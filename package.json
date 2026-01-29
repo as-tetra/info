@@ -21,6 +21,8 @@
     "remove-php": "node scripts/remove-php-and-rename-index.js",
     "remove-php:dry": "node scripts/remove-php-and-rename-index.js --dry-run",
     "extract-entries": "node scripts/extract-entries.js",
+    "extract-genre-entries": "node scripts/extract-genre-entries.js",
+    "extract-archive-entries": "node scripts/extract-archive-entries.js",
     "replace-image-php": "node scripts/replace-image-php.js",
     "replace-image-php:dry": "node scripts/replace-image-php.js --dry-run",
     "add-path-prefix": "node scripts/add-path-prefix.js",

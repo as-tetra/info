@@ -1,52 +1,13 @@
-# ========================================
-# Eleventy Ignore File
-# ========================================
+# Eleventyの処理から除外するファイル・ディレクトリ
 
-# Node.js
-node_modules/
-package.json
-package-lock.json
+# 既存のgenreディレクトリ（genre-paginatedテンプレートから生成）
+genre/
 
-# PHP関連ファイル（Movable Type残骸）
-*.php
-mtview.php
-image.php
-php.cgi
-php.cgi-*
-.cache_atqa.php
-.htaccess
-
-# 開発用スクリプト
-scripts/
-
-# 元画像（optimized/を使用）
-upload/
-
-# キャッシュ・一時ファイル
-tmp/
-templates_c/
-cgi-bin/
-scheduler/
-
-# データファイル（必要に応じてコメントアウト解除）
-data/
-data_en/
-pc2m/
-
-# Git
-.git/
-.gitignore
+# 既存のarchivesディレクトリ（year-archivesテンプレートから生成）
+archives/
 
 # ビルド出力
 _site/
 
-# エディタ・OS
-.DS_Store
-*.swp
-*.swo
-.vscode/
-.idea/
-
-# プロジェクトドキュメント
-CLAUDE.md
-README.md
+# Node modules
+node_modules/
