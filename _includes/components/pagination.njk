@@ -1,50 +1,98 @@
 {#
-  再利用可能なページネーションコンポーネント
+  統合ページネーションコンポーネント
   MTのMTPaginateNavigator相当
 
-  使用例:
+  2つのモードをサポート:
+  1. カスタムページネーション（category, genre, year-archives用）
+  2. Eleventyページネーション（archives-paginated用）
+
+  使用例1（カスタムページネーション）:
   {% include "components/pagination.njk" with {
-    baseUrl: '/category-slug',
-    currentPage: 0,
-    totalPages: 5,
-    separator: ' | '
+    customPagination: page,
+    baseUrl: '/genre/music_event'
+  } %}
+
+  使用例2（Eleventyページネーション）:
+  {% include "components/pagination.njk" with {
+    eleventyPagination: pagination
   } %}
 #}
 
-{% if totalPages > 1 %}
-<div class="block_page">
-  <span class="pagenate">
-    <p>
-      {# 前ページリンク #}
-      {% if currentPage > 0 %}
-        {% if currentPage === 1 %}
-          <a href="{{ (baseUrl + '/') | url }}">&laquo;</a>
-        {% else %}
-          <a href="{{ (baseUrl + '/page/' + currentPage + '/') | url }}">&laquo;</a>
-        {% endif %}
-      {% endif %}
+{# カスタムページネーション（page オブジェクト使用） #}
+{% if customPagination %}
+  {% set currentPage = customPagination.pageNumber %}
+  {% set totalPages = customPagination.totalPages %}
+  {% set isFirstPage = customPagination.isFirstPage %}
+  {% set isLastPage = customPagination.isLastPage %}
 
-      {# ページ番号リンク #}
-      {% for i in range(0, totalPages) %}
-        {% if i == currentPage %}
-          {# 現在のページ #}
-          &nbsp;{{ i + 1 }}&nbsp;
-        {% else %}
-          {# リンク #}
-          {% if separator and i > 0 %}{{ separator }}{% endif %}
-          {% if i == 0 %}
-            <a href="{{ (baseUrl + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+  {% if totalPages > 1 %}
+  <div class="block_page">
+    <span class="pagenate">
+      <p>
+        {# 前ページリンク #}
+        {% if not isFirstPage %}
+          {% if currentPage === 1 %}
+            <a href="{{ (baseUrl + '/') | url }}">&laquo;</a>
           {% else %}
-            <a href="{{ (baseUrl + '/page/' + (i + 1) + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+            <a href="{{ (baseUrl + '/page/' + currentPage + '/') | url }}">&laquo;</a>
           {% endif %}
         {% endif %}
-      {% endfor %}
 
-      {# 次ページリンク #}
-      {% if currentPage < totalPages - 1 %}
-        <a href="{{ (baseUrl + '/page/' + (currentPage + 2) + '/') | url }}">&raquo;</a>
-      {% endif %}
-    </p>
-  </span>
-</div>
+        {# ページ番号リンク #}
+        {% for i in range(0, totalPages) %}
+          {% if i == currentPage %}
+            &nbsp;{{ i + 1 }}&nbsp;
+          {% else %}
+            {% if i == 0 %}
+              | <a href="{{ (baseUrl + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+            {% else %}
+              | <a href="{{ (baseUrl + '/page/' + (i + 1) + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {# 次ページリンク #}
+        {% if not isLastPage %}
+          <a href="{{ (baseUrl + '/page/' + (currentPage + 2) + '/') | url }}">&raquo;</a>
+        {% endif %}
+      </p>
+    </span>
+  </div>
+  {% endif %}
+{% endif %}
+
+{# Eleventyページネーション（pagination オブジェクト使用） #}
+{% if eleventyPagination %}
+  {% set currentPage = eleventyPagination.pageNumber %}
+  {% set totalPages = eleventyPagination.pages.length %}
+
+  {% if totalPages > 1 %}
+  <div class="block_page">
+    <span class="pagenate">
+      <p>
+        {# 前ページリンク #}
+        {% if eleventyPagination.href.previous %}
+        <a href="{{ eleventyPagination.href.previous | url }}" rel="prev">&laquo;</a>
+        {% endif %}
+
+        {# ページ番号リンク（最大7ページ表示） #}
+        {% set startPage = [0, currentPage - 3] | max %}
+        {% set endPage = [totalPages - 1, currentPage + 3] | min %}
+
+        {% for i in range(startPage, endPage + 1) %}
+          {% if i == currentPage %}
+            &nbsp;{{ i + 1 }}&nbsp;
+          {% else %}
+            | <a href="{{ eleventyPagination.hrefs[i] | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
+          {% endif %}
+        {% endfor %}
+
+        {# 次ページリンク #}
+        {% if eleventyPagination.href.next %}
+        <a href="{{ eleventyPagination.href.next | url }}" rel="next">&raquo;</a>
+        {% endif %}
+      </p>
+    </span>
+  </div>
+  {% endif %}
 {% endif %}

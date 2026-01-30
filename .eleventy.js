@@ -31,7 +31,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('css');
   eleventyConfig.addPassthroughCopy('js');
   eleventyConfig.addPassthroughCopy('images');
-  eleventyConfig.addPassthroughCopy('imagecache');
 
   // 年別アーカイブ（2004〜2009）
   eleventyConfig.addPassthroughCopy('2004');
