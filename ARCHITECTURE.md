@@ -1199,6 +1199,46 @@ echo "tetra/" >> .eleventyignore
 npm run build:ghpages
 ```
 
+#### 6. カスタムドメインに紐付けた場合は、下記を変更する
+```bash
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [develop]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build with Eleventy for GitHub Pages
+        run: npm run build:ghpages # ← ここを npm run build:customにする
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+```
+
 ### デバッグ方法
 
 #### ビルドログ確認
