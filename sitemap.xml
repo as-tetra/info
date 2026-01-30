@@ -5,7 +5,7 @@
 <priority>1.0</priority>
 </url>
 <url>
-<loc>/genre/exhibition/index.php</loc>
+<loc>/genre/exhibition/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -13,7 +13,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/music_event/index.php</loc>
+<loc>/genre/music_event/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -21,7 +21,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/art_event/index.php</loc>
+<loc>/genre/art_event/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -29,7 +29,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/film_event/index.php</loc>
+<loc>/genre/film_event/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -37,7 +37,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/workshop_lecture/index.php</loc>
+<loc>/genre/workshop_lecture/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -45,7 +45,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/others/index.php</loc>
+<loc>/genre/others/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -53,7 +53,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/theater/index.php</loc>
+<loc>/genre/theater/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -61,7 +61,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/broadcast/index.php</loc>
+<loc>/genre/broadcast/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -69,7 +69,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/genre/index.php</loc>
+<loc>/genre/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -77,7 +77,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/sponsor/index.php</loc>
+<loc>/sponsor/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -85,7 +85,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/tetra/index.php</loc>
+<loc>/tetra/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -93,7 +93,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/top/index.php</loc>
+<loc>/top/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -101,7 +101,7 @@
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/info/index.php</loc>
+<loc>/info/index.html</loc>
 <changefreq>weekly</changefreq>
 </url>
 <url>
@@ -4936,1603 +4936,1603 @@
 </url>
 
 <url>
-<loc>/special/feature/2013/130713031406.php</loc>
+<loc>/special/feature/2013/130713031406.html</loc>
 <lastmod>2013-07-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/special/feature/2013/130713030411.php</loc>
+<loc>/special/feature/2013/130713030411.html</loc>
 <lastmod>2013-07-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/special/feature/2013/130701173947.php</loc>
+<loc>/special/feature/2013/130701173947.html</loc>
 <lastmod>2013-07-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/special/feature/2009/090116104044.php</loc>
+<loc>/special/feature/2009/090116104044.html</loc>
 <lastmod>2009-07-15</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/special/feature/2009/090110183535.php</loc>
+<loc>/special/feature/2009/090110183535.html</loc>
 <lastmod>2009-07-15</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/special/feature/2009/090107171852.php</loc>
+<loc>/special/feature/2009/090107171852.html</loc>
 <lastmod>2013-06-27</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>/special/feature/2009/090107124051.php</loc>
+<loc>/special/feature/2009/090107124051.html</loc>
 <lastmod>2009-07-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2026/index.php</loc>
+<loc>/archives/2026/index.html</loc>
 <lastmod>2026-01-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2026/index.php</loc>
+<loc>/archives/2026/index.html</loc>
 <lastmod>2026-01-14</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-12-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-12-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-11-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-10-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-09-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-08-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-07-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-06-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-05-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-04-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-03-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2025/index.php</loc>
+<loc>/archives/2025/index.html</loc>
 <lastmod>2025-02-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-12-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-11-24</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-11-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-09-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-09-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-08-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-07-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-05-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-05-09</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-04-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-03-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2024/index.php</loc>
+<loc>/archives/2024/index.html</loc>
 <lastmod>2024-02-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2024-01-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-11-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-10-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-10-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-09-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-08-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-06-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-05-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-04-26</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-03-26</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-02-26</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2023/index.php</loc>
+<loc>/archives/2023/index.html</loc>
 <lastmod>2023-01-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2023-01-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-11-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-10-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-10-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-09-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-08-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-07-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-05-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-05-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-03-15</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-03-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2022/index.php</loc>
+<loc>/archives/2022/index.html</loc>
 <lastmod>2022-02-09</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2022-01-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-12-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-11-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-10-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-08-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-08-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-06-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-07-20</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-03-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2021/index.php</loc>
+<loc>/archives/2021/index.html</loc>
 <lastmod>2021-01-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2021-08-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-12-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-11-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-09-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-08-17</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-08-21</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-07-23</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-04-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-03-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2020/index.php</loc>
+<loc>/archives/2020/index.html</loc>
 <lastmod>2020-02-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-12-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2020-01-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-10-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-09-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-09-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-12-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2020-01-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-04-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-03-08</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2019/index.php</loc>
+<loc>/archives/2019/index.html</loc>
 <lastmod>2019-02-09</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2019-04-22</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-12-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-10-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-08-20</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2022-09-24</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-07-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-06-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-06-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-04-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-03-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2018/index.php</loc>
+<loc>/archives/2018/index.html</loc>
 <lastmod>2018-02-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-12-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-11-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2019-07-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-10-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-09-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-08-23</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-06-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-06-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-05-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-04-17</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-03-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2017/index.php</loc>
+<loc>/archives/2017/index.html</loc>
 <lastmod>2017-02-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-12-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-12-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-10-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-10-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-08-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-06-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-04-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-04-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-03-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2016/index.php</loc>
+<loc>/archives/2016/index.html</loc>
 <lastmod>2016-02-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-12-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-12-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-12-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-10-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-09-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-08-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-08-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-06-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-05-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-03-23</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-02-20</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2015/index.php</loc>
+<loc>/archives/2015/index.html</loc>
 <lastmod>2015-02-20</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2018-11-20</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-12-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-11-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-09-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-08-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-08-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-08-09</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-06-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-05-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-04-14</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-02-24</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2014/index.php</loc>
+<loc>/archives/2014/index.html</loc>
 <lastmod>2014-02-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2014-01-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-12-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-10-24</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-10-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-09-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-07-26</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-06-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-07-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-06-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-06-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2013/index.php</loc>
+<loc>/archives/2013/index.html</loc>
 <lastmod>2013-06-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2013-06-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-12-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-10-13</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-09-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-07-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-06-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-08-02</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2013-06-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-03-26</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-02-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2012/index.php</loc>
+<loc>/archives/2012/index.html</loc>
 <lastmod>2012-01-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-12-22</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2012-02-03</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-10-17</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-08-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-08-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-07-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-09-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-11-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-04-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-02-27</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2011/index.php</loc>
+<loc>/archives/2011/index.html</loc>
 <lastmod>2011-01-22</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2011-01-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-12-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2014-12-05</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-10-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-09-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-08-01</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-06-27</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-05-30</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-05-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-03-20</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-03-15</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2010/index.php</loc>
+<loc>/archives/2010/index.html</loc>
 <lastmod>2010-06-14</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2010-07-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2010-01-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2011-01-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-10-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-08-31</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-07-26</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-09-04</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-07-29</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2025-09-10</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2009/index.php</loc>
+<loc>/archives/2009/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-28</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2010-05-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-08-07</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2010-09-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2008/index.php</loc>
+<loc>/archives/2008/index.html</loc>
 <lastmod>2009-08-06</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2022-09-24</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2007/index.php</loc>
+<loc>/archives/2007/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2010-07-12</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2010-05-21</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-08-19</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2006/index.php</loc>
+<loc>/archives/2006/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-08-19</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2005/index.php</loc>
+<loc>/archives/2005/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-18</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-07-16</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2009-09-11</lastmod>
 <changefreq>weekly</changefreq>
 </url>
 
 <url>
-<loc>/archives/2004/index.php</loc>
+<loc>/archives/2004/index.html</loc>
 <lastmod>2025-08-25</lastmod>
 <changefreq>weekly</changefreq>
 </url>
