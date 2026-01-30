@@ -39,8 +39,12 @@ async function extractArchiveEntries() {
       const titleEn = $block.find('.en h1 a').first().text().trim();
       const url = $block.find('a').first().attr('href');
 
-      // 画像情報
-      const imgSrc = $block.find('img').attr('src');
+      // 画像情報 - 日本語ファイル名をNFC正規化（濁点問題対策）
+      let imgSrc = $block.find('img').attr('src');
+      if (imgSrc) {
+        imgSrc = imgSrc.normalize('NFC');
+      }
+
       const imgAlt = $block.find('img').attr('alt');
       const imgWidth = $block.find('img').attr('width');
 

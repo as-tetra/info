@@ -137,6 +137,34 @@ module.exports = function (eleventyConfig) {
     return arr.length;
   });
 
+  // 日本語ファイル名対応フィルター（NFC正規化）
+  // macOS/Linuxのファイルシステムで日本語ファイル名がNFD化される問題に対応
+  eleventyConfig.addFilter('safeJapaneseUrl', (urlPath) => {
+    if (!urlPath) return '';
+    // NFC正規化（濁点などを合成形に統一）
+    const normalized = urlPath.normalize('NFC');
+    // pathPrefixがある場合は追加
+    const withPrefix = pathPrefix ? `${pathPrefix}${normalized}` : normalized;
+    return withPrefix;
+  });
+
+  // 既存のurlフィルターをNFC正規化対応で拡張
+  // Eleventyのデフォルトurlフィルターは内部的にslugifyを使うため、
+  // 日本語が含まれるパスはこちらで処理
+  eleventyConfig.addFilter('url', (urlPath) => {
+    if (!urlPath) return '';
+
+    // 日本語文字が含まれる場合はNFC正規化
+    if (/[\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uffef\u4e00-\u9faf]/.test(urlPath)) {
+      const normalized = urlPath.normalize('NFC');
+      const withPrefix = pathPrefix ? `${pathPrefix}${normalized}` : normalized;
+      return withPrefix;
+    }
+
+    // 日本語が含まれない場合はpathPrefixのみ追加
+    return pathPrefix ? `${pathPrefix}${urlPath}` : urlPath;
+  });
+
   // ========================================
   // ショートコード（必要に応じて追加）
   // ========================================

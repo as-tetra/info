@@ -21,10 +21,12 @@ async function comprehensiveImageFix() {
   console.log(`   Found ${actualFiles.length} actual image files\n`);
 
   // ファイル名のマップを作成（パスの正規化版とフルパス）
+  // NFC正規化を適用して日本語ファイル名の濁点問題を解決
   const fileMap = new Map();
   actualFiles.forEach(file => {
-    const basename = path.basename(file);
-    const normalizedPath = file.replace(/^\//, ''); // 先頭の/を削除
+    // NFC正規化（濁点を合成形に統一）
+    const basename = path.basename(file).normalize('NFC');
+    const normalizedPath = file.replace(/^\//, '').normalize('NFC'); // 先頭の/を削除 + NFC正規化
 
     // ファイル名だけのマップ
     if (!fileMap.has(basename)) {
@@ -63,13 +65,13 @@ async function comprehensiveImageFix() {
     const replacements = [];
 
     while ((match = imgPattern.exec(content)) !== null) {
-      const originalPath = match[1];
-      const normalizedPath = originalPath.replace(/^\//, '');
+      const originalPath = match[1].normalize('NFC'); // NFC正規化
+      const normalizedPath = originalPath.replace(/^\//, '').normalize('NFC');
 
       // ファイルが存在するかチェック
       if (!fs.existsSync(normalizedPath)) {
         // 存在しない場合、修正を試みる
-        const basename = path.basename(normalizedPath);
+        const basename = path.basename(normalizedPath).normalize('NFC');
         const dirname = path.dirname(normalizedPath);
 
         let fixedPath = null;
@@ -83,22 +85,22 @@ async function comprehensiveImageFix() {
             const year = yearMatch[1];
             const sameYearCandidates = candidates.filter(c => c.includes(`upload/${year}/`));
             if (sameYearCandidates.length > 0) {
-              fixedPath = '/' + sameYearCandidates[0];
+              fixedPath = ('/' + sameYearCandidates[0]).normalize('NFC');
             }
           }
 
           // 見つからない場合は最初の候補
           if (!fixedPath && candidates.length > 0) {
-            fixedPath = '/' + candidates[0];
+            fixedPath = ('/' + candidates[0]).normalize('NFC');
           }
         }
 
         // 戦略2: -thumb を削除してみる
         if (!fixedPath && basename.includes('-thumb')) {
-          const withoutThumb = basename.replace(/-thumb(-thumb)*/, '');
+          const withoutThumb = basename.replace(/-thumb(-thumb)*/, '').normalize('NFC');
           if (fileMap.has(withoutThumb)) {
             const candidates = fileMap.get(withoutThumb);
-            fixedPath = '/' + candidates[0];
+            fixedPath = ('/' + candidates[0]).normalize('NFC');
           }
         }
 
@@ -108,10 +110,10 @@ async function comprehensiveImageFix() {
           const extensions = ['.jpg', '.jpeg', '.png', '.gif', '.JPG', '.JPEG', '.PNG', '.GIF'];
 
           for (const ext of extensions) {
-            const candidate = withoutExt + ext;
+            const candidate = (withoutExt + ext).normalize('NFC');
             if (fileMap.has(candidate)) {
               const paths = fileMap.get(candidate);
-              fixedPath = '/' + paths[0];
+              fixedPath = ('/' + paths[0]).normalize('NFC');
               break;
             }
           }
