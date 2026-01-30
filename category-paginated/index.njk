@@ -32,4 +32,7 @@ title: "{{ page.categoryName }}"
   {% set customPagination = page %}
   {% set baseUrl = '/' + page.categorySlug %}
   {% include "components/pagination.njk" %}
+
+  {# メインナビゲーション #}
+  {% include "components/main-navigation.njk" %}
 </div>
