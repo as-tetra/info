@@ -33,7 +33,8 @@
     "remove-path-prefix": "node scripts/remove-path-prefix.js",
     "remove-path-prefix:dry": "node scripts/remove-path-prefix.js --dry-run",
     "fix-hardcoded-urls": "node scripts/fix-hardcoded-urls.js",
-    "fix-hardcoded-urls:dry": "node scripts/fix-hardcoded-urls.js --dry-run"
+    "fix-hardcoded-urls:dry": "node scripts/fix-hardcoded-urls.js --dry-run",
+    "fix-nfd-urls": "node scripts/fix-nfd-urls-in-html.js"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
