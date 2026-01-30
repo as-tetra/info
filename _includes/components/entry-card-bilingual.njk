@@ -1,0 +1,25 @@
+{#
+  バイリンガルエントリーカード（genre-paginated用）
+  日英タイトル、日付バッジ、画像を表示
+
+  使用例:
+  {% include "components/entry-card-bilingual.njk" with { entry: entry } %}
+
+  必須プロパティ: entry.url, entry.titleJp, entry.titleEn, entry.date
+  オプション: entry.isPast, entry.imgSrc, entry.imgAlt, entry.imgWidth
+#}
+<div class="block_box">
+  <div class="{% if entry.isPast %}date_past{% else %}date{% endif %}">
+    {{ entry.date }}</div>
+  <span class="jp">
+    <h1><a href="{{ entry.url | url }}">{{ entry.titleJp }}</a></h1>
+  </span>
+  <span class="en">
+    <h1><a href="{{ entry.url | url }}">{{ entry.titleEn }}</a></h1>
+  </span>
+  {% if entry.imgSrc %}
+  <a href="{{ entry.url | url }}">
+    <img src="{{ entry.imgSrc | url }}" alt="{{ entry.imgAlt }}" {% if entry.imgWidth %}width="{{ entry.imgWidth }}"{% endif %}>
+  </a>
+  {% endif %}
+</div>

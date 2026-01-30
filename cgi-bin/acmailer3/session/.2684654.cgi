@@ -1,1 +1,0 @@
-login_pass=szk215;sender_mail=;search_text2=;search_colname3=;search_colname5=;search_text1=;search_colname2=;search_text4=;mail_body=;sender_data=;login_id=as-tetra;search_colname1=;search_text3=;search_text5=;mail_title=;search_colname4=;

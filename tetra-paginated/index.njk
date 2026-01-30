@@ -1,0 +1,39 @@
+---
+pagination:
+  data: tetraPages
+  size: 1
+  alias: page
+permalink: "{{ page.permalink }}"
+layout: base.njk
+eleventyComputed:
+  title: "own project"
+---
+
+{# tetraページネーション - 既存HTMLのblock_box構造を維持 #}
+<div class="main">
+  {# タイトルblock_box #}
+  <div class="block_box">
+    <h1 class="menu_title">own project</h1>
+  </div>
+  <!-- Events -->
+
+  {# エントリーリスト - 既存のblock_box構造を維持 #}
+  {% for entry in page.entries %}
+  {% include "components/entry-card-bilingual-full.njk" %}
+  {% endfor %}
+
+  {# ページネーション #}
+  {% set customPagination = page %}
+  {% set baseUrl = '/tetra' %}
+  {% include "components/pagination.njk" %}
+
+  {# ページ情報（デバッグ用） #}
+  {% if page.totalPages > 1 %}
+  <div class="page-info" style="text-align: center; color: #666; padding: 20px; font-size: 0.9em;">
+    Page {{ page.pageNumber + 1 }} of {{ page.totalPages }} ({{ page.entryCount }} entries total)
+  </div>
+  {% endif %}
+
+  {# メインナビゲーション #}
+  {% include "components/main-navigation.njk" %}
+</div>

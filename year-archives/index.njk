@@ -19,68 +19,13 @@ eleventyComputed:
 
   {# エントリーリスト - 既存のblock_box構造を維持 #}
   {% for entry in page.entries %}
-  <div class="block_box">
-    <div class="{% if entry.isPast %}date_past{% else %}date{% endif %}">
-      {{ entry.date }}</div>
-    <span class="jp">
-      <h1><a href="{{ entry.url | url }}">{{ entry.titleJp }}</a></h1>
-    </span>
-    <span class="en">
-      <h1><a href="{{ entry.url | url }}">{{ entry.titleEn }}</a></h1>
-    </span>
-    {% if entry.imgSrc %}
-    <a href="{{ entry.url | url }}">
-      <img src="{{ entry.imgSrc | url }}" alt="{{ entry.imgAlt }}" {% if entry.imgWidth %}width="{{ entry.imgWidth }}"{% endif %}>
-    </a>
-    {% endif %}
-    {% if entry.bodyJp %}
-    <span class="jp">
-      <p>{{ entry.bodyJp | safe }}</p>
-    </span>
-    {% endif %}
-    {% if entry.bodyEn %}
-    <span class="en">
-      <p>{{ entry.bodyEn | safe }}</p>
-    </span>
-    {% endif %}
-  </div>
+  {% include "components/entry-card-bilingual-full.njk" %}
   {% endfor %}
 
   {# ページネーション (MTPaginate相当) #}
-  {% if page.totalPages > 1 %}
-  <div class="block_page">
-    <span class="pagenate">
-      <p>
-        {# 前ページリンク #}
-        {% if not page.isFirstPage %}
-          {% if page.pageNumber === 1 %}
-            <a href="{{ ('/archives/' + page.year + '/') | url }}">&laquo;</a>
-          {% else %}
-            <a href="{{ ('/archives/' + page.year + '/page/' + page.pageNumber + '/') | url }}">&laquo;</a>
-          {% endif %}
-        {% endif %}
-
-        {# ページ番号リンク #}
-        {% for i in range(0, page.totalPages) %}
-          {% if i == page.pageNumber %}
-            &nbsp;{{ i + 1 }}&nbsp;
-          {% else %}
-            {% if i == 0 %}
-              | <a href="{{ ('/archives/' + page.year + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
-            {% else %}
-              | <a href="{{ ('/archives/' + page.year + '/page/' + (i + 1) + '/') | url }}">&nbsp;{{ i + 1 }}&nbsp;</a>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-
-        {# 次ページリンク #}
-        {% if not page.isLastPage %}
-          <a href="{{ ('/archives/' + page.year + '/page/' + (page.pageNumber + 2) + '/') | url }}">&raquo;</a>
-        {% endif %}
-      </p>
-    </span>
-  </div>
-  {% endif %}
+  {% set customPagination = page %}
+  {% set baseUrl = '/archives/' + page.year %}
+  {% include "components/pagination.njk" %}
 
   {# ページ情報（デバッグ用） #}
   {% if page.totalPages > 1 %}
@@ -88,4 +33,7 @@ eleventyComputed:
     Page {{ page.pageNumber + 1 }} of {{ page.totalPages }} ({{ page.entryCount }} entries total)
   </div>
   {% endif %}
+
+  {# メインナビゲーション #}
+  {% include "components/main-navigation.njk" %}
 </div>

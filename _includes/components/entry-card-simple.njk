@@ -1,0 +1,26 @@
+{#
+  シンプルなエントリーカード（category-paginated用）
+
+  使用例:
+  {% include "components/entry-card-simple.njk" with { entry: entry } %}
+
+  必須プロパティ: entry.url, entry.title
+  オプション: entry.date, entry.categories, entry.summary
+#}
+<div class="block1">
+  <h2><a href="{{ entry.url | url }}">{{ entry.title }}</a></h2>
+  {% if entry.date %}
+  <p class="entry-date">{{ entry.date | dateFormat }}</p>
+  {% endif %}
+  {% if entry.categories and entry.categories.length > 0 %}
+  <p class="entry-categories">
+    {% for cat in entry.categories %}
+    <span class="category">{{ cat }}</span>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+  </p>
+  {% endif %}
+  {% if entry.summary %}
+  <p class="entry-summary">{{ entry.summary }}</p>
+  {% endif %}
+</div>
+<div class="line1"></div>

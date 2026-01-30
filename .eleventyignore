@@ -6,8 +6,14 @@ genre/
 # 既存のarchivesディレクトリ（year-archivesテンプレートから生成）
 archives/
 
+# 既存のtetraディレクトリ（tetra-paginatedテンプレートから生成）
+tetra/
+
 # ビルド出力
 _site/
 
 # Node modules
 node_modules/
+
+# ドキュメントファイル（Nunjucksテンプレートではない）
+ARCHITECTURE.md
