@@ -50,37 +50,38 @@ function addPathPrefix(content, prefix) {
   let newContent = content;
   let replacements = 0;
 
-  // href と src の絶対パス（ http:// や https:// で始まらない）に prefix を追加
+  // href, src, action, etc. の絶対パス（ http:// や https:// で始まらない）に prefix を追加
   const patterns = [
-    // href="/xxx" → href="/prefix/xxx" (but not href="http://" or href="https://")
+    // href="..." / href = "..." / href='...'
     {
-      from: /href="(\/(?!\/)[^"]*?)"/g,
-      to: `href="${prefix}$1"`
+      from: /href\s*=\s*(["'])(\/(?!\/)[^"']*?)\1/g,
+      to: (match, quote, url) => `href=${quote}${prefix}${url}${quote}`
     },
-    // src="/xxx" → src="/prefix/xxx"
+    // src="..." / src = "..." / src='...'
     {
-      from: /src="(\/(?!\/)[^"]*?)"/g,
-      to: `src="${prefix}$1"`
+      from: /src\s*=\s*(["'])(\/(?!\/)[^"']*?)\1/g,
+      to: (match, quote, url) => `src=${quote}${prefix}${url}${quote}`
     },
-    // url(/xxx) → url(/prefix/xxx) (CSS)
+    // url(...) (CSS)
     {
-      from: /url\((\/(?!\/)[^)]*?)\)/g,
+      from: /url\(\s*(\/(?!\/)[^)]*?)\s*\)/g,
       to: `url(${prefix}$1)`
     },
     // JavaScript: cssPath: '/xxx' → cssPath: '/prefix/xxx'
     {
-      from: /cssPath:\s*['"](\/(css\/[^'"]*?))['"]/g,
-      to: `cssPath: '${prefix}$1'`
+      from: /cssPath:\s*(["'])(\/(css\/[^"']*?))\1/g,
+      to: (match, quote, url) => `cssPath: ${quote}${prefix}${url}${quote}`
     },
     // JavaScript: {cssPath: '/xxx'} → {cssPath: '/prefix/xxx'}
     {
-      from: /\{cssPath:\s*['"](\/(css\/[^'"]*?))['"]\}/g,
-      to: `{cssPath: '${prefix}$1'}`
+      from: /\{cssPath:\s*(["'])(\/(css\/[^"']*?))\1\}/g,
+      to: (match, quote, url) => `{cssPath: ${quote}${prefix}${url}${quote}}`
     },
   ];
 
   for (const pattern of patterns) {
     const beforeCount = (content.match(pattern.from) || []).length;
+    // replaceの第2引数が文字列か関数かで分岐不要（replaceは両対応）
     newContent = newContent.replace(pattern.from, pattern.to);
     replacements += beforeCount;
   }
