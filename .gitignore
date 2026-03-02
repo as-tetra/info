@@ -32,3 +32,5 @@ templates_c/
 
 # Cache files
 .cache_*.php
+
+OPERATION_GUIDE.md
