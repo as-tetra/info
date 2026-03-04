@@ -3,17 +3,88 @@
     "year": "2026",
     "entries": [
       {
+        "date": "2026.02.21",
+        "titleJp": "capture late morning live 26(ほたか / 中村勇治)",
+        "titleEn": "capture late morning live 26(Nakamura Yuji / HOTAKA Tanigawa)",
+        "url": "/archives/2026/260221110000.html",
+        "imgSrc": "/upload/2026/hotaka_picture.jpg",
+        "imgAlt": "capture late morning live 26(ほたか / 中村勇治)",
+        "isPast": true,
+        "bodyJp": "【日時】2026年2月21日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
+        "bodyEn": "February 21st (Sat), 2026<br>\nStart:11:00AM<br>\nOpen:10:30AM\nCharge:Donation + One drink is required to order. \nVenue:<br>\nart space tetra<br>\n2-15 Susaki-machi Hakata-ku Fukuoka, Japan<br>\n<a href=\"/\" target=\"_blank\">/</a>",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.02.21</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260221110000.html\">capture late morning live 26(ほたか / 中村勇治)</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260221110000.html\">capture late morning live 26(Nakamura Yuji / HOTAKA Tanigawa)</a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260221110000.html\"><img src=\"/upload/2026/hotaka_picture.jpg\" alt=\"capture late morning live 26(ほたか / 中村勇治)\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t<p>【日時】2026年2月21日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) </p>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<p>February 21st (Sat), 2026<br>\nStart:11:00AM<br>\nOpen:10:30AM</p>\n\n<p>Charge:Donation + One drink is required to order. </p>\n\n<p>Venue:<br>\nart space tetra<br>\n2-15 Susaki-machi Hakata-ku Fukuoka, Japan<br>\n<a href=\"/\" target=\"_blank\">/</a></p>\n\t\t\t</span>\n\t\t</div>"
+      },
+      {
+        "date": "2026.02.20",
+        "titleJp": "イルコモンズ・トラベリング・アカデミー  二〇年目のただいま",
+        "titleEn": "illcommonz Traveling Academy",
+        "url": "/archives/2026/260220180000.html",
+        "imgSrc": "/upload/2026/イルアカデミー2026.jpg",
+        "imgAlt": "イルコモンズ・トラベリング・アカデミー  二〇年目のただいま",
+        "isPast": true,
+        "bodyJp": "日時：2026年2月20日（金）18:00-<br>\nタイトル：イルコモンズ・トラベリング・アカデミ<br>\n講師：小田マサノリ（イルコモンズ）<br>\n聞き手：江上賢一郎（art space tetra メンバー）<br>\n参加費：無料　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　      ",
+        "bodyEn": "",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.02.20</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260220180000.html\">イルコモンズ・トラベリング・アカデミー  二〇年目のただいま</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260220180000.html\">illcommonz Traveling Academy</a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260220180000.html\"><img src=\"/upload/2026/イルアカデミー2026.jpg\" alt=\"イルコモンズ・トラベリング・アカデミー  二〇年目のただいま\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t<p>日時：2026年2月20日（金）18:00-<br>\nタイトル：イルコモンズ・トラベリング・アカデミ<br>\n講師：小田マサノリ（イルコモンズ）<br>\n聞き手：江上賢一郎（art space tetra メンバー）<br>\n参加費：無料　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　      </p>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t\n\t\t\t</span>\n\t\t</div>"
+      },
+      {
+        "date": "2026.02.13-",
+        "titleJp": "《불안한 안온함》 不安なやすらぎ",
+        "titleEn": "《불안한 안온함》 不安なやすらぎ",
+        "url": "/archives/2026/260213121844.html",
+        "imgSrc": "/upload/2026/68CC3CAC-CB79-4685-9E3B-17CA72F5BE71.jpg",
+        "imgAlt": "《불안한 안온함》 不安なやすらぎ",
+        "isPast": true,
+        "bodyJp": "日程：2026年2月13日（金）～19日（木）<br>\n時間：13:00～19:00<br>\n会場：art space tetra 1F<br>\nアーティスト：ユン・ソンウク<br>\nキュレーター：キム・ミキョ　",
+        "bodyEn": "2026.02.13.-19.<br>\n1pm-7pm<br>\nart space tetra 1F<br>\nArtist_Yoon, Seunguk<br>\nCurator_Kim, Mikyo<br>\n",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.02.13-</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260213121844.html\">《불안한 안온함》 不安なやすらぎ</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260213121844.html\">《불안한 안온함》 不安なやすらぎ</a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260213121844.html\"><img src=\"/upload/2026/68CC3CAC-CB79-4685-9E3B-17CA72F5BE71.jpg\" alt=\"《불안한 안온함》 不安なやすらぎ\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t<p>日程：2026年2月13日（金）～19日（木）<br>\n時間：13:00～19:00<br>\n会場：art space tetra 1F<br>\nアーティスト：ユン・ソンウク<br>\nキュレーター：キム・ミキョ　</p>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<p>2026.02.13.-19.<br>\n1pm-7pm<br>\nart space tetra 1F<br>\nArtist_Yoon, Seunguk<br>\nCurator_Kim, Mikyo<br>\n</p>\n\t\t\t</span>\n\t\t</div>"
+      },
+      {
+        "date": "2026.02.11",
+        "titleJp": "テトラ アナーキー大放談 最終回！",
+        "titleEn": "tetra Anarchy Talk Final!",
+        "url": "/archives/2026/260211095010.html",
+        "imgSrc": "/upload/2026/AnarchyTalk1.jpg",
+        "imgAlt": "テトラ アナーキー大放談 最終回！",
+        "isPast": true,
+        "bodyJp": "会期：2026年2月11日（水・祝）<br>\n時間：18:00 - 20:00<br>\n入場無料 ＋ 1 drink order<br>\n座談会：尾中俊介 / 牧園憲二 / 山内光枝 / 森元斎",
+        "bodyEn": "date : Feburary 11, 2026 (wed)<br>\ntime : 6 pm - 8 pm<br>\nfree admission + 1 drink order<br>\nShunsuke Onaka / Kenji Makizono / Terue Ymauchi / Motonao Mori",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.02.11</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260211095010.html\">テトラ アナーキー大放談 最終回！</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260211095010.html\">tetra Anarchy Talk Final!</a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260211095010.html\"><img src=\"/upload/2026/AnarchyTalk1.jpg\" alt=\"テトラ アナーキー大放談 最終回！\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t<p>会期：2026年2月11日（水・祝）<br>\n時間：18:00 - 20:00<br>\n入場無料 ＋ 1 drink order<br>\n座談会：尾中俊介 / 牧園憲二 / 山内光枝 / 森元斎</p>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<p>date : Feburary 11, 2026 (wed)<br>\ntime : 6 pm - 8 pm<br>\nfree admission + 1 drink order<br>\nShunsuke Onaka / Kenji Makizono / Terue Ymauchi / Motonao Mori</p>\n\t\t\t</span>\n\t\t</div>"
+      },
+      {
+        "date": "2026.01.14-",
+        "titleJp": "《Cursed Cards 素敵な呪い》",
+        "titleEn": "",
+        "url": "/archives/2026/260114000000.html",
+        "imgSrc": "/upload/2026/63CF2988-A586-4C9F-A807-74911487BB79.jpeg",
+        "imgAlt": "《Cursed Cards 素敵な呪い》",
+        "isPast": true,
+        "bodyJp": "",
+        "bodyEn": "",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.01.14-</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260114000000.html\">《Cursed Cards 素敵な呪い》</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260114000000.html\"></a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260114000000.html\"><img src=\"/upload/2026/63CF2988-A586-4C9F-A807-74911487BB79.jpeg\" alt=\"《Cursed Cards 素敵な呪い》\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t\n\t\t\t</span>\n\t\t</div>"
+      },
+      {
+        "date": "2026.01.09-",
+        "titleJp": "是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」",
+        "titleEn": "Nobutaka Koremoto Photo Exhibition 100Asian Portraits  2nd \"Bà Sang và Duyên\"",
+        "url": "/archives/2026/260109012707.html",
+        "imgSrc": "/upload/2025/koremoto_S__13975556.jpg",
+        "imgAlt": "是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」",
+        "isPast": true,
+        "bodyJp": "会期...2026年1月9日（金） 〜15日（木） <br>\n時間...1月9日〜12日 12:00〜21:00／13日〜15日 13:00〜19:00<br>\n入場無料\n1月9日（金）18:00〜20:00 opening party「ベトナムについて語ろう」（飲み物・おつまみなどの持ち込み歓迎）<br>\n1月10日（土）15:00〜16:00 対談『ライカとオールドレンズの魅力』ゲスト吉田喜彦氏<br>\n1月11日（日）15:00〜16:00 作家トーク『僕がベトナムに通う理由』是本信高<br>\n1月12日（月）サプライズイベント！（があるかも）<br>\n1月13日（火）・14日（水）・15日（木）ワークショップ『シノゴでテトラを撮影しよう』是本信高<br>\n★★★<br>\n1月11日（日）・12（月）「鵲珈琲 kasasagi coffee」がやってくる！<br>\nベトナムは世界第二の生産量を誇るコーヒー王国！筑後の名店のおいしいコーヒーを味わいながらゆっくりご鑑賞ください。\n詳細は<a href=\"https://www.facebook.com/nobutaka.koremoto\">Facebook</a>、<a href=\"https://www.instagram.com/nobutakakoremoto/\">Instagram</a>でご確認ください。<br>\n",
+        "bodyEn": "2026/1/9(Fri) 〜12(Mon) 　12:00〜21:00<br>\n13(Tue)〜15(Thu)　13:00〜19:00<br>\nADMISSION FREE",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.01.09-</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260109012707.html\">是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260109012707.html\">Nobutaka Koremoto Photo Exhibition 100Asian Portraits  2nd \"Bà Sang và Duyên\"</a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260109012707.html\"><img src=\"/upload/2025/koremoto_S__13975556.jpg\" alt=\"是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t<p>会期...2026年1月9日（金） 〜15日（木） <br>\n時間...1月9日〜12日 12:00〜21:00／13日〜15日 13:00〜19:00<br>\n入場無料</p>\n\n<p>1月9日（金）18:00〜20:00 opening party「ベトナムについて語ろう」（飲み物・おつまみなどの持ち込み歓迎）<br>\n1月10日（土）15:00〜16:00 対談『ライカとオールドレンズの魅力』ゲスト吉田喜彦氏<br>\n1月11日（日）15:00〜16:00 作家トーク『僕がベトナムに通う理由』是本信高<br>\n1月12日（月）サプライズイベント！（があるかも）<br>\n1月13日（火）・14日（水）・15日（木）ワークショップ『シノゴでテトラを撮影しよう』是本信高<br>\n★★★<br>\n1月11日（日）・12（月）「鵲珈琲 kasasagi coffee」がやってくる！<br>\nベトナムは世界第二の生産量を誇るコーヒー王国！筑後の名店のおいしいコーヒーを味わいながらゆっくりご鑑賞ください。</p>\n\n<p>詳細は<a href=\"https://www.facebook.com/nobutaka.koremoto\">Facebook</a>、<a href=\"https://www.instagram.com/nobutakakoremoto/\">Instagram</a>でご確認ください。<br>\n</p>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<p>2026/1/9(Fri) 〜12(Mon) 　12:00〜21:00<br>\n13(Tue)〜15(Thu)　13:00〜19:00<br>\nADMISSION FREE</p>\n\t\t\t</span>\n\t\t</div>"
+      },
+      {
         "date": "2026.01.03",
         "titleJp": "お正月だよ！倉地さんスペシャル 2026",
         "titleEn": "New year's special!! 2026",
         "url": "/archives/2026/260103010000.html",
         "imgSrc": "/upload/2025/IMG_7475_half.jpeg",
         "imgAlt": "お正月だよ！倉地さんスペシャル 2026",
-        "imgWidth": "168",
         "isPast": true,
-        "bodyJp": "日程...2026年1月3日（土）<br>\n\t\t\t\t\t\t時間...17時スタート<br>\n\t\t\t\t\t\t料金...投げ銭 +１ドリンクオーダーお願いします<br>\n\t\t\t\t\t\t　　　お正月っぽい差し入れ歓迎！<br>\n\t\t\t\t\t\t出演...倉地久美夫<br>\n\t\t\t\t\t\t企画…小山冴子（とんつーレコード）\nこちらで音声のみの配信予定です。<br>\n\t\t\t\t\t\t<a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a><br>\n\t\t\t\t\t\t※iPhoneでの配信になりますので、音質はあまり良くないかもしれません。<br>\n\t\t\t\t\t",
-        "bodyEn": "date : Jan 3, 2026(sat)<br>\n\t\t\t\t\t\ttime : 5 PM start<br>\n\t\t\t\t\t\tcharge；1 drink order + Tip . Potluck snacks and foods are welcomed.<br>\n\t\t\t\t\t\tcast: Kumio Kurachi\nLive stream&gt; <a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a>\n\t\t\t\t\t\n<a href=\"https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br />\n\">https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br>\n\t\t\t\t\t\t</a><br>\n\t\t\t\t\t",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2026.01.03</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2026/260103010000.html\">お正月だよ！倉地さんスペシャル 2026</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2026/260103010000.html\">New year's special!! 2026</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2026/260103010000.html\"><img src=\"/upload/2025/IMG_7475_half.jpeg\" alt=\"お正月だよ！倉地さんスペシャル 2026\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>日程...2026年1月3日（土）<br>\n\t\t\t\t\t\t時間...17時スタート<br>\n\t\t\t\t\t\t料金...投げ銭 +１ドリンクオーダーお願いします<br>\n\t\t\t\t\t\t　　　お正月っぽい差し入れ歓迎！<br>\n\t\t\t\t\t\t出演...倉地久美夫<br>\n\t\t\t\t\t\t企画…小山冴子（とんつーレコード）</p>\n\n\t\t\t\t\t<p>こちらで音声のみの配信予定です。<br>\n\t\t\t\t\t\t<a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a><br>\n\t\t\t\t\t\t※iPhoneでの配信になりますので、音質はあまり良くないかもしれません。<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>date : Jan 3, 2026(sat)<br>\n\t\t\t\t\t\ttime : 5 PM start<br>\n\t\t\t\t\t\tcharge；1 drink order + Tip . Potluck snacks and foods are welcomed.<br>\n\t\t\t\t\t\tcast: Kumio Kurachi</p>\n\n\t\t\t\t\t<p>Live stream&gt; <a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a>\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p><a href=\"https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br />\n\">https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br>\n\t\t\t\t\t\t</a><br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>"
+        "bodyJp": "日程...2026年1月3日（土）<br>\n時間...17時スタート<br>\n料金...投げ銭 +１ドリンクオーダーお願いします<br>\n　　　お正月っぽい差し入れ歓迎！<br>\n出演...倉地久美夫<br>\n企画…小山冴子（とんつーレコード）\nこちらで音声のみの配信予定です。<br>\n<a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a><br>\n※iPhoneでの配信になりますので、音質はあまり良くないかもしれません。<br>\n",
+        "bodyEn": "date : Jan 3, 2026(sat)<br>\ntime : 5 PM  start<br>\ncharge；1 drink order + Tip . Potluck snacks and foods are welcomed.<br>\ncast: Kumio Kurachi\nLive stream&gt; <a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a>\n<a href=\"https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br />\n\">https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br>\n</a><br>\n",
+        "html": "<div class=\"block_box\">\n\t\t\t<div class=\"date_past\">\n\t\t\t2026.01.03</div>\n\t\t\t<span class=\"jp\">\n\t\t\t<h1><a href=\"/archives/2026/260103010000.html\">お正月だよ！倉地さんスペシャル 2026</a></h1>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<h1><a href=\"/archives/2026/260103010000.html\">New year's special!! 2026</a></h1>\n\t\t\t</span>\n\t\t\t<a href=\"/archives/2026/260103010000.html\"><img src=\"/upload/2025/IMG_7475_half.jpeg\" alt=\"お正月だよ！倉地さんスペシャル 2026\"></a>\n\t\t\t<span class=\"jp\">\n\t\t\t<p>日程...2026年1月3日（土）<br>\n時間...17時スタート<br>\n料金...投げ銭 +１ドリンクオーダーお願いします<br>\n　　　お正月っぽい差し入れ歓迎！<br>\n出演...倉地久美夫<br>\n企画…小山冴子（とんつーレコード）</p>\n\n<p>こちらで音声のみの配信予定です。<br>\n<a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a><br>\n※iPhoneでの配信になりますので、音質はあまり良くないかもしれません。<br>\n</p>\n\t\t\t</span>\n\t\t\t<span class=\"en\">\n\t\t\t<p>date : Jan 3, 2026(sat)<br>\ntime : 5 PM  start<br>\ncharge；1 drink order + Tip . Potluck snacks and foods are welcomed.<br>\ncast: Kumio Kurachi</p>\n\n<p>Live stream&gt; <a href=\"https://tontuu-record.mixlr.com/events/4761924\">https://tontuu-record.mixlr.com/events/4761924</a></p>\n\n<p><a href=\"https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br />\n\">https://youtu.be/3GEShktbNPU?si=F4VFyIAiXcX1XfKl<br>\n</a><br>\n</p>\n\t\t\t</span>\n\t\t</div>"
       },
       {
         "date": "",
@@ -23,7 +94,7 @@
         "isPast": false,
         "bodyJp": "<a href=\"/archives/2025/250302160000.html\">お問い合わせ</a>",
         "bodyEn": "<a href=\"/archives/2025/250302160000.html\">Contact</a>",
-        "html": "<div class=\"block_box\">\n\t\t\t\t\t<span class=\"en\">\n\t\t\t\t\t\t<p><a href=\"/archives/2025/250302160000.html\">Contact</a></p>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t\t<p><a href=\"/archives/2025/250302160000.html\">お問い合わせ</a></p>\n\t\t\t\t\t</span>\n\n\t\t\t\t</div>"
+        "html": "<div class=\"block_box\">\n\t\t\t\t\t\t<span class=\"en\">\n\t\t\t<p><a href=\"/archives/2025/250302160000.html\">Contact</a></p>\n\t\t\t</span>\n\t\t\t<span class=\"jp\">\n\t\t\t<p><a href=\"/archives/2025/250302160000.html\">お問い合わせ</a></p>\n\t\t\t</span>\n\t\t\t\n\t\t</div>"
       },
       {
         "date": "",
@@ -32,7 +103,7 @@
         "isPast": false,
         "bodyJp": "",
         "bodyEn": "",
-        "html": "<div class=\"block_box double\">\n\t\t\t\t\t<form action=\"/results.html\" id=\"cse-search-box\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cx\" value=\"014907293768141237070:-iqvx2tf_ey\">\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cof\" value=\"FORID:9\">\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"ie\" value=\"UTF-8\">\n\t\t\t\t\t\t\t<input type=\"text\" name=\"q\" size=\"40\" value=\"\" class=\"keywords\">\n\t\t\t\t\t\t\t<input type=\"submit\" name=\"sa\" value=\"search\" class=\"button\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</form>\n\t\t\t\t\t<script type=\"text/javascript\" src=\"http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja\"></script>\n\t\t\t\t</div>"
+        "html": "<div class=\"block_box double\">\n\t\t\t<form action=\"/results.html\" id=\"cse-search-box\">\n\t\t\t<div>\n\t\t\t\t<input type=\"hidden\" name=\"cx\" value=\"014907293768141237070:-iqvx2tf_ey\">\n\t\t\t\t<input type=\"hidden\" name=\"cof\" value=\"FORID:9\">\n\t\t\t\t<input type=\"hidden\" name=\"ie\" value=\"UTF-8\">\n\t\t\t<input type=\"text\" name=\"q\" size=\"40\" value=\"\" class=\"keywords\">\n\t\t\t<input type=\"submit\" name=\"sa\" value=\"search\" class=\"button\">\n\t\t\t</div>\t\n\t\t\t</form>\n\t\t\t<script type=\"text/javascript\" src=\"http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja\"></script>\n\t\t</div>"
       }
     ]
   },

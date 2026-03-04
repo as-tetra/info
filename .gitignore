@@ -34,3 +34,5 @@ templates_c/
 .cache_*.php
 
 OPERATION_GUIDE.md
+
+.env

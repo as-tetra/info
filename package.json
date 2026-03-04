@@ -34,7 +34,15 @@
     "remove-path-prefix:dry": "node scripts/remove-path-prefix.js --dry-run",
     "fix-hardcoded-urls": "node scripts/fix-hardcoded-urls.js",
     "fix-hardcoded-urls:dry": "node scripts/fix-hardcoded-urls.js --dry-run",
-    "fix-nfd-urls": "node scripts/fix-nfd-urls-in-html.js"
+    "fix-nfd-urls": "node scripts/fix-nfd-urls-in-html.js",
+    "normalize-urls": "node scripts/normalize-html-urls.js",
+    "normalize-urls:dry": "node scripts/normalize-html-urls.js --dry-run",
+    "add-img-width": "node scripts/add-img-width.js",
+    "add-img-width:dry": "node scripts/add-img-width.js --dry-run",
+    "initial": "bash scripts/sync-from-server.sh",
+    "initial:dry": "bash scripts/sync-from-server.sh --dry-run",
+    "initial:sync": "bash scripts/sync-from-server.sh --sync-only",
+    "initial:process": "bash scripts/sync-from-server.sh --skip-sync"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",

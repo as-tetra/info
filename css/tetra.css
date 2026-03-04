@@ -11,6 +11,7 @@ body {
 	color: #262626;
 	background-color: #FFF;
 }
+
 #container {
 	margin: 0;
 	padding: 0;
@@ -20,15 +21,18 @@ body {
 img {
 	max-width: 100%;
 }
+
 a img {
 	border: none;
 }
-img.left{
-	float:left;
+
+img.left {
+	float: left;
 	margin: 0 20px 20px 0;
 }
+
 img.right {
-	float:right;
+	float: right;
 	margin: 0 0 20px 20px;
 }
 
@@ -36,7 +40,11 @@ a {
 	text-decoration: none;
 	color: #656565;
 }
-a:hover, .block1 h1 a:hover, .block_box h1 a:hover, div.side_menu .side_block a:hover {
+
+a:hover,
+.block1 h1 a:hover,
+.block_box h1 a:hover,
+div.side_menu .side_block a:hover {
 	color: #000000;
 	text-decoration: underline;
 }
@@ -44,26 +52,59 @@ a:hover, .block1 h1 a:hover, .block_box h1 a:hover, div.side_menu .side_block a:
 .alignleft {
 	float: left;
 }
+
 .alignright {
 	float: right;
-	text-align: right;	
+	text-align: right;
 }
 
-.clear, .clear5, .clear10, .clear20, .clear30, .clear40, .clear50, .clear100 {
+.clear,
+.clear5,
+.clear10,
+.clear20,
+.clear30,
+.clear40,
+.clear50,
+.clear100 {
 	margin: 0;
 	padding: 0;
 	width: 100%;
 	clear: both;
 	float: none;
 }
-.clear { height: 1px; }
-.clear5 { height: 5px; }
-.clear10 { height: 10px; }
-.clear20 { height: 20px; }
-.clear30 { height: 30px; }
-.clear40 { height: 40px; }
-.clear50 { height: 50px; }
-.clear100 { height: 100px; }
+
+.clear {
+	height: 1px;
+}
+
+.clear5 {
+	height: 5px;
+}
+
+.clear10 {
+	height: 10px;
+}
+
+.clear20 {
+	height: 20px;
+}
+
+.clear30 {
+	height: 30px;
+}
+
+.clear40 {
+	height: 40px;
+}
+
+.clear50 {
+	height: 50px;
+}
+
+.clear100 {
+	height: 100px;
+}
+
 .clear20m {
 	margin: 0 0 20px 0;
 	padding: 0;
@@ -72,7 +113,9 @@ a:hover, .block1 h1 a:hover, .block_box h1 a:hover, div.side_menu .side_block a:
 	float: none;
 	border-bottom: 1px solid #E6E6E6;
 }
-.none, ul.update img {
+
+.none,
+ul.update img {
 	display: none;
 	visibility: hidden;
 }
@@ -80,14 +123,16 @@ a:hover, .block1 h1 a:hover, .block_box h1 a:hover, div.side_menu .side_block a:
 
 /* header -----------------------------------------------------------*/
 #header {
-	margin:0;
+	margin: 0;
 	padding: 43px 15px 55px 15px;
 }
-img.head_logo{
+
+img.head_logo {
 	margin: 0;
 	padding: 0;
 	float: left;
 }
+
 span.lang {
 	margin: 0;
 	padding: 2px 10px 3px 5px;
@@ -102,13 +147,15 @@ span.lang {
 
 /* footer -----------------------------------------------------------*/
 #footer {
-	margin:0;
+	margin: 0;
 	padding: 222px 15px 24px 15px;
 	font-size: 63%;
 }
+
 #footer .alignleft {
 	letter-spacing: 0.2ex;
 }
+
 #footer .alignright {
 	position: fixed;
 	margin: 0;
@@ -121,11 +168,12 @@ span.lang {
 /* side menu -----------------------------------------------------------*/
 div.side_menu {
 	width: 150px;
-	margin:0;
+	margin: 0;
 	padding: 0 0 0 15px;
 	float: left;
 	left: 0px;
 }
+
 div.side_menu h3 {
 	font-size: 63%;
 	border-bottom: 1px solid #E6E6E6;
@@ -134,6 +182,7 @@ div.side_menu h3 {
 	text-indent: 0.3em;
 	letter-spacing: 0.1em;
 }
+
 /*アコーディオン用
 div.side_menu dt {
 	font-size: 63%;
@@ -150,9 +199,10 @@ div.side_menu dd {
 }
 */
 div.side_menu ul {
-	margin:  0.5em 0 2em 0;
+	margin: 0.5em 0 2em 0;
 	padding: 0;
 }
+
 div.side_menu li {
 	margin: 0 0 0.5em 0;
 	padding: 0;
@@ -160,32 +210,39 @@ div.side_menu li {
 	text-indent: 0.3em;
 	font-size: 75%;
 }
-div.side_menu ul.year{
-	margin:  0.5em 0 75px 0;
+
+div.side_menu ul.year {
+	margin: 0.5em 0 75px 0;
 }
-div.side_menu ul.year li{
+
+div.side_menu ul.year li {
 	float: left;
 	padding: 0 1em 0 0;
 }
+
 div.side_menu p {
 	margin: 0.3em 0 2em 0;
 	padding: 0.3em;
 	font-size: 64%;
 	line-height: 1.3em;
 }
+
 div.side_menu .side_block {
 	margin: 0;
 	padding: 4px 0 1px 4px;
 	background-color: #C5C5C5;
 }
-div.side_menu .side_block a{
+
+div.side_menu .side_block a {
 	color: #FFFFFF;
 }
+
 div.side_menu .side_block h3 {
 	margin: 0;
 	padding: 0;
 	border-bottom: none;
 }
+
 a.side {
 	margin: 0;
 	padding: 4px 0 1px 6px;
@@ -201,12 +258,21 @@ div.main {
 	margin: 0 0 0 221px;
 	padding: 0 15px 0 0;
 }
-div.main p a { border-bottom: 1px dotted #D1DDE0; }
-div.main p a img { border-bottom: 1px solid #FFF; margin: 0 0 -5px 0;}
+
+div.main p a {
+	border-bottom: 1px dotted #D1DDE0;
+}
+
+div.main p a img {
+	border-bottom: 1px solid #FFF;
+	margin: 0 0 -5px 0;
+}
+
 .block1 {
 	margin: 0 0 1.5em 0;
 	padding: 0;
 }
+
 .block1 p {
 	width: 85%;
 	margin: 0 0 1em 0;
@@ -214,6 +280,7 @@ div.main p a img { border-bottom: 1px solid #FFF; margin: 0 0 -5px 0;}
 	font-size: 75%;
 	line-height: 1.5em;
 }
+
 .block1 h1 {
 	font-size: 175%;
 	margin: 0;
@@ -223,43 +290,51 @@ div.main p a img { border-bottom: 1px solid #FFF; margin: 0 0 -5px 0;}
 	line-height: 1.3em;
 	letter-spacing: 0.05em;
 }
+
 h1 u {
 	font-size: 80%;
 	text-decoration: none;
 }
+
 .block1 h1 a {
 	color: #000;
 }
-.pagenate p{
+
+.pagenate p {
 	width: 98%;
 	text-align: right;
 }
+
 h1 .shirushi {
 	font-size: 6px;
 	padding: 0 0 0 1em;
-	color: #E8EAEF;	
+	color: #E8EAEF;
 }
+
 .block1 blockquote {
 	margin: 0 0 2em 0;
 	padding: 0 1em 1em 1em;
-	background-color:#FFFFCC;
+	background-color: #FFFFCC;
 	width: 94%;
 }
+
 .block1 blockquote p {
 	width: 100%;
 	margin: 0 0 0.5em 0;
 	padding: 0;
 	line-height: 1.4em;
 }
+
 .caps {
 	font-size: 75%;
 	display: block;
 	margin: -20px 0 2em 0;
-	padding: 0;	
+	padding: 0;
 }
 
 /* Year Archives ----------------------------------------------------------------*/
-.block_box, .block_box2 {
+.block_box,
+.block_box2 {
 	margin: 0 4% 55px 0;
 	padding: 5px;
 	float: left;
@@ -267,19 +342,27 @@ h1 .shirushi {
 	height: 256px;
 	overflow: hidden;
 }
-.block_box { border-bottom: 3px solid #FFF; }
+
+.block_box {
+	border-bottom: 3px solid #FFF;
+}
+
 .block_box2 {
 	background-color: #FFFED6;
 	border-bottom: 3px solid #FFFED6;
 }
-.block_box p, .block_box2 p {
+
+.block_box p,
+.block_box2 p {
 	width: 100%;
 	margin: 0 0 1em 0;
 	padding: 0;
 	font-size: 57%;
 	line-height: 1.5em;
 }
-.block_box h1, .block_box2 h1 {
+
+.block_box h1,
+.block_box2 h1 {
 	font-size: 100%;
 	margin: 0;
 	padding: 0 0 0.3em 0;
@@ -288,13 +371,19 @@ h1 .shirushi {
 	line-height: 1.3em;
 	letter-spacing: 0.05em;
 }
-.block_box h1 a, .block_box2 h1 a {
+
+.block_box h1 a,
+.block_box2 h1 a {
 	color: #000;
 }
-.block_box img, .block_box2 img {
+
+.block_box img,
+.block_box2 img {
 	width: 100%;
 }
-.block_box span.m_body p, .block_box2 span.m_body p {
+
+.block_box span.m_body p,
+.block_box2 span.m_body p {
 	font-family: Garamond, "Hiragino Mincho Pro", "ヒラギノ明朝 Pro W3", "ＭＳ Ｐ明朝", serif;
 	width: 100%;
 	margin: 1em 0;
@@ -302,18 +391,27 @@ h1 .shirushi {
 	font-size: 63%;
 	line-height: 1.5em;
 }
-.block_box span.m_body p img, .block_box2 span.m_body p img {
+
+.block_box span.m_body p img,
+.block_box2 span.m_body p img {
 	margin: 2px 0;
 	padding: 0;
 }
-.block_box span.none, .block_box2 span.none {
+
+.block_box span.none,
+.block_box2 span.none {
 	display: none;
-	visibility: hidden;	
+	visibility: hidden;
 }
-.block_box object, .block_box2 object, .block_box embed, .block_box2 embed {
+
+.block_box object,
+.block_box2 object,
+.block_box embed,
+.block_box2 embed {
 	width: 100%;
 	height: 180px;
 }
+
 h1.archive_title {
 	font-size: 160%;
 	margin: 0;
@@ -334,6 +432,7 @@ span.m_body p {
 	font-size: 88%;
 	line-height: 1.5em;
 }
+
 span.m_body p img {
 	margin: 2px 0;
 	padding: 0;
@@ -354,8 +453,9 @@ form table {
 	margin: 0;
 	padding: 10px;
 	font-size: 75%;
-	border: 1px solid #CCCCCC;	
+	border: 1px solid #CCCCCC;
 }
+
 form table td {
 	margin: 0;
 	padding: 10px;
@@ -370,6 +470,7 @@ h3.update {
 	text-indent: 0.3em;
 	letter-spacing: 0.1em;
 }
+
 ul.update {
 	font-size: 63%;
 	margin: 0 0 41px -0.3em;
@@ -378,14 +479,22 @@ ul.update {
 	display: block;
 	color: #656565;
 }
-* html ul.update { margin: 0 0 51px -0.3em; }
-*+html ul.update { margin: -0.4em 0 51px -0.3em; }
+
+* html ul.update {
+	margin: 0 0 51px -0.3em;
+}
+
+*+html ul.update {
+	margin: -0.4em 0 51px -0.3em;
+}
+
 ul.update li {
 	border-bottom: 1px solid #E6E6E6;
 	margin: 0;
 	padding: 0.5em 0 0.4em 0;
 	text-indent: 0.3em;
 }
+
 *+html ul.update li {
 	border-bottom: 1px solid #E6E6E6;
 	margin: 0 0 0.4em 0;
@@ -393,11 +502,13 @@ ul.update li {
 	height: 1em;
 	line-height: 1em;
 }
-ul.update li a{
+
+ul.update li a {
 	margin: 0 0 0 1em;
 	letter-spacing: 0.05em;
 }
-ul.update .none{
+
+ul.update .none {
 	display: inline;
 	visibility: visible;
 }
@@ -409,14 +520,17 @@ ul.update .none{
 	font-size: 75%;
 	border: none;
 }
+
 .mailform td {
 	padding: 10px 30px 5px 0;
 }
-.mailform td span{
+
+.mailform td span {
 	margin: 0 -0.6em 0 0;
 	padding: 0 0 0 0.2em;
-	color: #FF0000;	
+	color: #FF0000;
 }
+
 .class1 {
 	border: 1px solid #CCCCCC;
 	padding: 0 0.2em;
@@ -426,51 +540,71 @@ ul.update .none{
 	letter-spacing: 0.03em;
 	_letter-spacing: 0.1em;
 }
-input.class1:focus, textarea.class1:focus {
-	background-color: #FFFFC5;	
+
+input.class1:focus,
+textarea.class1:focus {
+	background-color: #FFFFC5;
 }
 
 /* other ----------------------------------------------------------------*/
 div.max {
 	padding: 5px 3px;
-	overflow:hidden;
+	overflow: hidden;
 	position: static;
 	background-color: #000000;
 }
+
 div.max object {
 	margin: 1px;
 	float: left;
 	vertical-align: top;
 }
+
 .search_block {
 	margin: 0 0 1.5em 0;
 	padding: 0;
 	width: 100%;
-	overflow:hidden;
+	overflow: hidden;
 }
+
 .search_block iframe {
 	width: 100%;
 }
+
 a.more {
 	margin: 30px 0 0 3px;
 	width: 5.2em;
-	text-align:center;
+	text-align: center;
 	padding: 4px 3px 2px 4px;
 	background-color: #C5C5C5;
 	color: #FFFFFF;
 	border-bottom: none;
 	display: block;
 }
-a.more:hover, a.side:hover {
+
+a.more:hover,
+a.side:hover {
 	color: #000000;
 	text-decoration: none;
 }
+
 blockquote.special_exp {
 	padding: 0.5em 0.7em;
 	width: auto;
 	font-size: 90%;
-	background-color: #EAEAEA;	
+	background-color: #EAEAEA;
 }
-blockquote.special_exp p { width:100%;  padding: 0; margin: 0; }
-.special_more p { color: #CCCCCC; }
-.special_more p strong { color: #494949; }
+
+blockquote.special_exp p {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.special_more p {
+	color: #CCCCCC;
+}
+
+.special_more p strong {
+	color: #494949;
+}
