@@ -195,7 +195,7 @@ log_ok "ジャンルデータ抽出完了"
 npm run extract-archive-entries --silent
 log_ok "アーカイブデータ抽出完了"
 
-node scripts/extract-tetra-entries.js
+npm run extract-tetra-entries --silent
 log_ok "tetraデータ抽出完了"
 
 # ----------------------------------------
