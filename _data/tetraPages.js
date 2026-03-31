@@ -1,34 +1,109 @@
 module.exports = [
   {
     "pageNumber": 0,
-    "totalPages": 12,
-    "entryCount": 359,
+    "totalPages": 13,
+    "entryCount": 366,
     "isFirstPage": true,
     "isLastPage": false,
     "entries": [
       {
-        "date": "2026.02.11",
+        "date": "2026.03.21",
+        "isPast": true,
+        "titleJp": "夜の光：オープニングパーティーと２つのトーク",
+        "titleEn": "nightscape：Opening Party and Two Talks",
+        "url": "/archives/2026/260321173000.html",
+        "imgSrc": "/upload/2026/tetra003のコピー2.jpg",
+        "imgAlt": "夜の光：オープニングパーティーと２つのトーク",
+        "bodyJp": "日程...3月21日（土）<br>\n時間...<br>\n1部：17:30〜18:30　アーティストトーク　<br>\n2部：19:00～21:00　設立時を振り返るクロストーク<br>\nゲスト：遠藤水城（キュレーター）",
+        "bodyEn": "2026.3.21(sat) <br>\n17:30〜18:30　Artist Talk by Takasumi Abe　<br>\n19:00～21:00　Cross Talk: Looking Back at Our Founding Days<br>\n        guest- Mizuki Endo(curater)<br>\nAdmission Free / 1 dring order<br>\npotluck snacks are welcomed<br>\n"
+      },
+      {
+        "date": "2026.03.21-",
         "isPast": false,
+        "titleJp": "安部貴住 個展「夜の光」",
+        "titleEn": "Takasumi Abe solo Exhibition \" nightscape \"",
+        "url": "/archives/2026/260321120000.html",
+        "imgSrc": "/upload/2026/夜の光メリーゴーランド_mini2.jpg",
+        "imgAlt": "安部貴住 個展「夜の光」",
+        "bodyJp": "会期…2026年3月21日（土）〜31日（火）<br>\n時間…平日13:00～20:00 / 土日祝11:00～20:00<br>\n入場無料　<br>\n会期中無休<br>\n※3/21（土）、22（日）、28（土）、29（日）は作家が在廊予定です。",
+        "bodyEn": "2026.3.21(sat) - 31(tue)<br>\nMon-Fri 13:00-20:00 / Sat-Sun and Holiday 11:00-20:00<br>\nAdmission Free<br>\n"
+      },
+      {
+        "date": "2026.03.19",
+        "isPast": true,
+        "titleJp": "大木裕之ACTION!!",
+        "titleEn": "Hiroyuki Oki ACTION!!",
+        "url": "/archives/2026/260319000000.html",
+        "imgSrc": "/upload/2026/okihiroyuki_action.jpg",
+        "imgAlt": "大木裕之ACTION!!　",
+        "bodyJp": "期日｜2026年3月19日（木）<br>\n時間｜19:00〜<br>\n入場無料　要１ドリンクオーダー",
+        "bodyEn": "2026.3.19 Thu<br>\n19:00<br>\nfree admission + 1 drink order"
+      },
+      {
+        "date": "2026.03.16-",
+        "isPast": false,
+        "titleJp": "art space tetra Artist in Residence: Series 5  Artist：シエ・ゾーリン（SeahZelin）",
+        "titleEn": "art space tetra Artist in Residence: Series 5  Artist：Seah Zelin",
+        "url": "/archives/2026/260316190311.html",
+        "imgSrc": "/upload/2026/1.jpg",
+        "imgAlt": "art space tetra Artist in Residence: Series 5  Artist：シエ・ゾーリン（SeahZelin）",
+        "bodyJp": "滞在期間：2026年 3月 12日(木)～4月8日(水)",
+        "bodyEn": "Residency Period: Thursday, March 12, 2026 – Wednesday, April 8, 2026"
+      },
+      {
+        "date": "2026.03.07-",
+        "isPast": true,
+        "titleJp": "「タイトル、どうする？」／ What Should The Title Be ? 鈴木淳・遠藤梨夏 映像作品による二人展",
+        "titleEn": "「タイトル、どうする？」／ What Should The Title Be ? 鈴木淳・遠藤梨夏 映像作品による二人展",
+        "url": "/archives/2026/260307233200.html",
+        "imgSrc": "/upload/2026/IMG_3271.jpeg",
+        "imgAlt": "「タイトル、どうする？」／ What Should The Title Be ? 鈴木淳・遠藤梨夏 映像作品による二人展",
+        "bodyJp": "【会期】2026年3月7日（土）〜15日（日）<br>\n【時間】13:00～19:00",
+        "bodyEn": "【会期】2026年3月7日（土）〜15日（日）<br>\n【時間】13:00～19:00"
+      },
+      {
+        "date": "2026.02.21",
+        "isPast": true,
+        "titleJp": "capture late morning live 26(ほたか / 中村勇治)",
+        "titleEn": "capture late morning live 26(Nakamura Yuji / HOTAKA Tanigawa)",
+        "url": "/archives/2026/260221110000.html",
+        "imgSrc": "/upload/2026/hotaka_picture.jpg",
+        "imgAlt": "capture late morning live 26(ほたか / 中村勇治)",
+        "bodyJp": "【日時】2026年2月21日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
+        "bodyEn": "February 21st (Sat), 2026<br>\nStart:11:00AM<br>\nOpen:10:30AM"
+      },
+      {
+        "date": "2026.02.13-",
+        "isPast": true,
+        "titleJp": "《불안한 안온함》 不安なやすらぎ",
+        "titleEn": "《불안한 안온함》 不安なやすらぎ",
+        "url": "/archives/2026/260213121844.html",
+        "imgSrc": "/upload/2026/68CC3CAC-CB79-4685-9E3B-17CA72F5BE71.jpg",
+        "imgAlt": "《불안한 안온함》 不安なやすらぎ",
+        "bodyJp": "日程：2026年2月13日（金）～19日（木）<br>\n時間：13:00～19:00<br>\n会場：art space tetra 1F<br>\nアーティスト：ユン・ソンウク<br>\nキュレーター：キム・ミキョ　",
+        "bodyEn": "2026.02.13.-19.<br>\n1pm-7pm<br>\nart space tetra 1F<br>\nArtist_Yoon, Seunguk<br>\nCurator_Kim, Mikyo<br>\n"
+      },
+      {
+        "date": "2026.02.11",
+        "isPast": true,
         "titleJp": "テトラ アナーキー大放談 最終回！",
         "titleEn": "tetra Anarchy Talk Final!",
         "url": "/archives/2026/260211095010.html",
         "imgSrc": "/upload/2026/AnarchyTalk1.jpg",
         "imgAlt": "テトラ アナーキー大放談 最終回！",
-        "imgWidth": "168",
-        "bodyJp": "会期：2026年2月11日（水・祝）<br>\n\t\t\t\t\t\t時間：18:00 - 20:00<br>\n\t\t\t\t\t\t入場無料 ＋ 1 drink order<br>\n\t\t\t\t\t\t座談会：尾中俊介 / 牧園憲二 / 山内光枝 / 森元斎",
-        "bodyEn": "date : Feburary 11, 2026 (wed)<br>\n\t\t\t\t\t\ttime : 6 pm - 8 pm<br>\n\t\t\t\t\t\tfree admission + 1 drink order<br>\n\t\t\t\t\t\tShunsuke Onaka / Kenji Makizono / Terue Ymauchi / Motonao Mori"
+        "bodyJp": "会期：2026年2月11日（水・祝）<br>\n時間：18:00 - 20:00<br>\n入場無料 ＋ 1 drink order<br>\n座談会：尾中俊介 / 牧園憲二 / 山内光枝 / 森元斎",
+        "bodyEn": "date : Feburary 11, 2026 (wed)<br>\ntime : 6 pm - 8 pm<br>\nfree admission + 1 drink order<br>\nShunsuke Onaka / Kenji Makizono / Terue Ymauchi / Motonao Mori"
       },
       {
         "date": "2026.01.09-",
-        "isPast": false,
+        "isPast": true,
         "titleJp": "是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」",
-        "titleEn": "Nobutaka Koremoto Photo Exhibition 100Asian Portraits\n\t\t\t\t\t\t\t2nd \"Bà Sang và Duyên\"",
+        "titleEn": "Nobutaka Koremoto Photo Exhibition 100Asian Portraits  2nd \"Bà Sang và Duyên\"",
         "url": "/archives/2026/260109012707.html",
         "imgSrc": "/upload/2025/koremoto_S__13975556.jpg",
         "imgAlt": "是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」",
-        "imgWidth": "168",
-        "bodyJp": "会期...2026年1月9日（金） 〜15日（木） <br>\n\t\t\t\t\t\t時間...1月9日〜12日 12:00〜21:00／13日〜15日 13:00〜19:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2026/1/9(Fri) 〜12(Mon) 　12:00〜21:00<br>\n\t\t\t\t\t\t13(Tue)〜15(Thu)　13:00〜19:00<br>\n\t\t\t\t\t\tADMISSION FREE"
+        "bodyJp": "会期...2026年1月9日（金） 〜15日（木） <br>\n時間...1月9日〜12日 12:00〜21:00／13日〜15日 13:00〜19:00<br>\n入場無料",
+        "bodyEn": "2026/1/9(Fri) 〜12(Mon) 　12:00〜21:00<br>\n13(Tue)〜15(Thu)　13:00〜19:00<br>\nADMISSION FREE"
       },
       {
         "date": "2026.01.03",
@@ -38,9 +113,8 @@ module.exports = [
         "url": "/archives/2026/260103010000.html",
         "imgSrc": "/upload/2025/IMG_7475_half.jpeg",
         "imgAlt": "お正月だよ！倉地さんスペシャル 2026",
-        "imgWidth": "168",
-        "bodyJp": "日程...2026年1月3日（土）<br>\n\t\t\t\t\t\t時間...17時スタート<br>\n\t\t\t\t\t\t料金...投げ銭 +１ドリンクオーダーお願いします<br>\n\t\t\t\t\t\t　　　お正月っぽい差し入れ歓迎！<br>\n\t\t\t\t\t\t出演...倉地久美夫<br>\n\t\t\t\t\t\t企画…小山冴子（とんつーレコード）",
-        "bodyEn": "date : Jan 3, 2026(sat)<br>\n\t\t\t\t\t\ttime : 5 PM start<br>\n\t\t\t\t\t\tcharge；1 drink order + Tip . Potluck snacks and foods are welcomed.<br>\n\t\t\t\t\t\tcast: Kumio Kurachi"
+        "bodyJp": "日程...2026年1月3日（土）<br>\n時間...17時スタート<br>\n料金...投げ銭 +１ドリンクオーダーお願いします<br>\n　　　お正月っぽい差し入れ歓迎！<br>\n出演...倉地久美夫<br>\n企画…小山冴子（とんつーレコード）",
+        "bodyEn": "date : Jan 3, 2026(sat)<br>\ntime : 5 PM  start<br>\ncharge；1 drink order + Tip . Potluck snacks and foods are welcomed.<br>\ncast: Kumio Kurachi"
       },
       {
         "date": "2025.12.27-",
@@ -50,21 +124,19 @@ module.exports = [
         "url": "/archives/2025/251227114117.html",
         "imgSrc": "/upload/2025/IMG_2945.jpeg",
         "imgAlt": "鈴木淳展「,etc. 2025」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年12月27日（土）-28日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年12月27日（土）-28日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年12月27日（土）-28日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年12月27日（土）-28日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2025.12.20",
         "isPast": true,
         "titleJp": "capture late morning live 25(調原作,鈴木淳,中村勇治)",
-        "titleEn": "capture late morning live 25(Gensaku Shirabe,Atsushi\n\t\t\t\t\t\t\tSuzuki,Nakamura Yuji))",
+        "titleEn": "capture late morning live 25(Gensaku Shirabe,Atsushi Suzuki,Nakamura Yuji))",
         "url": "/archives/2025/251220110000.html",
         "imgSrc": "/upload/2025/20251220small.png",
         "imgAlt": "capture late morning live 25(調原作,鈴木淳,中村勇治)",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2025年12月20日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭制＋1ドリンクオーダー<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
-        "bodyEn": "December 20th (Sat), 2025<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2025年12月20日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
+        "bodyEn": "December 20th (Sat), 2025<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2025.12.20-",
@@ -74,33 +146,30 @@ module.exports = [
         "url": "/archives/2025/251220004355.html",
         "imgSrc": "/upload/2025/IMG_2311.jpeg",
         "imgAlt": "鈴木淳個展シリーズ「On the Bed 2025-12 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年12月20日（土）-21日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年12月20日（土）-21日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年12月20日（土）-21日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年12月20日（土）-21日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2025.12.18",
         "isPast": true,
-        "titleJp": "笹久保伸レクチャーライブ 記録者の芸術/秩父前衛派の実践",
-        "titleEn": "Nobu Sasakubo Lecture-Performance The Art of the\n\t\t\t\t\t\t\tDocumentarian / The Practice of the Chichibu Avant-Garde",
+        "titleJp": "笹久保伸レクチャーライブ    記録者の芸術/秩父前衛派の実践",
+        "titleEn": "Nobu Sasakubo Lecture-Performance   The Art of the Documentarian / The Practice of the Chichibu Avant-Garde",
         "url": "/archives/2025/251218203852.html",
         "imgSrc": "/upload/2025/1.jpg",
         "imgAlt": "笹久保伸レクチャーライブ    記録者の芸術/秩父前衛派の実践",
-        "imgWidth": "168",
-        "bodyJp": "日程：2025年12月18日(木)<br>\n\t\t\t\t\t\t時間：19:30～21:30※30分前開場<br>\n\t\t\t\t\t\t会場：a r t s p a c e t e t r a<br>\n\t\t\t\t\t\t住所：福岡県福岡市博多区須崎町2ー１５<br>\n\t\t\t\t\t\t料金：3,000円＋1ドリンクオーダー ( 事前予約 2,700円)<br>\n\t\t\t\t\t\t※学生は通常料金から半額、小学生以下無料",
+        "bodyJp": "日程：2025年12月18日(木)<br>\n時間：19:30～21:30※30分前開場<br>\n会場：a r t   s p a c e   t e t r a<br>\n住所：福岡県福岡市博多区須崎町2ー１５<br>\n料金：3,000円＋1ドリンクオーダー ( 事前予約 2,700円)<br>\n※学生は通常料金から半額、小学生以下無料",
         "bodyEn": "Date: Thursday, December 18, 2025"
       },
       {
         "date": "2025.11.29-",
         "isPast": true,
-        "titleJp": "C h o c o t a n a / ちょこたな - モノクロ写真（是本信高）と\n\t\t\t\t\t\t\t映像（わえ）の二人展",
-        "titleEn": "C h o c o t a n a - black-and-white photography\n\t\t\t\t\t\t\t+movie",
+        "titleJp": "C  h  o  c  o  t  a  n  a / ちょこたな - モノクロ写真（是本信高）と 映像（わえ）の二人展",
+        "titleEn": "C  h  o  c  o  t  a  n  a - black-and-white photography +movie",
         "url": "/archives/2025/251129110000.html",
         "imgSrc": "/upload/2025/5913399a-ae54-4f17-af6f-51eacecef296.jpeg",
         "imgAlt": "C  h  o  c  o  t  a  n  a / ちょこたな - モノクロ写真（是本信高）と 映像（わえ）の二人展",
-        "imgWidth": "168",
-        "bodyJp": "2025.11/29[土 Sat]・30[日 Sun] 11:00〜19:00<br>\n\t\t\t\t\t\t観覧無料 ADMISSION FREE<br>\n\t\t\t\t\t\tアートスペース・テトラ　福岡県福岡市博多区須崎町2-15",
-        "bodyEn": "Nov. 29th[Sat] and 30th[Sun], 2025<br>\n\t\t\t\t\t\tADMISSION FREE<br>\n\t\t\t\t\t\tart space tetra　　2-15 Suzaki-machi, Hakata-ku, Fukuoka, Japan<br>\n\t\t\t\t\t"
+        "bodyJp": "2025.11/29[土 Sat]・30[日 Sun] 11:00〜19:00<br>\n観覧無料 ADMISSION FREE<br>\nアートスペース・テトラ　福岡県福岡市博多区須崎町2-15",
+        "bodyEn": "Nov. 29th[Sat] and 30th[Sun], 2025<br>\nADMISSION FREE<br>\nart space tetra　　2-15 Suzaki-machi, Hakata-ku, Fukuoka, Japan<br>\n"
       },
       {
         "date": "2025.11.22",
@@ -110,9 +179,8 @@ module.exports = [
         "url": "/archives/2025/251122224935.html",
         "imgSrc": "/upload/2025/テトラで踊る.JPG",
         "imgAlt": "「絵とダンスセッション」",
-        "imgWidth": "168",
-        "bodyJp": "2025年11月22日（土）<br>\n\t\t\t\t\t\t19:15開演（上演時間は約30分）<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t",
-        "bodyEn": "2025年11月22日（土）<br>\n\t\t\t\t\t\t19:15開演（上演時間は約30分）<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t"
+        "bodyJp": "2025年11月22日（土）<br>\n19:15開演（上演時間は約30分）<br>\n入場無料<br>\n",
+        "bodyEn": "2025年11月22日（土）<br>\n19:15開演（上演時間は約30分）<br>\n入場無料<br>\n"
       },
       {
         "date": "2025.11.22-",
@@ -122,9 +190,8 @@ module.exports = [
         "url": "/archives/2025/251122224433.html",
         "imgSrc": "/upload/2025/IMG_1874.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-11 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "2025年11月22日（土）-24日（月）<br>\n\t\t\t\t\t\t13:00～20:00",
-        "bodyEn": "2025年11月22日（土）-24日（月）<br>\n\t\t\t\t\t\t13:00～20:00"
+        "bodyJp": "2025年11月22日（土）-24日（月）<br>\n13:00～20:00",
+        "bodyEn": "2025年11月22日（土）-24日（月）<br>\n13:00～20:00"
       },
       {
         "date": "2025.11.08-",
@@ -134,9 +201,8 @@ module.exports = [
         "url": "/archives/2025/251108002706.html",
         "imgSrc": "/upload/2025/IMG_2440.jpeg",
         "imgAlt": "脱線した風景A Derailed Landscape",
-        "imgWidth": "168",
-        "bodyJp": "会期Exhibition Period:：2025.11.8 (Sat) – 11.14 (Fri)<br>\n\t\t\t\t\t\t時間Open：13:00 - 20:00　<br>\n\t\t\t\t\t\t(＊11.14 (Fri)：13:00 - 8:30)<br>\n\t\t\t\t\t\tオープニングイベント<br>\n\t\t\t\t\t\tOpening Event：2025.11.8 (Sat) 18:00<br>\n\t\t\t\t\t",
-        "bodyEn": "会期Exhibition Period:：2025.11.8 (Sat) – 11.14 (Fri)<br>\n\t\t\t\t\t\t時間Open：13:00 - 20:00　<br>\n\t\t\t\t\t\t(＊11.14 (Fri)：13:00 - 8:30)<br>\n\t\t\t\t\t\tオープニングイベント<br>\n\t\t\t\t\t\tOpening Event：2025.11.8 (Sat) 18:00<br>\n\t\t\t\t\t"
+        "bodyJp": "会期Exhibition Period:：2025.11.8 (Sat) – 11.14 (Fri)<br>\n時間Open：13:00 - 20:00　<br>\n(＊11.14 (Fri)：13:00 - 8:30)<br>\nオープニングイベント<br>\nOpening Event：2025.11.8 (Sat) 18:00<br>\n",
+        "bodyEn": "会期Exhibition Period:：2025.11.8 (Sat) – 11.14 (Fri)<br>\n時間Open：13:00 - 20:00　<br>\n(＊11.14 (Fri)：13:00 - 8:30)<br>\nオープニングイベント<br>\nOpening Event：2025.11.8 (Sat) 18:00<br>\n"
       },
       {
         "date": "2025.10.26",
@@ -146,21 +212,19 @@ module.exports = [
         "url": "/archives/2025/251026110000.html",
         "imgSrc": "/upload/2025/554594034_1511092469795265_560378691706193692_n.jpg",
         "imgAlt": "capture late morning live 24(w/Kurihara)",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2025年10月26日（日）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭制＋1ドリンクオーダー<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
-        "bodyEn": "October 26th (Sun), 2025<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2025年10月26日（日）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
+        "bodyEn": "October 26th (Sun), 2025<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2025.10.25-",
         "isPast": true,
-        "titleJp": "Berlin Netzzz! MINI BerlinNetzzz! / art space tetra\n\t\t\t\t\t\t\tpresent",
-        "titleEn": "Berlin Netzzz! MINI BerlinNetzzz! / art space tetra\n\t\t\t\t\t\t\tpresent",
+        "titleJp": "Berlin Netzzz! MINI  BerlinNetzzz! / art space tetra  present",
+        "titleEn": "Berlin Netzzz! MINI  BerlinNetzzz! / art space tetra  present",
         "url": "/archives/2025/251025142251.html",
         "imgSrc": "/upload/2025/att.HoimcCy9P_lMyay53rJEcIRpVA82AYJfThks2VUO_d4.jpeg",
         "imgAlt": " Berlin Netzzz! MINI  BerlinNetzzz! / art space tetra  present",
-        "imgWidth": "168",
-        "bodyJp": "2025/10/25 SAT<br>\n\t\t\t\t\t\t13:00-23:00<br>\n\t\t\t\t\t\t2025/10/26 SUN<br>\n\t\t\t\t\t\t10:30-21:00",
-        "bodyEn": "2025/10/25 SAT<br>\n\t\t\t\t\t\t1:00 PM - 11:00 PM<br>\n\t\t\t\t\t\t2025/10/26 SUN<br>\n\t\t\t\t\t\t10:30 AM - 9:00 PM"
+        "bodyJp": "2025/10/25 SAT<br>\n13:00-23:00<br>\n2025/10/26 SUN<br>\n10:30-21:00",
+        "bodyEn": "2025/10/25 SAT<br>\n1:00 PM - 11:00 PM<br>\n2025/10/26 SUN<br>\n10:30 AM - 9:00 PM"
       },
       {
         "date": "2025.10.25-",
@@ -170,21 +234,19 @@ module.exports = [
         "url": "/archives/2025/251025103756.html",
         "imgSrc": "/upload/2025/IMG_1874.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-10 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年10月25日（土）-26日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年10月25日（土）-26日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年10月25日（土）-26日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年10月25日（土）-26日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2025.10.22-",
         "isPast": true,
-        "titleJp": "art space tetra アーティスト イン レジデンス 第４弾 　/　WER DA（Werner\n\t\t\t\t\t\t\tKernebeck、David Braithwaite）",
-        "titleEn": "art space tetra Artist in Residence Series Vol. 4 /\n\t\t\t\t\t\t\tWER DA (Werner Kernebeck, David Braithwaite)",
+        "titleJp": "art space tetra アーティスト イン レジデンス 第４弾  　/　WER DA（Werner Kernebeck、David Braithwaite）",
+        "titleEn": "art space tetra Artist in Residence Series Vol. 4 / WER DA (Werner Kernebeck, David Braithwaite)",
         "url": "/archives/2025/251022152233.html",
         "imgSrc": "/upload/2025/art space tetra アーティスト イン レジデンス 第3弾 (Instagramの投稿).jpg",
         "imgAlt": "art space tetra アーティスト イン レジデンス 第４弾  　/　WER DA（Werner Kernebeck、David Braithwaite）",
-        "imgWidth": "168",
-        "bodyJp": "アーティスト：WER DA（Werner Kernebeck、David Braithwaite）<br>\n\t\t\t\t\t\tGermany, Berlin<br>\n\t\t\t\t\t\t彫刻、インスタレーション、パフォーマンス<br>\n\t\t\t\t\t\t■滞在期間<br>\n\t\t\t\t\t\t日程：10月22日(水)～10月26日(日)",
-        "bodyEn": "Artists: WER DA (Werner Kernebeck, David Braithwaite)<br>\n\t\t\t\t\t\tGermany, Berlin<br>\n\t\t\t\t\t\tSculpture, Installation, Performance<br>\n\t\t\t\t\t\t■ Residency Period<br>\n\t\t\t\t\t\tDates: Wednesday, October 22nd - Sunday, October 26th"
+        "bodyJp": "アーティスト：WER DA（Werner Kernebeck、David Braithwaite）<br>\nGermany, Berlin<br>\n彫刻、インスタレーション、パフォーマンス<br>\n■滞在期間<br>\n日程：10月22日(水)～10月26日(日)",
+        "bodyEn": "Artists: WER DA (Werner Kernebeck, David Braithwaite)<br>\nGermany, Berlin<br>\nSculpture, Installation, Performance<br>\n■ Residency Period<br>\nDates: Wednesday, October 22nd - Sunday, October 26th"
       },
       {
         "date": "2025.09.27-",
@@ -194,9 +256,8 @@ module.exports = [
         "url": "/archives/2025/250927222155.html",
         "imgSrc": "/upload/2025/2025.jpg",
         "imgAlt": "Art Fair Earth 2025",
-        "imgWidth": "168",
-        "bodyJp": "会場: art space tetra<br>\n\t\t\t\t\t\t日程: 2025年9月27日(土)、28日(日)<br>\n\t\t\t\t\t\t時間: 13:00 - 20:00<br>\n\t\t\t\t\t\t入場料: 無料",
-        "bodyEn": "会場: art space tetra<br>\n\t\t\t\t\t\t日程: 2025年9月27日(土)、28日(日)<br>\n\t\t\t\t\t\t時間: 13:00 - 20:00<br>\n\t\t\t\t\t\t入場料: 無料"
+        "bodyJp": "会場: art space tetra<br>\n日程: 2025年9月27日(土)、28日(日)<br>\n時間: 13:00 - 20:00<br>\n入場料: 無料",
+        "bodyEn": "会場: art space tetra<br>\n日程: 2025年9月27日(土)、28日(日)<br>\n時間: 13:00 - 20:00<br>\n入場料: 無料"
       },
       {
         "date": "2025.09.06-",
@@ -206,9 +267,8 @@ module.exports = [
         "url": "/archives/2025/250906014924.html",
         "imgSrc": "/upload/2025/IMG_1874.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-9 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年9月6日（土）-7日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年9月6日（土）-7日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年9月6日（土）-7日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年9月6日（土）-7日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2025.08.31",
@@ -218,9 +278,8 @@ module.exports = [
         "url": "/archives/2025/250831003052.html",
         "imgSrc": "/upload/2025/IMG_1325.jpeg",
         "imgAlt": "Chat(ter)ing 9ueerly——クィアはおしゃべり",
-        "imgWidth": "168",
-        "bodyJp": "日時：2025年8月31日（日）12:30開場、13:00〜18:00<br>\n\t\t\t\t\t\t場所：art space tetra ２階",
-        "bodyEn": "Date and time: Sunday, August 31, 2025, doors open at 12:30 p.m., 1:00 p.m. to 6:00 p.m.<br>\n\t\t\t\t\t\tLocation: art space tetra 2nd floor"
+        "bodyJp": "日時：2025年8月31日（日）12:30開場、13:00〜18:00<br>\n場所：art space tetra ２階",
+        "bodyEn": "Date and time: Sunday, August 31, 2025, doors open at 12:30 p.m., 1:00 p.m. to 6:00 p.m.<br>\nLocation: art space tetra 2nd floor"
       },
       {
         "date": "2025.08.22-",
@@ -230,9 +289,8 @@ module.exports = [
         "url": "/archives/2025/250822155103.html",
         "imgSrc": "/upload/2025/LINE_ALBUM_個展@tetra  展示作品達_250707_14.jpg",
         "imgAlt": "HAKODA Solo Exhibtion「Force of Distance」",
-        "imgWidth": "168",
-        "bodyJp": "◾️2025年8月22日(金)〜2025年8月31日(日)<br>\n\t\t\t\t\t\t◾️12:00〜20:00 ※初日のみオープニングパーティのため22:00 まで",
-        "bodyEn": "◾️August 22 (Fri) to August 31 (Sun), 2025<br>\n\t\t\t\t\t\t◾️12:00 p.m. to 8:00 p.m. <br>\n\t\t\t\t\t\t*On the first day only, the event will be open until 10:00 p.m. due to the opening party."
+        "bodyJp": "◾️2025年8月22日(金)〜2025年8月31日(日)<br>\n◾️12:00〜20:00 ※初日のみオープニングパーティのため22:00 まで",
+        "bodyEn": "◾️August 22 (Fri) to August 31 (Sun), 2025<br>\n◾️12:00 p.m. to 8:00 p.m. <br>\n *On the first day only, the event will be open until 10:00 p.m. due to the opening party."
       },
       {
         "date": "2025.08.10",
@@ -242,9 +300,8 @@ module.exports = [
         "url": "/archives/2025/250810110000.html",
         "imgSrc": "/upload/2025/BAEE11AB-378D-4DDE-A3B0-B69790E9FF96.png",
         "imgAlt": "capture late morning live 23(w/サネマツアキラ)",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2025年8月10日（日）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭制＋1ドリンクオーダー<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
-        "bodyEn": "August 10th (Sun), 2025<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2025年8月10日（日）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
+        "bodyEn": "August 10th (Sun), 2025<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2025.08.09-",
@@ -254,9 +311,8 @@ module.exports = [
         "url": "/archives/2025/250809222256.html",
         "imgSrc": "/upload/2025/IMG_1775.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-8 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年8月9日（土）-10日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t",
-        "bodyEn": "【会期】2025年8月9日（土）-10日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t"
+        "bodyJp": "【会期】2025年8月9日（土）-10日（日）<br>\n【時間】13:00～20:00<br>\n",
+        "bodyEn": "【会期】2025年8月9日（土）-10日（日）<br>\n【時間】13:00～20:00<br>\n"
       },
       {
         "date": "2025.07.26-",
@@ -266,33 +322,40 @@ module.exports = [
         "url": "/archives/2025/250726214331.html",
         "imgSrc": "/upload/2025/IMG_1502.jpeg",
         "imgAlt": "Yun Hyejeong ユン・ヘジョン Tigers and Women",
-        "imgWidth": "168",
-        "bodyJp": "2025.7.26（土）～2025.8.2（土）<br>\n\t\t\t\t\t\t開場時間 17:00 - 22:00",
-        "bodyEn": "2025.7.26（土）～2025.8.2（土）<br>\n\t\t\t\t\t\tOpening hours:17:00 - 22:00"
+        "bodyJp": "2025.7.26（土）～2025.8.2（土）<br>\n開場時間 17:00 - 22:00",
+        "bodyEn": "2025.7.26（土）～2025.8.2（土）<br>\nOpening hours:17:00 - 22:00"
       },
       {
         "date": "2025.07.26",
         "isPast": true,
         "titleJp": "市野 多見 & トマ メゾンナス「ジュネーブのアート事情」",
-        "titleEn": "ichino tami & Thomas Maisonnasse「About Geneva's\n\t\t\t\t\t\t\tart scene」",
+        "titleEn": "ichino tami & Thomas Maisonnasse「About Geneva's art scene」",
         "url": "/archives/2025/250726120537.html",
         "imgSrc": "/upload/2025/tami-talk-session_eyecatch.jpg",
         "imgAlt": "市野 多見 & トマ メゾンナス「ジュネーブのアート事情」",
-        "imgWidth": "168",
-        "bodyJp": "日程 ：2025 7月 26日(土)<br>\n\t\t\t\t\t\t時間 ：16:00-18:00<br>\n\t\t\t\t\t\tゲスト ：川口あこ (現代美術作家)<br>\n\t\t\t\t\t\t司会　 ：調 原作 (art space tetraメンバー)<br>\n\t\t\t\t\t\t参加費　: ¥500 ※1drink order代",
-        "bodyEn": "2025 July 26<br>\n\t\t\t\t\t\t16:00-18:00<br>\n\t\t\t\t\t\tGuest : Ako Kawaguchi (Contemporary Artist) <br>\n\t\t\t\t\t\tModerator : Gensaku Shirabe (Member of art space tetra) <br>\n\t\t\t\t\t\tFee : ¥500 *1drink order fee"
-      },
+        "bodyJp": "日程     ：2025 7月 26日(土)<br>\n時間     ：16:00-18:00<br>\nゲスト  ：川口あこ (現代美術作家)<br>\n司会　  ：調 原作 (art space tetraメンバー)<br>\n参加費　:  ¥500  ※1drink order代",
+        "bodyEn": "2025 July 26<br>\n16:00-18:00<br>\nGuest : Ako Kawaguchi (Contemporary Artist) <br>\nModerator : Gensaku Shirabe (Member of art space tetra) <br>\nFee : ¥500 *1drink order fee"
+      }
+    ],
+    "permalink": "tetra/index.html"
+  },
+  {
+    "pageNumber": 1,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2025.07.12-",
         "isPast": true,
         "titleJp": "鈴木淳個展シリーズ 「On the Bed 2025-7 ,etc.」",
         "titleEn": "鈴木淳個展シリーズ 「On the Bed 2025-7 ,etc.」",
         "url": "/archives/2025/250712214505.html",
-        "imgSrc": "/upload/2025/IMG_0663.jpeg",
+        "imgSrc": "/upload/2025/IMG_0663-thumb.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-7 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年7月12日（土）-13日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年7月12日（土）-13日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年7月12日（土）-13日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年7月12日（土）-13日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2025.06.28",
@@ -302,9 +365,8 @@ module.exports = [
         "url": "/archives/2025/250628180000.html",
         "imgSrc": "/upload/2025/68732small.jpg",
         "imgAlt": "Sounds Of Jugaad",
-        "imgWidth": "168",
-        "bodyJp": "2025.06.28(土曜日)<br>\n\t\t\t\t\t\t18時開演<br>\n\t\t\t\t\t\t1000円 + Drinks",
-        "bodyEn": "Saturday 6.28.2025<br>\n\t\t\t\t\t\t6pm Start<br>\n\t\t\t\t\t\t1000JPY + Drinks"
+        "bodyJp": "2025.06.28(土曜日)<br>\n18時開演<br>\n1000円 + Drinks",
+        "bodyEn": "Saturday 6.28.2025<br>\n6pm Start<br>\n1000JPY + Drinks"
       },
       {
         "date": "2025.06.21-",
@@ -314,9 +376,8 @@ module.exports = [
         "url": "/archives/2025/250621193053.html",
         "imgSrc": "/upload/2025/IMG_0663.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-6 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年6月21日（土）-22日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年6月21日（土）-22日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年6月21日（土）-22日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年6月21日（土）-22日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2025.06.21",
@@ -326,9 +387,8 @@ module.exports = [
         "url": "/archives/2025/250621110000.html",
         "imgSrc": "/upload/2025/kurachi.png",
         "imgAlt": "capture late morning live 22(w/倉地久美夫)",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2025年6月21日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭制＋1ドリンクオーダー<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
-        "bodyEn": "June 21st (Sat), 2025<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2025年6月21日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭制＋1ドリンクオーダー<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) ",
+        "bodyEn": "June 21st (Sat), 2025<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2025.06.08-",
@@ -338,19 +398,17 @@ module.exports = [
         "url": "/archives/2025/250608150000.html",
         "imgSrc": "/upload/2025/1EC28FB6-76BF-4A80-A040-537289FDDA3D.jpeg",
         "imgAlt": "平家あたる個展「アパートメント・ムニキス」",
-        "imgWidth": "168",
         "bodyJp": "作家　平家あたるによる数年ぶりの個展",
         "bodyEn": null
       },
       {
         "date": "2025.06.02",
         "isPast": true,
-        "titleJp": "Sid Frank Talk & Live Performance  -\n\t\t\t\t\t\t\tSoundscapes, Fragments of Memory -",
-        "titleEn": "Sid Frank Talk & Live Performance  -\n\t\t\t\t\t\t\tSoundscapes, Fragments of Memory -",
+        "titleJp": "Sid Frank Talk & Live Performance  - Soundscapes, Fragments of Memory -",
+        "titleEn": "Sid Frank Talk & Live Performance  - Soundscapes, Fragments of Memory -",
         "url": "/archives/2025/250602224806.html",
         "imgSrc": "/upload/2025/IMG_1116.jpeg",
         "imgAlt": "Sid Frank Talk & Live Performance  - Soundscapes, Fragments of Memory -",
-        "imgWidth": "168",
         "bodyJp": "日程：6月2日(月)",
         "bodyEn": "Date: Monday, June 2"
       },
@@ -362,67 +420,52 @@ module.exports = [
         "url": "/archives/2025/250518183000.html",
         "imgSrc": "/upload/2025/20250518_Insta_small.png",
         "imgAlt": "capture next vol.3",
-        "imgWidth": "168",
-        "bodyJp": "2025/5/18(日)18:00開場18:30開演<br>\n\t\t\t\t\t\tcharge: ¥1,500+1drink",
-        "bodyEn": "May 18th, 2025 (Sun) open 18:00 / start 18:30<br>\n\t\t\t\t\t\tCharge 1,500 JPY + 1 drink order required"
-      }
-    ],
-    "permalink": "tetra/index.html"
-  },
-  {
-    "pageNumber": 1,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "2025/5/18(日)18:00開場18:30開演<br>\ncharge: ¥1,500+1drink",
+        "bodyEn": "May 18th, 2025 (Sun) open 18:00 / start 18:30<br>\nCharge 1,500 JPY + 1 drink order required"
+      },
       {
         "date": "2025.05.17-",
         "isPast": true,
         "titleJp": "鈴木淳個展シリーズ 「On the Bed 2025-5 ,etc.」",
-        "titleEn": "Atsushi Suzuki Exhibition series 「On the Bed 2025-5\n\t\t\t\t\t\t\t,etc.」",
+        "titleEn": "Atsushi Suzuki Exhibition series 「On the Bed 2025-5 ,etc.」",
         "url": "/archives/2025/250517190852.html",
         "imgSrc": "/upload/2025/IMG_0663.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-5 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年5月17日（土）-18日（日）<br>\n\t\t\t\t\t\t【時間】17日（土）13:00～21:00、18日（日）13:00～18:00 ※ご注意ください<br>\n\t\t\t\t\t",
-        "bodyEn": "【Date】2025.5.17（Sat）-18（Sun）<br>\n\t\t\t\t\t\t【time】17（Sat）13:00～21:00, 18（Sun）13:00～18:00<br>\n\t\t\t\t\t"
+        "bodyJp": "【会期】2025年5月17日（土）-18日（日）<br>\n【時間】17日（土）13:00～21:00、18日（日）13:00～18:00 ※ご注意ください<br>\n",
+        "bodyEn": "【Date】2025.5.17（Sat）-18（Sun）<br>\n【time】17（Sat）13:00～21:00, 18（Sun）13:00～18:00<br>\n"
       },
       {
         "date": "2025.05.02-",
         "isPast": true,
         "titleJp": "曝す（さらす） ～IYOTA JIMMY、加藤笑平、鳴島充人による連続10日間の公開制作～",
-        "titleEn": "Expose ～10 consecutive days of public production by\n\t\t\t\t\t\t\t~IYOTA JIMMY, Shohei Kato, and Ahito Narishima",
+        "titleEn": "Expose ～10 consecutive days of public production by ~IYOTA JIMMY, Shohei Kato, and Ahito Narishima",
         "url": "/archives/2025/250502223632.html",
         "imgSrc": "/upload/2025/IMG_2886.jpeg",
         "imgAlt": "曝す（さらす） ～IYOTA JIMMY、加藤笑平、鳴島充人による連続10日間の公開制作～",
-        "imgWidth": "168",
-        "bodyJp": "会　期： 2025年5月2日（金）〜11日（日） <br>\n\t\t\t\t\t\t時　間： 15:00〜21:00<br>\n\t\t\t\t\t\t<strong> ※上記時間は確実なオープン時間です。<br>\n\t\t\t\t\t\t\t※公開制作は24時間オープンを10日間行い、上記以外の時間は施錠した状態で24時間オープン。会期中は各アーティストが自由に制作、展示を行い、時間外でも作家在廊時は入場可能。不在時でもガラス越しに常にご覧いただけます。<br>\n\t\t\t\t\t\t</strong><br>\n\t\t\t\t\t\t入場：無料（差し入れ歓迎）<br>\n\t\t\t\t\t\t会場： art space tetra (福岡県福岡市博多区須崎2-15)\n\t\t\t\t\t",
-        "bodyEn": "Dates: Friday, May 2 - Sunday, May 11, 2025 <br>\n\t\t\t\t\t\tHours: 15:00 - 21:00<br>\n\t\t\t\t\t\tThe above hours are definite opening hours. Basically, the gallery will be open 24 hours a day\n\t\t\t\t\t\twith the doors locked, and each artist will be free to create and exhibit freely during the\n\t\t\t\t\t\texhibition period. <br>\n\t\t\t\t\t\tVenue: art space tetra (2-15 Susaki, Hakata-ku, Fukuoka City, Fukuoka Prefecture)<br>\n\t\t\t\t\t"
+        "bodyJp": "会　期： 2025年5月2日（金）〜11日（日） <br>\n時　間： 15:00〜21:00<br>\n<strong>  ※上記時間は確実なオープン時間です。<br>\n※公開制作は24時間オープンを10日間行い、上記以外の時間は施錠した状態で24時間オープン。会期中は各アーティストが自由に制作、展示を行い、時間外でも作家在廊時は入場可能。不在時でもガラス越しに常にご覧いただけます。<br>\n</strong><br>\n 入場：無料（差し入れ歓迎）<br>\n会場： art space tetra (福岡県福岡市博多区須崎2-15)",
+        "bodyEn": "Dates: Friday, May 2 - Sunday, May 11, 2025 <br>\nHours: 15:00 - 21:00<br>\n The above hours are definite opening hours. Basically, the gallery will be open 24 hours a day with the doors locked, and each artist will be free to create and exhibit freely during the exhibition period. <br>\nVenue: art space tetra (2-15 Susaki, Hakata-ku, Fukuoka City, Fukuoka Prefecture)<br>\n"
       },
       {
         "date": "2025.04.29",
         "isPast": true,
         "titleJp": "フランスの若手サウンドアーティスト Hugo氏 来日記念イベント開催！",
-        "titleEn": "Special Event Celebrating the Visit of French Sound\n\t\t\t\t\t\t\tArtist Hugo!",
+        "titleEn": "Special Event Celebrating the Visit of French Sound Artist Hugo!",
         "url": "/archives/2025/250429122157.html",
         "imgSrc": "/upload/2025/moss_workshop_presentation.jpg",
         "imgAlt": "フランスの若手サウンドアーティスト Hugo氏 来日記念イベント開催！",
-        "imgWidth": "168",
-        "bodyJp": "日程：2025 4月 29日(火)- 30(水)<br>\n\t\t\t\t\t\t時間：18:00-20:00",
-        "bodyEn": "2025 APR 29- 30<br>\n\t\t\t\t\t\t18:00-20:00"
+        "bodyJp": "日程：2025 4月 29日(火)- 30(水)<br>\n時間：18:00-20:00",
+        "bodyEn": "2025 APR 29- 30<br>\n18:00-20:00"
       },
       {
         "date": "2025.04.23-",
         "isPast": true,
         "titleJp": "Berlin Netzzz! ベルリンネッツ！ vol. 01 in Fukuoka",
-        "titleEn": "Berlin Netzzz! vol. 01 in Fukuoka",
+        "titleEn": "Berlin Netzzz!  vol. 01 in Fukuoka",
         "url": "/archives/2025/250423170655.html",
         "imgSrc": "/upload/2025/488769014_18055708433165996_4945017928013132663_n.jpg",
         "imgAlt": "Berlin Netzzz! ベルリンネッツ！ vol. 01 in Fukuoka",
-        "imgWidth": "168",
-        "bodyJp": "日程：2025 4月 23日(水)- 27(日)<br>\n\t\t\t\t\t\t時間：13:00-22:00<strong> (初日のみ17:00オープン)</strong><br>\n\t\t\t\t\t",
-        "bodyEn": "2025 APR 23- 27<br>\n\t\t\t\t\t\t13:00-22:00 (APR 23.: 17:00-)<br>\n\t\t\t\t\t"
+        "bodyJp": "日程：2025 4月 23日(水)- 27(日)<br>\n時間：13:00-22:00<strong> (初日のみ17:00オープン)</strong><br>\n",
+        "bodyEn": "2025 APR 23- 27<br>\n13:00-22:00 (APR 23.: 17:00-)<br>\n"
       },
       {
         "date": "2025.04.05-",
@@ -432,9 +475,8 @@ module.exports = [
         "url": "/archives/2025/250405204433.html",
         "imgSrc": "/upload/2025/IMG_0663.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-4 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年4月5日（土）-6日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t",
-        "bodyEn": "【会期】2025年4月5日（土）-6日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t"
+        "bodyJp": "【会期】2025年4月5日（土）-6日（日）<br>\n【時間】13:00～20:00<br>\n",
+        "bodyEn": "【会期】2025年4月5日（土）-6日（日）<br>\n【時間】13:00～20:00<br>\n"
       },
       {
         "date": "2025.03.22-",
@@ -444,21 +486,19 @@ module.exports = [
         "url": "/archives/2025/250322011238.html",
         "imgSrc": "/upload/2025/鈴木さんon the bed.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-3, etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年3月22日（土）-23日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t\tオープニングパーティー<br>\n\t\t\t\t\t\t3月22日（土）18:00〜21:00",
-        "bodyEn": "【会期】2025年3月22日（土）-23日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t\tオープニングパーティー<br>\n\t\t\t\t\t\t3月22日（土）18:00〜21:00"
+        "bodyJp": "【会期】2025年3月22日（土）-23日（日）<br>\n【時間】13:00～20:00<br>\nオープニングパーティー<br>\n3月22日（土）18:00〜21:00",
+        "bodyEn": "【会期】2025年3月22日（土）-23日（日）<br>\n【時間】13:00～20:00<br>\nオープニングパーティー<br>\n3月22日（土）18:00〜21:00"
       },
       {
         "date": "2025.03.06-",
         "isPast": true,
         "titleJp": "黃鼎鈞 個展「私が闇を見 つめるとき」",
-        "titleEn": "HUANG TING CHUN　Solo Exhibition “When I See the\n\t\t\t\t\t\t\tDarkness",
+        "titleEn": "HUANG TING CHUN　Solo Exhibition “When I See the Darkness",
         "url": "/archives/2025/250306010244.html",
         "imgSrc": "/upload/2025/６６６６.jpg",
         "imgAlt": "黃鼎鈞 個展「私が闇を見 つめるとき」",
-        "imgWidth": "168",
-        "bodyJp": "日程：3月8日(土)-16日(日)<br>\n\t\t\t\t\t\t時間：13:00～20:00",
-        "bodyEn": "Dates: March 8 (Sat.)-16 (Sun.)<br>\n\t\t\t\t\t\tTime: 13:00 - 20:00"
+        "bodyJp": "日程：3月8日(土)-16日(日)<br>\n時間：13:00～20:00",
+        "bodyEn": "Dates: March 8 (Sat.)-16 (Sun.)<br>\nTime: 13:00 - 20:00"
       },
       {
         "date": "2025.02.22",
@@ -468,21 +508,19 @@ module.exports = [
         "url": "/archives/2025/250222183000.html",
         "imgSrc": "/upload/2025/spectrum1080_1350.png",
         "imgAlt": "Spectrum",
-        "imgWidth": "168",
         "bodyJp": "2025年2月22日 (土) 18:00開場 18:30開演",
         "bodyEn": "Feb. 22nd, 2025 (Sat) 18:00open 18:30start"
       },
       {
         "date": "2025.02.15-",
         "isPast": true,
-        "titleJp": "art space tetra アーティスト イン レジデンス 第3弾　黃鼎鈞　HUANG TING\n\t\t\t\t\t\t\tCHUN",
-        "titleEn": "art space tetra Artist in Residence Vol.3 HUANG TING\n\t\t\t\t\t\t\tCHUN",
+        "titleJp": "art space tetra アーティスト イン レジデンス 第3弾　黃鼎鈞　HUANG TING CHUN",
+        "titleEn": "art space tetra Artist in Residence Vol.3 HUANG TING CHUN",
         "url": "/archives/2025/250215233212.html",
         "imgSrc": "/upload/2025/art space tetra Artist-in-Residency Program #3.zip - 3.png",
         "imgAlt": "art space tetra アーティスト イン レジデンス 第3弾　黃鼎鈞　HUANG TING CHUN",
-        "imgWidth": "168",
-        "bodyJp": "◇滞在期間<br>\n\t\t\t\t\t\t日　程　: 2月13日（木）～3月17日（月）",
-        "bodyEn": "Period of stay<br>\n\t\t\t\t\t\tDate : February 13 (Thursday) - March 17 (Monday)"
+        "bodyJp": "◇滞在期間<br>\n日　程　: 2月13日（木）～3月17日（月）",
+        "bodyEn": "Period of stay<br>\nDate : February 13 (Thursday) - March 17 (Monday)"
       },
       {
         "date": "2025.02.15-",
@@ -492,9 +530,8 @@ module.exports = [
         "url": "/archives/2025/250215205309.html",
         "imgSrc": "/upload/2025/IMG_2909.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-2 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年2月15日（土）-16日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t\tオープニングパーティー<br>\n\t\t\t\t\t\t2月15日（土）18:00〜21:00<br>\n\t\t\t\t\t\t※飲みたい方は一品持ち寄りお願いします。",
-        "bodyEn": "【会期】2025年2月15日（土）-16日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t\tオープニングパーティー<br>\n\t\t\t\t\t\t2月15日（土）18:00〜21:00<br>\n\t\t\t\t\t\t※飲みたい方は一品持ち寄りお願いします。<br>\n\t\t\t\t\t"
+        "bodyJp": "【会期】2025年2月15日（土）-16日（日）<br>\n【時間】13:00～20:00<br>\nオープニングパーティー<br>\n2月15日（土）18:00〜21:00<br>\n※飲みたい方は一品持ち寄りお願いします。",
+        "bodyEn": "【会期】2025年2月15日（土）-16日（日）<br>\n【時間】13:00～20:00<br>\nオープニングパーティー<br>\n2月15日（土）18:00〜21:00<br>\n※飲みたい方は一品持ち寄りお願いします。<br>\n"
       },
       {
         "date": "2025.02.11-",
@@ -504,7 +541,6 @@ module.exports = [
         "url": "/archives/2025/250211140610.html",
         "imgSrc": "/upload/2025/7866F79A-405F-45E4-BB28-B0D4A9F70A41.jpeg",
         "imgAlt": "LiLi's Market ",
-        "imgWidth": "168",
         "bodyJp": "2月11日(火) - 13日(木)",
         "bodyEn": "2月11日(火) - 13日(木)"
       },
@@ -516,9 +552,8 @@ module.exports = [
         "url": "/archives/2025/250211132815.html",
         "imgSrc": "/upload/2025/378B3B40-AC3F-40C9-858D-161219E232FE.jpeg",
         "imgAlt": "COLD CUTS - Jolyon Jones",
-        "imgWidth": "168",
-        "bodyJp": "2/11（火）・2/12（水）・2/13（木）<br>\n\t\t\t\t\t\t時間：12:00-20:00",
-        "bodyEn": "2/11 (Tue), 2/12 (Wed), 2/13 (Thu)<br>\n\t\t\t\t\t\tTime: 12:00-20:00"
+        "bodyJp": "2/11（火）・2/12（水）・2/13（木）<br>\n時間：12:00-20:00",
+        "bodyEn": "2/11 (Tue), 2/12 (Wed), 2/13 (Thu)<br>\nTime: 12:00-20:00"
       },
       {
         "date": "2025.02.01-",
@@ -528,9 +563,8 @@ module.exports = [
         "url": "/archives/2025/250201211557.html",
         "imgSrc": "/upload/2025/ec25bb10-9d67-47c6-b3aa-bc4c18bcc3c7.jpeg",
         "imgAlt": "宋秀臣 DEVIL GLITCH 1990",
-        "imgWidth": "168",
-        "bodyJp": "2.1-2.9<br>\n\t\t\t\t\t\t19:00-21:00<br>\n\t\t\t\t\t\t※開始時間が変更になりました。",
-        "bodyEn": "2.1-2.9<br>\n\t\t\t\t\t\t19:00-21:00<br>\n\t\t\t\t\t\t※開始時間が変更になりました。"
+        "bodyJp": "2.1-2.9<br>\n19:00-21:00<br>\n※開始時間が変更になりました。",
+        "bodyEn": "2.1-2.9<br>\n19:00-21:00<br>\n※開始時間が変更になりました。"
       },
       {
         "date": "2025.01.25-",
@@ -540,21 +574,19 @@ module.exports = [
         "url": "/archives/2025/250125000740.html",
         "imgSrc": "/upload/2025/IMG_2909.jpeg",
         "imgAlt": "鈴木淳個展シリーズ 「On the Bed 2025-1 ,etc.」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】2025年1月25日（土）-26日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00",
-        "bodyEn": "【会期】2025年1月25日（土）-26日（日）<br>\n\t\t\t\t\t\t【時間】13:00～20:00"
+        "bodyJp": "【会期】2025年1月25日（土）-26日（日）<br>\n【時間】13:00～20:00",
+        "bodyEn": "【会期】2025年1月25日（土）-26日（日）<br>\n【時間】13:00～20:00"
       },
       {
         "date": "2024.12.21",
         "isPast": true,
-        "titleJp": "capture next vol.2 (art space tetra 20th\n\t\t\t\t\t\t\tanniversary)",
-        "titleEn": "capture next vol.2 (art space tetra 20th\n\t\t\t\t\t\t\tanniversary)",
+        "titleJp": "capture next vol.2 (art space tetra 20th anniversary)",
+        "titleEn": "capture next vol.2 (art space tetra 20th anniversary)",
         "url": "/archives/2024/241221183000.html",
         "imgSrc": "/upload/2024/20241221v1A5.png",
         "imgAlt": "capture next vol.2 (art space tetra 20th anniversary)",
-        "imgWidth": "168",
-        "bodyJp": "2024.12.21(土)open 18:00 / start 18:30<br>\n\t\t\t\t\t\tcharge: ¥1,500+1drink",
-        "bodyEn": "December 21st, 2024 (Sat) open 18:00 / start 18:30<br>\n\t\t\t\t\t\tCharge 1,500 JPY + 1 drink order required"
+        "bodyJp": "2024.12.21(土)open 18:00 / start 18:30<br>\ncharge: ¥1,500+1drink",
+        "bodyEn": "December 21st, 2024 (Sat) open 18:00 / start 18:30<br>\nCharge 1,500 JPY + 1 drink order required"
       },
       {
         "date": "2024.11.09",
@@ -564,9 +596,8 @@ module.exports = [
         "url": "/archives/2024/241109191703.html",
         "imgSrc": "/upload/2024/att.o_J4jgpMd7f_rbdOatyc_FnNJDZQjABGmJxtKs5i9Rs (1).jpg",
         "imgAlt": "「ふたりのSSW お昼のLIVE」",
-        "imgWidth": "168",
-        "bodyJp": "11/09（土）art space tetra<br>\n\t\t\t\t\t\topen13:00 / start14:00-",
-        "bodyEn": "11/09（土）art space tetra<br>\n\t\t\t\t\t\topen13:00 / start14:00-<br>\n\t\t\t\t\t\t「ふたりのSSW お昼のLIVE」<br>\n\t\t\t\t\t\t・佐藤幸雄<br>\n\t\t\t\t\t\t・倉地久美夫<br>\n\t\t\t\t\t\t当日/予約共1800yen + 要1drinkオーダー"
+        "bodyJp": "11/09（土）art space tetra<br>\nopen13:00 / start14:00-",
+        "bodyEn": "11/09（土）art space tetra<br>\nopen13:00 / start14:00-<br>\n「ふたりのSSW お昼のLIVE」<br>\n・佐藤幸雄<br>\n・倉地久美夫<br>\n当日/予約共1800yen + 要1drinkオーダー"
       },
       {
         "date": "2024.09.28",
@@ -576,82 +607,85 @@ module.exports = [
         "url": "/archives/2024/240928110000.html",
         "imgSrc": "/upload/2024/sora写真のコピー.jpeg",
         "imgAlt": "capture late morning live 21",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2024年9月28日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n\t\t\t\t\t",
-        "bodyEn": "September 28th (Sat), 2024<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2024年9月28日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n",
+        "bodyEn": "September 28th (Sat), 2024<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2024.09.22-",
         "isPast": true,
-        "titleJp": "アフメド・トゥバーシ（Ahmed Tobasi）によるワークショップ＆トーク　２days 「Who am\n\t\t\t\t\t\t\tI？」",
-        "titleEn": "Workshop & Talk by Ahmed Tobasi 2days “Who am\n\t\t\t\t\t\t\tI?”",
+        "titleJp": "アフメド・トゥバーシ（Ahmed Tobasi）によるワークショップ＆トーク　２days 「Who am I？」",
+        "titleEn": "Workshop & Talk by Ahmed Tobasi 2days “Who am I?”",
         "url": "/archives/2024/240922004808.html",
         "imgSrc": "/upload/2024/Tobasi ワークショップ.jpg",
         "imgAlt": "アフメド・トゥバーシ（Ahmed Tobasi）によるワークショップ＆トーク　２days 「Who am I？」",
-        "imgWidth": "168",
-        "bodyJp": "日程：9月22日(日)、9月23日(月)<br>\n\t\t\t\t\t\t時間：13:00～（両日共に約2時間程度を予定）<br>\n\t\t\t\t\t\t参加費：2,000円（1日）<br>\n\t\t\t\t\t\t　　　　3,000円（2日間通し）<br>\n\t\t\t\t\t\t　　　　　500円（18才以下/1日）<br>\n\t\t\t\t\t\t※全て展覧会の入場料込みの料金です。すでにご来場いただいている方は500円割引させていただきますのでお渡ししたステッカーをお持ちください。予約不要。<br>\n\t\t\t\t\t\t会場：art space tetra (〒812-0028 福岡市博多区須崎町 2-15)<br>\n\t\t\t\t\t",
-        "bodyEn": "Dates: Sunday, September 22 and Monday, September 23<br>\n\t\t\t\t\t\tTime: 1:00 p.m. - (approximately 2 hours on both days)<br>\n\t\t\t\t\t\tFee: 2,000 yen (1 day)<br>\n\t\t\t\t\t\t　　　　3,000 yen (for the whole 2 days)<br>\n\t\t\t\t\t\t　　　　　500 yen (under 18 years old/one day)<br>\n\t\t\t\t\t\tAll fees include admission to the exhibition. If you have already visited the exhibition, please\n\t\t\t\t\t\tbring the sticker we gave you for a 500 yen discount. No reservation is required.<br>\n\t\t\t\t\t\tVenue: art space tetra (2-15 Susaki-cho, Hakata-ku, Fukuoka 812-0028)"
+        "bodyJp": "日程：9月22日(日)、9月23日(月)<br>\n時間：13:00～（両日共に約2時間程度を予定）<br>\n参加費：2,000円（1日）<br>\n　　　　3,000円（2日間通し）<br>\n　　　　　500円（18才以下/1日）<br>\n※全て展覧会の入場料込みの料金です。すでにご来場いただいている方は500円割引させていただきますのでお渡ししたステッカーをお持ちください。予約不要。<br>\n会場：art space tetra (〒812-0028 福岡市博多区須崎町 2-15)<br>\n",
+        "bodyEn": "Dates: Sunday, September 22 and Monday, September 23<br>\nTime: 1:00 p.m. - (approximately 2 hours on both days)<br>\nFee: 2,000 yen (1 day)<br>\n　　　　3,000 yen (for the whole 2 days)<br>\n　　　　　500 yen (under 18 years old/one day)<br>\nAll fees include admission to the exhibition. If you have already visited the exhibition, please bring the sticker we gave you for a 500 yen discount. No reservation is required.<br>\nVenue: art space tetra (2-15 Susaki-cho, Hakata-ku, Fukuoka 812-0028)"
       },
       {
         "date": "2024.09.16",
         "isPast": true,
         "titleJp": "ART FAIR EARTH 2024関連企画 調原作　アイスランド　オンライン現地レポート",
-        "titleEn": "ART FAIR EARTH 2024 related project: Iceland online\n\t\t\t\t\t\t\treport",
+        "titleEn": "ART FAIR EARTH 2024 related project: Iceland online report",
         "url": "/archives/2024/240916032745.html",
         "imgSrc": "/upload/2024/rock festival (Instagramの投稿).jpg",
         "imgAlt": "ART FAIR EARTH 2024関連企画 調原作　アイスランド　オンライン現地レポート",
-        "imgWidth": "168",
-        "bodyJp": "9月16日（月）<br>\n\t\t\t\t\t\t配信場所：レイキャビック（首都）<br>\n\t\t\t\t\t\t開始：20:00PM　（現地11:00AM）<br>\n\t\t\t\t\t\t会場：art space tetra ＋ YouTube Live配信<br>\n\t\t\t\t\t\tURL：https://youtube.com/live/jgiZLSIyJRk?feature=share<br>\n\t\t\t\t\t\t首都レイキャビックにてアーティスト調原作によるアイスランドのアートシーンを探る旅の現地レポートを実施<br>\n\t\t\t\t\t\t展示：art space tetra 2F<br>\n\t\t\t\t\t\t　　　アーティスト調原作によるアイスランドのアートシーンを探る旅を記録したVlogを展示予定<br>\n\t\t\t\t\t\t　　　2024年９月13日（金）～ ９月23日（月）<br>\n\t\t\t\t\t\t　　　平　日　15:00～20:00<br>\n\t\t\t\t\t\t　　　土日祝　11:00～20:00",
-        "bodyEn": "Monday, September 16<br>\n\t\t\t\t\t\tLocation: Reykjavik (capital city)<br>\n\t\t\t\t\t\tStart: 20:00PM (Local time 11:00AM)<br>\n\t\t\t\t\t\tVenue: art space tetra + YouTube Live streaming<br>\n\t\t\t\t\t\tURL: https://youtube.com/live/jgiZLSIyJRk?feature=share<br>\n\t\t\t\t\t\tA report on a trip to explore the Icelandic art scene by the artist Chohara in Reykjavik, the\n\t\t\t\t\t\tcapital city of Iceland.<br>\n\t\t\t\t\t\tExhibition：art space tetra 2F<br>\n\t\t\t\t\t\t　　　Vlogs of the artist's journey to explore the Icelandic art scene will be exhibited.<br>\n\t\t\t\t\t\t　　　Friday, September 13 - Monday, September 23, 2024<br>\n\t\t\t\t\t\t　　　Weekdays 15:00-20:00<br>\n\t\t\t\t\t\t　　　Saturdays, Sundays and holidays 11:00 - 20:00"
+        "bodyJp": "9月16日（月）<br>\n配信場所：レイキャビック（首都）<br>\n開始：20:00PM　（現地11:00AM）<br>\n会場：art space tetra ＋ YouTube Live配信<br>\nURL：https://youtube.com/live/jgiZLSIyJRk?feature=share<br>\n首都レイキャビックにてアーティスト調原作によるアイスランドのアートシーンを探る旅の現地レポートを実施<br>\n展示：art space tetra 2F<br>\n　　　アーティスト調原作によるアイスランドのアートシーンを探る旅を記録したVlogを展示予定<br>\n　　　2024年９月13日（金）～ ９月23日（月）<br>\n　　　平　日　15:00～20:00<br>\n　　　土日祝　11:00～20:00",
+        "bodyEn": "Monday, September 16<br>\nLocation: Reykjavik (capital city)<br>\nStart: 20:00PM (Local time 11:00AM)<br>\nVenue: art space tetra + YouTube Live streaming<br>\nURL: https://youtube.com/live/jgiZLSIyJRk?feature=share<br>\nA report on a trip to explore the Icelandic art scene by the artist Chohara in Reykjavik, the capital city of Iceland.<br>\nExhibition：art space tetra 2F<br>\n　　　Vlogs of the artist's journey to explore the Icelandic art scene will be exhibited.<br>\n　　　Friday, September 13 - Monday, September 23, 2024<br>\n　　　Weekdays 15:00-20:00<br>\n　　　Saturdays, Sundays and holidays 11:00 - 20:00"
       },
       {
         "date": "2024.09.15-",
         "isPast": true,
-        "titleJp": "ART FAIR FARTH TO CULTIVATE FREEDOM 2024 関連企画\n\t\t\t\t\t\t\tオンラインストリートフォトイベント 「150 MINUTOS EN CALLE」",
-        "titleEn": "ART FAIR FARTH TO CULTIVATE FREEDOM 2024 related\n\t\t\t\t\t\t\tproject “150 MINUTOS EN CALLE” online street photo event",
+        "titleJp": "ART FAIR FARTH TO CULTIVATE FREEDOM 2024 関連企画  オンラインストリートフォトイベント 「150 MINUTOS EN CALLE」",
+        "titleEn": "ART FAIR FARTH TO CULTIVATE FREEDOM 2024 related project “150 MINUTOS EN CALLE” online street photo event",
         "url": "/archives/2024/240915015419.html",
         "imgSrc": "/upload/2024/11113636.png",
         "imgAlt": "ART FAIR FARTH TO CULTIVATE FREEDOM 2024 関連企画  オンラインストリートフォトイベント 「150 MINUTOS EN CALLE」",
-        "imgWidth": "168",
-        "bodyJp": "日時：9月15日<br>\n\t\t\t\t\t\t◻コロンビア時間<br>\n\t\t\t\t\t\t9:45〜<br>\n\t\t\t\t\t\t◻日本時間<br>\n\t\t\t\t\t\t23:45〜<br>\n\t\t\t\t\t\t視聴",
-        "bodyEn": "Date: September 15<br>\n\t\t\t\t\t\t◻Colombia Time<br>\n\t\t\t\t\t\t9:45~.<br>\n\t\t\t\t\t\t◻Japan time<br>\n\t\t\t\t\t\t23:45~ (Japan time)<br>\n\t\t\t\t\t\tViewing"
+        "bodyJp": "日時：9月15日<br>\n◻コロンビア時間<br>\n9:45〜<br>\n◻日本時間<br>\n23:45〜<br>\n視聴",
+        "bodyEn": "Date: September 15<br>\n◻Colombia Time<br>\n9:45~.<br>\n◻Japan time<br>\n23:45~ (Japan time)<br>\nViewing"
       },
       {
         "date": "2024.09.14",
         "isPast": true,
-        "titleJp": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演\n\t\t\t\t\t\t\t「Title TBD」",
-        "titleEn": "ART FAIR EARTH2024 related project: Clark Memorial\n\t\t\t\t\t\t\tInternational High School Drama Club's WS presentation \"Title TBD",
+        "titleJp": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演 「Title TBD」",
+        "titleEn": "ART FAIR EARTH2024 related project: Clark Memorial International High School Drama Club's WS presentation \"Title TBD",
         "url": "/archives/2024/240914215712.html",
         "imgSrc": "/upload/2025/IMG_2887.jpeg",
         "imgAlt": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演 「Title TBD」",
-        "imgWidth": "168",
-        "bodyJp": "日程：9月14日(SAT)<br>\n\t\t\t\t\t\t時間：<br>\n\t\t\t\t\t\t第一部　14:00開演（13:30開場）<br>\n\t\t\t\t\t\t第二部　17:00開演（16:30開場）",
-        "bodyEn": "Date: September 14 (SAT)<br>\n\t\t\t\t\t\tHours:<br>\n\t\t\t\t\t\tFirst part: 14:00 (doors open at 13:30)<br>\n\t\t\t\t\t\tPart 2: 17:00 (doors open at 16:30)"
+        "bodyJp": "日程：9月14日(SAT)<br>\n時間：<br>\n第一部　14:00開演（13:30開場）<br>\n第二部　17:00開演（16:30開場）",
+        "bodyEn": "Date: September 14 (SAT)<br>\nHours:<br>\nFirst part: 14:00 (doors open at 13:30)<br>\nPart 2: 17:00 (doors open at 16:30)"
       },
       {
         "date": "2024.09.13",
         "isPast": true,
-        "titleJp": "ART FAIR EARTH 2024 ～To cultivate freedom～ 関連企画\n\t\t\t\t\t\t\tミャンマー音楽の謎めいた世界へ 全国ツアー2024 / 福岡",
-        "titleEn": "ART FAIR EARTH 2024 ~To cultivate freedom~ Related\n\t\t\t\t\t\t\tPrograms Myanmar Music in the Mysterious World National Tour 2024 / Fukuoka",
+        "titleJp": "ART FAIR EARTH 2024 ～To cultivate freedom～ 関連企画 ミャンマー音楽の謎めいた世界へ 全国ツアー2024 / 福岡",
+        "titleEn": "ART FAIR EARTH 2024 ~To cultivate freedom~ Related Programs Myanmar Music in the Mysterious World National Tour 2024 / Fukuoka",
         "url": "/archives/2024/240913214907.html",
         "imgSrc": "/upload/2024/5.jpg",
         "imgAlt": "ART FAIR EARTH 2024 ～To cultivate freedom～ 関連企画 ミャンマー音楽の謎めいた世界へ 全国ツアー2024 / 福岡",
-        "imgWidth": "168",
-        "bodyJp": "2024年9月13日（金）<br>\n\t\t\t\t\t\t19:00開始（30分前開場）<br>\n\t\t\t\t\t\t21:00終了",
-        "bodyEn": "Friday, September 13, 2024<br>\n\t\t\t\t\t\t19:00 Start (Doors open 30 minutes before)<br>\n\t\t\t\t\t\tEnds at 21:00"
+        "bodyJp": "2024年9月13日（金）<br>\n19:00開始（30分前開場）<br>\n21:00終了",
+        "bodyEn": "Friday, September 13, 2024<br>\n19:00 Start (Doors open 30 minutes before)<br>\nEnds at 21:00"
       },
       {
         "date": "2024.09.13-",
         "isPast": true,
-        "titleJp": "100 Asian Portraits　“một trăm” Asians　(ART FAIR EARTH\n\t\t\t\t\t\t\t2024関連企画)",
-        "titleEn": "100 Asian Portraits　“một trăm” Asians　(ART FAIR EARTH\n\t\t\t\t\t\t\t2024 related project)",
+        "titleJp": "100 Asian Portraits　“một trăm” Asians　(ART FAIR EARTH 2024関連企画)",
+        "titleEn": "100 Asian Portraits　“một trăm” Asians　(ART FAIR EARTH 2024 related project)",
         "url": "/archives/2024/240913202458.html",
         "imgSrc": "/upload/2024/3.jpg",
         "imgAlt": "100 Asian Portraits　“một trăm” Asians　(ART FAIR EARTH 2024関連企画)",
-        "imgWidth": "168",
         "bodyJp": "会場：art space tetra 2F",
-        "bodyEn": "Venue: art space tetra 2F<br>\n\t\t\t\t\t\tDate &amp; Time<br>\n\t\t\t\t\t\t　Friday, September 13, 2024 - Monday, September 23, 2024<br>\n\t\t\t\t\t\t　Weekdays 15:00-20:00<br>\n\t\t\t\t\t\t　Saturdays, Sundays and holidays: 11:00-20:00<br>\n\t\t\t\t\t\tAdmission to ART FIAR EARTH2024 is an additional 500 yen."
-      },
+        "bodyEn": "Venue: art space tetra 2F<br>\nDate &amp; Time<br>\n　Friday, September 13, 2024 - Monday, September 23, 2024<br>\n　Weekdays 15:00-20:00<br>\n　Saturdays, Sundays and holidays: 11:00-20:00<br>\nAdmission to ART FIAR EARTH2024 is an additional 500 yen."
+      }
+    ],
+    "permalink": "tetra/page/2/index.html"
+  },
+  {
+    "pageNumber": 2,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2024.09.13-",
         "isPast": true,
@@ -660,9 +694,8 @@ module.exports = [
         "url": "/archives/2024/240913015854.html",
         "imgSrc": "/upload/2024/1.jpg",
         "imgAlt": "ART FAIR EARTH 2024 ～To cultivate freedom～",
-        "imgWidth": "168",
-        "bodyJp": "【会場】　art space tetra（福岡市博多区須崎町2-15）<br>\n\t\t\t\t\t\t※高校生による成果発表公演の会場は、クラーク記念国際高等学校内3Fホールにて行われます。<br>\n\t\t\t\t\t\t※その他、サテライト会場あり",
-        "bodyEn": "Venue] art space tetra (2-15 Suzaki-cho, Hakata-ku, Fukuoka City)<br>\n\t\t\t\t\t\tThe performance by high school students will be held at the 3rd floor hall of Clark Memorial\n\t\t\t\t\t\tInternational High School.<br>\n\t\t\t\t\t\tOther satellite venues are also available."
+        "bodyJp": "【会場】　art space tetra（福岡市博多区須崎町2-15）<br>\n※高校生による成果発表公演の会場は、クラーク記念国際高等学校内3Fホールにて行われます。<br>\n※その他、サテライト会場あり",
+        "bodyEn": "Venue] art space tetra (2-15 Suzaki-cho, Hakata-ku, Fukuoka City)<br>\nThe performance by high school students will be held at the 3rd floor hall of Clark Memorial International High School.<br>\nOther satellite venues are also available."
       },
       {
         "date": "2024.09.02-",
@@ -672,9 +705,8 @@ module.exports = [
         "url": "/archives/2024/240902212429.html",
         "imgSrc": "/upload/2024/att.pzQVXSDPIDeSA_udV3IA5pb9CrkDSU3pl8m0pkEDeug (1).jpg",
         "imgAlt": "",
-        "imgWidth": "168",
-        "bodyJp": "会期：2024.9.2（月） - 9.8（日）<br>\n\t\t\t\t\t\t13:00 - 21:00<br>\n\t\t\t\t\t\t会場：アートスペース テトラ<br>\n\t\t\t\t\t\t〒812-0028 福岡県福岡市博多区須崎町2-15",
-        "bodyEn": "Dates: 2024.9.2 (Mon) - 9.8 (Sun)<br>\n\t\t\t\t\t\t13:00 - 21:00<br>\n\t\t\t\t\t\tVenue: Art Space Tetra<br>\n\t\t\t\t\t\t2-15 Susaki-cho, Hakata-ku, Fukuoka-shi, Fukuoka 812-0028"
+        "bodyJp": "会期：2024.9.2（月） - 9.8（日）<br>\n13:00 - 21:00<br>\n会場：アートスペース テトラ<br>\n〒812-0028 福岡県福岡市博多区須崎町2-15",
+        "bodyEn": "Dates: 2024.9.2 (Mon) - 9.8 (Sun)<br>\n13:00 - 21:00<br>\nVenue: Art Space Tetra<br>\n2-15 Susaki-cho, Hakata-ku, Fukuoka-shi, Fukuoka 812-0028"
       },
       {
         "date": "2024.08.24",
@@ -684,9 +716,8 @@ module.exports = [
         "url": "/archives/2024/240824110000.html",
         "imgSrc": "/upload/2024/shiramizu_small.png",
         "imgAlt": "capture late morning live 20",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2024年8月24日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n\t\t\t\t\t",
-        "bodyEn": "August 24th (Sat), 2024<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2024年8月24日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n",
+        "bodyEn": "August 24th (Sat), 2024<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2024.07.27",
@@ -696,21 +727,19 @@ module.exports = [
         "url": "/archives/2024/240727110000.html",
         "imgSrc": "/upload/2024/yamamoto_small.jpg",
         "imgAlt": "capture late morning live 19",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2024年7月27日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n\t\t\t\t\t",
-        "bodyEn": "July 27th (Sat), 2024<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2024年7月27日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n",
+        "bodyEn": "July 27th (Sat), 2024<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2024.07.13",
         "isPast": true,
         "titleJp": "ウズベキスタン↔大阪/福岡トーク －デラハジリ下浦さんと一緒に、ウズベキスタンとの交流を考える－",
-        "titleEn": "Uzbekistan ↔ Osaka/Fukuoka Talk -Osaka/Fukuoka talk\n\t\t\t\t\t\t\twith Ms. Shimoura Della Haziri about exchange with Uzbekistan.",
+        "titleEn": "Uzbekistan ↔ Osaka/Fukuoka Talk -Osaka/Fukuoka talk with Ms. Shimoura Della Haziri about exchange with Uzbekistan.",
         "url": "/archives/2024/240713210332.html",
         "imgSrc": "/upload/2024/IMG_0646.jpeg",
         "imgAlt": "ウズベキスタン↔大阪/福岡トーク －デラハジリ下浦さんと一緒に、ウズベキスタンとの交流を考える－",
-        "imgWidth": "168",
-        "bodyJp": "日程：7月13日(土)<br>\n\t\t\t\t\t\t時間：18:30〜21:00 / 15分前開場（終了後、交流会）<br>\n\t\t\t\t\t\t参加費：無料（交流会参加の方は+500円）<br>\n\t\t\t\t\t\tYouTubeライブ<br>\n\t\t\t\t\t\thttps://youtube.com/live/Wyog7rjrK-U?feature=share<br>\n\t\t\t\t\t",
-        "bodyEn": "Date: Saturday, July 13<br>\n\t\t\t\t\t\tTime: 18:30 - 21:00 / Doors open 15 minutes prior to the start of the event (social gathering to\n\t\t\t\t\t\tfollow)<br>\n\t\t\t\t\t\tFee: Free (+500 yen for those attending the social event)"
+        "bodyJp": "日程：7月13日(土)<br>\n時間：18:30〜21:00 / 15分前開場（終了後、交流会）<br>\n参加費：無料（交流会参加の方は+500円）<br>\nYouTubeライブ<br>\nhttps://youtube.com/live/Wyog7rjrK-U?feature=share<br>\n",
+        "bodyEn": "Date: Saturday, July 13<br>\nTime: 18:30 - 21:00 / Doors open 15 minutes prior to the start of the event (social gathering to follow)<br>\nFee: Free (+500 yen for those attending the social event)"
       },
       {
         "date": "2024.07.13-",
@@ -720,55 +749,41 @@ module.exports = [
         "url": "/archives/2024/240713201553.html",
         "imgSrc": "/upload/2024/1_0.jpg",
         "imgAlt": "No.MIJIMI227の オブザベーション ブリーフ",
-        "imgWidth": "168",
-        "bodyJp": "2024年7月13日（土）-15日（月）<br>\n\t\t\t\t\t\t13:00〜21:00<br>\n\t\t\t\t\t\t@art space tetra",
-        "bodyEn": "Saturday, July 13 - Monday, July 15, 2024<br>\n\t\t\t\t\t\t13:00-21:00<br>\n\t\t\t\t\t\t@art space tetra"
+        "bodyJp": "2024年7月13日（土）-15日（月）<br>\n13:00〜21:00<br>\n@art space tetra",
+        "bodyEn": "Saturday, July 13 - Monday, July 15, 2024<br>\n13:00-21:00<br>\n@art space tetra"
       },
       {
         "date": "2024.06.21",
         "isPast": true,
         "titleJp": "台湾・日本 シェアミーティング –日台におけるコレクティヴの今とオルタナティヴの可能性–",
-        "titleEn": "Taiwan-Japan Share Meeting -Collectives in Taiwan and\n\t\t\t\t\t\t\tJapan Today and Possibilities for Alternatives",
+        "titleEn": "Taiwan-Japan Share Meeting -Collectives in Taiwan and Japan Today and Possibilities for Alternatives",
         "url": "/archives/2024/240621210024.html",
         "imgSrc": "/upload/2024/イベント台日.png",
         "imgAlt": "台湾・日本 シェアミーティング –日台におけるコレクティヴの今とオルタナティヴの可能性–",
-        "imgWidth": "168",
-        "bodyJp": "日時：2024年6月21日(金)<br>\n\t\t\t\t\t\t時間：17:30-20:00<br>\n\t\t\t\t\t\t場所：art space tetra<br>\n\t\t\t\t\t\t住所：〒812000福岡県福岡市博多区須崎2-15<br>\n\t\t\t\t\t\t入場料：500円＋1drink order<br>\n\t\t\t\t\t\t※お越しいただいた皆さまに美味しい台湾茶とお茶請けをご用意してお待ちしております。<br>\n\t\t\t\t\t\tLIVE配信：無料（Youtube配信）<br>\n\t\t\t\t\t\thttps://youtube.com/live/HAqvYxgVmxU?feature=share<br>\n\t\t\t\t\t\t主催：悍図社(HANTOO Art Group) × art space tetra",
-        "bodyEn": "Date: Friday, June 21, 2024<br>\n\t\t\t\t\t\tTime: 17:30-20:00<br>\n\t\t\t\t\t\tPlace：art space tetra<br>\n\t\t\t\t\t\tAddress: 2-15 Susaki, Hakata-ku, Fukuoka-shi, Fukuoka 812000<br>\n\t\t\t\t\t\tAdmission: 500 yen + 1drink order<br>\n\t\t\t\t\t\tWe will be waiting for you with delicious Taiwanese tea and teacakes.<br>\n\t\t\t\t\t\tLive Streaming: Free (Youtube)<br>\n\t\t\t\t\t\thttps://youtube.com/live/HAqvYxgVmxU?feature=share<br>\n\t\t\t\t\t\tOrganized by: HANTOO Art Group × art space tetra"
-      }
-    ],
-    "permalink": "tetra/page/2/index.html"
-  },
-  {
-    "pageNumber": 2,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "日時：2024年6月21日(金)<br>\n時間：17:30-20:00<br>\n場所：art space tetra<br>\n住所：〒812000福岡県福岡市博多区須崎2-15<br>\n入場料：500円＋1drink order<br>\n※お越しいただいた皆さまに美味しい台湾茶とお茶請けをご用意してお待ちしております。<br>\nLIVE配信：無料（Youtube配信）<br>\nhttps://youtube.com/live/HAqvYxgVmxU?feature=share<br>\n主催：悍図社(HANTOO Art Group) ×  art space tetra",
+        "bodyEn": "Date: Friday, June 21, 2024<br>\nTime: 17:30-20:00<br>\nPlace：art space tetra<br>\nAddress: 2-15 Susaki, Hakata-ku, Fukuoka-shi, Fukuoka 812000<br>\nAdmission: 500 yen + 1drink order<br>\nWe will be waiting for you with delicious Taiwanese tea and teacakes.<br>\nLive Streaming: Free (Youtube)<br>\nhttps://youtube.com/live/HAqvYxgVmxU?feature=share<br>\nOrganized by: HANTOO Art Group × art space tetra"
+      },
       {
         "date": "2024.06.21-",
         "isPast": true,
-        "titleJp": "ATSUSHI MURAKAMI SOLO EXHIBITION RUST SIDE: A / SIDE:\n\t\t\t\t\t\t\tB",
-        "titleEn": "ATSUSHI MURAKAMI SOLO EXHIBITION RUST SIDE: A / SIDE:\n\t\t\t\t\t\t\tB",
+        "titleJp": "ATSUSHI MURAKAMI SOLO EXHIBITION RUST SIDE: A / SIDE: B",
+        "titleEn": "ATSUSHI MURAKAMI SOLO EXHIBITION RUST SIDE: A / SIDE: B",
         "url": "/archives/2024/240621182201.html",
         "imgSrc": "/upload/2024/S__32448584_0.jpg",
         "imgAlt": "ATSUSHI MURAKAMI SOLO EXHIBITION RUST SIDE: A / SIDE: B",
-        "imgWidth": "168",
-        "bodyJp": "会期：2024 6/21(金)~7/8(月)<br>\n\t\t\t\t\t\t休廊:なし<br>\n\t\t\t\t\t\t時間：13:00~20:00<br>\n\t\t\t\t\t\t会場：art space tetra<br>\n\t\t\t\t\t\t6/29,7/7以外作家在廊",
-        "bodyEn": "会期：2024 6/21(金)~7/8(月)<br>\n\t\t\t\t\t\t休廊:なし<br>\n\t\t\t\t\t\t時間：13:00~20:00<br>\n\t\t\t\t\t\t会場：art space tetra<br>\n\t\t\t\t\t\t6/29,7/7以外作家在廊<br>\n\t\t\t\t\t"
+        "bodyJp": "会期：2024 6/21(金)~7/8(月)<br>\n休廊:なし<br>\n時間：13:00~20:00<br>\n会場：art space tetra<br>\n6/29,7/7以外作家在廊",
+        "bodyEn": "会期：2024 6/21(金)~7/8(月)<br>\n休廊:なし<br>\n時間：13:00~20:00<br>\n会場：art space tetra<br>\n6/29,7/7以外作家在廊<br>\n"
       },
       {
         "date": "2024.06.15",
         "isPast": true,
-        "titleJp": "中国アナキズムの今昔 - 百年前の回想：境界を越えた自由連合 -\n\t\t\t\t\t\t\t未来の試演としての芸術：新たなアジア・インターナショナリズムの可能性？",
-        "titleEn": "Chinese Anarchism Then and Now - Recollections of a\n\t\t\t\t\t\t\tHundred Years Ago: Free Association Across Boundaries - Art as a Trial Performance of the\n\t\t\t\t\t\t\tFuture: The Possibility of a New Asian Internationalism?",
+        "titleJp": "中国アナキズムの今昔 - 百年前の回想：境界を越えた自由連合 - 未来の試演としての芸術：新たなアジア・インターナショナリズムの可能性？",
+        "titleEn": "Chinese Anarchism Then and Now - Recollections of a Hundred Years Ago: Free Association Across Boundaries - Art as a Trial Performance of the Future: The Possibility of a New Asian Internationalism?",
         "url": "/archives/2024/240615201025.html",
         "imgSrc": "/upload/2024/S__57712710.jpg",
         "imgAlt": "中国アナキズムの今昔 - 百年前の回想：境界を越えた自由連合 - 未来の試演としての芸術：新たなアジア・インターナショナリズムの可能性？",
-        "imgWidth": "168",
-        "bodyJp": "日程：2024年6月16日（日）<br>\n\t\t\t\t\t\t時間：15:00-17:00<br>\n\t\t\t\t\t\t会場：art space tetra<br>\n\t\t\t\t\t\t住所：福岡県福岡市博多区須崎2-15",
-        "bodyEn": "Date: Sunday, June 16, 2024<br>\n\t\t\t\t\t\tTime: 15:00-17:00<br>\n\t\t\t\t\t\tVenue: art space tetra<br>\n\t\t\t\t\t\tAddress: 2-15 Susaki, Hakata-ku, Fukuoka City, Fukuoka Prefecture"
+        "bodyJp": "日程：2024年6月16日（日）<br>\n時間：15:00-17:00<br>\n会場：art space tetra<br>\n住所：福岡県福岡市博多区須崎2-15",
+        "bodyEn": "Date: Sunday, June 16, 2024<br>\nTime: 15:00-17:00<br>\nVenue: art space tetra<br>\nAddress: 2-15 Susaki, Hakata-ku, Fukuoka City, Fukuoka Prefecture"
       },
       {
         "date": "2024.05.15",
@@ -778,33 +793,30 @@ module.exports = [
         "url": "/archives/2024/240515193000.html",
         "imgSrc": "/upload/2024/428071516_852244353609024_2073856142576396416_n.jpg",
         "imgAlt": "奇々怪界 enormousfaceパペットショー",
-        "imgWidth": "168",
-        "bodyJp": "日程：2024年5月15日(水)<br>\n\t\t\t\t\t\t時間：19:30開始<br>\n\t\t\t\t\t\t出演：enormousface( <a href=\"https://www.instagram.com/enormousface/\" target=\"_blank\">https://www.instagram.com/enormousface/</a> )<br>\n\t\t\t\t\t\t会場：art space tetra",
-        "bodyEn": "May 15th, 2024<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\tPerformer: enormousface( <a href=\"https://www.instagram.com/enormousface/\" target=\"_blank\">https://www.instagram.com/enormousface/</a> )<br>\n\t\t\t\t\t\tVenue: art space tetra"
+        "bodyJp": "日程：2024年5月15日(水)<br>\n時間：19:30開始<br>\n出演：enormousface( <a href=\"https://www.instagram.com/enormousface/\" target=\"_blank\">https://www.instagram.com/enormousface/</a> )<br>\n会場：art space tetra",
+        "bodyEn": "May 15th, 2024<br>\n19:30 start<br>\nPerformer: enormousface( <a href=\"https://www.instagram.com/enormousface/\" target=\"_blank\">https://www.instagram.com/enormousface/</a> )<br>\nVenue: art space tetra"
       },
       {
         "date": "2024.04.30",
         "isPast": true,
-        "titleJp": "大塚 麻里子　ウズベキスタン滞在報告会＆食事会 「ウズベキスタン×テトラ\n\t\t\t\t\t\t\tミートアップ〜ウズベキスタンのことを知りながら、一緒に座ろう〜　Chaq-chaqlashib o’tirishamiz」",
-        "titleEn": "Mariko Otsuka Report on her stay in Uzbekistan &\n\t\t\t\t\t\t\tDinner \"Uzbekistan x Tetra Meetup - Let's sit together and learn about\n\t\t\t\t\t\t\tUzbekistan　Chaq-chaqlashib o’tirishamiz\".",
+        "titleJp": "大塚 麻里子　ウズベキスタン滞在報告会＆食事会 「ウズベキスタン×テトラ ミートアップ〜ウズベキスタンのことを知りながら、一緒に座ろう〜　Chaq-chaqlashib o’tirishamiz」",
+        "titleEn": "Mariko Otsuka Report on her stay in Uzbekistan & Dinner \"Uzbekistan x Tetra Meetup - Let's sit together and learn about Uzbekistan　Chaq-chaqlashib o’tirishamiz\".",
         "url": "/archives/2024/240430215408.html",
         "imgSrc": "/upload/2024/IMG_0080.jpeg",
         "imgAlt": "大塚 麻里子　ウズベキスタン滞在報告会＆食事会 「ウズベキスタン×テトラ ミートアップ〜ウズベキスタンのことを知りながら、一緒に座ろう〜　Chaq-chaqlashib o’tirishamiz」",
-        "imgWidth": "168",
-        "bodyJp": "会　場：art space tetra 2F<br>\n\t\t\t\t\t\t住　所：福岡県福岡市博多区須崎2-15<br>\n\t\t\t\t\t\t日　程：2024年4月30日（火）<br>\n\t\t\t\t\t\t時　間：18：30～（好きな時間まで）",
-        "bodyEn": "Venue: art space tetra 2F<br>\n\t\t\t\t\t\tAddress: 2-15 Susaki, Hakata-ku, Fukuoka City, Fukuoka Prefecture<br>\n\t\t\t\t\t\tDate: Tuesday, April 30, 2024<br>\n\t\t\t\t\t\tTime: 18:30 - (any time you like)"
+        "bodyJp": "会　場：art space tetra 2F<br>\n住　所：福岡県福岡市博多区須崎2-15<br>\n日　程：2024年4月30日（火）<br>\n時　間：18：30～（好きな時間まで）",
+        "bodyEn": "Venue: art space tetra 2F<br>\nAddress: 2-15 Susaki, Hakata-ku, Fukuoka City, Fukuoka Prefecture<br>\nDate: Tuesday, April 30, 2024<br>\nTime: 18:30 - (any time you like)"
       },
       {
         "date": "2024.04.27-",
         "isPast": true,
         "titleJp": "鳴島充人　福岡初個展 「幽かな遺恨には一房の余花を。」",
-        "titleEn": "Ahito Narushima Fukuoka First Solo Exhibition \"A\n\t\t\t\t\t\t\tbunch of Yohana for a faint regret.\"",
+        "titleEn": "Ahito Narushima Fukuoka First Solo Exhibition \"A bunch of Yohana for a faint regret.\"",
         "url": "/archives/2024/240427124409.html",
         "imgSrc": "/upload/2024/IMG_9969.jpeg",
         "imgAlt": "鳴島充人　福岡初個展 「幽かな遺恨には一房の余花を。」",
-        "imgWidth": "168",
-        "bodyJp": "2024 4/27(土)〜5/6(月・祝)<br>\n\t\t\t\t\t\t13：00〜20：00 (最終日は17時迄)",
-        "bodyEn": "2024 4/27 (Sat.) - 5/6 (Mon., holiday)<br>\n\t\t\t\t\t\t13:00 - 20:00 (last day until 17:00) 2024 4/27 (Sat.) - 5/6 (Mon., holiday)<br>\n\t\t\t\t\t\t13:00 - 20:00 (last day until 17:00)"
+        "bodyJp": "2024  4/27(土)〜5/6(月・祝)<br>\n13：00〜20：00 (最終日は17時迄)",
+        "bodyEn": "2024 4/27 (Sat.) - 5/6 (Mon., holiday)<br>\n13:00 - 20:00 (last day until 17:00) 2024 4/27 (Sat.) - 5/6 (Mon., holiday)<br>\n13:00 - 20:00 (last day until 17:00)"
       },
       {
         "date": "2024.03.30",
@@ -814,9 +826,8 @@ module.exports = [
         "url": "/archives/2024/240330110000.html",
         "imgSrc": "/upload/2023/shido.jpg",
         "imgAlt": "capture late morning live 18",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2024年3月30日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n\t\t\t\t\t",
-        "bodyEn": "March 30th (Sat), 2024<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2024年3月30日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n",
+        "bodyEn": "March 30th (Sat), 2024<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2024.03.24",
@@ -826,7 +837,6 @@ module.exports = [
         "url": "/archives/2024/240324183000.html",
         "imgSrc": "/upload/2024/KARM_LiveStuttgart2023_byOliverHerrmann_small.jpg",
         "imgAlt": "KARM Japan Tour 2024 + 中村勇治",
-        "imgWidth": "168",
         "bodyJp": "<a href=\"#\" onmousedown=\"$.fn.StyleSwichter({cssPath: '/css/tetra_en.css'}); this.blur(); return false;\" onmouseup=\"$('.main').masonry();\">English</a>",
         "bodyEn": "<a href=\"#\" onmousedown=\"$.fn.StyleSwichter({cssPath: '/css/tetra_jp.css'}); this.blur(); return false;\" onmouseup=\"$('.main').masonry();\" class=\"min90\">日本語</a>"
       },
@@ -838,9 +848,8 @@ module.exports = [
         "url": "/archives/2024/240217110000.html",
         "imgSrc": "/upload/2024/415905178_1068085751066845_5003684743955063342_n_small.png",
         "imgAlt": "capture late morning live 17",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2024年2月17日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n\t\t\t\t\t",
-        "bodyEn": "February 17th (Sat), 2024<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2024年2月17日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n",
+        "bodyEn": "February 17th (Sat), 2024<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2024.02.11",
@@ -850,9 +859,8 @@ module.exports = [
         "url": "/archives/2024/240211140000.html",
         "imgSrc": "/upload/2024/kyougenn.jpg",
         "imgAlt": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
-        "imgWidth": "168",
-        "bodyJp": "○日時<br>\n\t\t\t\t\t\t2024年2月11日(日)<br>\n\t\t\t\t\t\t1部14:00~(開場13:30~)<br>\n\t\t\t\t\t\t2部17:00~(開場16:30~)<br>\n\t\t\t\t\t",
-        "bodyEn": "○日時<br>\n\t\t\t\t\t\t2024年2月11日(日)<br>\n\t\t\t\t\t\t1部14:00~(開場13:30~)<br>\n\t\t\t\t\t\t2部17:00~(開場16:30~)"
+        "bodyJp": "○日時<br>\n2024年2月11日(日)<br>\n1部14:00~(開場13:30~)<br>\n2部17:00~(開場16:30~)<br>\n",
+        "bodyEn": "○日時<br>\n2024年2月11日(日)<br>\n1部14:00~(開場13:30~)<br>\n2部17:00~(開場16:30~)"
       },
       {
         "date": "2024.01.27",
@@ -862,9 +870,8 @@ module.exports = [
         "url": "/archives/2024/240127110000.html",
         "imgSrc": "/upload/2024/407070014_2209619829243071_5433516141690131819_n.jpg",
         "imgAlt": "capture late morning live 16",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2024年1月27日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n\t\t\t\t\t",
-        "bodyEn": "January 27th (Sat), 2024<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2024年1月27日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) <br>\n",
+        "bodyEn": "January 27th (Sat), 2024<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2023.12.30",
@@ -874,9 +881,8 @@ module.exports = [
         "url": "/archives/2023/231230110000.html",
         "imgSrc": "/upload/2023/404459793_3419393531724751_5041311105721311384_n.jpg",
         "imgAlt": "【中止】capture late morning live 15",
-        "imgWidth": "168",
         "bodyJp": "<span><strong>出演を予定していた2名とも体調不良となりライブ自体中止とさせていただきます。申し訳ありません。</strong></span><br>",
-        "bodyEn": "<span style=\"color:red;\">[Important　/ cacelled]<br>\n\t\t\t\t\t\t\tThis event is cancelled.</span><br>\n\t\t\t\t\t\t<br><br>\n\t\t\t\t\t\t<s>December 30th (Sat), 2023<br>\n\t\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\t\tOpen:10:30AM</s>\n\t\t\t\t\t"
+        "bodyEn": "<span style=\"color:red;\">[Important　/ cacelled]<br>\nThis event is cancelled.</span><br>\n<br><br>\n<s>December 30th (Sat), 2023<br>\nStart:11:00AM<br>\nOpen:10:30AM</s>"
       },
       {
         "date": "2023.12.21-",
@@ -886,21 +892,19 @@ module.exports = [
         "url": "/archives/2023/231221125431.html",
         "imgSrc": "/upload/2023/345AE413-942B-4F5D-ABD9-0F2E5C0599A8.png",
         "imgAlt": "デッド プランツ＆リビング オブジェクツ",
-        "imgWidth": "168",
-        "bodyJp": "■12月21日(Thu) １６：００〜<br>\n\t\t\t\t\t\t鏡田屋敷",
-        "bodyEn": "■12月21日(Thu) １６：００〜<br>\n\t\t\t\t\t\t鏡田屋敷<br>\n\t\t\t\t\t\t　<br>\n\t\t\t\t\t\t■12月22日(Fri) １９：００〜<br>\n\t\t\t\t\t\t黒田征太郎アトリエ2F<br>\n\t\t\t\t\t\tスペシャルゲスト坂田 明（Sax.）"
+        "bodyJp": "■12月21日(Thu) １６：００〜<br>\n鏡田屋敷",
+        "bodyEn": "■12月21日(Thu) １６：００〜<br>\n鏡田屋敷<br>\n　<br>\n■12月22日(Fri) １９：００〜<br>\n黒田征太郎アトリエ2F<br>\nスペシャルゲスト坂田 明（Sax.）"
       },
       {
         "date": "2023.12.01-",
         "isPast": true,
         "titleJp": "牛島 智子個展 「葉室の光彩 工婦雨から実験へ」 3会場同時開催",
-        "titleEn": "Tomoko Ushijima Solo Exhibition “Light and Color of\n\t\t\t\t\t\t\tHamuro: From Kofu to Experiment” Simultaneous exhibition at three venues",
+        "titleEn": "Tomoko Ushijima Solo Exhibition “Light and Color of Hamuro: From Kofu to Experiment” Simultaneous exhibition at three venues",
         "url": "/archives/2023/231201164337.html",
         "imgSrc": "/upload/2023/IMG_2075.jpeg",
         "imgAlt": "牛島 智子個展 「葉室の光彩 工婦雨から実験へ」 3会場同時開催",
-        "imgWidth": "168",
-        "bodyJp": "➀Artist Cafe Fukuoka<br>\n\t\t\t\t\t\t「事の葉」カフェスペースの壁面に絵画の展示<br>\n\t\t\t\t\t\t2023年12月1日（金）〜12月24日（日）　11:00~19:00　月休館<br>\n\t\t\t\t\t\t入場：無料",
-        "bodyEn": "①Artist Cafe Fukuoka<br>\n\t\t\t\t\t\tExhibition of paintings on the wall of the cafe space<br>\n\t\t\t\t\t\tDecember 1 (Fri.) - 24 (Sun.), 2023 11:00~19:00 Closed on Mondays<br>\n\t\t\t\t\t\tAdmission: Free"
+        "bodyJp": "➀Artist Cafe Fukuoka<br>\n「事の葉」カフェスペースの壁面に絵画の展示<br>\n2023年12月1日（金）〜12月24日（日）　11:00~19:00　月休館<br>\n入場：無料",
+        "bodyEn": "①Artist Cafe Fukuoka<br>\nExhibition of paintings on the wall of the cafe space<br>\nDecember 1 (Fri.) - 24 (Sun.), 2023 11:00~19:00 Closed on Mondays<br>\nAdmission: Free"
       },
       {
         "date": "2023.11.25",
@@ -910,9 +914,8 @@ module.exports = [
         "url": "/archives/2023/231125110000.html",
         "imgSrc": "/upload/2023/245086.jpg",
         "imgAlt": "capture late morning live 14",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2023年11月25日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "November 25th (Sat), 2023<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2023年11月25日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "November 25th (Sat), 2023<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2023.10.15-",
@@ -922,9 +925,8 @@ module.exports = [
         "url": "/archives/2023/231015123330.html",
         "imgSrc": "/upload/2023/371101335_1733668497055870_1126391384711086139_n.jpg",
         "imgAlt": "倉地久美夫個展「Open Today」",
-        "imgWidth": "168",
-        "bodyJp": "会　期：2023年10月15日（日）～10月29日（日）<br>\n\t\t\t\t\t\t※１７日休廊<br>\n\t\t\t\t\t\t時　間：平　日　15：00～20：00　<br>\n\t\t\t\t\t\t　　　　土日祝　13：00～20：00<br>\n\t\t\t\t\t\t入場料：無料",
-        "bodyEn": "会　期：2023年10月15日（日）～10月29日（日）<br>\n\t\t\t\t\t\t※１７日休廊<br>\n\t\t\t\t\t\t時　間：平　日　15：00～20：00　<br>\n\t\t\t\t\t\t　　　　土日祝　13：00～20：00<br>\n\t\t\t\t\t\t入場料：無料"
+        "bodyJp": "会　期：2023年10月15日（日）～10月29日（日）<br>\n※１７日休廊<br>\n時　間：平　日　15：00～20：00　<br>\n　　　　土日祝　13：00～20：00<br>\n入場料：無料",
+        "bodyEn": "会　期：2023年10月15日（日）～10月29日（日）<br>\n※１７日休廊<br>\n時　間：平　日　15：00～20：00　<br>\n　　　　土日祝　13：00～20：00<br>\n入場料：無料"
       },
       {
         "date": "2023.10.14",
@@ -934,9 +936,8 @@ module.exports = [
         "url": "/archives/2023/231014110000.html",
         "imgSrc": "/upload/2023/uchida_small.jpg",
         "imgAlt": "capture late morning live 13",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2023年10月14日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "October 14th (Sat), 2023<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2023年10月14日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "October 14th (Sat), 2023<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2023.10.04",
@@ -946,9 +947,8 @@ module.exports = [
         "url": "/archives/2023/231004210709.html",
         "imgSrc": "/upload/2023/IMG_1714.jpeg",
         "imgAlt": "フェアリータイプ×onoue＋サカグチリュウノスケ",
-        "imgWidth": "168",
-        "bodyJp": "日程：2023年10月4日(水) <br>\n\t\t\t\t\t\t時間：19:30〜（19:00オープン）<br>\n\t\t\t\t\t\t会場：art space tetra（福岡県福岡市博多区須崎町2-15）<br>\n\t\t\t\t\t\t料金：2,000円+1drink order<br>\n\t\t\t\t\t\t◻︎出演<br>\n\t\t\t\t\t\t◆フェアリータイプ（chumakino/ミドリトモヒデ）<br>\n\t\t\t\t\t\t◆onoue （aldo van eyck）/サカグチリュウノスケ（aldo van eyck）",
-        "bodyEn": "日程：2023年10月4日(水) <br>\n\t\t\t\t\t\t時間：19:30〜（19:00オープン）<br>\n\t\t\t\t\t\t会場：art space tetra（福岡県福岡市博多区須崎町2-15）<br>\n\t\t\t\t\t\t料金：2,000円+1drink order<br>\n\t\t\t\t\t\t◻︎出演<br>\n\t\t\t\t\t\t◆フェアリータイプ（chumakino/ミドリトモヒデ）<br>\n\t\t\t\t\t\t◆onoue （aldo van eyck）/サカグチリュウノスケ（aldo van eyck）"
+        "bodyJp": "日程：2023年10月4日(水) <br>\n時間：19:30〜（19:00オープン）<br>\n会場：art space tetra（福岡県福岡市博多区須崎町2-15）<br>\n料金：2,000円+1drink order<br>\n◻︎出演<br>\n◆フェアリータイプ（chumakino/ミドリトモヒデ）<br>\n◆onoue （aldo van eyck）/サカグチリュウノスケ（aldo van eyck）",
+        "bodyEn": "日程：2023年10月4日(水) <br>\n時間：19:30〜（19:00オープン）<br>\n会場：art space tetra（福岡県福岡市博多区須崎町2-15）<br>\n料金：2,000円+1drink order<br>\n◻︎出演<br>\n◆フェアリータイプ（chumakino/ミドリトモヒデ）<br>\n◆onoue （aldo van eyck）/サカグチリュウノスケ（aldo van eyck）"
       },
       {
         "date": "2023.09.22-",
@@ -958,9 +958,8 @@ module.exports = [
         "url": "/archives/2023/230922224356.html",
         "imgSrc": "/upload/2023/HP用メインデータ.jpg",
         "imgAlt": "ART FAIR EARTH 2023",
-        "imgWidth": "168",
-        "bodyJp": "会期：9月22日(金)～10月1日(日)<br>\n\t\t\t\t\t\t時間：平日 15:00～20:00　土日祝 13:00〜20:00<br>\n\t\t\t\t\t\t※Art Fair Asia Fukuoka 2023開催期間（22日～24日）は11時オープン",
-        "bodyEn": "The period: September 22 (Fri) - October 1 (Sun) <br>\n\t\t\t\t\t\tThe time: Weekdays 15:00-20:00, Weekends and Holidays 13:00-20:00 <br>\n\t\t\t\t\t\t* Event: Closing Party &amp; Talk<br>\n\t\t\t\t\t\t　　　　　Sunday, October 1, 18:00 start<br>\n\t\t\t\t\t\tspeaker: Mariko Ohtsuka, Azusa Suga, Mareyuki Evata"
+        "bodyJp": "会期：9月22日(金)～10月1日(日)<br>\n時間：平日 15:00～20:00　土日祝 13:00〜20:00<br>\n         ※Art Fair Asia Fukuoka 2023開催期間（22日～24日）は11時オープン",
+        "bodyEn": "The period: September 22 (Fri) - October 1 (Sun) <br>\nThe time: Weekdays 15:00-20:00, Weekends and Holidays 13:00-20:00 <br>\n* Event: Closing Party &amp; Talk<br>\n　　　　　Sunday, October 1, 18:00 start<br>\nspeaker: Mariko Ohtsuka, Azusa Suga, Mareyuki Evata"
       },
       {
         "date": "2023.09.10",
@@ -970,9 +969,8 @@ module.exports = [
         "url": "/archives/2023/230910180000.html",
         "imgSrc": "/upload/2023/20230910A5.png",
         "imgAlt": "出会う。vol.2",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2023/9/10(日)17:30開場 18:00開演<br>\n\t\t\t\t\t\t【場所】art space tetra<br>\n\t\t\t\t\t\t福岡市博多区須崎町2-15 <a href=\"/\" target=\"_blank\">/</a><br>\n\t\t\t\t\t\t【チャージ】2,000円+要オーダー<br>\n\t\t\t\t\t\t予約不要です。当日直接会場にお越しください。",
-        "bodyEn": "September 10th (Sun), 2023<br>\n\t\t\t\t\t\tStart:18:00PM<br>\n\t\t\t\t\t\tOpen:17:30PM"
+        "bodyJp": "【日時】2023/9/10(日)17:30開場 18:00開演<br>\n【場所】art space tetra<br>\n福岡市博多区須崎町2-15 <a href=\"/\" target=\"_blank\">/</a><br>\n【チャージ】2,000円+要オーダー<br>\n予約不要です。当日直接会場にお越しください。",
+        "bodyEn": "September 10th (Sun), 2023<br>\nStart:18:00PM<br>\nOpen:17:30PM"
       },
       {
         "date": "2023.09.02-",
@@ -982,9 +980,8 @@ module.exports = [
         "url": "/archives/2023/230902163442.html",
         "imgSrc": "/upload/2023/275CDFAC-E7B2-4642-8085-3658CAF81917.jpeg",
         "imgAlt": "Qi chen 個展　遊隙　FREEDOM IN CRAVICE",
-        "imgWidth": "168",
-        "bodyJp": "2023年9月2日(土)〜9月9日(土)<br>\n\t\t\t\t\t\t13:00〜20:00",
-        "bodyEn": "2023年9月2日(土)〜9月9日(土)<br>\n\t\t\t\t\t\t13:00〜20:00"
+        "bodyJp": "2023年9月2日(土)〜9月9日(土)<br>\n13:00〜20:00",
+        "bodyEn": "2023年9月2日(土)〜9月9日(土)<br>\n13:00〜20:00"
       },
       {
         "date": "2023.08.26",
@@ -994,21 +991,19 @@ module.exports = [
         "url": "/archives/2023/230826110000.html",
         "imgSrc": "/upload/2023/E03154E2-8579-4D92-92C5-DCDE731D43CB.jpg",
         "imgAlt": "capture late morning live 12",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2023年8月26日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "August 26th (Sat), 2023<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2023年8月26日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "August 26th (Sat), 2023<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2023.08.21",
         "isPast": true,
-        "titleJp": "Azusa Suga Photo & Talk\n\t\t\t\t\t\t\tアートと抵抗　ジェニン難民キャンプで過ごした日々のこと",
-        "titleEn": "Azusa Suga Photo & Talk\n\t\t\t\t\t\t\tアートと抵抗　ジェニン難民キャンプで過ごした日々のこと",
+        "titleJp": "Azusa Suga Photo & Talk アートと抵抗　ジェニン難民キャンプで過ごした日々のこと",
+        "titleEn": "Azusa Suga Photo & Talk アートと抵抗　ジェニン難民キャンプで過ごした日々のこと",
         "url": "/archives/2023/230821234857.html",
         "imgSrc": "/upload/2023/472adaf3-da4e-4815-9c8b-cbf823bfc4bc.png",
         "imgAlt": "Azusa Suga Photo & Talk アートと抵抗　ジェニン難民キャンプで過ごした日々のこと",
-        "imgWidth": "168",
-        "bodyJp": "2023年8月21日（月）<br>\n\t\t\t\t\t\t18:00開始<br>\n\t\t\t\t\t\t17:30開場",
-        "bodyEn": "2023年8月21日（月）<br>\n\t\t\t\t\t\t18:00開始<br>\n\t\t\t\t\t\t17:30開場"
+        "bodyJp": "2023年8月21日（月）<br>\n18:00開始<br>\n17:30開場",
+        "bodyEn": "2023年8月21日（月）<br>\n18:00開始<br>\n17:30開場"
       },
       {
         "date": "2023.07.22",
@@ -1018,10 +1013,19 @@ module.exports = [
         "url": "/archives/2023/230722110000.html",
         "imgSrc": "/upload/2023/S__56057896.jpg",
         "imgAlt": "【中止】capture late morning live 11",
-        "imgWidth": "168",
-        "bodyJp": "<span style=\"color:red;\">【重要：7/22中止】こちらでご案内しておりましたライブですが、諸事情のため中止とさせていただきます。楽しみにして頂いておりました皆様には、ご迷惑をお掛けします事、深くお詫び申し上げます。</span><br>\n\t\t\t\t\t\t<br><br>\n\t\t\t\t\t\t【日時】2023年7月22日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)\n\t\t\t\t\t",
-        "bodyEn": "<span style=\"color:red;\">[Important　/ cacelled]<br>\n\t\t\t\t\t\t\tThis event is cancelled.</span><br>\n\t\t\t\t\t\t<br><br>\n\t\t\t\t\t\tJuly 22nd (Sat), 2023<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM\n\t\t\t\t\t"
-      },
+        "bodyJp": "<span style=\"color:red;\">【重要：7/22中止】こちらでご案内しておりましたライブですが、諸事情のため中止とさせていただきます。楽しみにして頂いておりました皆様には、ご迷惑をお掛けします事、深くお詫び申し上げます。</span><br>\n<br><br>\n【日時】2023年7月22日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "<span style=\"color:red;\">[Important　/ cacelled]<br>\nThis event is cancelled.</span><br>\n<br><br>\nJuly 22nd (Sat), 2023<br>\nStart:11:00AM<br>\nOpen:10:30AM"
+      }
+    ],
+    "permalink": "tetra/page/3/index.html"
+  },
+  {
+    "pageNumber": 3,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2023.07.07-",
         "isPast": true,
@@ -1030,7 +1034,6 @@ module.exports = [
         "url": "/archives/2023/230707141223.html",
         "imgSrc": "/upload/2023/IMG_6414.jpeg",
         "imgAlt": "Nobody 無名の者",
-        "imgWidth": "168",
         "bodyJp": "2023 7 7 (Fri.) ~7/14 (Fri.) 15:00-20:00",
         "bodyEn": "2023 7 7 (Fri.) ~7/14 (Fri.) 15:00-20:00"
       },
@@ -1038,13 +1041,12 @@ module.exports = [
         "date": "2023.06.09",
         "isPast": true,
         "titleJp": "アフリ神主とマダガスカル鍋を囲む会",
-        "titleEn": "Meeting around Madagascar hot pot with Afri\n\t\t\t\t\t\t\tPriest",
+        "titleEn": "Meeting around Madagascar hot pot with Afri Priest",
         "url": "/archives/2023/230609190000.html",
         "imgSrc": "/upload/2023/IMG_1084.jpeg",
         "imgAlt": "アフリ神主とマダガスカル鍋を囲む会",
-        "imgWidth": "168",
-        "bodyJp": "日時：6月9日（金）19時～<br>\n\t\t\t\t\t\t場所：art space tetra（福岡県福岡市博多区須崎町２−１５）<br>\n\t\t\t\t\t\t参加費：1,000円＋1drink order",
-        "bodyEn": "Date and time: Friday, June 9, 19:00 -<br>\n\t\t\t\t\t\tPlace: art space tetra (2-15 Susaki-cho, Hakata-ku, Fukuoka City, Fukuoka Prefecture)<br>\n\t\t\t\t\t\tFee: 1,000 yen + 1drink order"
+        "bodyJp": "日時：6月9日（金）19時～<br>\n場所：art space tetra（福岡県福岡市博多区須崎町２−１５）<br>\n参加費：1,000円＋1drink order",
+        "bodyEn": "Date and time: Friday, June 9, 19:00 -<br>\nPlace: art space tetra (2-15 Susaki-cho, Hakata-ku, Fukuoka City, Fukuoka Prefecture)<br>\nFee: 1,000 yen + 1drink order"
       },
       {
         "date": "2023.06.01",
@@ -1054,21 +1056,19 @@ module.exports = [
         "url": "/archives/2023/230601193000.html",
         "imgSrc": "/upload/2023/20230601omote_small.png",
         "imgAlt": "Chumakino /gn8mykitten",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2023/6/1(木)19:00開場、19:30開演<br>\n\t\t\t\t\t\t【場所】art space tetra<br>\n\t\t\t\t\t\t福岡市博多区須崎町2-15 <a href=\"/\" target=\"_blank\">/</a><br>\n\t\t\t\t\t\t【チャージ】¥1,500＋要１オーダー<br>\n\t\t\t\t\t\t予約不要です。当日直接会場にお越しください。",
-        "bodyEn": "June 1st (Thu), 2023<br>\n\t\t\t\t\t\tStart:19:30PM<br>\n\t\t\t\t\t\tOpen:19:00PM"
+        "bodyJp": "【日時】2023/6/1(木)19:00開場、19:30開演<br>\n【場所】art space tetra<br>\n福岡市博多区須崎町2-15 <a href=\"/\" target=\"_blank\">/</a><br>\n【チャージ】¥1,500＋要１オーダー<br>\n予約不要です。当日直接会場にお越しください。",
+        "bodyEn": "June 1st (Thu), 2023<br>\nStart:19:30PM<br>\nOpen:19:00PM"
       },
       {
         "date": "2023.04.22",
         "isPast": true,
         "titleJp": "不屈のレバノン　アートの役割",
-        "titleEn": "Unyielding Lebanon The Role of Art",
+        "titleEn": "Unyielding Lebanon  The Role of Art",
         "url": "/archives/2023/230422215600.html",
         "imgSrc": "/upload/2023/001.jpg",
         "imgAlt": "不屈のレバノン　アートの役割",
-        "imgWidth": "168",
-        "bodyJp": "2023年4月22日（土）<br>\n\t\t\t\t\t\t20:00開始（19:45開場）",
-        "bodyEn": "Saturday, April 22, 2023<br>\n\t\t\t\t\t\t20:00 start (doors open at 19:45)"
+        "bodyJp": "2023年4月22日（土）<br>\n20:00開始（19:45開場）",
+        "bodyEn": "Saturday, April 22, 2023<br>\n20:00 start (doors open at 19:45)"
       },
       {
         "date": "2023.04.22",
@@ -1078,7 +1078,6 @@ module.exports = [
         "url": "/archives/2023/230422110000.html",
         "imgSrc": "/upload/2023/shido.jpg",
         "imgAlt": "capture late morning live 10",
-        "imgWidth": "168",
         "bodyJp": "<strong>薬院のギャラリー・IAF SHOP*での開催となります。ご注意ください。</strong>",
         "bodyEn": "<strong>This Live at IAF SHOP*</strong>"
       },
@@ -1090,9 +1089,8 @@ module.exports = [
         "url": "/archives/2023/230420191246.html",
         "imgSrc": "/upload/2023/44F56F7A-FE98-4ABD-9050-2242F0965089.jpg",
         "imgAlt": "Becky O´Brienパフォーマンス「Swaddle」",
-        "imgWidth": "168",
-        "bodyJp": "日程：2023年4月20日(木)<br>\n\t\t\t\t\t\t時間：20：00開始（19：30開場）※60分程度<br>\n\t\t\t\t\t\t入場：無料　※要1drink order<br>\n\t\t\t\t\t\t出演：Becky O´Brien<br>\n\t\t\t\t\t\t協力：studio kura<br>\n\t\t\t\t\t",
-        "bodyEn": "Date: April 20, 2023 (Thursday)<br>\n\t\t\t\t\t\tTime: 20:00 (Doors open at 19:30)*About 60 minutes.<br>\n\t\t\t\t\t\tFree Admission *1 drink order required<br>\n\t\t\t\t\t\tPerformed by: Becky O´Brien<br>\n\t\t\t\t\t\tCooperation: studio kura"
+        "bodyJp": "日程：2023年4月20日(木)<br>\n時間：20：00開始（19：30開場）※60分程度<br>\n入場：無料　※要1drink order<br>\n出演：Becky O´Brien<br>\n協力：studio kura<br>\n",
+        "bodyEn": "Date: April 20, 2023 (Thursday)<br>\nTime: 20:00 (Doors open at 19:30)*About 60 minutes.<br>\nFree Admission *1 drink order required<br>\nPerformed by: Becky O´Brien<br>\nCooperation: studio kura"
       },
       {
         "date": "2023.03.25",
@@ -1102,20 +1100,9 @@ module.exports = [
         "url": "/archives/2023/230325110000.html",
         "imgSrc": "/upload/2023/334485353_724587825922472_3805244763434482786_n_small.jpg",
         "imgAlt": "capture late morning live 9",
-        "imgWidth": "168",
         "bodyJp": "<strong>薬院のギャラリー・IAF SHOP*での開催となります。ご注意ください。</strong>",
         "bodyEn": "<strong>This Live at IAF SHOP*</strong>"
-      }
-    ],
-    "permalink": "tetra/page/3/index.html"
-  },
-  {
-    "pageNumber": 3,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+      },
       {
         "date": "2023.02.25",
         "isPast": true,
@@ -1124,21 +1111,19 @@ module.exports = [
         "url": "/archives/2023/230225110000.html",
         "imgSrc": "/upload/2023/YukiHata3.png",
         "imgAlt": "capture late morning live 8",
-        "imgWidth": "168",
         "bodyJp": "<strong>【重要：会場変更】いままで、art space tetraにて開催しておりましたが、今回はIAF SHOP*での開催となります。ご注意ください</strong>",
         "bodyEn": "<strong>【[Important　/ Place Changed]This Live at IAF SHOP*</strong>"
       },
       {
         "date": "2023.02.19",
         "isPast": true,
-        "titleJp": "Stil vol.1 Guest :Takumi Motokawa　Contemporary Live\n\t\t\t\t\t\t\tPerformances",
-        "titleEn": "Stil vol.1 Guest :Takumi Motokawa　Contemporary Live\n\t\t\t\t\t\t\tPerformances",
+        "titleJp": "Stil vol.1  Guest :Takumi Motokawa　Contemporary Live Performances",
+        "titleEn": "Stil vol.1  Guest :Takumi Motokawa　Contemporary Live Performances",
         "url": "/archives/2023/230219205215.html",
         "imgSrc": "/upload/2023/327442042_1604892059976167_3120694152132515799_n.jpg",
         "imgAlt": "Stil vol.1  Guest :Takumi Motokawa　Contemporary Live Performances",
-        "imgWidth": "168",
         "bodyJp": "<strong>※イベント会場はIAF shop＊となりますのでご注意ください。</strong>",
-        "bodyEn": "<strong>※イベント会場はIAF shop＊となりますのでご注意ください。</strong><br>\n\t\t\t\t\t\t2023.2.19 sun <br>\n\t\t\t\t\t\t15:00 open<br>\n\t\t\t\t\t\tat IAF shop Fukuoka<br>\n\t\t\t\t\t\tAddress: 2F, 3-7-19 Yakuin, Chuo-ku, Fukuoka City<br>\n\t\t\t\t\t\tStandard 3000 yen<br>\n\t\t\t\t\t\tDiscount 2000 yen<br>\n\t\t\t\t\t\t(25歳以下、60歳以上、学生対象、12歳以下無料)<br>\n\t\t\t\t\t\t1drink inc"
+        "bodyEn": "<strong>※イベント会場はIAF shop＊となりますのでご注意ください。</strong><br>\n2023.2.19 sun <br>\n15:00 open<br>\nat IAF shop Fukuoka<br>\nAddress: 2F, 3-7-19 Yakuin, Chuo-ku, Fukuoka City<br>\nStandard 3000 yen<br>\nDiscount 2000 yen<br>\n(25歳以下、60歳以上、学生対象、12歳以下無料)<br>\n1drink inc"
       },
       {
         "date": "2023.01.28",
@@ -1148,9 +1133,8 @@ module.exports = [
         "url": "/archives/2023/230128110000.html",
         "imgSrc": "/upload/2023/shido.jpg",
         "imgAlt": "【中止】capture late morning live 7",
-        "imgWidth": "168",
-        "bodyJp": "<span style=\"color:red;\">【重要：1/28中止】こちらでご案内しておりましたライブですが、諸事情のため中止とさせていただきます。楽しみにして頂いておりました皆様には、ご迷惑をお掛けします事、深くお詫び申し上げます。</span>\n\t\t\t\t\t",
-        "bodyEn": "<span style=\"color:red;\">[Important　/ cacelled]<br>\n\t\t\t\t\t\t\tThis event is cancelled.</span>"
+        "bodyJp": "<span style=\"color:red;\">【重要：1/28中止】こちらでご案内しておりましたライブですが、諸事情のため中止とさせていただきます。楽しみにして頂いておりました皆様には、ご迷惑をお掛けします事、深くお詫び申し上げます。</span>",
+        "bodyEn": "<span style=\"color:red;\">[Important　/ cacelled]<br>\nThis event is cancelled.</span>"
       },
       {
         "date": "2023.01.17-",
@@ -1160,9 +1144,8 @@ module.exports = [
         "url": "/archives/2023/230117214528.html",
         "imgSrc": "/upload/2023/サイズ小.png",
         "imgAlt": "宋 秀臣 個展「浮遊展」",
-        "imgWidth": "168",
-        "bodyJp": "1月17日（火）～1月23日（月）<br>\n\t\t\t\t\t\t18：00～21：00",
-        "bodyEn": "1月17日（火）～1月23日（月）<br>\n\t\t\t\t\t\t18：00～21：00"
+        "bodyJp": "1月17日（火）～1月23日（月）<br>\n18：00～21：00",
+        "bodyEn": "1月17日（火）～1月23日（月）<br>\n18：00～21：00"
       },
       {
         "date": "2023.01.14",
@@ -1172,9 +1155,8 @@ module.exports = [
         "url": "/archives/2023/230114193000.html",
         "imgSrc": "/upload/2022/316566641_914528349513303_1156036346705612571_n_small.jpg",
         "imgAlt": "山内桂 ",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2023年1月14日(土)19:30開演(19:00開場)<br>\n\t\t\t\t\t\t【チャージ】2,000円(1ドリンク付き)<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "January 14th (Sun), 2022<br>\n\t\t\t\t\t\tStart:19:30PM<br>\n\t\t\t\t\t\tOpen:19:00AM"
+        "bodyJp": "【日時】2023年1月14日(土)19:30開演(19:00開場)<br>\n【チャージ】2,000円(1ドリンク付き)<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "January 14th (Sun), 2022<br>\nStart:19:30PM<br>\nOpen:19:00AM"
       },
       {
         "date": "2022.12.30",
@@ -1184,9 +1166,8 @@ module.exports = [
         "url": "/archives/2022/221230110000.html",
         "imgSrc": "/upload/2022/317595994_658892662604181_1091041019915567198_n.jpg",
         "imgAlt": "capture late morning live 6",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2022年12月30日（金）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "December 30th (Fri), 2022<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2022年12月30日（金）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "December 30th (Fri), 2022<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2022.11.27",
@@ -1196,9 +1177,8 @@ module.exports = [
         "url": "/archives/2022/221127110000.html",
         "imgSrc": "/upload/2022/20221127.png",
         "imgAlt": "capture late morning live 5",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2022年11月27日（日）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "November 27th (Sun), 2022<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2022年11月27日（日）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "November 27th (Sun), 2022<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2022.10.29",
@@ -1208,9 +1188,8 @@ module.exports = [
         "url": "/archives/2022/221029110000.html",
         "imgSrc": "/upload/2022/20221029small.png",
         "imgAlt": "capture late morning live 4",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2022年10月29日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "October 29th (Sat), 2022<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2022年10月29日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "October 29th (Sat), 2022<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2022.10.20-",
@@ -1220,9 +1199,8 @@ module.exports = [
         "url": "/archives/2022/221020012931.html",
         "imgSrc": "/upload/2022/サムネinsta_omote_esdrmnomangaten.png",
         "imgAlt": "エスドロ　夢の漫画展 2022 ゆめまんがZINE新刊発売記念",
-        "imgWidth": "168",
-        "bodyJp": "会期 ： 2022年10月20日（木）~26日（水）<br>\n\t\t\t\t\t\t時間 ： 平日 16:00〜20:00 土日 13:00〜20:00<br>\n\t\t\t\t\t\t場所 ： art space tetra 福岡市博多区須崎町 2-15<br>\n\t\t\t\t\t\t■イベント<br>\n\t\t\t\t\t\tゆめまんが読み聞かせ＆トーク<br>\n\t\t\t\t\t\t10月23日（日）16：00～<br>\n\t\t\t\t\t\t読み手：ESDRO<br>\n\t\t\t\t\t\tゲスト：NONCHELEEE　MC B-BOY(ラッパー）",
-        "bodyEn": "会期 ： 2022年10月20日（木）~26日（水）<br>\n\t\t\t\t\t\t時間 ： 平日 16:00〜20:00 土日 13:00〜20:00<br>\n\t\t\t\t\t\t場所 ： art space tetra 福岡市博多区須崎町 2-15<br>\n\t\t\t\t\t\t■イベント<br>\n\t\t\t\t\t\tゆめまんが読み聞かせ＆トーク<br>\n\t\t\t\t\t\t10月23日（日）16：00スタート<br>\n\t\t\t\t\t\t読み手：ESDRO<br>\n\t\t\t\t\t\tゲスト：NONCHELEEE　MC B-BOY(ラッパー）"
+        "bodyJp": "会期 ： 2022年10月20日（木）~26日（水）<br>\n時間 ： 平日 16:00〜20:00 土日 13:00〜20:00<br>\n場所 ： art space tetra 福岡市博多区須崎町 2-15<br>\n■イベント<br>\nゆめまんが読み聞かせ＆トーク<br>\n10月23日（日）16：00～<br>\n読み手：ESDRO<br>\nゲスト：NONCHELEEE　MC B-BOY(ラッパー）",
+        "bodyEn": "会期 ： 2022年10月20日（木）~26日（水）<br>\n時間 ： 平日 16:00〜20:00 土日 13:00〜20:00<br>\n場所 ： art space tetra 福岡市博多区須崎町 2-15<br>\n■イベント<br>\nゆめまんが読み聞かせ＆トーク<br>\n10月23日（日）16：00スタート<br>\n読み手：ESDRO<br>\nゲスト：NONCHELEEE　MC B-BOY(ラッパー）"
       },
       {
         "date": "2022.09.26-",
@@ -1232,21 +1210,19 @@ module.exports = [
         "url": "/archives/2022/220926232747.html",
         "imgSrc": "/upload/2022/S__23805959.jpg",
         "imgAlt": "  鈴木 淳 個展 「Ａｒｔ　Ｆａｉｒ　Ｅａｒｔｈ®」",
-        "imgWidth": "168",
-        "bodyJp": "Ⓒ2022 Atsushi Suzuki<br>\n\t\t\t\t\t\t【会期】2022年9月26日（月）-10月10日（月・祝）<br>\n\t\t\t\t\t\t【時間】13:00～20:00<br>\n\t\t\t\t\t\t※9月30日（金）～10月3日（月）は11：00オープン<br>\n\t\t\t\t\t\t■イベント（期間中の土日全て）",
-        "bodyEn": "Ⓒ2022 Atsushi Suzuki<br>\n\t\t\t\t\t\tDates: September 26 (Monday) - October 10 (Monday, holiday), 2022<br>\n\t\t\t\t\t\tHours: 13:00 - 20:00<br>\n\t\t\t\t\t\tOpen 11:00 on September 30 (Fri.) - October 3 (Mon.)<br>\n\t\t\t\t\t\t■Events (all Saturdays and Sundays during the period)"
+        "bodyJp": "Ⓒ2022 Atsushi Suzuki<br>\n【会期】2022年9月26日（月）-10月10日（月・祝）<br>\n【時間】13:00～20:00<br>\n※9月30日（金）～10月3日（月）は11：00オープン<br>\n■イベント（期間中の土日全て）",
+        "bodyEn": "Ⓒ2022 Atsushi Suzuki<br>\nDates: September 26 (Monday) - October 10 (Monday, holiday), 2022<br>\nHours: 13:00 - 20:00<br>\nOpen 11:00 on September 30 (Fri.) - October 3 (Mon.)<br>\n■Events (all Saturdays and Sundays during the period)"
       },
       {
         "date": "2022.09.10-",
         "isPast": true,
-        "titleJp": "荒瀬哲也 インスタレーション JUST NOW / JUST THEN − TETSUYA ARASE |\n\t\t\t\t\t\t\tEXHIBITION",
-        "titleEn": "荒瀬哲也 インスタレーション JUST NOW / JUST THEN − TETSUYA ARASE |\n\t\t\t\t\t\t\tEXHIBITION",
+        "titleJp": "荒瀬哲也 インスタレーション JUST NOW / JUST THEN − TETSUYA ARASE | EXHIBITION",
+        "titleEn": "荒瀬哲也 インスタレーション JUST NOW / JUST THEN − TETSUYA ARASE | EXHIBITION",
         "url": "/archives/2022/220910194755.html",
         "imgSrc": "/upload/2022/S__15024134.jpg",
         "imgAlt": "荒瀬哲也 インスタレーション JUST NOW / JUST THEN − TETSUYA ARASE | EXHIBITION",
-        "imgWidth": "168",
-        "bodyJp": "2022年9月10日|土| − 9月19日|月・祝|<br>\n\t\t\t\t\t\t17:00-20:00 会期中無休・入場無料<br>\n\t\t\t\t\t",
-        "bodyEn": "2022年9月10日|土| − 9月19日|月・祝|<br>\n\t\t\t\t\t\t17:00-20:00 会期中無休・入場無料<br>\n\t\t\t\t\t"
+        "bodyJp": "2022年9月10日|土| − 9月19日|月・祝|<br>\n17:00-20:00 会期中無休・入場無料<br>\n",
+        "bodyEn": "2022年9月10日|土| − 9月19日|月・祝|<br>\n17:00-20:00 会期中無休・入場無料<br>\n"
       },
       {
         "date": "2022.09.10",
@@ -1256,9 +1232,8 @@ module.exports = [
         "url": "/archives/2022/220910110000.html",
         "imgSrc": "/upload/2022/20220910.png",
         "imgAlt": "capture late morning live 3",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2022年9月10日（土）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "August 10th (Sat), 2022<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2022年9月10日（土）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "August 10th (Sat), 2022<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2022.09.05-",
@@ -1268,9 +1243,8 @@ module.exports = [
         "url": "/archives/2022/220905132315.html",
         "imgSrc": "/upload/2022/272AFAB7-10DB-4F94-8009-07C29D61A17D.jpeg",
         "imgAlt": "Layover (コロンビア会場)",
-        "imgWidth": "168",
-        "bodyJp": "【会期】9月5日（月）～　9月30日（金）<br>\n\t\t\t\t\t\t【時間】10:00 - 15:00（土日祝定休）<br>\n\t\t\t\t\t\t※作品の海外郵送の関係から日程は変更される可能性があります。",
-        "bodyEn": "【会期】9月5日（月）～　9月30日（金）<br>\n\t\t\t\t\t\t【時間】10:00 - 15:00（土日祝定休）<br>\n\t\t\t\t\t\t※作品の海外郵送の関係から日程は変更される可能性があります。"
+        "bodyJp": "【会期】9月5日（月）～　9月30日（金）<br>\n【時間】10:00 - 15:00（土日祝定休）<br>\n※作品の海外郵送の関係から日程は変更される可能性があります。",
+        "bodyEn": "【会期】9月5日（月）～　9月30日（金）<br>\n【時間】10:00 - 15:00（土日祝定休）<br>\n※作品の海外郵送の関係から日程は変更される可能性があります。"
       },
       {
         "date": "2022.08.28-",
@@ -1280,9 +1254,8 @@ module.exports = [
         "url": "/archives/2022/220828131310.html",
         "imgSrc": "/upload/2022/298969894_787923135891561_7150376958142801174_n (1).jpg",
         "imgAlt": "Layover (日本会場)",
-        "imgWidth": "168",
-        "bodyJp": "【会期】8月28日（日）～　9月6日（火）<br>\n\t\t\t\t\t\t【時間】15:00 - 20:00",
-        "bodyEn": "【会期】8月28日（日）～　9月6日（火）<br>\n\t\t\t\t\t\t【時間】15:00 - 20:00"
+        "bodyJp": "【会期】8月28日（日）～　9月6日（火）<br>\n【時間】15:00 - 20:00",
+        "bodyEn": "【会期】8月28日（日）～　9月6日（火）<br>\n【時間】15:00 - 20:00"
       },
       {
         "date": "2022.08.14",
@@ -1292,9 +1265,8 @@ module.exports = [
         "url": "/archives/2022/220814110000.html",
         "imgSrc": "/upload/2022/20220814.png",
         "imgAlt": "capture late morning live 2",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2022年8月14日（日）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "August 14th (Sun), 2022<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2022年8月14日（日）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "August 14th (Sun), 2022<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2022.08.13-",
@@ -1304,9 +1276,8 @@ module.exports = [
         "url": "/archives/2022/220813210247.html",
         "imgSrc": "/upload/2022/千秋さんメイン画像.jpg",
         "imgAlt": "尾上千秋（玄膳）パフォーマンス「石を切る」",
-        "imgWidth": "168",
-        "bodyJp": "会場：art space tetra<br>\n\t\t\t\t\t\t日程：8月13日（sat）<br>\n\t\t\t\t\t\t■公開制作<br>\n\t\t\t\t\t\t時間：13：00～20：00<br>\n\t\t\t\t\t\t■パフォーマンス<br>\n\t\t\t\t\t\t時間：20：00～<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\t音響アドバイザー/ＰＡ：endsnotnear",
-        "bodyEn": "会場：art space tetra<br>\n\t\t\t\t\t\t日程：8月13日（sat）<br>\n\t\t\t\t\t\t■公開制作<br>\n\t\t\t\t\t\t時間：13：00～20：00<br>\n\t\t\t\t\t\t■パフォーマンス<br>\n\t\t\t\t\t\t時間：20：00～<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\t音響アドバイザー/ＰＡ：endsnotnear"
+        "bodyJp": "会場：art space tetra<br>\n日程：8月13日（sat）<br>\n■公開制作<br>\n時間：13：00～20：00<br>\n■パフォーマンス<br>\n時間：20：00～<br>\n入場無料<br>\n音響アドバイザー/ＰＡ：endsnotnear",
+        "bodyEn": "会場：art space tetra<br>\n日程：8月13日（sat）<br>\n■公開制作<br>\n時間：13：00～20：00<br>\n■パフォーマンス<br>\n時間：20：00～<br>\n入場無料<br>\n音響アドバイザー/ＰＡ：endsnotnear"
       },
       {
         "date": "2022.07.12-",
@@ -1316,9 +1287,8 @@ module.exports = [
         "url": "/archives/2022/220712154647.html",
         "imgSrc": "/upload/2022/285094744_425550215838879_3421778900976652011_n.jpg",
         "imgAlt": "神園宏彰展 『光の集積』～記憶の遠近法",
-        "imgWidth": "168",
-        "bodyJp": "会場：アートスぺ―ステトラ（福岡市）<br>\n\t\t\t\t\t\t会期：2022年7月12日（火）～18日（月・祝）<br>\n\t\t\t\t\t\t時間：11：00～19：00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "会場：アートスぺ―ステトラ（福岡市）<br>\n\t\t\t\t\t\t会期：2022年7月12日（火）～18日（月・祝）<br>\n\t\t\t\t\t\t時間：11：00～19：00<br>\n\t\t\t\t\t\t入場無料"
+        "bodyJp": "会場：アートスぺ―ステトラ（福岡市）<br>\n会期：2022年7月12日（火）～18日（月・祝）<br>\n時間：11：00～19：00<br>\n入場無料",
+        "bodyEn": "会場：アートスぺ―ステトラ（福岡市）<br>\n会期：2022年7月12日（火）～18日（月・祝）<br>\n時間：11：00～19：00<br>\n入場無料"
       },
       {
         "date": "2022.07.04-",
@@ -1328,9 +1298,8 @@ module.exports = [
         "url": "/archives/2022/220704160329.html",
         "imgSrc": "/upload/2022/290822583_341844154759492_3670236435746440757_n.jpg",
         "imgAlt": "坂本豊 サウンドインスタレーション ”時の音” ",
-        "imgWidth": "168",
-        "bodyJp": "会期：７月４日（月）～１０日（日）<br>\n\t\t\t\t\t\tOpen 12:00 - 22:00<br>\n\t\t\t\t\t\t展示：入場無料<br>\n\t\t\t\t\t\t※各イベントにはそれぞれ入場料が設定されていますのでご注意ください。",
-        "bodyEn": "会期：７月４日（月）～１０日（日）<br>\n\t\t\t\t\t\tOpen 12:00 - 22:00<br>\n\t\t\t\t\t\t展示：入場無料<br>\n\t\t\t\t\t\t※各イベントにはそれぞれ入場料が設定されていますのでご注意ください。"
+        "bodyJp": "会期：７月４日（月）～１０日（日）<br>\nOpen 12:00 - 22:00<br>\n展示：入場無料<br>\n※各イベントにはそれぞれ入場料が設定されていますのでご注意ください。",
+        "bodyEn": "会期：７月４日（月）～１０日（日）<br>\nOpen 12:00 - 22:00<br>\n展示：入場無料<br>\n※各イベントにはそれぞれ入場料が設定されていますのでご注意ください。"
       },
       {
         "date": "2022.06.26-",
@@ -1340,9 +1309,8 @@ module.exports = [
         "url": "/archives/2022/220626154437.html",
         "imgSrc": "/upload/2022/5E13F324-B711-41D1-95ED-F7F12997FB57.jpeg",
         "imgAlt": "竹下和輝　写真展【もしも記憶の色が見えたら】",
-        "imgWidth": "168",
-        "bodyJp": "6月26日〜7月2日<br>\n\t\t\t\t\t\t入場料：¥500-<br>\n\t\t\t\t\t\t時間：13:00-20:00<br>\n\t\t\t\t\t\t※初日と最終日のみ時間が異なりますのでご注意ください。<br>\n\t\t\t\t\t\t6/26（日） 12:00-21:00<br>\n\t\t\t\t\t\t（オープニングトーク 19:00〜）<br>\n\t\t\t\t\t\t7/2 （土） 12:00-19:00　<br>\n\t\t\t\t\t",
-        "bodyEn": "6月26日〜7月2日<br>\n\t\t\t\t\t\t入場料：¥500-<br>\n\t\t\t\t\t\t時間：13:00-20:00<br>\n\t\t\t\t\t\t※初日と最終日のみ時間が異なりますのでご注意ください。<br>\n\t\t\t\t\t\t6/26（日） 12:00-21:00<br>\n\t\t\t\t\t\t（オープニングトーク 19:00〜）<br>\n\t\t\t\t\t\t7/2 （土） 12:00-19:00　"
+        "bodyJp": "6月26日〜7月2日<br>\n入場料：¥500-<br>\n時間：13:00-20:00<br>\n※初日と最終日のみ時間が異なりますのでご注意ください。<br>\n6/26（日） 12:00-21:00<br>\n（オープニングトーク 19:00〜）<br>\n7/2 （土） 12:00-19:00　<br>\n",
+        "bodyEn": "6月26日〜7月2日<br>\n入場料：¥500-<br>\n時間：13:00-20:00<br>\n※初日と最終日のみ時間が異なりますのでご注意ください。<br>\n6/26（日） 12:00-21:00<br>\n（オープニングトーク 19:00〜）<br>\n7/2 （土） 12:00-19:00　"
       },
       {
         "date": "2022.06.18-",
@@ -1352,9 +1320,8 @@ module.exports = [
         "url": "/archives/2022/220618153358.html",
         "imgSrc": "/upload/2022/メイン画像菅さん.jpg",
         "imgAlt": "菅梓 写真展『パレスチナの旅　わたしの旅』",
-        "imgWidth": "168",
-        "bodyJp": "2022年6月18日（土）～24日（金）<br>\n\t\t\t\t\t\tOPEN：13時-20時<br>\n\t\t\t\t\t\t入場料：500円<br>\n\t\t\t\t\t\t”パレスチナを体感する”<br>\n\t\t\t\t\t\tオープニングパーティー <br>\n\t\t\t\t\t\t2022年6月18日 17:00-21時　",
-        "bodyEn": "2022年6月18日（土）～24日（金）<br>\n\t\t\t\t\t\tOPEN：13時-20時<br>\n\t\t\t\t\t\t入場：500円<br>\n\t\t\t\t\t\t”パレスチナを体感する”<br>\n\t\t\t\t\t\tオープニングパーティー <br>\n\t\t\t\t\t\t2022年6月18日 17:00-21時　<br>\n\t\t\t\t\t"
+        "bodyJp": "2022年6月18日（土）～24日（金）<br>\nOPEN：13時-20時<br>\n入場料：500円<br>\n”パレスチナを体感する”<br>\nオープニングパーティー <br>\n2022年6月18日 17:00-21時　",
+        "bodyEn": "2022年6月18日（土）～24日（金）<br>\nOPEN：13時-20時<br>\n入場：500円<br>\n”パレスチナを体感する”<br>\nオープニングパーティー <br>\n2022年6月18日 17:00-21時　<br>\n"
       },
       {
         "date": "2022.06.06-",
@@ -1364,9 +1331,8 @@ module.exports = [
         "url": "/archives/2022/220606104127.html",
         "imgSrc": "/upload/2022/匿名の女性４　 【Loosing Identity Project】2022年、ミクスドメディア、91.4 x 66.05 cm、作家蔵 .jpg",
         "imgAlt": "展覧会「匿名の女性たち」",
-        "imgWidth": "168",
-        "bodyJp": "【会期】 6月6日（月）-12日（日）<br>\n\t\t\t\t\t\t【時間】 平日 13:00-20:00、土曜日 12:00-20:00（最終日12:00-18:00）<br>\n\t\t\t\t\t\t【入場料】500円（会期中再入場可）<br>\n\t\t\t\t\t\t【オープニング・レセプション】6/6(月）19:00 〜<br>\n\t\t\t\t\t\t【イベント1】ラペットーク! 〜私のお友達を紹介します〜<br>\n\t\t\t\t\t\t6月10日(金) 18:00-20:00 <br>\n\t\t\t\t\t\t【イベント2】パフォーマンス+アフタートーク<br>\n\t\t\t\t\t\t6月11日(土) 18:00-20:00",
-        "bodyEn": "【Dates】June 6 (Fri.) – June 12(Sun.) Weekdays 13:00-20:00, Saturday 12:00-20:00(Last day\n\t\t\t\t\t\t12:00-18:00)<br>\n\t\t\t\t\t\t【Venue】art space tetra<br>\n\t\t\t\t\t\t2-15 Susakimachi, Hakata Ward, Fukuoka, 812-0028 <br>\n\t\t\t\t\t\ttel/fax 092-262-6560 e-mail info@as-tetra.info<br>\n\t\t\t\t\t\t【Entrance fee】500 Japanese Yen (Valid throughout the exhibition)"
+        "bodyJp": "【会期】 6月6日（月）-12日（日）<br>\n【時間】 平日 13:00-20:00、土曜日 12:00-20:00（最終日12:00-18:00）<br>\n【入場料】500円（会期中再入場可）<br>\n【オープニング・レセプション】6/6(月）19:00 〜<br>\n【イベント1】ラペットーク! 〜私のお友達を紹介します〜<br>\n6月10日(金) 18:00-20:00 <br>\n【イベント2】パフォーマンス+アフタートーク<br>\n6月11日(土) 18:00-20:00",
+        "bodyEn": "【Dates】June 6 (Fri.) – June 12(Sun.) Weekdays 13:00-20:00, Saturday 12:00-20:00(Last day 12:00-18:00)<br>\n【Venue】art space tetra<br>\n2-15 Susakimachi, Hakata Ward, Fukuoka, 812-0028 <br>\ntel/fax 092-262-6560 e-mail info@as-tetra.info<br>\n【Entrance fee】500 Japanese Yen (Valid throughout the exhibition)"
       },
       {
         "date": "2022.05.21-",
@@ -1376,9 +1342,8 @@ module.exports = [
         "url": "/archives/2022/220521152418.html",
         "imgSrc": "/upload/2022/サムネ.jpg",
         "imgAlt": "heARTbeat psychoman　核心人型写術巡回展 「ＬＯＳＴＰＡＲＡＤＩＳＥ」",
-        "imgWidth": "168",
-        "bodyJp": "05.21 - 05.29<br>\n\t\t\t\t\t\t13:00～22：00（会期中無休）<br>\n\t\t\t\t\t\t※19日より公開制作を行います。",
-        "bodyEn": "05.21 - 05.29<br>\n\t\t\t\t\t\t13:00～22：00（会期中無休）<br>\n\t\t\t\t\t\t※19日より公開制作を行います。"
+        "bodyJp": "05.21 - 05.29<br>\n13:00～22：00（会期中無休）<br>\n※19日より公開制作を行います。",
+        "bodyEn": "05.21 - 05.29<br>\n13:00～22：00（会期中無休）<br>\n※19日より公開制作を行います。"
       },
       {
         "date": "2022.05.07-",
@@ -1388,21 +1353,29 @@ module.exports = [
         "url": "/archives/2022/220507201910.html",
         "imgSrc": "/upload/2022/279160001_741787313932620_3819509099941660931_n (1).jpg",
         "imgAlt": "堀江たくみ＋名もなき実昌　二人展「往福(=´∀｀)人(´∀｀=)往来」",
-        "imgWidth": "168",
-        "bodyJp": "会期：2022/05/07 ~ 5/15　<br>\n\t\t\t\t\t\t土日祝　13:00~20:00<br>\n\t\t\t\t\t\t平日　　16:00~20:00",
-        "bodyEn": "会期：2022/05/07 ~ 5/15　<br>\n\t\t\t\t\t\t土日祝　13:00~20:00<br>\n\t\t\t\t\t\t平日　　16:00~20:00"
-      },
+        "bodyJp": "会期：2022/05/07 ~ 5/15　<br>\n土日祝　13:00~20:00<br>\n平日　　16:00~20:00",
+        "bodyEn": "会期：2022/05/07 ~ 5/15　<br>\n土日祝　13:00~20:00<br>\n平日　　16:00~20:00"
+      }
+    ],
+    "permalink": "tetra/page/4/index.html"
+  },
+  {
+    "pageNumber": 4,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2022.04.28-",
         "isPast": true,
-        "titleJp": "Toshiaki Tashiro Exhibition and Dining Bar\n\t\t\t\t\t\t\t田代敏朗展「日常」",
-        "titleEn": "Toshiaki Tashiro Exhibition and Dining Bar\n\t\t\t\t\t\t\t田代敏朗展「日常」",
+        "titleJp": "Toshiaki Tashiro Exhibition and Dining Bar 田代敏朗展「日常」",
+        "titleEn": "Toshiaki Tashiro Exhibition and Dining Bar 田代敏朗展「日常」",
         "url": "/archives/2022/220428151942.html",
         "imgSrc": "/upload/2022/スライド1.JPG",
         "imgAlt": "Toshiaki Tashiro Exhibition and Dining Bar 田代敏朗展「日常」",
-        "imgWidth": "168",
-        "bodyJp": "会期:4月29日（金•祝）〜5月5日(木•祝)<br>\n\t\t\t\t\t\t時間：16：00-23：00<br>\n\t\t\t\t\t\tEntrance Fee:500円（1ドリンク付きor5post cards）",
-        "bodyEn": "会期:4月29日（金•祝）〜5月5日(木•祝)<br>\n\t\t\t\t\t\t時間：16：00-23：00<br>\n\t\t\t\t\t\tEntrance Fee:500円（1ドリンク付き5post cards）"
+        "bodyJp": "会期:4月29日（金•祝）〜5月5日(木•祝)<br>\n時間：16：00-23：00<br>\nEntrance Fee:500円（1ドリンク付きor5post cards）",
+        "bodyEn": "会期:4月29日（金•祝）〜5月5日(木•祝)<br>\n時間：16：00-23：00<br>\nEntrance Fee:500円（1ドリンク付き5post cards）"
       },
       {
         "date": "2022.04.17",
@@ -1412,9 +1385,8 @@ module.exports = [
         "url": "/archives/2022/220417110000.html",
         "imgSrc": "/upload/2021/20210109mainvisual.png",
         "imgAlt": "capture late morning live 1",
-        "imgWidth": "168",
-        "bodyJp": "【日時】2022年4月17日（日）11:00開演(10:30開場)<br>\n\t\t\t\t\t\t【チャージ】投げ銭＋1ドリンクオーダー制<br>\n\t\t\t\t\t\t【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
-        "bodyEn": "April 17th (Sun), 2022<br>\n\t\t\t\t\t\tStart:11:00AM<br>\n\t\t\t\t\t\tOpen:10:30AM"
+        "bodyJp": "【日時】2022年4月17日（日）11:00開演(10:30開場)<br>\n【チャージ】投げ銭＋1ドリンクオーダー制<br>\n【場所】<a href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15)",
+        "bodyEn": "April 17th (Sun), 2022<br>\nStart:11:00AM<br>\nOpen:10:30AM"
       },
       {
         "date": "2022.04.01",
@@ -1424,9 +1396,8 @@ module.exports = [
         "url": "/archives/2022/220401151623.html",
         "imgSrc": "/upload/2022/S__7266392.jpg",
         "imgAlt": "esse = to be ミニ公演-yuyu dance performance -",
-        "imgWidth": "168",
-        "bodyJp": "esse = to be ミニ公演<br>\n\t\t\t\t\t\t2022.04.01<br>\n\t\t\t\t\t\t@art space tetra<br>\n\t\t\t\t\t\topen 19:00<br>\n\t\t\t\t\t\tclose 22:00<br>\n\t\t\t\t\t\tfee ¥500-",
-        "bodyEn": "esse = to be ミニ公演<br>\n\t\t\t\t\t\t2022.04.01<br>\n\t\t\t\t\t\t@art space tetra<br>\n\t\t\t\t\t\topen 19:00<br>\n\t\t\t\t\t\tclose 22:00<br>\n\t\t\t\t\t\tfee ¥500-"
+        "bodyJp": "esse = to be ミニ公演<br>\n2022.04.01<br>\n@art space tetra<br>\nopen 19:00<br>\nclose 22:00<br>\nfee ¥500-",
+        "bodyEn": "esse = to be ミニ公演<br>\n2022.04.01<br>\n@art space tetra<br>\nopen 19:00<br>\nclose 22:00<br>\nfee ¥500-"
       },
       {
         "date": "2022.03.15-",
@@ -1434,32 +1405,30 @@ module.exports = [
         "titleJp": "art space tetra 企画募集結果報告",
         "titleEn": "art space tetra 企画募集結果報告",
         "url": "/archives/2022/220315202100.html",
-        "bodyJp": "4月1日（金）<br>\n\t\t\t\t\t\t<a href=\"/archives/2022/220401151623.html\">yuyu</a>\n\t\t\t\t\t",
+        "bodyJp": "4月1日（金）<br>\n<a href=\"/archives/2022/220401151623.html\">yuyu</a>",
         "bodyEn": null
       },
       {
         "date": "2022.02.26",
         "isPast": true,
-        "titleJp": "HARDCORE AMBIENCEライブ（layer #1\n\t\t\t\t\t\t\t64.4216364,-21.9425002）",
-        "titleEn": "HARDCORE AMBIENCEライブ（layer #1\n\t\t\t\t\t\t\t64.4216364,-21.9425002）",
+        "titleJp": "HARDCORE AMBIENCEライブ（layer #1 64.4216364,-21.9425002）",
+        "titleEn": "HARDCORE AMBIENCEライブ（layer #1 64.4216364,-21.9425002）",
         "url": "/archives/2022/220226190656.html",
         "imgSrc": "/upload/2022/スクリーンショット (10).png",
         "imgAlt": "HARDCORE AMBIENCEライブ（layer #1 64.4216364,-21.9425002）",
-        "imgWidth": "168",
-        "bodyJp": "2022年２月26日（土）<br>\n\t\t\t\t\t\tSTART:19：00（18：30階開場）<br>\n\t\t\t\t\t\t出演：HARDCORE AMBIENCE（ナカコー、ダエン）",
-        "bodyEn": "2022年２月26日（土）<br>\n\t\t\t\t\t\tSTART:19：00（18：30階開場）<br>\n\t\t\t\t\t\t出演：HARDCORE AMBIENCE（ナカコー、ダエン）"
+        "bodyJp": "2022年２月26日（土）<br>\nSTART:19：00（18：30階開場）<br>\n出演：HARDCORE AMBIENCE（ナカコー、ダエン）",
+        "bodyEn": "2022年２月26日（土）<br>\nSTART:19：00（18：30階開場）<br>\n出演：HARDCORE AMBIENCE（ナカコー、ダエン）"
       },
       {
         "date": "2021.12.20-",
         "isPast": true,
-        "titleJp": "『 心を持った身体、もしくは身体を持った心 』 写真 noerisa × 茶室 なかむらみさき",
-        "titleEn": "『 心を持った身体、もしくは身体を持った心 』 写真 noerisa × 茶室 なかむらみさき",
+        "titleJp": "『 心を持った身体、もしくは身体を持った心 』 写真 noerisa ×  茶室 なかむらみさき",
+        "titleEn": "『 心を持った身体、もしくは身体を持った心 』 写真 noerisa ×  茶室 なかむらみさき",
         "url": "/archives/2021/211220203103.html",
         "imgSrc": "/upload/2021/S__58761351.jpg",
         "imgAlt": "『 心を持った身体、もしくは身体を持った心 』 写真 noerisa ×  茶室 なかむらみさき",
-        "imgWidth": "168",
-        "bodyJp": "日時:2021/12/20〜12/30※入場無料<br>\n\t\t\t\t\t\t茶室出現:12/26〜12/30<br>\n\t\t\t\t\t\t時間:15:00〜20:00（25.26の土日のみ 13:00〜20:00）<br>\n\t\t\t\t\t\t場所art space tetra 福岡県福岡市博多区須崎町2-15<br>\n\t\t\t\t\t\t茶席料金:1席お1人￥1000",
-        "bodyEn": "日時:2021/12/20〜12/30※入場無料<br>\n\t\t\t\t\t\t茶室出現:12/26〜12/30<br>\n\t\t\t\t\t\t時間:15:00〜20:00（25.26の土日のみ 13:00〜20:00）<br>\n\t\t\t\t\t\t場所art space tetra 福岡県福岡市博多区須崎町2-15<br>\n\t\t\t\t\t\t茶席料金:1席お1人￥1000"
+        "bodyJp": "日時:2021/12/20〜12/30※入場無料<br>\n茶室出現:12/26〜12/30<br>\n時間:15:00〜20:00（25.26の土日のみ 13:00〜20:00）<br>\n場所art space tetra  福岡県福岡市博多区須崎町2-15<br>\n茶席料金:1席お1人￥1000",
+        "bodyEn": "日時:2021/12/20〜12/30※入場無料<br>\n茶室出現:12/26〜12/30<br>\n時間:15:00〜20:00（25.26の土日のみ 13:00〜20:00）<br>\n場所art space tetra  福岡県福岡市博多区須崎町2-15<br>\n茶席料金:1席お1人￥1000"
       },
       {
         "date": "2021.12.12-",
@@ -1469,20 +1438,9 @@ module.exports = [
         "url": "/archives/2021/211212115425.html",
         "imgSrc": "/upload/2021/nannga-ranndo .png",
         "imgAlt": "ナンガーランド　謎の帝国",
-        "imgWidth": "168",
-        "bodyJp": "開催日時:2021/12/12(sun)～18(sat) 13:00～19:00<br>\n\t\t\t\t\t\t会期中無休",
-        "bodyEn": "開催日時:2021/12/12(sun)～18(sat) 13:00～19:00<br>\n\t\t\t\t\t\t会期中無休<br>\n\t\t\t\t\t\t入場料500円<br>\n\t\t\t\t\t\t場所:art space tetra"
-      }
-    ],
-    "permalink": "tetra/page/4/index.html"
-  },
-  {
-    "pageNumber": 4,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "開催日時:2021/12/12(sun)～18(sat) 13:00～19:00<br>\n会期中無休",
+        "bodyEn": "開催日時:2021/12/12(sun)～18(sat) 13:00～19:00<br>\n会期中無休<br>\n入場料500円<br>\n場所:art space tetra"
+      },
       {
         "date": "2021.11.10",
         "isPast": true,
@@ -1491,9 +1449,8 @@ module.exports = [
         "url": "/archives/2021/211110173733.html",
         "imgSrc": "/upload/2021/箱庭 - プレイベント in テトラ.jpg",
         "imgAlt": "箱庭 - プレイベント in テトラ",
-        "imgWidth": "168",
-        "bodyJp": "11月10日 (水)<br>\n\t\t\t\t\t\tオープン：15時〜（12時くらいには在廊してますので早めに来て頂いても大丈夫です。）",
-        "bodyEn": "11月10日 (水)<br>\n\t\t\t\t\t\tオープン：15時〜（12時くらいには在廊してますので早めに来て頂いても大丈夫です。）"
+        "bodyJp": "11月10日 (水)<br>\nオープン：15時〜（12時くらいには在廊してますので早めに来て頂いても大丈夫です。）",
+        "bodyEn": "11月10日 (水)<br>\nオープン：15時〜（12時くらいには在廊してますので早めに来て頂いても大丈夫です。）"
       },
       {
         "date": "2021.10.23-",
@@ -1503,9 +1460,8 @@ module.exports = [
         "url": "/archives/2021/211023224539.html",
         "imgSrc": "/upload/2021/iOS の画像.jpg",
         "imgAlt": "DIWATA ディワータ",
-        "imgWidth": "168",
-        "bodyJp": "【会期】10 月23日（土）- 11 月 7 日（日）※会期中無休<br>\n\t\t\t\t\t\t【時間】15：00 ～ 20：00 ※入場無料",
-        "bodyEn": "【会期】 2021年10 月23日（土）ー 11 月 7 日（日）　※会期中無休<br>\n\t\t\t\t\t\t【時間】 15：00 ～ 20：00　※入場無料"
+        "bodyJp": "【会期】10 月23日（土）- 11 月 7 日（日）※会期中無休<br>\n【時間】15：00 ～ 20：00 ※入場無料",
+        "bodyEn": "【会期】 2021年10 月23日（土）ー 11 月 7 日（日）　※会期中無休<br>\n【時間】 15：00 ～ 20：00　※入場無料"
       },
       {
         "date": "2021.09.25-",
@@ -1515,7 +1471,6 @@ module.exports = [
         "url": "/archives/2021/210925211937.html",
         "imgSrc": "/upload/2021/修行vs煩悩key_20210902.JPG",
         "imgAlt": "修行 vs 煩悩　- 日本仏教のある現在地 -",
-        "imgWidth": "168",
         "bodyJp": "<strong><a href=\"https://art-space-tetra-1.jimdosite.com/\">イベントサイト</a></strong>",
         "bodyEn": "<strong><a href=\"https://art-space-tetra-1.jimdosite.com/\">イベントサイト</a></strong>"
       },
@@ -1527,21 +1482,19 @@ module.exports = [
         "url": "/archives/2021/210826183000.html",
         "imgSrc": "/upload/2021/0eab8f1dffa20662ab58009631d5efc2.jpg",
         "imgAlt": "森元斎『もう革命しかないもんね』刊行記念対談：森元斎 & 山下陽光",
-        "imgWidth": "168",
-        "bodyJp": "日時：2021年8月26日木曜日<br>\n\t\t\t\t\t\t時間：18:30開場／19:00開演 ※当日オンライン配信あり<br>\n\t\t\t\t\t\t　前編：対談（オンラインURL: <a href=\"https://youtu.be/lJ01c0pXrLg\">https://youtu.be/lJ01c0pXrLg</a>）<br>\n\t\t\t\t\t\t　後編：会場限定トーク　<br>\n\t\t\t\t\t\t料金：カンパ制（会場参加）<br>\n\t\t\t\t\t\t※<s>来場希望の場合は、事前予約願います。</s>\n\t\t\t\t\t\t<font color=\"red\"><strong>満員御礼</strong></font><br>\n\t\t\t\t\t\t※会場にて「もう革命しかないもんね」の直売あります<br>\n\t\t\t\t\t",
-        "bodyEn": "日時：2021年8月26日木曜日<br>\n\t\t\t\t\t\t時間：18:30開場／19:00開演 ※当日オンライン配信あり<br>\n\t\t\t\t\t\t　前編：対談（オンラインURL: <a href=\"https://youtu.be/lJ01c0pXrLg\">https://youtu.be/lJ01c0pXrLg</a>）<br>\n\t\t\t\t\t\t　後編：会場限定トーク　<br>\n\t\t\t\t\t\t料金：カンパ制（会場参加）<br>\n\t\t\t\t\t\t※<s>来場希望の場合は、事前予約願います。</s>\n\t\t\t\t\t\t<font color=\"red\"><strong>満員御礼</strong></font><br>\n\t\t\t\t\t\t※会場にて「もう革命しかないもんね」の直売あります<br>\n\t\t\t\t\t"
+        "bodyJp": "日時：2021年8月26日木曜日<br>\n時間：18:30開場／19:00開演 ※当日オンライン配信あり<br>\n　前編：対談（オンラインURL: <a href=\"https://youtu.be/lJ01c0pXrLg\">https://youtu.be/lJ01c0pXrLg</a>）<br>\n　後編：会場限定トーク　<br>\n料金：カンパ制（会場参加）<br>\n※<s>来場希望の場合は、事前予約願います。</s> <font color=\"red\"><strong>満員御礼</strong></font><br>\n※会場にて「もう革命しかないもんね」の直売あります<br>\n",
+        "bodyEn": "日時：2021年8月26日木曜日<br>\n時間：18:30開場／19:00開演 ※当日オンライン配信あり<br>\n　前編：対談（オンラインURL: <a href=\"https://youtu.be/lJ01c0pXrLg\">https://youtu.be/lJ01c0pXrLg</a>）<br>\n　後編：会場限定トーク　<br>\n料金：カンパ制（会場参加）<br>\n※<s>来場希望の場合は、事前予約願います。</s> <font color=\"red\"><strong>満員御礼</strong></font><br>\n※会場にて「もう革命しかないもんね」の直売あります<br>\n"
       },
       {
         "date": "2021.07.22-",
         "isPast": true,
-        "titleJp": "荒瀬哲也 ヴィデオ・インスタレーション Tracking – TETSUYA ARASE |\n\t\t\t\t\t\t\tEXHIBITION",
+        "titleJp": "荒瀬哲也 ヴィデオ・インスタレーション Tracking – TETSUYA ARASE | EXHIBITION",
         "titleEn": "Tracking – TETSUYA ARASE | EXHIBITION",
         "url": "/archives/2021/210722170000.html",
         "imgSrc": "/upload/2021/timeline_20210702_085644.jpg",
         "imgAlt": "荒瀬哲也 ヴィデオ・インスタレーション Tracking – TETSUYA ARASE | EXHIBITION",
-        "imgWidth": "168",
-        "bodyJp": "2021年7月22日|木・祝|−8月1日|日|<br>\n\t\t\t\t\t\t17:00-20:00 会期中無休",
-        "bodyEn": "July 22, 2021 | Thu / Holiday | -August 1 | Sun |<br>\n\t\t\t\t\t\t17: 00-20: 00 Open all year round"
+        "bodyJp": "2021年7月22日|木・祝|−8月1日|日|<br>\n17:00-20:00 会期中無休",
+        "bodyEn": "July 22, 2021 | Thu / Holiday | -August 1 | Sun |<br>\n17: 00-20: 00 Open all year round"
       },
       {
         "date": "2021.07.03",
@@ -1551,33 +1504,30 @@ module.exports = [
         "url": "/archives/2021/210703000000.html",
         "imgSrc": "/upload/2021/artisttalk_youtube.jpg",
         "imgAlt": "チョン・ユギョン アーティスト・トーク レポート／江上賢一郎",
-        "imgWidth": "168",
-        "bodyJp": "7月3日チョン・ユギョン個展「After Potemkin Villages」アーティスト・トーク <br>\n\t\t\t\t\t\t登壇者：チョン・ユギョン<br>\n\t\t\t\t\t\t聞手：牧園憲二（アーティスト／art space tetraメンバー）、江上賢一郎（アート・アクティヴィズム研究／art space tetraメンバー）<br>\n\t\t\t\t\t\tYoutube配信（アーカイブ有り） : <a href=\"https://www.youtube.com/watch?v=0y_ebmZsl1I\">https://www.youtube.com/watch?v=0y_ebmZsl1I</a>\n\t\t\t\t\t",
-        "bodyEn": "7月3日チョン・ユギョン個展「After Potemkin Villages」アーティスト・トーク <br>\n\t\t\t\t\t\t登壇者：チョン・ユギョン<br>\n\t\t\t\t\t\t聞手：牧園憲二（アーティスト／art space tetraメンバー）、江上賢一郎（アート・アクティヴィズム研究／art space tetraメンバー）<br>\n\t\t\t\t\t\tYoutube配信（アーカイブ有り） : <a href=\"https://www.youtube.com/watch?v=0y_ebmZsl1I\">https://www.youtube.com/watch?v=0y_ebmZsl1I</a>\n\t\t\t\t\t"
+        "bodyJp": "7月3日チョン・ユギョン個展「After Potemkin Villages」アーティスト・トーク <br>\n登壇者：チョン・ユギョン<br>\n聞手：牧園憲二（アーティスト／art space tetraメンバー）、江上賢一郎（アート・アクティヴィズム研究／art space tetraメンバー）<br>\nYoutube配信（アーカイブ有り） : <a href=\"https://www.youtube.com/watch?v=0y_ebmZsl1I\">https://www.youtube.com/watch?v=0y_ebmZsl1I</a> ",
+        "bodyEn": "7月3日チョン・ユギョン個展「After Potemkin Villages」アーティスト・トーク <br>\n登壇者：チョン・ユギョン<br>\n聞手：牧園憲二（アーティスト／art space tetraメンバー）、江上賢一郎（アート・アクティヴィズム研究／art space tetraメンバー）<br>\nYoutube配信（アーカイブ有り） : <a href=\"https://www.youtube.com/watch?v=0y_ebmZsl1I\">https://www.youtube.com/watch?v=0y_ebmZsl1I</a> "
       },
       {
         "date": "2021.07.02-",
         "isPast": true,
-        "titleJp": "チョン・ユギョン「After Potemkin Villages」",
-        "titleEn": "Jong YuGyong “After Potemkin Villages”",
+        "titleJp": "チョン・ユギョン「After  Potemkin Villages」",
+        "titleEn": "Jong YuGyong  “After Potemkin Villages”",
         "url": "/archives/2021/210702130000.html",
         "imgSrc": "/upload/2021/AfterPotemkinVillages.jpg",
         "imgAlt": "チョン・ユギョン「After  Potemkin Villages」",
-        "imgWidth": "168",
-        "bodyJp": "会期…<br>\n\t\t\t\t\t\t【第1期】2021年7月2日（金）〜7月9日（金）　<br>\n\t\t\t\t\t\t【第2期】2021年7月15日（木）〜7月18日（日） <br>\n\t\t\t\t\t\t※第1期、第2期の展示内容は同じとなります。<br>\n\t\t\t\t\t\t時間…13:00-20:00<br>\n\t\t\t\t\t\t休館日…7月10日（土）〜7月14日（水）<br>\n\t\t\t\t\t\t入場料…500円（学生無料）",
-        "bodyEn": "会期…<br>\n\t\t\t\t\t\t【第1期】2021年7月2日（金）〜7月9日（金）　<br>\n\t\t\t\t\t\t【第2期】2021年7月15日（木）〜7月18日（日） <br>\n\t\t\t\t\t\t※第1期、第2期の展示内容は同じとなります。<br>\n\t\t\t\t\t\t時間…13:00-20:00<br>\n\t\t\t\t\t\t休館日…7月10日（土）〜7月14日（水）<br>\n\t\t\t\t\t\t入場料…500円（学生無料）"
+        "bodyJp": "会期…<br>\n【第1期】2021年7月2日（金）〜7月9日（金）　<br>\n【第2期】2021年7月15日（木）〜7月18日（日）  <br>\n ※第1期、第2期の展示内容は同じとなります。<br>\n時間…13:00-20:00<br>\n休館日…7月10日（土）〜7月14日（水）<br>\n入場料…500円（学生無料）",
+        "bodyEn": "会期…<br>\n【第1期】2021年7月2日（金）〜7月9日（金）　<br>\n【第2期】2021年7月15日（木）〜7月18日（日）  <br>\n ※第1期、第2期の展示内容は同じとなります。<br>\n時間…13:00-20:00<br>\n休館日…7月10日（土）〜7月14日（水）<br>\n入場料…500円（学生無料）"
       },
       {
         "date": "2021.06.23",
         "isPast": true,
-        "titleJp": "詩を灯す　Kosuke Urasaki Candle Night",
-        "titleEn": "詩を灯す　Kosuke Urasaki Candle Night",
+        "titleJp": "詩を灯す　Kosuke Urasaki  Candle Night",
+        "titleEn": "詩を灯す　Kosuke Urasaki  Candle Night",
         "url": "/archives/2021/210623183000.html",
         "imgSrc": "/upload/2021/KV_小.jpg",
         "imgAlt": "詩を灯す　Kosuke Urasaki  Candle Night",
-        "imgWidth": "168",
-        "bodyJp": "2021/6/23 (水)<br>\n\t\t\t\t\t\tOPEN 18:30-<br>\n\t\t\t\t\t\tSTART 19:00-　",
-        "bodyEn": "2021/6/23 (水)<br>\n\t\t\t\t\t\tOPEN 18:30-<br>\n\t\t\t\t\t\tSTART 19:00-"
+        "bodyJp": "2021/6/23 (水)<br>\nOPEN 18:30-<br>\nSTART 19:00-　",
+        "bodyEn": "2021/6/23 (水)<br>\nOPEN 18:30-<br>\nSTART 19:00-"
       },
       {
         "date": "2021.04.26",
@@ -1587,9 +1537,8 @@ module.exports = [
         "url": "/archives/2021/210426000000.html",
         "imgSrc": "/upload/2021/jongyugyong_profile.jpg",
         "imgAlt": "Residency Project 2021：チョン・ユギョン",
-        "imgWidth": "168",
-        "bodyJp": "滞在期間：2021年4月26日〜6月22日<br>\n\t\t\t\t\t\t成果展：<a href=\"/archives/2021/210702130000.html\">チョン・ユギョン「After Potemkin Villages」</a><br>\n\t\t\t\t\t\t7月2日（金）〜9日（金）／7月15日（木）〜18日（日） ",
-        "bodyEn": "Period....2021.04.26-06.22<br>\n\t\t\t\t\t\tArtist Talk....We will keep you updated.<br>\n\t\t\t\t\t\tOpen Studio....We will keep you updated.<br>\n\t\t\t\t\t\t<a href=\"https://note.com/as_tetra/m/m3fe9412d8795\" target=\"_blank\">Activity Report on note</a>\n\t\t\t\t\t"
+        "bodyJp": "滞在期間：2021年4月26日〜6月22日<br>\n成果展：<a href=\"/archives/2021/210702130000.html\">チョン・ユギョン「After Potemkin Villages」</a><br>\n7月2日（金）〜9日（金）／7月15日（木）〜18日（日） ",
+        "bodyEn": "Period....2021.04.26-06.22<br>\nArtist Talk....We will keep you updated.<br>\nOpen Studio....We will keep you updated.<br>\n<a href=\"https://note.com/as_tetra/m/m3fe9412d8795\" target=\"_blank\">Activity Report on note</a>"
       },
       {
         "date": "2020.07.18",
@@ -1599,8 +1548,7 @@ module.exports = [
         "url": "/archives/2020/200718000000.html",
         "imgSrc": "/upload/2020/20200718kv_small.png",
         "imgAlt": "3つの個性1",
-        "imgWidth": "168",
-        "bodyJp": "日時：2020年7月18日（土）19:30配信開始予定<br>\n\t\t\t\t\t\t場所：art space tetra（無観客配信） ",
+        "bodyJp": "日時：2020年7月18日（土）19:30配信開始予定<br>\n場所：art space tetra（無観客配信） ",
         "bodyEn": null
       },
       {
@@ -1611,21 +1559,19 @@ module.exports = [
         "url": "/archives/2020/200308130000.html",
         "imgSrc": "/upload/2020/web_img.jpg",
         "imgAlt": "金昌和 個展「君と僕」",
-        "imgWidth": "168",
-        "bodyJp": "2020年3月8日（日）〜12日（木）<br>\n\t\t\t\t\t\t日曜…13:00〜18:00<br>\n\t\t\t\t\t\t平日…16:00〜20:00 <br>\n\t\t\t\t\t\t<strong>※3/8（日）14:00よりオープニングパーティー<br>\n\t\t\t\t\t\t\t※最終日3/12（木）は19:00まで</strong>\n\t\t\t\t\t",
-        "bodyEn": "2020.03.08(Sun) - 03.12(Thu)<br>\n\t\t\t\t\t\tSun. 1PM to 6PM.<br>\n\t\t\t\t\t\tMon.-Thu. 4PM to 8PM. <br>\n\t\t\t\t\t\t<strong>・Holding the opening party on 03.08(Sun) from 2PM.<br>\n\t\t\t\t\t\t\t・We are open until 7PM on 03.12(Thu).<br>\n\t\t\t\t\t\t</strong>\n\t\t\t\t\t"
+        "bodyJp": "2020年3月8日（日）〜12日（木）<br>\n日曜…13:00〜18:00<br>\n平日…16:00〜20:00 <br>\n<strong>※3/8（日）14:00よりオープニングパーティー<br>\n※最終日3/12（木）は19:00まで</strong>",
+        "bodyEn": "2020.03.08(Sun) - 03.12(Thu)<br>\nSun.  1PM to 6PM.<br>\nMon.-Thu. 4PM to 8PM. <br>\n <strong>・Holding the opening party on 03.08(Sun) from 2PM.<br>\n・We are open until 7PM on 03.12(Thu).<br>\n</strong>"
       },
       {
         "date": "2020.01.30-",
         "isPast": true,
         "titleJp": "fancy chang 個展　- drop into the WHITE -",
-        "titleEn": "fancy chang solo Exhibition　- drop into the WHITE\n\t\t\t\t\t\t\t-",
+        "titleEn": "fancy chang solo Exhibition　- drop into the WHITE -",
         "url": "/archives/2020/200130192816.html",
         "imgSrc": "/upload/2020/児玉さん企画.png",
         "imgAlt": "fancy chang 個展　- drop into the WHITE -",
-        "imgWidth": "168",
-        "bodyJp": "会期：2020年1月30日（木）〜2月2日（日）<br>\n\t\t\t\t\t\t時間：1月30日、31日...19:00〜22:00<br>\n\t\t\t\t\t\t　　　2月1日、2日...14:00〜22:00<br>\n\t\t\t\t\t\t料金：入場無料（1/31,2/1はイベントのため19時から別料金となります）",
-        "bodyEn": "2020/1/30(thu) ～ 2/2(sun)<br>\n\t\t\t\t\t\t　　1/30(thu)・31(fri)　… 19:00～22:00<br>\n\t\t\t\t\t\t　　2/1(sat)・2(sun) 　… 14:00～22:00<br>\n\t\t\t\t\t\tAdmission free"
+        "bodyJp": "会期：2020年1月30日（木）〜2月2日（日）<br>\n時間：1月30日、31日...19:00〜22:00<br>\n　　　2月1日、2日...14:00〜22:00<br>\n料金：入場無料（1/31,2/1はイベントのため19時から別料金となります）",
+        "bodyEn": "2020/1/30(thu) ～ 2/2(sun)<br>\n　　1/30(thu)・31(fri)　… 19:00～22:00<br>\n　　2/1(sat)・2(sun)  　… 14:00～22:00<br>\nAdmission free"
       },
       {
         "date": "2020.01.15",
@@ -1635,21 +1581,19 @@ module.exports = [
         "url": "/archives/2020/200115010000.html",
         "imgSrc": "/upload/2020/80282190_2574108862706117_2448254985058648064_n.jpg",
         "imgAlt": "「ハ・ホンジン (하 헌진) 福岡公演 2020 -水曜どうでしょう-」",
-        "imgWidth": "168",
-        "bodyJp": "日程...2020年1月15日（水） / 14日(火）前夜祭<br>\n\t\t\t\t\t\t時間...19時スタート<br>\n\t\t\t\t\t\t料金…1000円+1ドリンクオーダーお願いします<br>\n\t\t\t\t\t\t出演…ハ・ホンジン（韓国）、他出演者交渉中　",
+        "bodyJp": "日程...2020年1月15日（水） / 14日(火）前夜祭<br>\n時間...19時スタート<br>\n料金…1000円+1ドリンクオーダーお願いします<br>\n出演…ハ・ホンジン（韓国）、他出演者交渉中　",
         "bodyEn": null
       },
       {
         "date": "2020.01.05",
         "isPast": true,
         "titleJp": "北アメリカのアートとアクティビズム「Beehive Design Collective」を囲む会",
-        "titleEn": "Gathering & Hot Pot Party with \"Beehive Design\n\t\t\t\t\t\t\tCollective\"",
+        "titleEn": "Gathering & Hot Pot Party  with \"Beehive Design Collective\"",
         "url": "/archives/2020/200105201016.html",
         "imgSrc": "/upload/2020/80866185_2908230035887765_1641086692901257216_n.jpg",
         "imgAlt": "北アメリカのアートとアクティビズム「Beehive Design Collective」を囲む会",
-        "imgWidth": "168",
-        "bodyJp": "日時：1月５日（日）<br>\n\t\t\t\t\t\t場所:art space tetra<br>\n\t\t\t\t\t\t時間：18:00~<br>\n\t\t\t\t\t\t入場料：カンパ制 ",
-        "bodyEn": "Date: Sunday, January 5<br>\n\t\t\t\t\t\tLocation: art space tetra<br>\n\t\t\t\t\t\tTime: 18: 00 ~<br>\n\t\t\t\t\t\tAdmission: Donation"
+        "bodyJp": "日時：1月５日（日）<br>\n場所:art space tetra<br>\n時間：18:00~<br>\n入場料：カンパ制 ",
+        "bodyEn": "Date: Sunday, January 5<br>\nLocation: art space tetra<br>\nTime: 18: 00 ~<br>\nAdmission: Donation"
       },
       {
         "date": "2020.01.03",
@@ -1659,9 +1603,8 @@ module.exports = [
         "url": "/archives/2020/200103162839.html",
         "imgSrc": "/upload/2019/2015hiroshima.jpg",
         "imgAlt": "お正月だよ！倉地さんスペシャル 2020",
-        "imgWidth": "168",
-        "bodyJp": "日程...2020年1月3日（金）<br>\n\t\t\t\t\t\t時間...17時スタート<br>\n\t\t\t\t\t\t料金...投げ銭+1ドリンクオーダーお願いします<br>\n\t\t\t\t\t\t　　 お正月的な差し入れ歓迎！\b<br>\n\t\t\t\t\t\t出演...倉地久美夫、",
-        "bodyEn": "date : Jan 3(Fri), 2020 <br>\n\t\t\t\t\t\ttime : 5 PM start<br>\n\t\t\t\t\t\tcharge；tossed coin +1drink order<br>\n\t\t\t\t\t\tany potluck are welcomed<br>\n\t\t\t\t\t\tcast : Kumio KURACHI<br>\n\t\t\t\t\t"
+        "bodyJp": "日程...2020年1月3日（金）<br>\n時間...17時スタート<br>\n料金...投げ銭+1ドリンクオーダーお願いします<br>\n　　  お正月的な差し入れ歓迎！\b<br>\n出演...倉地久美夫、",
+        "bodyEn": "date : Jan 3(Fri), 2020 <br>\ntime : 5 PM  start<br>\ncharge；tossed coin +1drink order<br>\n             any potluck are welcomed<br>\ncast : Kumio KURACHI<br>\n"
       },
       {
         "date": "2019.12.21-",
@@ -1671,20 +1614,18 @@ module.exports = [
         "url": "/archives/2019/191221140000.html",
         "imgSrc": "/upload/2019/tetra002.jpg",
         "imgAlt": "NET: art space tetra open space 2019",
-        "imgWidth": "168",
-        "bodyJp": "期日...2019年12月21日（土）〜29日（日）<br>\n\t\t\t\t\t\t時間... 平日 19:00〜22:00／土日 14:00〜20:00<br>\n\t\t\t\t\t\t休廊日...23日（月）、24日（火）<br>\n\t\t\t\t\t\t入場料...500円（ワンドリンク付き）<br>\n\t\t\t\t\t\tイベント...<br>\n\t\t\t\t\t\t12/21（土） 19:00〜codama、遇々　ライブ『笊を浸ける』<br>\n\t\t\t\t\t\t12/28（土） 14:00〜小山冴子『店番：おやま（14時〜17時）』<br>\n\t\t\t\t\t\t12/28（土） 18:00〜松岡涼子　舞踏『灯す』<br>\n\t\t\t\t\t\t※期間中のイベントは詳細が決り次第このページで追加告知していきます。",
-        "bodyEn": "<strong>2019.12.21(Sat) - 29(Sun)</strong><br>\n\t\t\t\t\t\tOpen...<br>\n\t\t\t\t\t\tWeekday 19:00 to 22:00. <br>\n\t\t\t\t\t\tWeekend 14:00 to 20:00.<br>\n\t\t\t\t\t\t※We will be closed on December 23 and 24.<br>\n\t\t\t\t\t\tEntrance fee...500yen (with one free drink)"
+        "bodyJp": "期日...2019年12月21日（土）〜29日（日）<br>\n時間... 平日 19:00〜22:00／土日 14:00〜20:00<br>\n休廊日...23日（月）、24日（火）<br>\n入場料...500円（ワンドリンク付き）<br>\nイベント...<br>\n12/21（土） 19:00〜codama、遇々　ライブ『笊を浸ける』<br>\n12/28（土） 14:00〜小山冴子『店番：おやま（14時〜17時）』<br>\n12/28（土） 18:00〜松岡涼子　舞踏『灯す』<br>\n※期間中のイベントは詳細が決り次第このページで追加告知していきます。",
+        "bodyEn": "<strong>2019.12.21(Sat) - 29(Sun)</strong><br>\nOpen...<br>\nWeekday 19:00 to 22:00. <br>\nWeekend 14:00 to 20:00.<br>\n※We will be closed on December 23 and 24.<br>\nEntrance fee...500yen (with one free drink)"
       },
       {
         "date": "2019.11.22-",
         "isPast": true,
         "titleJp": "児玉浩宜 写真展 『WATER / あふれる水のなかへ』",
-        "titleEn": "Photo Exhibition 『WATER / into the Overflowing water』\n\t\t\t\t\t\t\tby Hironri Kodama",
+        "titleEn": "Photo Exhibition 『WATER / into the Overflowing water』  by Hironri Kodama",
         "url": "/archives/2019/191122130000.html",
         "imgSrc": "/upload/2019/75223839_703200720187601_3459790315219582976_n.jpg",
         "imgAlt": " 児玉浩宜 写真展 『WATER / あふれる水のなかへ』",
-        "imgWidth": "168",
-        "bodyJp": "会期：2019.11.22(金）-24(日）<br>\n\t\t\t\t\t\t時間：<br>\n\t\t\t\t\t\t11.22（金）13:00〜21:00<br>\n\t\t\t\t\t\t11.23（土）11:00〜20:00<br>\n\t\t\t\t\t\t11.24（日）11:00〜19:00",
+        "bodyJp": "会期：2019.11.22(金）-24(日）<br>\n時間：<br>\n11.22（金）13:00〜21:00<br>\n11.23（土）11:00〜20:00<br>\n11.24（日）11:00〜19:00",
         "bodyEn": "2019.11.22(fri）-24(sun）"
       },
       {
@@ -1695,9 +1636,8 @@ module.exports = [
         "url": "/archives/2019/191011152454.html",
         "imgSrc": "/upload/2019/image1.jpeg",
         "imgAlt": "nyke Exhibition 「fk」",
-        "imgWidth": "168",
-        "bodyJp": "2019/10/11(fri)〜10/16(wed) <br>\n\t\t\t\t\t\t14:00 - 21:00<br>\n\t\t\t\t\t\tentrance free",
-        "bodyEn": "2019/10/11(fri)〜10/16(wed) <br>\n\t\t\t\t\t\t14:00 - 21:00<br>\n\t\t\t\t\t\tentrance free"
+        "bodyJp": "2019/10/11(fri)〜10/16(wed) <br>\n14:00 - 21:00<br>\nentrance free",
+        "bodyEn": "2019/10/11(fri)〜10/16(wed) <br>\n14:00 - 21:00<br>\nentrance free"
       },
       {
         "date": "2019.04.26",
@@ -1707,21 +1647,19 @@ module.exports = [
         "url": "/archives/2019/190426211325.html",
         "imgSrc": "/upload/2019/IMG_8782.jpeg",
         "imgAlt": "FUKUOKA ART BOOK MARKET",
-        "imgWidth": "168",
-        "bodyJp": "期間...2019/04/26(金)～5/5(日) 14:00 - 21:00<br>\n\t\t\t\t\t\t時間...14:00 - 21:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "DATE 2019/04/26(金)～5/5(日) 14:00 - 21:00<br>\n\t\t\t\t\t\tTIME 14:00 - 21:00<br>\n\t\t\t\t\t\tadmission free "
+        "bodyJp": "期間...2019/04/26(金)～5/5(日) 14:00 - 21:00<br>\n時間...14:00 - 21:00<br>\n入場無料",
+        "bodyEn": "DATE 2019/04/26(金)～5/5(日) 14:00 - 21:00<br>\nTIME 14:00 - 21:00<br>\nadmission free "
       },
       {
         "date": "2019.04.09",
         "isPast": true,
-        "titleJp": "ギャザリング＆トーク 『ロンドンにおけるスクウォティング、社会センター、DIY\n\t\t\t\t\t\t\tミュージック＆ラジオカルチャー』",
-        "titleEn": "Gathering&Talk “Squatting, Social Centres and DIY\n\t\t\t\t\t\t\tMusic and Radio Culture in London”",
+        "titleJp": "ギャザリング＆トーク 『ロンドンにおけるスクウォティング、社会センター、DIY ミュージック＆ラジオカルチャー』",
+        "titleEn": "Gathering&Talk “Squatting, Social Centres and DIY Music and Radio Culture in London”",
         "url": "/archives/2019/190409170446.html",
         "imgSrc": "/upload/2019/スクリーンショット 2019-03-29 12.24.40.jpg",
         "imgAlt": "ギャザリング＆トーク 『ロンドンにおけるスクウォティング、社会センター、DIY ミュージック＆ラジオカルチャー』",
-        "imgWidth": "168",
-        "bodyJp": "日時...2019年４月9日（火）18:00~20:00<br>\n\t\t\t\t\t\t＊ドネーション+ワンドリンクオーダー制<br>\n\t\t\t\t\t\t（日英逐次通訳）<br>\n\t\t\t\t\t",
-        "bodyEn": " Date... 2019/04/09 (Tue) 18:00~19:00<br>\n\t\t\t\t\t\t＊Donation +one drink order <br>\n\t\t\t\t\t"
+        "bodyJp": "日時...2019年４月9日（火）18:00~20:00<br>\n＊ドネーション+ワンドリンクオーダー制<br>\n（日英逐次通訳）<br>\n",
+        "bodyEn": " Date... 2019/04/09 (Tue) 18:00~19:00<br>\n＊Donation +one drink order <br>\n"
       },
       {
         "date": "2019.03.23",
@@ -1731,7 +1669,6 @@ module.exports = [
         "url": "/archives/2019/190323000013.html",
         "imgSrc": "/upload/2019/okihiroyuki.jpg",
         "imgAlt": "上映会+ラウンドトーク『 大木裕之 と/の 12年 』",
-        "imgWidth": "168",
         "bodyJp": "日程...2019年3月23日（土）",
         "bodyEn": null
       },
@@ -1743,9 +1680,8 @@ module.exports = [
         "url": "/archives/2019/190106141118.html",
         "imgSrc": "/upload/2018/IMG_1558.jpg",
         "imgAlt": "さいきんどうかい",
-        "imgWidth": "168",
-        "bodyJp": "期日：2019年1月6日（日）<br>\n\t\t\t\t\t\t時間：18時スタート<br>\n\t\t\t\t\t\t料金：1ドリンクオーダーしてください、差し入れ歓迎！<br>\n\t\t\t\t\t\t進行：小山冴子、三好剛平<br>\n\t\t\t\t\t\t話題の人：坂田賢治、高橋聡太、藤枝 大、他（調整中）<br>\n\t\t\t\t\t",
-        "bodyEn": "Date:2019.1.6 18:00~<br>\n\t\t\t\t\t\tFee : 1drink order + any potluck are welcomed"
+        "bodyJp": "期日：2019年1月6日（日）<br>\n時間：18時スタート<br>\n料金：1ドリンクオーダーしてください、差し入れ歓迎！<br>\n進行：小山冴子、三好剛平<br>\n話題の人：坂田賢治、高橋聡太、藤枝 大、他（調整中）<br>\n",
+        "bodyEn": "Date:2019.1.6  18:00~<br>\nFee : 1drink order + any potluck are welcomed"
       },
       {
         "date": "2019.01.03",
@@ -1755,10 +1691,19 @@ module.exports = [
         "url": "/archives/2019/190103075036.html",
         "imgSrc": "/upload/2018/くらち.jpg",
         "imgAlt": "お正月だよ！倉地さんスペシャル 2019",
-        "imgWidth": "168",
-        "bodyJp": "日程...2019年1月3日（木）<br>\n\t\t\t\t\t\t時間...15時スタート<br>\n\t\t\t\t\t\t料金...投げ銭+1ドリンクオーダーお願いします<br>\n\t\t\t\t\t\t　　 お正月的な差し入れ歓迎！<br>\n\t\t\t\t\t\t出演...倉地久美夫、",
-        "bodyEn": "date : Jan 3, 2019 (Tur)<br>\n\t\t\t\t\t\ttime : 15:00 start<br>\n\t\t\t\t\t\tcharge；tossed coin +1drink order<br>\n\t\t\t\t\t\tany potluck are welcomed<br>\n\t\t\t\t\t\tcast : Kumio KURACHI, etc <br>\n\t\t\t\t\t"
-      },
+        "bodyJp": "日程...2019年1月3日（木）<br>\n時間...15時スタート<br>\n料金...投げ銭+1ドリンクオーダーお願いします<br>\n　　  お正月的な差し入れ歓迎！<br>\n出演...倉地久美夫、",
+        "bodyEn": "date : Jan 3, 2019 (Tur)<br>\ntime : 15:00 start<br>\ncharge；tossed coin +1drink order<br>\n             any potluck are welcomed<br>\ncast : Kumio KURACHI, etc <br>\n"
+      }
+    ],
+    "permalink": "tetra/page/5/index.html"
+  },
+  {
+    "pageNumber": 5,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2018.08.15",
         "isPast": true,
@@ -1767,9 +1712,8 @@ module.exports = [
         "url": "/archives/2018/180815000001.html",
         "imgSrc": "/upload/2018/IMG_3444.JPG",
         "imgAlt": " はなす",
-        "imgWidth": "168",
-        "bodyJp": "期日：2018年8月15日（水）<br>\n\t\t\t\t\t\t時間：18時スタート<br>\n\t\t\t\t\t\t料金：カンパをお願いします",
-        "bodyEn": "Date...Aug 15, 2018 (Wed) 18:00 -<br>\n\t\t\t\t\t\tFee...Chip in"
+        "bodyJp": "期日：2018年8月15日（水）<br>\n時間：18時スタート<br>\n料金：カンパをお願いします",
+        "bodyEn": "Date...Aug 15, 2018 (Wed) 18:00 -<br>\nFee...Chip in"
       },
       {
         "date": "2018.04.14",
@@ -1779,9 +1723,8 @@ module.exports = [
         "url": "/archives/2018/180414120000.html",
         "imgSrc": "/upload/2018/S__5496853.jpg",
         "imgAlt": "FUKUOKA ART BOOK MARKET",
-        "imgWidth": "168",
-        "bodyJp": "■FUKUOKA ART BOOK MARKET<br>\n\t\t\t\t\t\t期間：2018/04/14(土)〜4/20(金) <br>\n\t\t\t\t\t\t時間：12:00 - 21:00<br>\n\t\t\t\t\t\t・Opening party：4/14(土)12:00〜22:00 <br>\n\t\t\t\t\t\t・Opening talk：4/14(土)18:00〜 <br>\n\t\t\t\t\t\t入場無料（初日のみ ¥1,000）",
-        "bodyEn": "■FUKUOKA ART BOOK MARKET<br>\n\t\t\t\t\t\t■2018/04/14(sat) 〜 4/20(fri) 12:00 - 21:00<br>\n\t\t\t\t\t\t・Opening party：4/14 12:00〜22:00 <br>\n\t\t\t\t\t\t・Opening talk：4/14 18:00〜 <br>\n\t\t\t\t\t\t■4/14 ¥1,000 | 4/15 〜 4/20 charge free"
+        "bodyJp": "■FUKUOKA ART BOOK MARKET<br>\n期間：2018/04/14(土)〜4/20(金) <br>\n時間：12:00 - 21:00<br>\n・Opening party：4/14(土)12:00〜22:00  <br>\n・Opening talk：4/14(土)18:00〜 <br>\n入場無料（初日のみ ¥1,000）",
+        "bodyEn": "■FUKUOKA ART BOOK MARKET<br>\n■2018/04/14(sat) 〜 4/20(fri) 12:00 - 21:00<br>\n・Opening party：4/14 12:00〜22:00  <br>\n・Opening talk：4/14 18:00〜 <br>\n■4/14 ¥1,000 | 4/15 〜 4/20 charge free"
       },
       {
         "date": "2018.01.03",
@@ -1791,9 +1734,8 @@ module.exports = [
         "url": "/archives/2018/180103000100.html",
         "imgSrc": "/upload/2017/kurachi.jpg",
         "imgAlt": "お正月だよ！倉地さんスペシャル 2018",
-        "imgWidth": "168",
-        "bodyJp": "日程...2018年1月3日（水）<br>\n\t\t\t\t\t\t時間...15時スタート<br>\n\t\t\t\t\t\t料金...投げ銭（お正月的な差し入れ歓迎します）<br>\n\t\t\t\t\t\t出演...倉地久美夫、ほか<br>\n\t\t\t\t\t",
-        "bodyEn": "date : Jan 3, 2018 (wed)<br>\n\t\t\t\t\t\ttime : 15:00 start<br>\n\t\t\t\t\t\tcharge；tossed coin + any potluck are welcomed<br>\n\t\t\t\t\t\tcast:Kumio KURACHI, etc <br>\n\t\t\t\t\t\tto be confirmed<br>\n\t\t\t\t\t"
+        "bodyJp": "日程...2018年1月3日（水）<br>\n時間...15時スタート<br>\n料金...投げ銭（お正月的な差し入れ歓迎します）<br>\n出演...倉地久美夫、ほか<br>\n",
+        "bodyEn": "date : Jan 3, 2018 (wed)<br>\ntime : 15:00  start<br>\ncharge；tossed coin  + any potluck are  welcomed<br>\ncast:Kumio KURACHI, etc <br>\nto be confirmed<br>\n"
       },
       {
         "date": "2016.03.27",
@@ -1803,9 +1745,8 @@ module.exports = [
         "url": "/archives/2016/160327213851.html",
         "imgSrc": "/upload/2016/terae_talk.jpg",
         "imgAlt": "「はじめまして寺江圭一朗です」",
-        "imgWidth": "168",
-        "bodyJp": "期日…2016年3月27日（日）<br>\n\t\t\t\t\t\t時間…13:00 - 22:00　　※途中入退場可<br>\n\t\t\t\t\t\t料金…無料（要ワンドリンクオーダー）※一品持ち寄り歓迎！<br>\n\t\t\t\t\t\t場所…art space tetra 2F<br>\n\t\t\t\t\t\t登壇…岩本史緒、城野敬志、竹口浩司、牧園憲二",
-        "bodyEn": "date : March 27th (Sun)<br>\n\t\t\t\t\t\ttime : 13pm - 22pm<br>\n\t\t\t\t\t\tprice : 1 drink order<br>\n\t\t\t\t\t\tvenue : art space tetra 2F"
+        "bodyJp": "期日…2016年3月27日（日）<br>\n時間…13:00 - 22:00　　※途中入退場可<br>\n料金…無料（要ワンドリンクオーダー）※一品持ち寄り歓迎！<br>\n場所…art space tetra 2F<br>\n登壇…岩本史緒、城野敬志、竹口浩司、牧園憲二",
+        "bodyEn": "date : March 27th (Sun)<br>\ntime : 13pm - 22pm<br>\nprice : 1 drink order<br>\nvenue : art space tetra 2F"
       },
       {
         "date": "2016.03.24-",
@@ -1815,21 +1756,19 @@ module.exports = [
         "url": "/archives/2016/160324213043.html",
         "imgSrc": "/upload/2016/hole_800.jpg",
         "imgAlt": "寺江圭一朗 個展「穴」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2016年3月24日(木) - 27日(日)<br>\n\t\t\t\t\t\t時間…13:00 - 20:00<br>\n\t\t\t\t\t\t企画…牧園憲二",
-        "bodyEn": "from March 24th through 27th, 2016<br>\n\t\t\t\t\t\topne 13:00 - close 20:00<br>\n\t\t\t\t\t\tCuration Kenji Makizono<br>\n\t\t\t\t\t\ttalk event is here"
+        "bodyJp": "会期…2016年3月24日(木) - 27日(日)<br>\n時間…13:00 - 20:00<br>\n企画…牧園憲二",
+        "bodyEn": "from March 24th through 27th, 2016<br>\nopne 13:00 - close 20:00<br>\nCuration Kenji Makizono<br>\ntalk event is here"
       },
       {
         "date": "2016.02.06",
         "isPast": true,
         "titleJp": "村井啓哲ライブ　georama+lucent",
-        "titleEn": "Keitetsu MUrai LIVE\n\t\t\t\t\t\t\t\"georama+lucent+(sometime:Ushijima)\"",
+        "titleEn": "Keitetsu MUrai LIVE  \"georama+lucent+(sometime:Ushijima)\"",
         "url": "/archives/2016/160206210240.html",
         "imgSrc": "/upload/2016/12584155_1112507708815998_908958422_n.jpg",
         "imgAlt": "村井啓哲ライブ　georama+lucent ",
-        "imgWidth": "168",
-        "bodyJp": "2016,2,6(sat) 19:00~<br>\n\t\t\t\t\t\t村井啓哲ライブ georama+lucent+(ときどき口琴:ウシジマ)<br>\n\t\t\t\t\t\t¥1,000(１ドリンク付)",
-        "bodyEn": "2016,2,6(sat) 19:00~<br>\n\t\t\t\t\t\t¥1,000(1drink contain)<br>\n\t\t\t\t\t"
+        "bodyJp": "2016,2,6(sat) 19:00~<br>\n村井啓哲ライブ georama+lucent+(ときどき口琴:ウシジマ)<br>\n¥1,000(１ドリンク付)",
+        "bodyEn": "2016,2,6(sat) 19:00~<br>\n¥1,000(1drink contain)<br>\n"
       },
       {
         "date": "2016.01.03",
@@ -1839,20 +1778,9 @@ module.exports = [
         "url": "/archives/2016/160103000000.html",
         "imgSrc": "/upload/2016/NEWYEAR-小.jpeg",
         "imgAlt": "お正月だよ！倉地さんスペシャル",
-        "imgWidth": "168",
-        "bodyJp": "日程...2016年1月3日（日）<br>\n\t\t\t\t\t\t時間...15時スタート<br>\n\t\t\t\t\t\t料金...１ドリンクオーダー＋投げ銭",
-        "bodyEn": "date : Jan 3, 2016<br>\n\t\t\t\t\t\ttime : 15:00 start<br>\n\t\t\t\t\t\tticket : drink order +　Pass the hat style admission　"
-      }
-    ],
-    "permalink": "tetra/page/5/index.html"
-  },
-  {
-    "pageNumber": 5,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "日程...2016年1月3日（日）<br>\n時間...15時スタート<br>\n料金...１ドリンクオーダー＋投げ銭",
+        "bodyEn": "date : Jan 3, 2016<br>\ntime : 15:00  start<br>\nticket : drink order +　Pass the hat style admission　"
+      },
       {
         "date": "2015.12.13",
         "isPast": true,
@@ -1861,9 +1789,8 @@ module.exports = [
         "url": "/archives/2015/151213170000.html",
         "imgSrc": "/upload/2015/talkin_about_vol2.png",
         "imgAlt": "talkin' about vol.2",
-        "imgWidth": "168",
-        "bodyJp": "期日...2015年12月13日（日）<br>\n\t\t\t\t\t\t時間...17:00〜22:00<br>\n\t\t\t\t\t\t料金...800円（ワンドリンク無料。フード付き）<br>\n\t\t\t\t\t\tスピーカー...渡邊瑠璃, 寺江圭一郎, 山内光枝, 宮田君平, 武内貴子, 牛島光太郎",
-        "bodyEn": "date : December 13th, 2015<br>\n\t\t\t\t\t\ttime : 5pm-10pm<br>\n\t\t\t\t\t\t800yen(with 1drink and food）"
+        "bodyJp": "期日...2015年12月13日（日）<br>\n時間...17:00〜22:00<br>\n料金...800円（ワンドリンク無料。フード付き）<br>\nスピーカー...渡邊瑠璃, 寺江圭一郎, 山内光枝, 宮田君平, 武内貴子, 牛島光太郎",
+        "bodyEn": "date : December 13th, 2015<br>\ntime : 5pm-10pm<br>\n800yen(with 1drink and food）"
       },
       {
         "date": "2015.10.24-",
@@ -1873,18 +1800,17 @@ module.exports = [
         "url": "/archives/2015/151024000000.html",
         "imgSrc": "/upload/2015/eye_garden(web).jpg",
         "imgAlt": "篠原達郎展　",
-        "imgWidth": "168",
-        "bodyJp": "会期：2015年10月24日（土）〜11月4日（水）<br>\n\t\t\t\t\t\t時間：13:00~20:00<br>\n\t\t\t\t\t\t　＊10月24日（土）のみ15:00〜、11月 4日（水）のみ15:00まで",
-        "bodyEn": "24(sat),Oct ,2015~ 4(wed),11,Nov,2015<br>\n\t\t\t\t\t\t13:00~20:00<br>\n\t\t\t\t\t\t*Only 24(sat),Oct 15:00 start , only 4(wed),Nov until 15:00"
+        "bodyJp": "会期：2015年10月24日（土）〜11月4日（水）<br>\n時間：13:00~20:00<br>\n　＊10月24日（土）のみ15:00〜、11月  4日（水）のみ15:00まで",
+        "bodyEn": "24(sat),Oct ,2015~ 4(wed),11,Nov,2015<br>\n13:00~20:00<br>\n*Only 24(sat),Oct 15:00 start , only 4(wed),Nov until 15:00"
       },
       {
         "date": "2015.08.16",
         "isPast": true,
         "titleJp": "ピアノ講習会 ＜図形楽譜とプリペアド・ピアノ＞",
-        "titleEn": "Piano Lesson: Prepared Piano & Graphic\n\t\t\t\t\t\t\tNotation",
+        "titleEn": "Piano Lesson: Prepared Piano & Graphic Notation",
         "url": "/archives/2015/150816224131.html",
-        "bodyJp": "【日時】　2015年８月16日(日)午後2時から5時（三時間)<br>\n\t\t\t\t\t\t【定員】　受講者４名（見学者は定員なし）<br>\n\t\t\t\t\t\t【受講料】5,000円（ワン・ドリンク付き）　　見学のみは3,000円（ワン・ドリンク付き）",
-        "bodyEn": "Sunday, 16th August 2015 14:00-17:00<br>\n\t\t\t\t\t\tby Takuji Kawai"
+        "bodyJp": "【日時】　2015年８月16日(日)午後2時から5時（三時間)<br>\n【定員】　受講者４名（見学者は定員なし）<br>\n【受講料】5,000円（ワン・ドリンク付き）　　見学のみは3,000円（ワン・ドリンク付き）",
+        "bodyEn": "Sunday, 16th August 2015  14:00-17:00<br>\nby Takuji Kawai"
       },
       {
         "date": "2015.08.02",
@@ -1894,45 +1820,41 @@ module.exports = [
         "url": "/archives/2015/150802130120.html",
         "imgSrc": "/upload/2015/羅針本.jpg",
         "imgAlt": "羅 針 本 #5",
-        "imgWidth": "168",
-        "bodyJp": "日時：2015年8月2日（日）<br>\n\t\t\t\t\t\t時間：18:00 〜<br>\n\t\t\t\t\t\t参加費：￥500（ハンドドリップコーヒー付き）<br>\n\t\t\t\t\t\tテーマ『日記』",
+        "bodyJp": "日時：2015年8月2日（日）<br>\n時間：18:00 〜<br>\n参加費：￥500（ハンドドリップコーヒー付き）<br>\nテーマ『日記』",
         "bodyEn": null
       },
       {
         "date": "2015.07.18",
         "isPast": true,
-        "titleJp": "レクチャー＆ピアノ・コンサート ～プリペアド・ピアノと内部奏法～\n\t\t\t\t\t\t\t　第２回「プリペアド・ピアノについて」",
-        "titleEn": "Contemporary Piano Music : Lecture&Concert #2\n\t\t\t\t\t\t\t\"Prepared Piano\"",
+        "titleJp": "レクチャー＆ピアノ・コンサート ～プリペアド・ピアノと内部奏法～ 　第２回「プリペアド・ピアノについて」",
+        "titleEn": "Contemporary Piano Music : Lecture&Concert #2 \"Prepared Piano\"",
         "url": "/archives/2015/150718004341.html",
         "imgSrc": "/upload/2015/修正版小さいやつ.jpg",
         "imgAlt": "レクチャー＆ピアノ・コンサート ～プリペアド・ピアノと内部奏法～ 　第２回「プリペアド・ピアノについて」",
-        "imgWidth": "168",
-        "bodyJp": "2015年7月18日（土曜日）　開場18時　開演19時　入場料2500円(1drinkつき）<br>\n\t\t\t\t\t\t話・ピアノ：河合拓始<br>\n\t\t\t\t\t\tお問合せ・ご予約：izm@as-tetra.info または colorrecords@gmail.com",
-        "bodyEn": "Vol.1 : 18th July 2015 (Sat) open 18:00 start 19:00 entrance fee：¥2500(1drink incl.)<br>\n\t\t\t\t\t\tlecture, piano : Takuji Kawai<br>\n\t\t\t\t\t\treservation : izm@as-tetra.info or colorrecords@gmail.com"
+        "bodyJp": "2015年7月18日（土曜日）　開場18時　開演19時　入場料2500円(1drinkつき）<br>\n話・ピアノ：河合拓始<br>\nお問合せ・ご予約：izm@as-tetra.info または colorrecords@gmail.com",
+        "bodyEn": "Vol.1 : 18th July 2015 (Sat) open 18:00 start 19:00 entrance fee：¥2500(1drink incl.)<br>\nlecture, piano : Takuji Kawai<br>\nreservation : izm@as-tetra.info or colorrecords@gmail.com"
       },
       {
         "date": "2015.07.04",
         "isPast": true,
         "titleJp": "レクチャー＆ピアノ・コンサート ～プリペアド・ピアノと内部奏法～ 　第１回「内部奏法について」",
-        "titleEn": "Contemporary Piano Music : Lecture&Concert #1\n\t\t\t\t\t\t\t\"Inside Piano\"",
+        "titleEn": "Contemporary Piano Music : Lecture&Concert #1 \"Inside Piano\"",
         "url": "/archives/2015/150704232900.html",
         "imgSrc": "/upload/2015/修正版小さいやつ.jpg",
         "imgAlt": "レクチャー＆ピアノ・コンサート ～プリペアド・ピアノと内部奏法～ 　第１回「内部奏法について」",
-        "imgWidth": "168",
-        "bodyJp": "第一回：2015年7月4日（土曜日）開場18時　開演19時 　入場料2500円（1drinkつき）<br>\n\t\t\t\t\t\t話・ピアノ：河合拓始 <br>\n\t\t\t\t\t\tお問合せ・ご予約：izm@as-tetra.info または colorrecords@gmail.com",
-        "bodyEn": "Vol.1 : 4th July 2015 (Sat) open 18:00 start 19:00 entrance fee：¥2500(1drink incl.)<br>\n\t\t\t\t\t\tlecture, piano : Takuji Kawai<br>\n\t\t\t\t\t\treservation : izm@as-tetra.info or colorrecords@gmail.com<br>\n\t\t\t\t\t"
+        "bodyJp": "第一回：2015年7月4日（土曜日）開場18時　開演19時 　入場料2500円（1drinkつき）<br>\n話・ピアノ：河合拓始 <br>\nお問合せ・ご予約：izm@as-tetra.info または colorrecords@gmail.com",
+        "bodyEn": "Vol.1 : 4th July 2015 (Sat) open 18:00  start  19:00  entrance fee：¥2500(1drink incl.)<br>\nlecture, piano : Takuji Kawai<br>\nreservation : izm@as-tetra.info or colorrecords@gmail.com<br>\n"
       },
       {
         "date": "2015.06.28",
         "isPast": true,
         "titleJp": "歌作りワークショップ#4",
-        "titleEn": "Workshop: Group-Composition of Songs #4 facilitator:\n\t\t\t\t\t\t\tTakuji Kawai",
+        "titleEn": "Workshop: Group-Composition of Songs #4 facilitator: Takuji Kawai",
         "url": "/archives/2015/150628002610.html",
         "imgSrc": "/upload/2015/150419_024840-2★歌作り.jpg",
         "imgAlt": "歌作りワークショップ#4",
-        "imgWidth": "168",
-        "bodyJp": "2015年9月20日（日曜日）15:00 - 18:00<br>\n\t\t\t\t\t\t料金　1800円<br>\n\t\t\t\t\t\t定員　8名程度（申込制）",
-        "bodyEn": "20/SEP/2015 (SUN) 15:00 - 18:00<br>\n\t\t\t\t\t\t¥1800<br>\n\t\t\t\t\t\t~ 8 people (enrollment required)<br>\n\t\t\t\t\t"
+        "bodyJp": "2015年9月20日（日曜日）15:00 - 18:00<br>\n料金　1800円<br>\n定員　8名程度（申込制）",
+        "bodyEn": "20/SEP/2015 (SUN)   15:00 - 18:00<br>\n¥1800<br>\n~ 8 people (enrollment required)<br>\n"
       },
       {
         "date": "2014.12.23",
@@ -1942,33 +1864,30 @@ module.exports = [
         "url": "/archives/2014/141223230522.html",
         "imgSrc": "/upload/2014/unnamed.jpg",
         "imgAlt": "Talkin' about vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日...2014年12月23日（火・祝）<br>\n\t\t\t\t\t\t時間...17:00〜22:00<br>\n\t\t\t\t\t\t料金...800円（ワンドリンク無料。フード付き）<br>\n\t\t\t\t\t\tスピーカー...生島国宜, 尾中俊介, 近藤祐史, 正路佐知子, 寺江圭一朗, 松崎宏史, 牧園憲二, 宮田君平",
-        "bodyEn": "date : December 23th, 2014<br>\n\t\t\t\t\t\ttime : 5pm-10pm<br>\n\t\t\t\t\t\t800yen(with 1drink and food）"
+        "bodyJp": "期日...2014年12月23日（火・祝）<br>\n時間...17:00〜22:00<br>\n料金...800円（ワンドリンク無料。フード付き）<br>\nスピーカー...生島国宜, 尾中俊介, 近藤祐史, 正路佐知子, 寺江圭一朗, 松崎宏史, 牧園憲二, 宮田君平",
+        "bodyEn": "date : December 23th, 2014<br>\ntime : 5pm-10pm<br>\n800yen(with 1drink and food）"
       },
       {
         "date": "2014.11.11-",
         "isPast": true,
         "titleJp": "牛島智子　個展「腰曲げレットウ」",
-        "titleEn": "Tomoko Ushijima Solo Exhivition　\"archipelago form of\n\t\t\t\t\t\t\tbending the waist \"",
+        "titleEn": "Tomoko Ushijima Solo Exhivition　\"archipelago form of bending the waist \"",
         "url": "/archives/2014/141111000001.html",
         "imgSrc": "/upload/2014/tomoko-ushijima2.jpeg",
         "imgAlt": "牛島智子　個展「腰曲げレットウ」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2014年11月11日(火)〜16日(日)<br>\n\t\t\t\t\t\t時間…13:00〜20:00<br>\n\t\t\t\t\t\t　　 ※12日(水)のみ16:00〜20:00<br>\n\t\t\t\t\t\t会期中無休<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "date : Nov 11 (tue) - 16 (Sun), 2014<br>\n\t\t\t\t\t\topen : 13:00 - 20:00 <br>\n\t\t\t\t\t\t　　　 ※except Jun 12 :16:00 - 20:00"
+        "bodyJp": "会期…2014年11月11日(火)〜16日(日)<br>\n時間…13:00〜20:00<br>\n  　　 ※12日(水)のみ16:00〜20:00<br>\n会期中無休<br>\n入場無料",
+        "bodyEn": "date : Nov 11 (tue) - 16 (Sun), 2014<br>\nopen : 13:00 - 20:00 <br>\n　　　 ※except Jun 12 :16:00 - 20:00"
       },
       {
         "date": "2014.10.30",
         "isPast": true,
         "titleJp": "バングラデシュ・アートの先駆者たち：Britto Arts Trust",
-        "titleEn": "Pioneers of the Bangladesh Contemporary Art World:\n\t\t\t\t\t\t\tBritto Arts Trust",
+        "titleEn": "Pioneers of the Bangladesh Contemporary Art World: Britto Arts Trust",
         "url": "/archives/2014/141030082642.html",
         "imgSrc": "/upload/2014/the 54th Venezia Biennale (Bangladesh).jpg",
         "imgAlt": "バングラデシュ・アートの先駆者たち：Britto Arts Trust",
-        "imgWidth": "168",
-        "bodyJp": "期日…2014年10月30日（木）<br>\n\t\t\t\t\t\t時間…18:30open／19:00 start<br>\n\t\t\t\t\t\t参加費…1000円（1ドリンク付き）<br>\n\t\t\t\t\t\t※2杯めからは通常のドリンク料金になります。（200円～）",
-        "bodyEn": "date...2014,Oct.30.　　<br>\n\t\t\t\t\t\t18:30open／19:00 start<br>\n\t\t\t\t\t\tticket...1000yen（with 1drink）<br>\n\t\t\t\t\t"
+        "bodyJp": "期日…2014年10月30日（木）<br>\n時間…18:30open／19:00 start<br>\n参加費…1000円（1ドリンク付き）<br>\n※2杯めからは通常のドリンク料金になります。（200円～）",
+        "bodyEn": "date...2014,Oct.30.　　<br>\n18:30open／19:00 start<br>\nticket...1000yen（with 1drink）<br>\n"
       },
       {
         "date": "2014.10.24",
@@ -1978,9 +1897,8 @@ module.exports = [
         "url": "/archives/2014/141024193000.html",
         "imgSrc": "/upload/2014/Ichiyanagi_PianoMusic#2-2.jpg",
         "imgAlt": "図形楽譜ワークショップ2014（全５回）",
-        "imgWidth": "168",
-        "bodyJp": "①10月24日(金)　②11月６日(木)　③11月21日(金)　④12月12日(金)　⑤12月26日(金)<br>\n\t\t\t\t\t\t時間...各回午後7時30分〜９時30分<br>\n\t\t\t\t\t\t参加費...（申込制）1,500円（各回）",
-        "bodyEn": "(1) Friday, 24th October (2) Thursday, 6th November (3) Friday, 21st November (4) Friday, 12th\n\t\t\t\t\t\tDecember (5) Friday, 26th December "
+        "bodyJp": "①10月24日(金)　②11月６日(木)　③11月21日(金)　④12月12日(金)　⑤12月26日(金)<br>\n時間...各回午後7時30分〜９時30分<br>\n参加費...（申込制）1,500円（各回）",
+        "bodyEn": "(1) Friday, 24th October (2) Thursday, 6th November (3) Friday, 21st November (4) Friday, 12th December (5) Friday, 26th December "
       },
       {
         "date": "2014.09.26",
@@ -1990,8 +1908,7 @@ module.exports = [
         "url": "/archives/2014/140926000000.html",
         "imgSrc": "/upload/2014/tsuide.jpg",
         "imgAlt": "テトラオクトーバーフェスト",
-        "imgWidth": "168",
-        "bodyJp": "期日...2014年9月26日(金)、27日(土)<br>\n\t\t\t\t\t\t時間...12時〜18時　ガレージセール<br>\n\t\t\t\t\t\t　　　19時〜トークイベントとドイツビール<br>\n\t\t\t\t\t\t　　　※トーク内容は下記を確認してください。CHEERS!",
+        "bodyJp": "期日...2014年9月26日(金)、27日(土)<br>\n時間...12時〜18時　ガレージセール<br>\n　　　19時〜トークイベントとドイツビール<br>\n　　　※トーク内容は下記を確認してください。CHEERS!",
         "bodyEn": "26th &amp; 27th Sep. 2014"
       },
       {
@@ -2002,9 +1919,8 @@ module.exports = [
         "url": "/archives/2014/140914150001.html",
         "imgSrc": "/upload/2014/着物柄２テトラ.jpg",
         "imgAlt": "tetraガレージセール / セカンドハンド着物セール",
-        "imgWidth": "168",
-        "bodyJp": "期日...2014年9月14日・15日　<br>\n\t\t\t\t\t\t時間...12:00~18:00",
-        "bodyEn": "14th &amp; 15th Sep. 2014<br>\n\t\t\t\t\t\t12:00 ~ 18:00"
+        "bodyJp": "期日...2014年9月14日・15日　<br>\n時間...12:00~18:00",
+        "bodyEn": "14th &amp; 15th Sep. 2014<br>\n12:00 ~ 18:00"
       },
       {
         "date": "2014.09.10",
@@ -2014,9 +1930,8 @@ module.exports = [
         "url": "/archives/2014/140910181139.html",
         "imgSrc": "/upload/2014/写真 (1).JPG",
         "imgAlt": "「テトラ、開いてます。」",
-        "imgWidth": "168",
-        "bodyJp": "このページは９月のイベント情報のまとめページです。<br>\n\t\t\t\t\t\t時間はイベントの始まる時間です。開場時間ではありませんのでご注意ください。<br>\n\t\t\t\t\t\t情報は随時更新されます。時間の記載のない場合は、夕方から開ける予定です。",
-        "bodyEn": "Tetra is open weekends in September.<br>\n\t\t\t\t\t\t12日（金）20:30〜<a href=\"https://www.facebook.com/events/815043658527536/\">talk about the art of\n\t\t\t\t\t\t\tFukuoka</a><br>\n\t\t\t\t\t\t13日（土）18:00〜<a href=\"/archives/2014/140913233130.html\">AGAINST2014 Screening / Discussion\n\t\t\t\t\t\t\t\"A.K.A. Serial Killer\" Directed by Adachi Msao｜Japan｜1969｜85min</a><br>\n\t\t\t\t\t\t14日（日）12:00〜<a href=\"/archives/2014/140914150001.html\">tetra-marche / 2ndhand-KIMONO\n\t\t\t\t\t\t\tsale</a><br>\n\t\t\t\t\t\t15日（月・祝）12:00〜<a href=\"/archives/2014/140914150001.html\">tetra-marche / 2ndhand-KIMONO\n\t\t\t\t\t\t\tsale</a><br>\n\t\t\t\t\t\t20日（土）14:30〜<a href=\"/archives/2014/140920235042.html\">AGAINST2014 Adachi Masao: Talk Cinema /\n\t\t\t\t\t\t\tTerritory / Action</a><br>\n\t\t\t\t\t\t21日（日）19:30〜<a href=\"/archives/2014/140921182318.html\">Ryu Hankil,Akira Sanematsu,七色川</a><br>\n\t\t\t\t\t\t23日（火）16:30〜Bar Drkroom<br>\n\t\t\t\t\t\t26日（金）19:00〜Deutsch Bier &amp; Talk　<br>\n\t\t\t\t\t\t27日（土）12:00〜Garage sale<br>\n\t\t\t\t\t\t　　　　　 19:00〜<a href=\"https://www.facebook.com/pukpuk2014?fref=ts\">Talk by Hiroshi Fuji : art\n\t\t\t\t\t\t\tmuseum, art project and artist.</a><br>\n\t\t\t\t\t\t28日（日）19:00〜<a href=\"/archives/2014/140928224829.html\">tet_lab#201</a>"
+        "bodyJp": "このページは９月のイベント情報のまとめページです。<br>\n時間はイベントの始まる時間です。開場時間ではありませんのでご注意ください。<br>\n情報は随時更新されます。時間の記載のない場合は、夕方から開ける予定です。",
+        "bodyEn": "Tetra is open weekends in September.<br>\n12日（金）20:30〜<a href=\"https://www.facebook.com/events/815043658527536/\">talk about the art of Fukuoka</a><br>\n13日（土）18:00〜<a href=\"/archives/2014/140913233130.html\">AGAINST2014 Screening / Discussion \"A.K.A. Serial Killer\" Directed by Adachi Msao｜Japan｜1969｜85min</a><br>\n14日（日）12:00〜<a href=\"/archives/2014/140914150001.html\">tetra-marche / 2ndhand-KIMONO sale</a><br>\n15日（月・祝）12:00〜<a href=\"/archives/2014/140914150001.html\">tetra-marche / 2ndhand-KIMONO sale</a><br>\n20日（土）14:30〜<a href=\"/archives/2014/140920235042.html\">AGAINST2014 Adachi Masao: Talk Cinema / Territory / Action</a><br>\n21日（日）19:30〜<a href=\"/archives/2014/140921182318.html\">Ryu Hankil,Akira Sanematsu,七色川</a><br>\n23日（火）16:30〜Bar Drkroom<br>\n26日（金）19:00〜Deutsch Bier &amp; Talk　<br>\n27日（土）12:00〜Garage sale<br>\n　　　　　 19:00〜<a href=\"https://www.facebook.com/pukpuk2014?fref=ts\">Talk by Hiroshi Fuji : art museum, art project and artist.</a><br>\n28日（日）19:00〜<a href=\"/archives/2014/140928224829.html\">tet_lab#201</a>"
       },
       {
         "date": "2014.06.08",
@@ -2026,9 +1941,8 @@ module.exports = [
         "url": "/archives/2014/140608000001.html",
         "imgSrc": "/upload/2014/10390124_688880291159872_8755218663117130563_n.jpg",
         "imgAlt": "ツギハギ雨漏り最終日、たこ焼きパーティー",
-        "imgWidth": "168",
-        "bodyJp": "期日...2014年6月8日(日)<br>\n\t\t\t\t\t\t時間...17時30分（くらい）〜",
-        "bodyEn": "2014,June,8th<br>\n\t\t\t\t\t\taround 17:30〜"
+        "bodyJp": "期日...2014年6月8日(日)<br>\n時間...17時30分（くらい）〜",
+        "bodyEn": "2014,June,8th<br>\naround 17:30〜"
       },
       {
         "date": "2014.05.31",
@@ -2038,21 +1952,19 @@ module.exports = [
         "url": "/archives/2014/140531171735.html",
         "imgSrc": "/upload/2014/shirakogaeri.jpg",
         "imgAlt": "「しらこがえり」について話す会",
-        "imgWidth": "168",
-        "bodyJp": "日時...5月31日(土)18時30分〜<br>\n\t\t\t\t\t\t参加費...500円　<br>\n\t\t\t\t\t\t※屋久島の焼酎「三岳」と屋久島のちょっとしたおつまみを振る舞います。持ちより大歓迎。",
+        "bodyJp": "日時...5月31日(土)18時30分〜<br>\n参加費...500円　<br>\n※屋久島の焼酎「三岳」と屋久島のちょっとしたおつまみを振る舞います。持ちより大歓迎。",
         "bodyEn": null
       },
       {
         "date": "2014.05.20-",
         "isPast": true,
         "titleJp": "蛭子未央＋川崎泰史「ツギハギ雨漏り」",
-        "titleEn": "Mio Ebisu & Yasuhito Kawasaki\n\t\t\t\t\t\t\tExhibition　\"Frankenstein And Water Dripping\"",
+        "titleEn": "Mio Ebisu & Yasuhito Kawasaki Exhibition　\"Frankenstein And Water Dripping\"",
         "url": "/archives/2014/140520160000.html",
         "imgSrc": "/upload/2014/ツギハギ800.jpeg",
         "imgAlt": "蛭子未央＋川崎泰史「ツギハギ雨漏り」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2014年5月20日(火) 〜6月8日(日)<br>\n\t\t\t\t\t\t時間…平日 16:00〜20:00 / 土日祝 13:00〜20:00<br>\n\t\t\t\t\t\t休廊…月曜<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\t企画...小山冴子",
-        "bodyEn": "date : May 20, 2014 - July 8, 2014<br>\n\t\t\t\t\t\ttime : tue-fri 16:00-20:00 / sat,sun 13:00-20:00<br>\n\t\t\t\t\t\tclose : Monday<br>\n\t\t\t\t\t"
+        "bodyJp": "会期…2014年5月20日(火) 〜6月8日(日)<br>\n時間…平日 16:00〜20:00 / 土日祝 13:00〜20:00<br>\n休廊…月曜<br>\n入場無料<br>\n企画...小山冴子",
+        "bodyEn": "date : May 20, 2014 - July 8, 2014<br>\ntime : tue-fri 16:00-20:00 / sat,sun 13:00-20:00<br>\nclose : Monday<br>\n"
       },
       {
         "date": "2014.03.30",
@@ -2062,21 +1974,19 @@ module.exports = [
         "url": "/archives/2014/140330223011.html",
         "imgSrc": "/upload/2014/20120812192900.jpg",
         "imgAlt": "対極の対局360",
-        "imgWidth": "168",
-        "bodyJp": "期日...2014年3月30日(日)<br>\n\t\t\t\t\t\t時間...15:00時開始<br>\n\t\t\t\t\t\t投げ銭をお願いします。<br>\n\t\t\t\t\t",
-        "bodyEn": "2014.3.30(sun)<br>\n\t\t\t\t\t\tstart 15:00<br>\n\t\t\t\t\t\t6 hours improvisation"
+        "bodyJp": "期日...2014年3月30日(日)<br>\n時間...15:00時開始<br>\n投げ銭をお願いします。<br>\n",
+        "bodyEn": "2014.3.30(sun)<br>\nstart 15:00<br>\n6 hours improvisation"
       },
       {
         "date": "2014.02.16",
         "isPast": true,
         "titleJp": "ボルシチの夜〜倉地久美夫と竹内ゆえ、冬の旅",
-        "titleEn": "the night of borsch:Kumio KURACHI & Yue\n\t\t\t\t\t\t\tTAKEUCHI",
+        "titleEn": "the night of borsch:Kumio KURACHI & Yue TAKEUCHI",
         "url": "/archives/2014/140216203544.html",
         "imgSrc": "/upload/2014/ボルシチweb用.jpeg",
         "imgAlt": "ボルシチの夜〜倉地久美夫と竹内ゆえ、冬の旅",
-        "imgWidth": "168",
-        "bodyJp": "期日...2014年2月16日(日)<br>\n\t\t\t\t\t\t時間...19:00時open／19:30start<br>\n\t\t\t\t\t\t料金...1,300円（1ドリンク付）<br>\n\t\t\t\t\t",
-        "bodyEn": "2014.2.16(sun)<br>\n\t\t\t\t\t\topen 19:00/start 19:30<br>\n\t\t\t\t\t\t￥1,300(include 1drink)"
+        "bodyJp": "期日...2014年2月16日(日)<br>\n時間...19:00時open／19:30start<br>\n料金...1,300円（1ドリンク付）<br>\n",
+        "bodyEn": "2014.2.16(sun)<br>\nopen 19:00/start 19:30<br>\n￥1,300(include 1drink)"
       },
       {
         "date": "2014.01.07-",
@@ -2086,8 +1996,7 @@ module.exports = [
         "url": "/archives/2014/140107000420.html",
         "imgSrc": "/upload/2013/dm1117omote.jpg",
         "imgAlt": "音と平面　　諸岡光男／田熊沙織",
-        "imgWidth": "168",
-        "bodyJp": "2014.1.7［火]- 26［日］<br>\n\t\t\t\t\t\t平日16時-20時 土日祝13時-20時<br>\n\t\t\t\t\t\t休廊14日［火］・20日［月］<br>\n\t\t\t\t\t\t※最終日(26日)は18時迄",
+        "bodyJp": "2014.1.7［火]- 26［日］<br>\n平日16時-20時  土日祝13時-20時<br>\n休廊14日［火］・20日［月］<br>\n※最終日(26日)は18時迄",
         "bodyEn": null
       },
       {
@@ -2098,9 +2007,8 @@ module.exports = [
         "url": "/archives/2013/130928130000.html",
         "imgSrc": "/upload/2013/DM-1.jpg",
         "imgAlt": "遠山裕崇 個展 -草木国土悉皆成仏-",
-        "imgWidth": "168",
-        "bodyJp": "会期…2013年9月28日（土）−10月5日（土）<br>\n\t\t\t\t\t\t時間…平日 16:00〜20:00 / 土日 13:00〜20:00<br>\n\t\t\t\t\t\t休廊…9月30日（月）",
-        "bodyEn": "2013.9.28(sat) - 10.5(sat)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat,sun 13:00-20:00<br>\n\t\t\t\t\t\tclose 09.30"
+        "bodyJp": "会期…2013年9月28日（土）−10月5日（土）<br>\n時間…平日 16:00〜20:00 / 土日 13:00〜20:00<br>\n休廊…9月30日（月）",
+        "bodyEn": "2013.9.28(sat) - 10.5(sat)<br>\ntue-fri 16:00-20:00 / sat,sun 13:00-20:00<br>\nclose  09.30"
       },
       {
         "date": "2012.12.22",
@@ -2110,9 +2018,8 @@ module.exports = [
         "url": "/archives/2012/121222235450.html",
         "imgSrc": "/upload/2012/tezuka_20121223_24.jpg",
         "imgAlt": "手塚夏子『私的解剖実験-6 〜虚像からの旅立ち〜』",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年12月22日（土）、23日（日）<br>\n\t\t\t\t\t\t時間...22日（土）19:00　23日（日）15:00／19:00　<br>\n\t\t\t\t\t\t料金...前売 2000円／当日 2500円 （前売・当日ともに1ドリンク付）<br>\n\t\t\t\t\t\t問合せ...092-262-6560（当日のみ問合せ可能）<br>\n\t\t\t\t\t\tチケットのご予約、お問合せ...<a href=\"mailto:kuhano@as-tetra.info\">kuhano@as-tetra.info</a>（くはの）<br>\n\t\t\t\t\t\t宣伝協力｜NPO法人<a href=\"http://www.d-codex.com/\">コデックスCo.D.Ex</a>",
-        "bodyEn": "2012.12.22(sat) 23(sun)<br>\n\t\t\t\t\t\t22(sat) 19:00<br>\n\t\t\t\t\t\t23(sun)15:00／19:00　<br>\n\t\t\t\t\t\tadv ¥2,000(include 1drink)<br>\n\t\t\t\t\t\tdoor ¥2,500(include 1drink)<br>\n\t\t\t\t\t\tcontact...<a href=\"mailto:kuhano@as-tetra.info\">kuhano@as-tetra.info</a>\"kuhano\""
+        "bodyJp": "期日...2012年12月22日（土）、23日（日）<br>\n時間...22日（土）19:00　23日（日）15:00／19:00　<br>\n料金...前売 2000円／当日 2500円 （前売・当日ともに1ドリンク付）<br>\n問合せ...092-262-6560（当日のみ問合せ可能）<br>\nチケットのご予約、お問合せ...<a href=\"mailto:kuhano@as-tetra.info\">kuhano@as-tetra.info</a>（くはの）<br>\n宣伝協力｜NPO法人<a href=\"http://www.d-codex.com/\">コデックスCo.D.Ex</a>",
+        "bodyEn": "2012.12.22(sat) 23(sun)<br>\n22(sat) 19:00<br>\n23(sun)15:00／19:00　<br>\nadv ¥2,000(include 1drink)<br>\ndoor ¥2,500(include 1drink)<br>\ncontact...<a href=\"mailto:kuhano@as-tetra.info\">kuhano@as-tetra.info</a>\"kuhano\""
       },
       {
         "date": "2012.12.16",
@@ -2122,10 +2029,19 @@ module.exports = [
         "url": "/archives/2012/121216000000.html",
         "imgSrc": "/upload/2012/triola1216DM2 (2).jpg",
         "imgAlt": "トリオ：ラ・クミオラ",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年12月16日（日）<br>\n\t\t\t\t\t\t時間...17:30開場／18:00開演<br>\n\t\t\t\t\t\t料金...1700円（ドリンク付き）<br>\n\t\t\t\t\t\t出演...倉地久美夫、トリオラ、倉地久美夫＋トリオラ<br>\n\t\t\t\t\t",
-        "bodyEn": "2012.12.16(sat)<br>\n\t\t\t\t\t\t17:30open / 18:00start<br>\n\t\t\t\t\t\tdoor ¥1,700 (with1drink )<br>\n\t\t\t\t\t\tACT:KURACHI kumio,triola,KURACHI+triola"
-      },
+        "bodyJp": "期日...2012年12月16日（日）<br>\n時間...17:30開場／18:00開演<br>\n料金...1700円（ドリンク付き）<br>\n出演...倉地久美夫、トリオラ、倉地久美夫＋トリオラ<br>\n",
+        "bodyEn": "2012.12.16(sat)<br>\n17:30open / 18:00start<br>\ndoor ¥1,700 (with1drink )<br>\nACT:KURACHI kumio,triola,KURACHI+triola"
+      }
+    ],
+    "permalink": "tetra/page/6/index.html"
+  },
+  {
+    "pageNumber": 6,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2012.10.14",
         "isPast": true,
@@ -2134,21 +2050,19 @@ module.exports = [
         "url": "/archives/2012/121014000000.html",
         "imgSrc": "/upload/2012/Enrico Malatesta.JPG",
         "imgAlt": "Enrico Malatesta & Renato Ciunfrini",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年10月14日（日）<br>\n\t\t\t\t\t\t時間...開場 19:00／開演 19:30<br>\n\t\t\t\t\t\t料金...2000円（1ドリンク付き）<br>\n\t\t\t\t\t\tエンリコ・マラテスタ／レナト・チウンフリーニ／小貫誠<br>\n\t\t\t\t\t",
-        "bodyEn": "2012.10.14(sun)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start<br>\n\t\t\t\t\t\t￥2000(include 1drink)<br>\n\t\t\t\t\t\tEnrico Malatesta／Renato Ciunfrini／Makoto ONUKI<br>\n\t\t\t\t\t"
+        "bodyJp": "期日...2012年10月14日（日）<br>\n時間...開場 19:00／開演 19:30<br>\n料金...2000円（1ドリンク付き）<br>\nエンリコ・マラテスタ／レナト・チウンフリーニ／小貫誠<br>\n",
+        "bodyEn": "2012.10.14(sun)<br>\n19:00 open / 19:30 start<br>\n￥2000(include 1drink)<br>\nEnrico Malatesta／Renato Ciunfrini／Makoto ONUKI<br>\n"
       },
       {
         "date": "2012.10.13-",
         "isPast": true,
         "titleJp": "元田喜伸 写真展 『あたらしい心と体』",
-        "titleEn": "Yoshinobu MOTODA photo Exhibition \" New heart, New\n\t\t\t\t\t\t\tFlesh \"",
+        "titleEn": "Yoshinobu MOTODA photo Exhibition \" New heart, New Flesh \"",
         "url": "/archives/2012/121013000000.html",
         "imgSrc": "/upload/2012/img677-3.jpg",
         "imgAlt": "元田喜伸 写真展 『あたらしい心と体』",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年10月13日（土）～21日（日）<br>\n\t\t\t\t\t\t時間...平日 16:00～20:00 / 土日 13:00～20:00<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\t※14日（日）19:00以降、19日（金）はライブイベントのため展示をお休みします。",
-        "bodyEn": "2012.10.13(sat) - 10.21(sun)<br>\n\t\t\t\t\t\ttue- fri 16:00-20:00 / sat-sun-holiday13:00-20:00<br>\n\t\t\t\t\t\tClosed/9.14(sun) 19:00~/9.19(fri)"
+        "bodyJp": "期日...2012年10月13日（土）～21日（日）<br>\n時間...平日 16:00～20:00 / 土日 13:00～20:00<br>\n入場無料<br>\n※14日（日）19:00以降、19日（金）はライブイベントのため展示をお休みします。",
+        "bodyEn": "2012.10.13(sat) - 10.21(sun)<br>\ntue- fri 16:00-20:00 / sat-sun-holiday13:00-20:00<br>\nClosed/9.14(sun) 19:00~/9.19(fri)"
       },
       {
         "date": "2012.09.27",
@@ -2158,21 +2072,19 @@ module.exports = [
         "url": "/archives/2012/120927031629.html",
         "imgSrc": "/upload/2012/2012_9_27.jpg",
         "imgAlt": "即興セッション企画　<<出ai系>>そっ…時代i vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2012年9月27日（木）<br>\n\t\t\t\t\t\t時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n\t\t\t\t\t\t料金…参加費500円　見学のみ1000円（見るだけの人です。サービスに1ドリンク付）",
-        "bodyEn": "2012.9.27(Thurs)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 21:30 close<br>\n\t\t\t\t\t\tplayer \\500 / audience \\1,000"
+        "bodyJp": "期日…2012年9月27日（木）<br>\n時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n料金…参加費500円　見学のみ1000円（見るだけの人です。サービスに1ドリンク付）",
+        "bodyEn": "2012.9.27(Thurs)<br>\n19:00 open / 19:30 start / 21:30 close<br>\nplayer \\500 / audience \\1,000"
       },
       {
         "date": "2012.08.30",
         "isPast": true,
-        "titleJp": "即興セッション企画　<<出ai系>>SOK!! YOU Jidai\n\t\t\t\t\t\t\tvol.1",
+        "titleJp": "即興セッション企画　<<出ai系>>SOK!! YOU Jidai vol.1",
         "titleEn": "“≪De-ai-Kei≫SOK!! YOU Jidai vol.1",
         "url": "/archives/2012/120830000000.html",
         "imgSrc": "/upload/2012/2012_8_30.jpg",
         "imgAlt": "即興セッション企画　<<出ai系>>SOK!! YOU Jidai vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2012年８月３0日（木）<br>\n\t\t\t\t\t\t時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n\t\t\t\t\t\t料金…参加費500円　見学のみ1000円（見るだけの人です。サービスに1ドリンク付）",
-        "bodyEn": "2012.8.30(thu)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 21:30 close<br>\n\t\t\t\t\t\tplayer \\500 / audience \\1,000"
+        "bodyJp": "期日…2012年８月３0日（木）<br>\n時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n料金…参加費500円　見学のみ1000円（見るだけの人です。サービスに1ドリンク付）",
+        "bodyEn": "2012.8.30(thu)<br>\n19:00 open / 19:30 start / 21:30 close<br>\nplayer \\500 / audience \\1,000"
       },
       {
         "date": "2012.08.21",
@@ -2182,21 +2094,19 @@ module.exports = [
         "url": "/archives/2012/120821000000.html",
         "imgSrc": "/upload/2012/IMG_9666.JPG",
         "imgAlt": "詩と朗読の会 #8",
-        "imgWidth": "168",
-        "bodyJp": "日時…2012年8月21日（火）<br>\n\t\t\t\t\t\t時間…20時00分より<br>\n\t\t\t\t\t\t料金…500円（ドリンク付き）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…倉地久美夫",
-        "bodyEn": "2012.8.21 (tue)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥500<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi<br>\n\t\t\t\t\t"
+        "bodyJp": "日時…2012年8月21日（火）<br>\n時間…20時00分より<br>\n料金…500円（ドリンク付き）<br>\n進行役…小山冴子<br>\n助っ人…倉地久美夫",
+        "bodyEn": "2012.8.21 (tue)<br>\n20:00 start<br>\n¥500<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi<br>\n"
       },
       {
         "date": "2012.08.17",
         "isPast": true,
-        "titleJp": "Koosil-ja \"Identity According to Deleuze and My\n\t\t\t\t\t\t\tHistory\"",
+        "titleJp": "Koosil-ja \"Identity According to Deleuze and My History\"",
         "titleEn": "Identity According to Deleuze and My History",
         "url": "/archives/2012/120817234811.html",
         "imgSrc": "/upload/2012/IMG_5091.jpg",
         "imgAlt": "Koosil-ja ",
-        "imgWidth": "168",
-        "bodyJp": "日時...2012年8月17日（金）<br>\n\t\t\t\t\t\t時間...19時から<br>\n\t\t\t\t\t\t料金...1,000円（1ドリンク付）<br>\n\t\t\t\t\t",
-        "bodyEn": "2012.8.17(fry)<br>\n\t\t\t\t\t\t19:00 start<br>\n\t\t\t\t\t\t￥1,000 with 1 drink"
+        "bodyJp": "日時...2012年8月17日（金）<br>\n時間...19時から<br>\n料金...1,000円（1ドリンク付）<br>\n",
+        "bodyEn": "2012.8.17(fry)<br>\n19:00 start<br>\n￥1,000 with 1 drink"
       },
       {
         "date": "2012.07.21",
@@ -2206,20 +2116,9 @@ module.exports = [
         "url": "/archives/2012/120721173605.html",
         "imgSrc": "/upload/2012/手塚氏画像.jpg",
         "imgAlt": "手塚ナイト①「手塚夏子自身を語る、自身で踊る」",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年７月21日（土）　<br>\n\t\t\t\t\t\t時間...第一部「自身を語る」16:00 - 18:00　／第二部「自身で踊る」18:30 - 20:30<br>\n\t\t\t\t\t\t料金...1,000円 （要別途ワンドリンクオーダー）※第一部、二部共通　<br>\n\t\t\t\t\t\t<font color=\"red\">要申込</font>...<a href=\"mailto:kuhano@as-tetra.info\">kuhano@as-tetra.info</a>（くはの）<br>\n\t\t\t\t\t",
-        "bodyEn": "2012.7.21 (Sat)<br>\n\t\t\t\t\t\t16:00 - 18:00(talk)<br>\n\t\t\t\t\t\t18:30 - 20:30(performance)<br>\n\t\t\t\t\t\t¥1,000(w/1drink)"
-      }
-    ],
-    "permalink": "tetra/page/6/index.html"
-  },
-  {
-    "pageNumber": 6,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "期日...2012年７月21日（土）　<br>\n時間...第一部「自身を語る」16:00 - 18:00　／第二部「自身で踊る」18:30 - 20:30<br>\n料金...1,000円 （要別途ワンドリンクオーダー）※第一部、二部共通　<br>\n<font color=\"red\">要申込</font>...<a href=\"mailto:kuhano@as-tetra.info\">kuhano@as-tetra.info</a>（くはの）<br>\n",
+        "bodyEn": "2012.7.21 (Sat)<br>\n16:00 - 18:00(talk)<br>\n18:30 - 20:30(performance)<br>\n¥1,000(w/1drink)"
+      },
       {
         "date": "2012.07.01",
         "isPast": true,
@@ -2228,9 +2127,8 @@ module.exports = [
         "url": "/archives/2012/120701185940.html",
         "imgSrc": "/upload/2012/marche-omote-mihon.jpg",
         "imgAlt": "テトラ市 ～１日だけの手づくりマルシェ～",
-        "imgWidth": "168",
-        "bodyJp": "<strong>テトラ市開催情報</strong><br>\n\t\t\t\t\t\tとき…2012年7月1日（日）<br>\n\t\t\t\t\t\tじかん…11:00〜17:00<br>\n\t\t\t\t\t\tお問いあわせ...<a href=\"mailto:m.mori@as-tetra.info\">m.mori@as-tetra.info</a>（森）<br>\n\t\t\t\t\t",
-        "bodyEn": "2012.7.1(sun)<br>\n\t\t\t\t\t\t11:00 ~ 17:00"
+        "bodyJp": "<strong>テトラ市開催情報</strong><br>\nとき…2012年7月1日（日）<br>\nじかん…11:00〜17:00<br>\nお問いあわせ...<a href=\"mailto:m.mori@as-tetra.info\">m.mori@as-tetra.info</a>（森）<br>\n",
+        "bodyEn": "2012.7.1(sun)<br>\n11:00 ~ 17:00"
       },
       {
         "date": "2012.05.08",
@@ -2240,9 +2138,8 @@ module.exports = [
         "url": "/archives/2012/120508000001.html",
         "imgSrc": "/upload/2012/IMG_8444-1.jpg",
         "imgAlt": "詩と朗読の会 #7",
-        "imgWidth": "168",
-        "bodyJp": "日時…2012年5月8日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…500円（ドリンク付き）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…倉地久美夫",
-        "bodyEn": "2012.5.8 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi"
+        "bodyJp": "日時…2012年5月8日（火）<br>\n時間…19時30分より<br>\n料金…500円（ドリンク付き）<br>\n進行役…小山冴子<br>\n助っ人…倉地久美夫",
+        "bodyEn": "2012.5.8 (tue)<br>\n19:30 start<br>\n¥500<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi"
       },
       {
         "date": "2012.04.26",
@@ -2252,9 +2149,8 @@ module.exports = [
         "url": "/archives/2012/120426190000.html",
         "imgSrc": "/upload/2012/IMPRO_4_26.jpg",
         "imgAlt": "即興セッション企画　<<出ai系>>まっこりソッキョ時代vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2012年4月26日（木）<br>\n\t\t\t\t\t\t時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n\t\t\t\t\t\t料金…参加費500円<br>\n\t\t\t\t\t\t見学のみ1000円(なにもしないで見るだけの人です。サービスに１ドリンク付き）",
-        "bodyEn": "2012.4.26(thu)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 21:30 close<br>\n\t\t\t\t\t\tplayer \\500 / audience \\1,000"
+        "bodyJp": "期日…2012年4月26日（木）<br>\n時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n料金…参加費500円<br>\n見学のみ1000円(なにもしないで見るだけの人です。サービスに１ドリンク付き）",
+        "bodyEn": "2012.4.26(thu)<br>\n19:00 open / 19:30 start / 21:30 close<br>\nplayer \\500 / audience \\1,000"
       },
       {
         "date": "2012.03.14-",
@@ -2264,9 +2160,8 @@ module.exports = [
         "url": "/archives/2012/120314112524.html",
         "imgSrc": "/upload/2012/abrasion.jpg",
         "imgAlt": "實松亮 展覧会<br> 「Abrasion ー 擦過傷の見える部屋、動くもの、邪魔なものたち」",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年3月14日（水）～3月25日（日）<br>\n\t\t\t\t\t\t時間...平日15:00-20:00／土日13:00-20:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2012.3.14(wed) - 3.25(sun)<br>\n\t\t\t\t\t\ttue- fri 15:00-20:00 / sat-sun-holiday13:00-20:00"
+        "bodyJp": "期日...2012年3月14日（水）～3月25日（日）<br>\n時間...平日15:00-20:00／土日13:00-20:00<br>\n入場無料",
+        "bodyEn": "2012.3.14(wed) - 3.25(sun)<br>\ntue- fri 15:00-20:00 / sat-sun-holiday13:00-20:00"
       },
       {
         "date": "2012.03.07",
@@ -2276,9 +2171,8 @@ module.exports = [
         "url": "/archives/2012/120307210224.html",
         "imgSrc": "/upload/2012/sokyo03_2012.jpg",
         "imgAlt": "即興参加型セッション企画　<<出ai系>> 帰ってきた即今日時代vol.1 ",
-        "imgWidth": "168",
-        "bodyJp": "期日…3月7日（水）<br>\n\t\t\t\t\t\t時間…オープン19:00／スタート19:30（参加者次第で早く終わる可能性もありますが、21:30頃に終わる予定）<br>\n\t\t\t\t\t\t料金…参加費¥500／見学費¥1000（見るだけの人です。1ドリンク付）",
-        "bodyEn": "2012.3.07 (wed)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 22:00 close<br>\n\t\t\t\t\t\tplayer ¥500<br>\n\t\t\t\t\t\tomlooker ¥1,000(1drink Inc.)"
+        "bodyJp": "期日…3月7日（水）<br>\n時間…オープン19:00／スタート19:30（参加者次第で早く終わる可能性もありますが、21:30頃に終わる予定）<br>\n料金…参加費¥500／見学費¥1000（見るだけの人です。1ドリンク付）",
+        "bodyEn": "2012.3.07 (wed)<br>\n19:00 open / 19:30 start / 22:00 close<br>\nplayer ¥500<br>\nomlooker ¥1,000(1drink Inc.)"
       },
       {
         "date": "2012.02.28",
@@ -2288,21 +2182,19 @@ module.exports = [
         "url": "/archives/2012/120228115017.html",
         "imgSrc": "/upload/2012/IMG_9665.JPG",
         "imgAlt": "詩と朗読の会 #6",
-        "imgWidth": "168",
-        "bodyJp": "日時…2012年2月28日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…500円（ドリンク付き）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…倉地久美夫",
-        "bodyEn": "2012.2.28 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi"
+        "bodyJp": "日時…2012年2月28日（火）<br>\n時間…19時30分より<br>\n料金…500円（ドリンク付き）<br>\n進行役…小山冴子<br>\n助っ人…倉地久美夫",
+        "bodyEn": "2012.2.28 (tue)<br>\n19:30 start<br>\n¥500<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi"
       },
       {
         "date": "2012.02.22-",
         "isPast": true,
         "titleJp": "黄色い壁紙 小山冴子、工藤見奈子、田熊沙織",
-        "titleEn": "Yellow Wallpaper Oyama Saeko, Kudo Minako, Taguma\n\t\t\t\t\t\t\tSaori",
+        "titleEn": "Yellow Wallpaper Oyama Saeko, Kudo Minako, Taguma Saori",
         "url": "/archives/2012/120222195800.html",
         "imgSrc": "/upload/2012/KABEGAMI.jpg",
         "imgAlt": "黄色い壁紙<br> 小山冴子、工藤見奈子、田熊沙織",
-        "imgWidth": "168",
-        "bodyJp": "期日...2012年2月22日（水）～3月4日（日）<br>\n\t\t\t\t\t\t時間...平日15:00～20:00／土日13:00～20:00<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\tクロージングパーティー3月3日（土）18時より",
-        "bodyEn": "2012.2.22(wed) - 3.4(sun)<br>\n\t\t\t\t\t\ttue- fri 15:00-20:00 / sat-sun-holiday13:00-20:00"
+        "bodyJp": "期日...2012年2月22日（水）～3月4日（日）<br>\n時間...平日15:00～20:00／土日13:00～20:00<br>\n入場無料<br>\nクロージングパーティー3月3日（土）18時より",
+        "bodyEn": "2012.2.22(wed) - 3.4(sun)<br>\ntue- fri 15:00-20:00 / sat-sun-holiday13:00-20:00"
       },
       {
         "date": "2012.01.10",
@@ -2312,9 +2204,8 @@ module.exports = [
         "url": "/archives/2012/120110194259.html",
         "imgSrc": "/upload/2011/IMG_0024.jpg",
         "imgAlt": "思索と論考の会 #4",
-        "imgWidth": "168",
-        "bodyJp": "期日…2012年1月10日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…1ドリンクオーダー（500円）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…工藤見奈子",
-        "bodyEn": "2012.1.10 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500(w/1drink)<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Minako Kudo"
+        "bodyJp": "期日…2012年1月10日（火）<br>\n時間…19時30分より<br>\n料金…1ドリンクオーダー（500円）<br>\n進行役…小山冴子<br>\n助っ人…工藤見奈子",
+        "bodyEn": "2012.1.10 (tue)<br>\n19:30 start<br>\n¥500(w/1drink)<br>\nModerator / Saeko Oyama<br>\nSupporter / Minako Kudo"
       },
       {
         "date": "2012.01.06",
@@ -2324,7 +2215,6 @@ module.exports = [
         "url": "/archives/2012/120106102702.html",
         "imgSrc": "/upload/3912/写真.JPG",
         "imgAlt": "こもんテーブル～これからの話～",
-        "imgWidth": "168",
         "bodyJp": "小田マサノリ（イルコモンズ）",
         "bodyEn": "Masanori Woda (Illcommonz)"
       },
@@ -2336,9 +2226,8 @@ module.exports = [
         "url": "/archives/2011/111220193725.html",
         "imgSrc": "/upload/2012/IMG_8511-1.jpg",
         "imgAlt": "詩と朗読の会 #5",
-        "imgWidth": "168",
-        "bodyJp": "日時…2011年12月20日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…500円（ドリンク付き）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…倉地久美夫",
-        "bodyEn": "2011.12.20 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi"
+        "bodyJp": "日時…2011年12月20日（火）<br>\n時間…19時30分より<br>\n料金…500円（ドリンク付き）<br>\n進行役…小山冴子<br>\n助っ人…倉地久美夫",
+        "bodyEn": "2011.12.20 (tue)<br>\n19:30 start<br>\n¥500<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi"
       },
       {
         "date": "2011.11.29",
@@ -2348,21 +2237,19 @@ module.exports = [
         "url": "/archives/2011/111129100930.html",
         "imgSrc": "/upload/2011/kudo-img3.jpg.jpg",
         "imgAlt": "思索と論考の会 #3",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年 11月29日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…１ドリンクオーダー（500円）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…工藤見奈子",
-        "bodyEn": "2011.11.29 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500(w/1drink)<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Minako Kudo"
+        "bodyJp": "期日…2011年 11月29日（火）<br>\n時間…19時30分より<br>\n料金…１ドリンクオーダー（500円）<br>\n進行役…小山冴子<br>\n助っ人…工藤見奈子",
+        "bodyEn": "2011.11.29 (tue)<br>\n19:30 start<br>\n¥500(w/1drink)<br>\nModerator / Saeko Oyama<br>\nSupporter / Minako Kudo"
       },
       {
         "date": "2011.10.29",
         "isPast": true,
-        "titleJp": "EYEBREAKER Fukuoka Short Documentary Festival\n\t\t\t\t\t\t\t2011",
-        "titleEn": "EYEBREAKER Fukuoka Short Documentary Festival\n\t\t\t\t\t\t\t2011",
+        "titleJp": "EYEBREAKER Fukuoka Short Documentary Festival 2011",
+        "titleEn": "EYEBREAKER Fukuoka Short Documentary Festival 2011",
         "url": "/archives/2011/111029102204.html",
         "imgSrc": "/upload/2011/EYEBREAKER1.jpg",
         "imgAlt": "EYEBREAKER Fukuoka Short Documentary Festival 2011",
-        "imgWidth": "168",
-        "bodyJp": "<s><strong style=\"color:#8D0024;\">作品募集</strong><br>\n\t\t\t\t\t\t\t15〜60分の短編ドキュメンタリー映画とビデオ作品<br>\n\t\t\t\t\t\t\t題材：自由、ただし福岡での生活の側面に焦点を当てた作品を優先的に選びます。<br>\n\t\t\t\t\t\t\t締め切り：10月1日（土）</s><br>\n\t\t\t\t\t\t<font color=\"red\">募集は終了しました</font>\n\t\t\t\t\t",
-        "bodyEn": "<s><strong style=\"color:#8D0024;\">short documentary films and video works</strong><br>\n\t\t\t\t\t\t\tentries close <font color=\"red\">October 1st</font><br>\n\t\t\t\t\t\t\tWorks should be between 15 and 60 minutes in duration. Any documentary subject is allowed\n\t\t\t\t\t\t\tbut preference will be given to those works focussing on an aspect of life in Fukuoka.</s>\n\t\t\t\t\t"
+        "bodyJp": "<s><strong style=\"color:#8D0024;\">作品募集</strong><br>\n15〜60分の短編ドキュメンタリー映画とビデオ作品<br>\n題材：自由、ただし福岡での生活の側面に焦点を当てた作品を優先的に選びます。<br>\n締め切り：10月1日（土）</s><br>\n<font color=\"red\">募集は終了しました</font>",
+        "bodyEn": "<s><strong style=\"color:#8D0024;\">short documentary films and video works</strong><br>\nentries close  <font color=\"red\">October 1st</font><br>\nWorks should be between 15 and 60 minutes in duration. Any documentary subject is allowed but preference will be given to those works focussing on an aspect of life in Fukuoka.</s>"
       },
       {
         "date": "2011.10.25",
@@ -2372,21 +2259,19 @@ module.exports = [
         "url": "/archives/2011/111025093912.html",
         "imgSrc": "/upload/2011/kudo-img2.jpg",
         "imgAlt": "思索と論考の会 #2",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年 10月25日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…１ドリンクオーダー（500円）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…工藤見奈子",
-        "bodyEn": "2011.10.25 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500(w/1drink)<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Minako Kudo"
+        "bodyJp": "期日…2011年 10月25日（火）<br>\n時間…19時30分より<br>\n料金…１ドリンクオーダー（500円）<br>\n進行役…小山冴子<br>\n助っ人…工藤見奈子",
+        "bodyEn": "2011.10.25 (tue)<br>\n19:30 start<br>\n¥500(w/1drink)<br>\nModerator / Saeko Oyama<br>\nSupporter / Minako Kudo"
       },
       {
         "date": "2011.10.07-",
         "isPast": true,
-        "titleJp": "LIVE：I forgot but I can see.I remember but I can't\n\t\t\t\t\t\t\tsee.",
-        "titleEn": "LIVE：I forgot but I can see.I remember but I can't\n\t\t\t\t\t\t\tsee.",
+        "titleJp": "LIVE：I forgot but I can see.I remember but I can't see.",
+        "titleEn": "LIVE：I forgot but I can see.I remember but I can't see.",
         "url": "/archives/2011/111007111219.html",
         "imgSrc": "/upload/2011/nishimitsu2.jpg",
         "imgAlt": "LIVE：I forgot but I can see.I remember but I can't see.",
-        "imgWidth": "168",
-        "bodyJp": "<strong style=\"color:#8D0024;\">西光祐輔展 関連ライブ</strong><br>\n\t\t\t\t\t\t出演：まるやまももこ／西光祐輔／城戸英章",
-        "bodyEn": "2011. 10.7(fri)<br>\n\t\t\t\t\t\tStart 20:30<br>\n\t\t\t\t\t\t500yen"
+        "bodyJp": "<strong style=\"color:#8D0024;\">西光祐輔展 関連ライブ</strong><br>\n出演：まるやまももこ／西光祐輔／城戸英章",
+        "bodyEn": "2011. 10.7(fri)<br>\nStart 20:30<br>\n500yen"
       },
       {
         "date": "2011.10.04",
@@ -2396,9 +2281,8 @@ module.exports = [
         "url": "/archives/2011/111004124103.html",
         "imgSrc": "/upload/2011/IMG_8789.jpg",
         "imgAlt": "詩と朗読の会 #4",
-        "imgWidth": "168",
-        "bodyJp": "期日...2011年10月4日（火）<br>\n\t\t\t\t\t\t時間...19時30分より<br>\n\t\t\t\t\t\t料金...500円<br>\n\t\t\t\t\t\t進行役...小山冴子<br>\n\t\t\t\t\t\t助っ人...倉地久美夫",
-        "bodyEn": "2011.10.4 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi"
+        "bodyJp": "期日...2011年10月4日（火）<br>\n時間...19時30分より<br>\n料金...500円<br>\n進行役...小山冴子<br>\n助っ人...倉地久美夫",
+        "bodyEn": "2011.10.4 (tue)<br>\n19:30 start<br>\n¥500<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi"
       },
       {
         "date": "2011.09.27",
@@ -2408,21 +2292,19 @@ module.exports = [
         "url": "/archives/2011/110927140451.html",
         "imgSrc": "/upload/2011/kudo-img.jpg",
         "imgAlt": "思索と論考の会 #1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年 9月27日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…１ドリンクオーダー（500円）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…工藤見奈子",
-        "bodyEn": "2011.7.19 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500(w/1drink)<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Minako Kudo"
+        "bodyJp": "期日…2011年 9月27日（火）<br>\n時間…19時30分より<br>\n料金…１ドリンクオーダー（500円）<br>\n進行役…小山冴子<br>\n助っ人…工藤見奈子",
+        "bodyEn": "2011.7.19 (tue)<br>\n19:30 start<br>\n¥500(w/1drink)<br>\nModerator / Saeko Oyama<br>\nSupporter / Minako Kudo"
       },
       {
         "date": "2011.09.23-",
         "isPast": true,
-        "titleJp": "西光祐輔：I forgot but I can see.I remember but I can't\n\t\t\t\t\t\t\tsee.",
-        "titleEn": "Yuusuke Nishimitsu: I forgot but I can see.I remember\n\t\t\t\t\t\t\tbut I can't see.",
+        "titleJp": "西光祐輔：I forgot but I can see.I remember but I can't see.",
+        "titleEn": "Yuusuke Nishimitsu: I forgot but I can see.I remember but I can't see.",
         "url": "/archives/2011/110923122756.html",
         "imgSrc": "/upload/2011/Nishimitsu02possam.jpg",
         "imgAlt": "西光祐輔：I forgot but I can see.I remember but I can't see.",
-        "imgWidth": "168",
-        "bodyJp": "期日...2011年9月23日（金・祝）～10月9日（日）<br>\n\t\t\t\t\t\t時間...平日 16:00～20:00 / 土日祝 13:00～20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t企画...<a href=\"http://www.adanda.jp/\">adanda</a>／art space tetra<br>\n\t\t\t\t\t\t協力...<a href=\"http://alter-laboratory.tumblr.com/\">LABOLATRY</a>／<a href=\"http://hanareproject.net/\">Social Kitchen</a>",
-        "bodyEn": "2011.9.23(fri) - 10.9(sun)<br>\n\t\t\t\t\t\ttue- fri 16:00-20:00 / sat-sun-holiday13:00-20:00<br>\n\t\t\t\t\t\tClosed on Monday<br>\n\t\t\t\t\t\tOrganized by <a href=\"http://www.adanda.jp/\">adanda</a>／art space tetra<br>\n\t\t\t\t\t\tWith the Cooperation of <a href=\"http://alter-laboratory.tumblr.com/\">LABOLATRY</a>／<a href=\"http://hanareproject.net/\">Social Kitchen</a>"
+        "bodyJp": "期日...2011年9月23日（金・祝）～10月9日（日）<br>\n時間...平日 16:00～20:00 / 土日祝 13:00～20:00<br>\n月曜休廊<br>\n企画...<a href=\"http://www.adanda.jp/\">adanda</a>／art space tetra<br>\n協力...<a href=\"http://alter-laboratory.tumblr.com/\">LABOLATRY</a>／<a href=\"http://hanareproject.net/\">Social Kitchen</a>",
+        "bodyEn": "2011.9.23(fri) - 10.9(sun)<br>\ntue- fri 16:00-20:00 / sat-sun-holiday13:00-20:00<br>\nClosed on Monday<br>\nOrganized by <a href=\"http://www.adanda.jp/\">adanda</a>／art space tetra<br>\nWith the Cooperation of <a href=\"http://alter-laboratory.tumblr.com/\">LABOLATRY</a>／<a href=\"http://hanareproject.net/\">Social Kitchen</a>"
       },
       {
         "date": "2011.08.24",
@@ -2432,9 +2314,8 @@ module.exports = [
         "url": "/archives/2011/110824131854.html",
         "imgSrc": "/upload/2011/tenis2.jpg",
         "imgAlt": "テニスコーツ合唱部の発表会",
-        "imgWidth": "168",
-        "bodyJp": "期日...2011年8月24日（水）<br>\n\t\t\t\t\t\t時間...19時30分開場／20時開演<br>\n\t\t\t\t\t\t料金...1,000円",
-        "bodyEn": "2011.08.24 (wed)<br>\n\t\t\t\t\t\topen 19:30 / start 20:00<br>\n\t\t\t\t\t\t¥1,000"
+        "bodyJp": "期日...2011年8月24日（水）<br>\n時間...19時30分開場／20時開演<br>\n料金...1,000円",
+        "bodyEn": "2011.08.24 (wed)<br>\nopen 19:30 / start 20:00<br>\n¥1,000"
       },
       {
         "date": "2011.08.24",
@@ -2444,9 +2325,8 @@ module.exports = [
         "url": "/archives/2011/110824131848.html",
         "imgSrc": "/upload/2011/tenis1.jpg",
         "imgAlt": "テニスコーツ合唱部。練習（昼）",
-        "imgWidth": "168",
-        "bodyJp": "期日...2011年8月24日（水）<br>\n\t\t\t\t\t\t時間...14時より<br>\n\t\t\t\t\t\t参加者募集中　小山 <a href=\"mailto:oyama@as-tetra.info\">oyama@as-tetra.info</a>までご連絡ください。",
-        "bodyEn": "2011.08.24 (wed)<br>\n\t\t\t\t\t\tstart 14:00<br>\n\t\t\t\t\t"
+        "bodyJp": "期日...2011年8月24日（水）<br>\n時間...14時より<br>\n参加者募集中　小山 <a href=\"mailto:oyama@as-tetra.info\">oyama@as-tetra.info</a>までご連絡ください。",
+        "bodyEn": "2011.08.24 (wed)<br>\nstart 14:00<br>\n"
       },
       {
         "date": "2011.08.13",
@@ -2456,9 +2336,8 @@ module.exports = [
         "url": "/archives/2011/110813105515.html",
         "imgSrc": "/upload/2011/kyoheisakaguchi.jpg",
         "imgAlt": "坂口恭平トークライブ「DIY独立国家の作り方」",
-        "imgWidth": "168",
-        "bodyJp": "期日...2011年8月13日（土）<br>\n\t\t\t\t\t\t時間... 18:30開場／19:00開演<br>\n\t\t\t\t\t\t＊時間通りにはじめたいと思います。早めにおこしください。<br>\n\t\t\t\t\t\t料金...1000円（1ドリンク付）<br>\n\t\t\t\t\t\t企画...江上賢一郎　<br>\n\t\t\t\t\t\t協力...art space tetra<br>\n\t\t\t\t\t\t問）江上賢一郎　<a href=\"mailto:u.potlatch@gmail.com\">u.potlatch@gmail.com</a>",
-        "bodyEn": "2011.8.13 (sat)<br>\n\t\t\t\t\t\t18:30 open / 19:00 start<br>\n\t\t\t\t\t\t¥1000(w/1drink)<br>\n\t\t\t\t\t\tplanned by Kenichiro Egami <a href=\"mailto:u.potlatch@gmail.com\">u.potlatch@gmail.com</a>"
+        "bodyJp": "期日...2011年8月13日（土）<br>\n時間... 18:30開場／19:00開演<br>\n＊時間通りにはじめたいと思います。早めにおこしください。<br>\n料金...1000円（1ドリンク付）<br>\n企画...江上賢一郎　<br>\n協力...art space tetra<br>\n問）江上賢一郎　<a href=\"mailto:u.potlatch@gmail.com\">u.potlatch@gmail.com</a>",
+        "bodyEn": "2011.8.13 (sat)<br>\n18:30 open / 19:00 start<br>\n¥1000(w/1drink)<br>\nplanned by Kenichiro Egami <a href=\"mailto:u.potlatch@gmail.com\">u.potlatch@gmail.com</a>"
       },
       {
         "date": "2011.07.19",
@@ -2468,9 +2347,8 @@ module.exports = [
         "url": "/archives/2011/110719150535.html",
         "imgSrc": "/upload/2011/IMG_8506.jpg",
         "imgAlt": "詩と朗読の会 #3",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年7月19日（火）<br>\n\t\t\t\t\t\t時間…19時30分より<br>\n\t\t\t\t\t\t料金…500円（ドリンク付き）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…倉地久美夫<br>\n\t\t\t\t\t",
-        "bodyEn": "2011.7.19 (tue)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t¥500（ドリンク付き）<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi"
+        "bodyJp": "期日…2011年7月19日（火）<br>\n時間…19時30分より<br>\n料金…500円（ドリンク付き）<br>\n進行役…小山冴子<br>\n助っ人…倉地久美夫<br>\n",
+        "bodyEn": "2011.7.19 (tue)<br>\n19:30 start<br>\n¥500（ドリンク付き）<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi"
       },
       {
         "date": "2011.06.26",
@@ -2480,9 +2358,8 @@ module.exports = [
         "url": "/archives/2011/110626094742.html",
         "imgSrc": "/upload/2011/IMG_8724.jpg",
         "imgAlt": "詩と朗読の会 #2",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年6月26日（日）<br>\n\t\t\t\t\t\t時間…18時30分より<br>\n\t\t\t\t\t\t料金…500円<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t\t助っ人…倉地久美夫<br>\n\t\t\t\t\t",
-        "bodyEn": "2011.6.26 (sun)<br>\n\t\t\t\t\t\t18:30 start<br>\n\t\t\t\t\t\t¥500<br>\n\t\t\t\t\t\tModerator / Saeko Oyama<br>\n\t\t\t\t\t\tSupporter / Kumio Kurachi"
+        "bodyJp": "期日…2011年6月26日（日）<br>\n時間…18時30分より<br>\n料金…500円<br>\n進行役…小山冴子<br>\n助っ人…倉地久美夫<br>\n",
+        "bodyEn": "2011.6.26 (sun)<br>\n18:30 start<br>\n¥500<br>\nModerator / Saeko Oyama<br>\nSupporter / Kumio Kurachi"
       },
       {
         "date": "2011.06.17",
@@ -2492,21 +2369,29 @@ module.exports = [
         "url": "/archives/2011/110617190026.html",
         "imgSrc": "/upload/2011/WEBRES-ANU_5300.jpg",
         "imgAlt": "MYHR/SANDBAKKEN",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年6月17日（金）<br>\n\t\t\t\t\t\t時間…open 19:00 / start 19:30<br>\n\t\t\t\t\t\t料金…1,500円（1ドリンク込み）",
-        "bodyEn": "2011.06.17 (fri)<br>\n\t\t\t\t\t\topen 19:00 / start 19:30<br>\n\t\t\t\t\t\t¥1,500 (include 1drink)"
-      },
+        "bodyJp": "期日…2011年6月17日（金）<br>\n時間…open 19:00 / start 19:30<br>\n料金…1,500円（1ドリンク込み）",
+        "bodyEn": "2011.06.17 (fri)<br>\nopen 19:00 / start 19:30<br>\n¥1,500 (include 1drink)"
+      }
+    ],
+    "permalink": "tetra/page/7/index.html"
+  },
+  {
+    "pageNumber": 7,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2011.05.20-",
         "isPast": true,
-        "titleJp": "Fukuoka & Busan Exchange\n\t\t\t\t\t\t\tExhibitionARTinNATURE 釜山作家6人 “Art work & Diary”",
-        "titleEn": "Fukuoka & Busan Exchange\n\t\t\t\t\t\t\tExhibitionARTinNATURE “Art work & Diary”",
+        "titleJp": "Fukuoka & Busan Exchange ExhibitionARTinNATURE 釜山作家6人 “Art work & Diary”",
+        "titleEn": "Fukuoka & Busan Exchange ExhibitionARTinNATURE “Art work & Diary”",
         "url": "/archives/2011/110520180148.html",
         "imgSrc": "/upload/2011/busan1.jpg",
         "imgAlt": "Fukuoka & Busan Exchange Exhibition<br>ARTinNATURE 釜山作家6人<br> “Art work & Diary”",
-        "imgWidth": "168",
-        "bodyJp": "会期…2011年5月20日（金）−29日（日）<br>\n\t\t\t\t\t\t時間…平日13:00〜20:00／土日13:00〜20:00<br>\n\t\t\t\t\t\t23日（月）休廊",
-        "bodyEn": "2011.5.20(fri) - 29(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\n\t\t\t\t\t\tClosed on Monday"
+        "bodyJp": "会期…2011年5月20日（金）−29日（日）<br>\n時間…平日13:00〜20:00／土日13:00〜20:00<br>\n23日（月）休廊",
+        "bodyEn": "2011.5.20(fri) - 29(sun)<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\nClosed on Monday"
       },
       {
         "date": "2011.04.30",
@@ -2516,8 +2401,7 @@ module.exports = [
         "url": "/archives/2011/110430180416.html",
         "imgSrc": "/upload/2011/Vertex.jpg",
         "imgAlt": "Vertex (ヴァーテクス） from Norway",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年4月30日（土）<br>\n\t\t\t\t\t\t時間…19:30 start<br>\n\t\t\t\t\t\t料金…1,500円（1ドリンク付）",
+        "bodyJp": "期日…2011年4月30日（土）<br>\n時間…19:30 start<br>\n料金…1,500円（1ドリンク付）",
         "bodyEn": "＋　・・・"
       },
       {
@@ -2528,9 +2412,8 @@ module.exports = [
         "url": "/archives/2011/110417190005.html",
         "imgSrc": "/upload/2011/IMG_8824.jpg",
         "imgAlt": "詩と朗読の会 #1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年4月17日（日）<br>\n\t\t\t\t\t\t時間…19時から<br>\n\t\t\t\t\t\t料金…500円（ドリンク付き）<br>\n\t\t\t\t\t\t進行役…小山冴子<br>\n\t\t\t\t\t",
-        "bodyEn": "2011.04.17(sun)<br>\n\t\t\t\t\t\t19:00 start<br>\n\t\t\t\t\t\t¥500 (include 1drink)<br>\n\t\t\t\t\t\tModerator / Saeko Oyama"
+        "bodyJp": "期日…2011年4月17日（日）<br>\n時間…19時から<br>\n料金…500円（ドリンク付き）<br>\n進行役…小山冴子<br>\n",
+        "bodyEn": "2011.04.17(sun)<br>\n19:00 start<br>\n¥500 (include 1drink)<br>\nModerator / Saeko Oyama"
       },
       {
         "date": "2011.03.24",
@@ -2540,9 +2423,8 @@ module.exports = [
         "url": "/archives/2011/110324113117.html",
         "imgSrc": "/upload/2011/seijiromurayama1.jpg",
         "imgAlt": "村山政二朗／山内桂",
-        "imgWidth": "168",
-        "bodyJp": "期日…2011年3月24日（木）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…1,700円（1ドリンク付）<br>\n\t\t\t\t\t\t出演…村山政二朗／山内桂",
-        "bodyEn": "2011.3.24(thu)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t\\1,700 (include 1drink)"
+        "bodyJp": "期日…2011年3月24日（木）<br>\n時間…20:00 start<br>\n料金…1,700円（1ドリンク付）<br>\n出演…村山政二朗／山内桂",
+        "bodyEn": "2011.3.24(thu)<br>\n20:00 start<br>\n\\1,700 (include 1drink)"
       },
       {
         "date": "2011.02.13",
@@ -2552,9 +2434,8 @@ module.exports = [
         "url": "/archives/2011/110213173618.html",
         "imgSrc": "/upload/2011/fuchigamitofunatotokurachi.jpg",
         "imgAlt": "ふちがみとふなととくらち",
-        "imgWidth": "168",
-        "bodyJp": "日時…2011年2月13日（日）<br>\n\t\t\t\t\t\t時間…18時半開場／19時開演<br>\n\t\t\t\t\t\t料金…2,200円（ドリンク付）<br>\n\t\t\t\t\t\t主催…とんつーレコード　<a href=\"http://www.03150.net/\">http://www.03150.net/</a>",
-        "bodyEn": "2011.2.13(sun)<br>\n\t\t\t\t\t\t18:00 open / 19:00 start<br>\n\t\t\t\t\t\t¥2,200 (Include 1drink)<br>\n\t\t\t\t\t\t<a href=\"http://www.03150.net/\">http://www.03150.net/</a>\n\t\t\t\t\t"
+        "bodyJp": "日時…2011年2月13日（日）<br>\n時間…18時半開場／19時開演<br>\n料金…2,200円（ドリンク付）<br>\n主催…とんつーレコード　<a href=\"http://www.03150.net/\">http://www.03150.net/</a>",
+        "bodyEn": "2011.2.13(sun)<br>\n18:00 open / 19:00 start<br>\n¥2,200 (Include 1drink)<br>\n<a href=\"http://www.03150.net/\">http://www.03150.net/</a>"
       },
       {
         "date": "2011.01.21",
@@ -2562,8 +2443,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.13",
         "titleEn": "“ToshimaCinema” vol. 13",
         "url": "/archives/2011/110121232210.html",
-        "bodyJp": "期日…2011年1月21日（金）<br>\n\t\t\t\t\t\t時間…19:30〜<br>\n\t\t\t\t\t\t議題…長谷川和彦監督「青春の殺人者」（1976年）",
-        "bodyEn": "2011.1.21 (fri)<br>\n\t\t\t\t\t\t19:30 start"
+        "bodyJp": "期日…2011年1月21日（金）<br>\n時間…19:30〜<br>\n議題…長谷川和彦監督「青春の殺人者」（1976年）",
+        "bodyEn": "2011.1.21 (fri)<br>\n19:30 start"
       },
       {
         "date": "2010.12.23-",
@@ -2573,31 +2454,19 @@ module.exports = [
         "url": "/archives/2010/101223200827.html",
         "imgSrc": "/upload/2010/abe20101225_1.jpg",
         "imgAlt": "OPEN STUDIO / TAKASUMI ABE",
-        "imgWidth": "168",
-        "bodyJp": "期間…2010年12月23日（木・祝）〜 2011年1月9日（日）<br>\n\t\t\t\t\t\t※休廊…12月26（日）、12月31日（金）〜 2011年1月4日（火）<br>\n\t\t\t\t\t\t時間…18:00 - 21:00（作家がいます）",
-        "bodyEn": "2010.12.23(thu) - 2011.1.9(sun)<br>\n\t\t\t\t\t\tclosed on 12.26, 12.3-1.4<br>\n\t\t\t\t\t\t18:00 - 21:00"
-      }
-    ],
-    "permalink": "tetra/page/7/index.html"
-  },
-  {
-    "pageNumber": 7,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "期間…2010年12月23日（木・祝）〜 2011年1月9日（日）<br>\n※休廊…12月26（日）、12月31日（金）〜 2011年1月4日（火）<br>\n時間…18:00 - 21:00（作家がいます）",
+        "bodyEn": "2010.12.23(thu) - 2011.1.9(sun)<br>\nclosed on 12.26, 12.3-1.4<br>\n18:00 - 21:00"
+      },
       {
         "date": "2010.12.18",
         "isPast": true,
-        "titleJp": "Urban Potlatch workshop\n\t\t\t\t\t\t\t06「これからの生活夜話（お茶作りワークショップ）」",
+        "titleJp": "Urban Potlatch workshop 06「これからの生活夜話（お茶作りワークショップ）」",
         "titleEn": "Urban Potlatch workshop 06",
         "url": "/archives/2010/101218102419.html",
         "imgSrc": "/upload/2010/IMG_0457.jpg",
         "imgAlt": "Urban Potlatch workshop 06「これからの生活夜話（お茶作りワークショップ）」",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年12月18日（土）<br>\n\t\t\t\t\t\t時間…20:00start<br>\n\t\t\t\t\t\t参加費…500円（実費込み）<br>\n\t\t\t\t\t\t※参加希望の方は材料の準備がありますので、<a href=\"mailto:u.potlatch@gmail.com\">u.potlatch@gmail.com</a>（江上）へ12月16日までにご連絡ください。",
-        "bodyEn": "2010.12.18(sat)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t\\500"
+        "bodyJp": "期日…2010年12月18日（土）<br>\n時間…20:00start<br>\n参加費…500円（実費込み）<br>\n※参加希望の方は材料の準備がありますので、<a href=\"mailto:u.potlatch@gmail.com\">u.potlatch@gmail.com</a>（江上）へ12月16日までにご連絡ください。",
+        "bodyEn": "2010.12.18(sat)<br>\n20:00 start<br>\n\\500"
       },
       {
         "date": "2010.12.14",
@@ -2607,9 +2476,8 @@ module.exports = [
         "url": "/archives/2010/101214104759.html",
         "imgSrc": "/upload/2010/oyama.jpg",
         "imgAlt": "小山が居ります",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年12月14日（火）ー2010年12月19日（日）<br>\n\t\t\t\t\t\t時間…平日16時～20時／土日13時～20時<br>\n\t\t\t\t\t\t※17日と18日は夜にイベントがあります。詳細はtetraサイト内の他の頁へ。<br>\n\t\t\t\t\t\t※16日夜は、アジア美術館のアジ美ホールにて、先日訪問した韓国の報告会に参加しますので不在です。",
-        "bodyEn": "2010.12.14 tue - 19 sun<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\n\t\t\t\t\t\tClosed on Thursday."
+        "bodyJp": "期日…2010年12月14日（火）ー2010年12月19日（日）<br>\n時間…平日16時～20時／土日13時～20時<br>\n※17日と18日は夜にイベントがあります。詳細はtetraサイト内の他の頁へ。<br>\n※16日夜は、アジア美術館のアジ美ホールにて、先日訪問した韓国の報告会に参加しますので不在です。",
+        "bodyEn": "2010.12.14 tue - 19 sun<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\nClosed on Thursday."
       },
       {
         "date": "2010.12.03",
@@ -2617,8 +2485,8 @@ module.exports = [
         "titleJp": "BUNKER MUSIC MEETING #24 “Linton Kwesi Johnson”",
         "titleEn": "BUNKER MUSIC MEETING #24 “Linton Kwesi Johnson”",
         "url": "/archives/2010/101203210955.html",
-        "bodyJp": "期日…2010年12月3日（金）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t議題…リントン・クウェシ・ジョンソン",
-        "bodyEn": "2010.12.3 (fri)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t\\free"
+        "bodyJp": "期日…2010年12月3日（金）<br>\n時間…20:00 start<br>\n料金…無料<br>\n議題…リントン・クウェシ・ジョンソン",
+        "bodyEn": "2010.12.3 (fri)<br>\n20:00 start<br>\n\\free"
       },
       {
         "date": "2010.11.13",
@@ -2628,9 +2496,8 @@ module.exports = [
         "url": "/archives/2010/101113140241.html",
         "imgSrc": "/upload/2010/SHIGA2.jpg",
         "imgAlt": "志賀理江子の写真と映像と声",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年11月13日（土）<br>\n\t\t\t\t\t\t時間…19:00 スタート<br>\n\t\t\t\t\t\t料金…1000円（1ドリンク付）",
-        "bodyEn": "2010.11.13<br>\n\t\t\t\t\t\t19:00 start<br>\n\t\t\t\t\t\t￥1,000（1 drink inc.)"
+        "bodyJp": "期日…2010年11月13日（土）<br>\n時間…19:00 スタート<br>\n料金…1000円（1ドリンク付）",
+        "bodyEn": "2010.11.13<br>\n19:00 start<br>\n￥1,000（1 drink inc.)"
       },
       {
         "date": "2010.10.26-",
@@ -2640,21 +2507,19 @@ module.exports = [
         "url": "/archives/2010/101026151023.html",
         "imgSrc": "/upload/2010/kondoyuji.jpg",
         "imgAlt": "近藤祐史 個展「自己乖離」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2010年10月26日（火）−11月7日（日）<br>\n\t\t\t\t\t\t時間…13:00〜20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t協力：アートスペース・テトラ",
-        "bodyEn": "2010.10.26(tue) - 11.7(sun)<br>\n\t\t\t\t\t\t13:00-20:00<br>\n\t\t\t\t\t\tClosed on Monday"
+        "bodyJp": "会期…2010年10月26日（火）−11月7日（日）<br>\n時間…13:00〜20:00<br>\n月曜休廊<br>\n協力：アートスペース・テトラ",
+        "bodyEn": "2010.10.26(tue) - 11.7(sun)<br>\n13:00-20:00<br>\nClosed on Monday"
       },
       {
         "date": "2010.10.19-",
         "isPast": true,
-        "titleJp": "友池理絵 個展 テトラ・ラウンジ シリーズ （5）",
-        "titleEn": "“LOUNGE series ”vol. 5 - Rie Tomoike",
+        "titleJp": "友池理絵 個展  テトラ・ラウンジ シリーズ （5）",
+        "titleEn": "“LOUNGE series ”vol. 5  - Rie Tomoike",
         "url": "/archives/2010/101019152233.html",
         "imgSrc": "/upload/2010/tomoike2010-1.jpg",
         "imgAlt": "友池理絵 個展<br>  テトラ・ラウンジ シリーズ （5）",
-        "imgWidth": "168",
-        "bodyJp": "会期…2010年10月19日（火）−10月24日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00〜20:00 / 土日祝 13:00〜20:00",
-        "bodyEn": "2010.10.19(tue) - 10.24(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00"
+        "bodyJp": "会期…2010年10月19日（火）−10月24日（日）<br>\n時間…平日 16:00〜20:00 / 土日祝 13:00〜20:00",
+        "bodyEn": "2010.10.19(tue) - 10.24(sun)<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00"
       },
       {
         "date": "2010.09.27",
@@ -2664,21 +2529,19 @@ module.exports = [
         "url": "/archives/2010/100927183343.html",
         "imgSrc": "/upload/2010/ohki.jpg",
         "imgAlt": "大木裕之ACTION",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年9月25日、26日、27日<br>\n\t\t\t\t\t\t主催…とんつーレコード／<a href=\"http://www.03150.net/\">3150</a>",
+        "bodyJp": "期日…2010年9月25日、26日、27日<br>\n主催…とんつーレコード",
         "bodyEn": "2010.9.25,26,27"
       },
       {
         "date": "2010.09.17",
         "isPast": true,
-        "titleJp": "Urban potlatch workshop 05 「Creating our village：The\n\t\t\t\t\t\t\talternative village movement in UK」",
-        "titleEn": "Urban potlatch workshop 05 “Creating our village：The\n\t\t\t\t\t\t\talternative village movement in UK”",
+        "titleJp": "Urban potlatch workshop 05 「Creating our village：The alternative village movement in UK」",
+        "titleEn": "Urban potlatch workshop 05  “Creating our village：The alternative village movement in UK”",
         "url": "/archives/2010/100917103244.html",
         "imgSrc": "/upload/2010/urbanpotlatchi5.jpg",
         "imgAlt": "Urban potlatch workshop 05 「Creating our village：The alternative village movement in UK」",
-        "imgWidth": "168",
-        "bodyJp": "ゲスト：早川由美子（ドキュメンタリー監督）<br>\n\t\t\t\t\t\tファシリテーター：江上賢一郎",
-        "bodyEn": "2010.9.17(fri)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t1 drink order"
+        "bodyJp": "ゲスト：早川由美子（ドキュメンタリー監督）<br>\nファシリテーター：江上賢一郎",
+        "bodyEn": "2010.9.17(fri)<br>\n19:30 start<br>\n1 drink order"
       },
       {
         "date": "2010.09.14",
@@ -2688,7 +2551,6 @@ module.exports = [
         "url": "/archives/2010/100914135132.html",
         "imgSrc": "/upload/2010/moroiyama.jpg",
         "imgAlt": "もろイやま",
-        "imgWidth": "168",
         "bodyJp": "出演...諸岡光男／井上経康／山中けんじ",
         "bodyEn": "morooka mitsuo / inoue tsuneyasu / yamanaka kenji"
       },
@@ -2700,9 +2562,8 @@ module.exports = [
         "url": "/archives/2010/100913120405.html",
         "imgSrc": "/upload/2010/sokyo09.jpg",
         "imgAlt": "即興参加型セッション企画　<<出ai系>> 炎の即9時代vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…9月13日（月）<br>\n\t\t\t\t\t\t時間…オープン19:00　スタート19:30（参加者次第で早く終わる可能性もありますが、21:30頃に終わる予定）<br>\n\t\t\t\t\t\t料金…参加費¥500　見学費¥1000（見るだけの人です。1ドリンク付）",
-        "bodyEn": "2010.9.13 (mon)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 22:00 close<br>\n\t\t\t\t\t\tplayer ¥500<br>\n\t\t\t\t\t\tomlooker ¥1,000(1drink Inc.)"
+        "bodyJp": "期日…9月13日（月）<br>\n時間…オープン19:00　スタート19:30（参加者次第で早く終わる可能性もありますが、21:30頃に終わる予定）<br>\n料金…参加費¥500　見学費¥1000（見るだけの人です。1ドリンク付）",
+        "bodyEn": "2010.9.13 (mon)<br>\n19:00 open / 19:30 start / 22:00 close<br>\nplayer ¥500<br>\nomlooker ¥1,000(1drink Inc.)"
       },
       {
         "date": "2010.09.06",
@@ -2712,7 +2573,6 @@ module.exports = [
         "url": "/archives/2010/100906183040.html",
         "imgSrc": "/upload/2010/ifuku_kyoko_パズル.jpg",
         "imgAlt": "くらイうち二",
-        "imgWidth": "168",
         "bodyJp": "出演…倉地久美夫／イフクキョウコ／内橋和久",
         "bodyEn": "kurachi kumio / ifuku kyouko / uchihashi kazuhisa"
       },
@@ -2724,33 +2584,30 @@ module.exports = [
         "url": "/archives/2010/100903182830.html",
         "imgSrc": "/upload/2010/sake.jpg",
         "imgAlt": "スナック はちこ",
-        "imgWidth": "168",
-        "bodyJp": "営業日…9月3日（金）<br>\n\t\t\t\t\t\t営業時間…20:00〜23:00<br>\n\t\t\t\t\t\tチャージ…500円（つまみ、酒１付）<br>\n\t\t\t\t\t",
-        "bodyEn": "2010.9.3(fri)<br>\n\t\t\t\t\t\t20:00 - 23:00<br>\n\t\t\t\t\t\t¥500"
+        "bodyJp": "営業日…9月3日（金）<br>\n営業時間…20:00〜23:00<br>\nチャージ…500円（つまみ、酒１付）<br>\n",
+        "bodyEn": "2010.9.3(fri)<br>\n20:00 - 23:00<br>\n¥500"
       },
       {
         "date": "2010.08.28-",
         "isPast": true,
         "titleJp": "江上茂雄 作品集 出版記念展",
-        "titleEn": "An Exhibition to Celebrate The Release of “ Shigeo\n\t\t\t\t\t\t\tEgami Works 1912-2010”",
+        "titleEn": "An Exhibition to Celebrate The Release of “ Shigeo Egami Works 1912-2010”",
         "url": "/archives/2010/100828103656.html",
         "imgSrc": "/upload/2010/DSC_4535.jpg",
         "imgAlt": "江上茂雄 作品集 出版記念展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2010年8月28日（土）−9月5日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00〜20:00 / 土日 13:00〜20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t企画：江上茂雄画集制作委員会",
-        "bodyEn": "2010.8.28(sat) - 9.5(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\n\t\t\t\t\t\tClosed on Monday"
+        "bodyJp": "会期…2010年8月28日（土）−9月5日（日）<br>\n時間…平日 16:00〜20:00 / 土日 13:00〜20:00<br>\n月曜休廊<br>\n企画：江上茂雄画集制作委員会",
+        "bodyEn": "2010.8.28(sat) - 9.5(sun)<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\nClosed on Monday"
       },
       {
         "date": "2010.08.14",
         "isPast": true,
-        "titleJp": "Urban potlatch workshop 04 映像人類学講座01「LaPyramide\n\t\t\t\t\t\t\thumaine」（1961)",
+        "titleJp": "Urban potlatch workshop 04 映像人類学講座01「LaPyramide humaine」（1961)",
         "titleEn": "Urban potlatch workshop 04 film screening",
         "url": "/archives/2010/100814123407.html",
         "imgSrc": "/upload/2010/0002453M.jpg",
         "imgAlt": "Urban potlatch workshop 04 映像人類学講座01「LaPyramide humaine」（1961) ",
-        "imgWidth": "168",
-        "bodyJp": "「人間ピラミッド」 (1961年、映像人類学者ジャン•ルーシュ）<br>\n\t\t\t\t\t\tファシリテーター：江上賢一郎",
-        "bodyEn": "2010.8.14(sat)<br>\n\t\t\t\t\t\t18:00 start<br>\n\t\t\t\t\t\t1 drink order"
+        "bodyJp": "「人間ピラミッド」 (1961年、映像人類学者ジャン•ルーシュ）<br>\nファシリテーター：江上賢一郎",
+        "bodyEn": "2010.8.14(sat)<br>\n18:00 start<br>\n1 drink order"
       },
       {
         "date": "2010.08.12",
@@ -2760,9 +2617,8 @@ module.exports = [
         "url": "/archives/2010/100812133252.html",
         "imgSrc": "/upload/2010/sokyomanga04.jpg",
         "imgAlt": "即興参加型セッション企画　<<出ai系>> 真夏の夜の即恐時代vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年8月12日（木）<br>\n\t\t\t\t\t\t時間…19:00オープン、19:30スタート 終了予定21:30（参加者次第で早く終わる可能性もありますが、21:30頃に終わる予定）<br>\n\t\t\t\t\t\t料金…参加費500円　見学のみ1000円（見るだけの人です。1ドリンク付）<br>\n\t\t\t\t\t",
-        "bodyEn": "2010.8.12 (thu)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 22:00 close<br>\n\t\t\t\t\t\tplayer ¥500<br>\n\t\t\t\t\t\tomlooker ¥1,000(1drink Inc.)"
+        "bodyJp": "期日…2010年8月12日（木）<br>\n時間…19:00オープン、19:30スタート 終了予定21:30（参加者次第で早く終わる可能性もありますが、21:30頃に終わる予定）<br>\n料金…参加費500円　見学のみ1000円（見るだけの人です。1ドリンク付）<br>\n",
+        "bodyEn": "2010.8.12 (thu)<br>\n19:00 open / 19:30 start / 22:00 close<br>\nplayer ¥500<br>\nomlooker ¥1,000(1drink Inc.)"
       },
       {
         "date": "2010.08.09",
@@ -2772,9 +2628,8 @@ module.exports = [
         "url": "/archives/2010/100809090029.html",
         "imgSrc": "/upload/3910/adoerner2[1].jpg",
         "imgAlt": "Axel Dörner",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年8月9日（月）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…￥1,500<br>\n\t\t\t\t\t\t主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a><br>\n\t\t\t\t\t",
-        "bodyEn": "2010.08.09(mon)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\torganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
+        "bodyJp": "期日…2010年8月9日（月）<br>\n時間…20:00 start<br>\n料金…￥1,500<br>\n主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a><br>\n",
+        "bodyEn": "2010.08.09(mon)<br>\n20:00 start<br>\norganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
       },
       {
         "date": "2010.08.06",
@@ -2784,9 +2639,8 @@ module.exports = [
         "url": "/archives/2010/100806140445.html",
         "imgSrc": "/upload/2010/sake.jpg",
         "imgAlt": "スナック はちこ",
-        "imgWidth": "168",
-        "bodyJp": "営業日…8月6日（金）<br>\n\t\t\t\t\t\t営業時間…20:00〜23:00<br>\n\t\t\t\t\t\tチャージ…500円（つまみ、酒１付）<br>\n\t\t\t\t\t",
-        "bodyEn": "2010.8.6(fri)<br>\n\t\t\t\t\t\t20:00 - 23:00<br>\n\t\t\t\t\t\t¥500"
+        "bodyJp": "営業日…8月6日（金）<br>\n営業時間…20:00〜23:00<br>\nチャージ…500円（つまみ、酒１付）<br>\n",
+        "bodyEn": "2010.8.6(fri)<br>\n20:00 - 23:00<br>\n¥500"
       },
       {
         "date": "2010.07.30",
@@ -2796,9 +2650,8 @@ module.exports = [
         "url": "/archives/2010/100730193436.html",
         "imgSrc": "/upload/2010/sane07.jpeg",
         "imgAlt": "即興参加型セッション企画　<<出ai系>> 女の即興時代 vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年7月30日（金）<br>\n\t\t\t\t\t\t時間…19:00オープン、19:30スタート　 終了予定だいたい21:30ぐらい（場合によっては早く終了することもあります）<br>\n\t\t\t\t\t\t料金…参加費500円　見学のみ1,000円（ドリンク付）<br>\n\t\t\t\t\t",
-        "bodyEn": "2010.7.30 (fri)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 22:00 close<br>\n\t\t\t\t\t\tplayer ¥500<br>\n\t\t\t\t\t\tomlooker ¥1,000(1drink Inc.)"
+        "bodyJp": "期日…2010年7月30日（金）<br>\n時間…19:00オープン、19:30スタート　 終了予定だいたい21:30ぐらい（場合によっては早く終了することもあります）<br>\n料金…参加費500円　見学のみ1,000円（ドリンク付）<br>\n",
+        "bodyEn": "2010.7.30 (fri)<br>\n19:00 open / 19:30 start / 22:00 close<br>\nplayer ¥500<br>\nomlooker ¥1,000(1drink Inc.)"
       },
       {
         "date": "2010.07.19",
@@ -2808,9 +2661,8 @@ module.exports = [
         "url": "/archives/2010/100719130001.html",
         "imgSrc": "/upload/2010/n597085000_5611652_2703.jpg",
         "imgAlt": "urban potlatch workshop 03　“Voice/Democracy” ",
-        "imgWidth": "168",
-        "bodyJp": " ドキュメンタリー上映会「ブライアンと仲間たち　パーラメント・スクエアSW1」 <br>\n\t\t\t\t\t\tファシリテーター：江上賢一郎",
-        "bodyEn": "2010.7.19(mon)<br>\n\t\t\t\t\t\t13:00 start<br>\n\t\t\t\t\t\t¥600"
+        "bodyJp": " ドキュメンタリー上映会「ブライアンと仲間たち　パーラメント・スクエアSW1」 <br>\nファシリテーター：江上賢一郎",
+        "bodyEn": "2010.7.19(mon)<br>\n13:00 start<br>\n¥600"
       },
       {
         "date": "2010.07.12",
@@ -2820,7 +2672,6 @@ module.exports = [
         "url": "/archives/2010/100712181522.html",
         "imgSrc": "/upload/2010/IMG_3938.jpg",
         "imgAlt": "七月一二日は寂しい女の日",
-        "imgWidth": "168",
         "bodyJp": "出演：寂しい女（小貫誠、吉田主税、井手陽介）",
         "bodyEn": "Lonely Woman (Makoto Onuki, Chikara Yoshida, Yosuke Ide)"
       },
@@ -2832,9 +2683,8 @@ module.exports = [
         "url": "/archives/2010/100708200045.html",
         "imgSrc": "/upload/2010/tontiki2.jpg",
         "imgAlt": "第2回 トクディーヌ女史の“とんちき☆キネマ”",
-        "imgWidth": "168",
-        "bodyJp": "日時…2010年07月08日（木）20:00～<br>\n\t\t\t\t\t\t料金…無料",
-        "bodyEn": "2010.07.08(thu) 20:00-<br>\n\t\t\t\t\t\t¥free"
+        "bodyJp": "日時…2010年07月08日（木）20:00～<br>\n料金…無料",
+        "bodyEn": "2010.07.08(thu) 20:00-<br>\n¥free"
       },
       {
         "date": "2010.06.26",
@@ -2844,22 +2694,30 @@ module.exports = [
         "url": "/archives/2010/100626180010.html",
         "imgSrc": "/upload/2010/shinsuzaki4.gif",
         "imgAlt": "新○○美術館Vol.４<br />『新須崎美術館』～ウィリアム・ケントリッジ「アニメーションは友達、こわくない」～の巻",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年6月26日（土）<br>\n\t\t\t\t\t\t時間…18:00～<br>\n\t\t\t\t\t\t料金…500円【高校生以下無料】＋1ドリンクオーダー",
-        "bodyEn": "2010.6.26(sat)<br>\n\t\t\t\t\t\t18:00 -<br>\n\t\t\t\t\t\t500yen + 1drink order"
+        "bodyJp": "期日…2010年6月26日（土）<br>\n時間…18:00～<br>\n料金…500円【高校生以下無料】＋1ドリンクオーダー",
+        "bodyEn": "2010.6.26(sat)<br>\n18:00 -<br>\n500yen + 1drink order"
       },
       {
         "date": "2010.06.25",
         "isPast": true,
-        "titleJp": "urban potlatch workshop 02 “How to hack our\n\t\t\t\t\t\t\tcity?”",
-        "titleEn": "urban potlatch workshop 02 “How to hack our\n\t\t\t\t\t\t\tcity?”",
+        "titleJp": "urban potlatch workshop 02   “How to hack our city?”",
+        "titleEn": "urban potlatch workshop 02   “How to hack our city?”",
         "url": "/archives/2010/100625180007.html",
         "imgSrc": "/upload/2010/billboard_kori_newkirk_1000.jpg",
         "imgAlt": "urban potlatch workshop 02   “How to hack our city?”",
-        "imgWidth": "168",
         "bodyJp": "ファシリテーター…江上賢一郎",
-        "bodyEn": "2010.06.25(fri)<br>\n\t\t\t\t\t\t20:00-<br>\n\t\t\t\t\t\t¥500 (1drink inc)"
-      },
+        "bodyEn": "2010.06.25(fri)<br>\n20:00-<br>\n¥500 (1drink inc)"
+      }
+    ],
+    "permalink": "tetra/page/8/index.html"
+  },
+  {
+    "pageNumber": 8,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2010.06.21",
         "isPast": true,
@@ -2868,9 +2726,8 @@ module.exports = [
         "url": "/archives/2010/100621184608.html",
         "imgSrc": "/upload/2010/sokkyo2.jpg",
         "imgAlt": "即興セッション企画　<<出ai系>>魅!!男の即狂時代　vol.1",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年6月21日（月）<br>\n\t\t\t\t\t\t場所…アートスペーステトラ<br>\n\t\t\t\t\t\t時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n\t\t\t\t\t\t料金…参加費500円　見学のみ1000円",
-        "bodyEn": "2010.6.21(mon)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start / 21:30 close<br>\n\t\t\t\t\t\tplayer \\500 / audience \\1,000<br>\n\t\t\t\t\t"
+        "bodyJp": "期日…2010年6月21日（月）<br>\n場所…アートスペーステトラ<br>\n時間…19:00オープン、19:30スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n料金…参加費500円　見学のみ1000円",
+        "bodyEn": "2010.6.21(mon)<br>\n19:00 open / 19:30 start / 21:30 close<br>\nplayer \\500 / audience \\1,000<br>\n"
       },
       {
         "date": "2010.05.30",
@@ -2880,9 +2737,8 @@ module.exports = [
         "url": "/archives/2010/100530145822.html",
         "imgSrc": "/upload/2010/えんばん２.jpg",
         "imgAlt": "円盤レコード寄席 ",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年5月30日（日）<br>\n\t\t\t\t\t\t時間…18:00〜<br>\n\t\t\t\t\t\t料金…500円（1ドリンク付）",
-        "bodyEn": "2010.05.30（sun）<br>\n\t\t\t\t\t\t18:00 start<br>\n\t\t\t\t\t\t￥500 with 1 drink"
+        "bodyJp": "期日…2010年5月30日（日）<br>\n時間…18:00〜<br>\n料金…500円（1ドリンク付）",
+        "bodyEn": "2010.05.30（sun）<br>\n18:00 start<br>\n￥500 with 1 drink"
       },
       {
         "date": "2010.05.29",
@@ -2892,9 +2748,8 @@ module.exports = [
         "url": "/archives/2010/100529170040.html",
         "imgSrc": "/upload/2010/sokkomanga01.jpg",
         "imgAlt": "即興セッション企画　<<出ai系>>　即狂時代　vol.1　",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年5月29日（土）<br>\n\t\t\t\t\t\t時間…17:00オープン、18:00スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n\t\t\t\t\t\t料金…参加費500円　見学のみ1000円",
-        "bodyEn": "2010.5.29(sat)<br>\n\t\t\t\t\t\t17:00 open / 18:00 start / 21:30 close <br>\n\t\t\t\t\t\tplayer \\500 / audience \\1,000"
+        "bodyJp": "期日…2010年5月29日（土）<br>\n時間…17:00オープン、18:00スタート 終了予定21:30（場合によっては早く終了することもあります）<br>\n料金…参加費500円　見学のみ1000円",
+        "bodyEn": "2010.5.29(sat)<br>\n17:00 open / 18:00 start / 21:30 close <br>\nplayer \\500 / audience \\1,000"
       },
       {
         "date": "2010.05.19",
@@ -2904,9 +2759,8 @@ module.exports = [
         "url": "/archives/2010/100519200055.html",
         "imgSrc": "/upload/2010/tonchiki1.gif",
         "imgAlt": "第1回 トクディーヌ女史の“とんちき☆キネマ”",
-        "imgWidth": "168",
-        "bodyJp": "日時…2010年05月19日（水）20:00～<br>\n\t\t\t\t\t\t料金…無料",
-        "bodyEn": "2010.05.19(wed) 20:00-<br>\n\t\t\t\t\t\t¥free"
+        "bodyJp": "日時…2010年05月19日（水）20:00～<br>\n料金…無料",
+        "bodyEn": "2010.05.19(wed) 20:00-<br>\n¥free"
       },
       {
         "date": "2010.04.28",
@@ -2914,8 +2768,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.12",
         "titleEn": "“ToshimaCinema” vol. 12",
         "url": "/archives/2010/100428103030.html",
-        "bodyJp": "期日…2010年04月28日（水）<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…柳町光男監督",
-        "bodyEn": "2010.4.28 (wed)<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2010年04月28日（水）<br>\n時間…20:00〜<br>\n議題…柳町光男監督",
+        "bodyEn": "2010.4.28 (wed)<br>\n20:00 start"
       },
       {
         "date": "2010.03.19",
@@ -2925,9 +2779,8 @@ module.exports = [
         "url": "/archives/2010/100319200018.html",
         "imgSrc": "/upload/2010/occultic7.jpg",
         "imgAlt": "トクディーヌ女史のオカルティック☆ナイト vol.7<br />「七不思議と金曜のオカルト実験室」",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年3月19日（金）<br>\n\t\t\t\t\t\t時間…20:00から　21:30終了予定<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n\t\t\t\t\t",
-        "bodyEn": "2010.3.19 (fri) <br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥FREE"
+        "bodyJp": "期日…2010年3月19日（金）<br>\n時間…20:00から　21:30終了予定<br>\n料金…無料<br>\n講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n",
+        "bodyEn": "2010.3.19 (fri) <br>\n20:00 start<br>\n¥FREE"
       },
       {
         "date": "2010.03.16-",
@@ -2937,20 +2790,9 @@ module.exports = [
         "url": "/archives/2010/100316173803.html",
         "imgSrc": "/upload/2010/KUMA.jpg",
         "imgAlt": "ACCORDING TO WHAT 04<br/>内野ゆきな写真展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2010年3月16日（火）〜28日（日）<br>\n\t\t\t\t\t\t時間…平日16:00〜20:00／土日祝13:00〜20:00<br>\n\t\t\t\t\t\t休館…23日（火）<br>\n\t\t\t\t\t\tトーク＆パーティ…27日（土）19:00〜　参加費500円（軽食付）<br>\n\t\t\t\t\t\t主催…A2Wシリーズ実行委員会<br>\n\t\t\t\t\t\t協力…アートスペース・テトラ",
-        "bodyEn": "2010.3.16(tue)-28(sun)<br>\n\t\t\t\t\t\t13:00-20:00<br>\n\t\t\t\t\t\torganised by A2W Executive Committee<br>\n\t\t\t\t\t\tcooperation: art space tetra"
-      }
-    ],
-    "permalink": "tetra/page/8/index.html"
-  },
-  {
-    "pageNumber": 8,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+        "bodyJp": "会期…2010年3月16日（火）〜28日（日）<br>\n時間…平日16:00〜20:00／土日祝13:00〜20:00<br>\n休館…23日（火）<br>\nトーク＆パーティ…27日（土）19:00〜　参加費500円（軽食付）<br>\n主催…A2Wシリーズ実行委員会<br>\n協力…アートスペース・テトラ",
+        "bodyEn": "2010.3.16(tue)-28(sun)<br>\n13:00-20:00<br>\norganised by A2W Executive Committee<br>\ncooperation: art space tetra"
+      },
       {
         "date": "2010.03.11",
         "isPast": true,
@@ -2959,9 +2801,8 @@ module.exports = [
         "url": "/archives/2010/100311191459.html",
         "imgSrc": "/upload/2010/umeda.jpg",
         "imgAlt": "梅田哲也と倉地久美夫",
-        "imgWidth": "168",
-        "bodyJp": "期日…3月11日（木）<br>\n\t\t\t\t\t\t時間…開場19:00 開演19:30<br>\n\t\t\t\t\t\t料金…2,000円（１ドリンク付）<br>\n\t\t\t\t\t\t主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a>",
-        "bodyEn": "2010.3.11(thu)<br>\n\t\t\t\t\t\t19:00 open / 19:30 start<br>\n\t\t\t\t\t\t2,000yen (include 1drink)<br>\n\t\t\t\t\t\torganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
+        "bodyJp": "期日…3月11日（木）<br>\n時間…開場19:00 開演19:30<br>\n料金…2,000円（１ドリンク付）<br>\n主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a>",
+        "bodyEn": "2010.3.11(thu)<br>\n19:00 open / 19:30 start<br>\n2,000yen (include 1drink)<br>\norganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
       },
       {
         "date": "2010.02.23-",
@@ -2971,9 +2812,8 @@ module.exports = [
         "url": "/archives/2010/100223172732.html",
         "imgSrc": "/upload/2010/egamishigeo2.jpg",
         "imgAlt": "江上茂雄回顧展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2010年2月23日（火）−3月14日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00〜20:00 / 土日 13:00〜20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t企画：江上茂雄画集制作委員会<br>\n\t\t\t\t\t\t問い合わせ　江上計太　092-923-6775",
-        "bodyEn": "2010.2.23(tue) - 3.14(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\n\t\t\t\t\t\tClosed on Monday"
+        "bodyJp": "会期…2010年2月23日（火）−3月14日（日）<br>\n時間…平日 16:00〜20:00 / 土日 13:00〜20:00<br>\n月曜休廊<br>\n企画：江上茂雄画集制作委員会<br>\n問い合わせ　江上計太　092-923-6775",
+        "bodyEn": "2010.2.23(tue) - 3.14(sun)<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\nClosed on Monday"
       },
       {
         "date": "2010.01.29",
@@ -2983,9 +2823,8 @@ module.exports = [
         "url": "/archives/2010/100129200021.html",
         "imgSrc": "/upload/2010/occult6.gif",
         "imgAlt": "トクディーヌ女史のオカルティック☆ナイト vol.6<br />〜するか、しないか、人類滅亡説！〜",
-        "imgWidth": "168",
-        "bodyJp": "期日…2010年1月29日（金）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n\t\t\t\t\t",
-        "bodyEn": "2010.1.29 (fri) <br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥FREE"
+        "bodyJp": "期日…2010年1月29日（金）<br>\n時間…20:00 start<br>\n料金…無料<br>\n講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n",
+        "bodyEn": "2010.1.29 (fri) <br>\n20:00 start<br>\n¥FREE"
       },
       {
         "date": "2009.12.20",
@@ -2995,9 +2834,8 @@ module.exports = [
         "url": "/archives/2009/091220190034.html",
         "imgSrc": "/upload/2009/mah.jpeg",
         "imgAlt": "Maher Shalal Hash Baz",
-        "imgWidth": "168",
-        "bodyJp": "2009年12月20日（日）<br>\n\t\t\t\t\t\t時間…19:00 open/start<br>\n\t\t\t\t\t\t料金…1,500円（1ドリンク付き）<br>\n\t\t\t\t\t\t主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a>",
-        "bodyEn": "2009.12.20(sun)<br>\n\t\t\t\t\t\t19:00 open/start<br>\n\t\t\t\t\t\t1,500yen (1drink inc)<br>\n\t\t\t\t\t\torganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
+        "bodyJp": "2009年12月20日（日）<br>\n時間…19:00 open/start<br>\n料金…1,500円（1ドリンク付き）<br>\n主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a>",
+        "bodyEn": "2009.12.20(sun)<br>\n19:00 open/start<br>\n1,500yen (1drink inc)<br>\norganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
       },
       {
         "date": "2009.12.08-",
@@ -3007,9 +2845,8 @@ module.exports = [
         "url": "/archives/2009/091208160057.html",
         "imgSrc": "/upload/2009/utto.jpeg",
         "imgAlt": "工藤冬里　「鬱陶 −マイナス茶碗 − 」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年12月8日（火）〜20日（日）<br>\n\t\t\t\t\t\t時間…平日16:00-20:00 /土日祝 13:00-20:00　※12/8のみ13:00-18:00<br>\n\t\t\t\t\t\t※12月8日（火）は別会場にてライブイベント開催のため、開廊が13:00-18:00になります。<br>\n\t\t\t\t\t\t※12月20日（日）はMaher Shalal Hash Bazライブのため、16時ごろよりリハーサルをしている可能性があります。ご了承ください。<br>\n\t\t\t\t\t\t主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a>",
-        "bodyEn": "2009.12.8(tue) - 20(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\n\t\t\t\t\t\torganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
+        "bodyJp": "会期…2009年12月8日（火）〜20日（日）<br>\n時間…平日16:00-20:00 /土日祝 13:00-20:00　※12/8のみ13:00-18:00<br>\n※12月8日（火）は別会場にてライブイベント開催のため、開廊が13:00-18:00になります。<br>\n※12月20日（日）はMaher Shalal Hash Bazライブのため、16時ごろよりリハーサルをしている可能性があります。ご了承ください。<br>\n主催...<a href=\"http://03150.net/\">とんつーレコード／3150</a>",
+        "bodyEn": "2009.12.8(tue) - 20(sun)<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\norganized by <a href=\"http://03150.net/\">tontuu record / 3150</a>"
       },
       {
         "date": "2009.11.27",
@@ -3019,21 +2856,19 @@ module.exports = [
         "url": "/archives/2009/091127200000.html",
         "imgSrc": "/upload/2009/occultic05.gif",
         "imgAlt": "トクディーヌ女史のオカルティック☆ナイト vol.5",
-        "imgWidth": "168",
-        "bodyJp": "期日…2009年11月27日（金）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n\t\t\t\t\t",
-        "bodyEn": "2009.11.27 (fri) <br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥FREE"
+        "bodyJp": "期日…2009年11月27日（金）<br>\n時間…20:00 start<br>\n料金…無料<br>\n講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n",
+        "bodyEn": "2009.11.27 (fri) <br>\n20:00 start<br>\n¥FREE"
       },
       {
         "date": "2009.11.03-",
         "isPast": true,
         "titleJp": "山川順子 個展「山吹色、日々の群像」",
-        "titleEn": "Junko Yamakawa “Bright golden yellow, the Daily\n\t\t\t\t\t\t\tgroup”",
+        "titleEn": "Junko Yamakawa “Bright golden yellow, the Daily group”",
         "url": "/archives/2009/091103033010.html",
         "imgSrc": "/upload/2009/ymakawa2.jpg",
         "imgAlt": "山川順子 個展「山吹色、日々の群像」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年11月3日（火・祝）− 15日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00-20:00 / 土日祝 13:00-20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t",
-        "bodyEn": "2009.11.3(tue) - 15(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\n\t\t\t\t\t\tClosed on Monday"
+        "bodyJp": "会期…2009年11月3日（火・祝）− 15日（日）<br>\n時間…平日 16:00-20:00 / 土日祝 13:00-20:00<br>\n月曜休廊<br>\n",
+        "bodyEn": "2009.11.3(tue) - 15(sun)<br>\ntue-fri 16:00-20:00 / sat-sun 13:00-20:00<br>\nClosed on Monday"
       },
       {
         "date": "2009.10.19",
@@ -3043,7 +2878,6 @@ module.exports = [
         "url": "/archives/2009/091019190059.html",
         "imgSrc": "/upload/2009/slide_IMG_1443.JPG.jpeg",
         "imgAlt": "そろそろsolo",
-        "imgWidth": "168",
         "bodyJp": "Philip Leitner（ウィーン）, 諸岡光男, 有田桃子, Shayne Bowden",
         "bodyEn": "Philip Leitner, Mitsuo Morooka, Momoko Arita, Shayne Bowden"
       },
@@ -3051,13 +2885,12 @@ module.exports = [
         "date": "2009.10.06-",
         "isPast": true,
         "titleJp": "日野陽太朗 個展「森を見て木を見ない3」",
-        "titleEn": "Yotaro Hino “can't see the trees for the forest”\n\t\t\t\t\t\t\t3",
+        "titleEn": "Yotaro Hino “can't see the trees for the forest” 3",
         "url": "/archives/2009/091006210730.html",
         "imgSrc": "/upload/2009/HINO1.jpg",
         "imgAlt": "日野陽太朗 個展「森を見て木を見ない3」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年10月6日（火）− 25日（日）<br>\n\t\t\t\t\t\t月曜休廊　※ただし12日（月・祝）は開廊、翌13日（火）休廊<br>\n\t\t\t\t\t\t時間…平日 16:00-20:00 / 土日祝 13:00-20:00<br>\n\t\t\t\t\t\tクロージング・パーティー…10月24日（土）19:00〜 参加費500円",
-        "bodyEn": "2009.10.6(tue) - 25(sun)<br>\n\t\t\t\t\t\tClosed on Mondays.<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00<br>\n\t\t\t\t\t\tClosing 10.24(sat) 19:00- ¥500"
+        "bodyJp": "会期…2009年10月6日（火）− 25日（日）<br>\n月曜休廊　※ただし12日（月・祝）は開廊、翌13日（火）休廊<br>\n時間…平日 16:00-20:00 / 土日祝 13:00-20:00<br>\nクロージング・パーティー…10月24日（土）19:00〜 参加費500円",
+        "bodyEn": "2009.10.6(tue) - 25(sun)<br>\nClosed on Mondays.<br>\ntue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00<br>\nClosing 10.24(sat) 19:00- ¥500"
       },
       {
         "date": "2009.09.21",
@@ -3067,9 +2900,8 @@ module.exports = [
         "url": "/archives/2009/090921140309.html",
         "imgSrc": "/upload/2009/horio_ws.jpg",
         "imgAlt": "堀尾寛太 ワークショップ",
-        "imgWidth": "168",
-        "bodyJp": "期日…2009年9月21日（祝）<br>\n\t\t\t\t\t\t時間…14:00〜18:00<br>\n\t\t\t\t\t\t講師…堀尾寛太<br>\n\t\t\t\t\t\t参加費…3,000円（材料費2,000円含む）<br>\n\t\t\t\t\t\t定員…約10名<br>\n\t\t\t\t\t\t申し込み…art space tetra 小山　<a href=\"mailto:oyama@as-tetra.info\">oyama@as-tetra.info</a>",
-        "bodyEn": "2009.09.21(fri)<br>\n\t\t\t\t\t\t14:00-18:00<br>\n\t\t\t\t\t\t¥3,000"
+        "bodyJp": "期日…2009年9月21日（祝）<br>\n時間…14:00〜18:00<br>\n講師…堀尾寛太<br>\n参加費…3,000円（材料費2,000円含む）<br>\n定員…約10名<br>\n申し込み…art space tetra 小山　<a href=\"mailto:oyama@as-tetra.info\">oyama@as-tetra.info</a>",
+        "bodyEn": "2009.09.21(fri)<br>\n14:00-18:00<br>\n¥3,000"
       },
       {
         "date": "2009.09.19-",
@@ -3079,8 +2911,7 @@ module.exports = [
         "url": "/archives/2009/090919160000.html",
         "imgSrc": "/upload/2009/horio.jpg",
         "imgAlt": "堀尾寛太個展「5V & 100V」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年9月19日（土）～10月4日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00-20:00／土日祝 13:00-20:00<br>\n\t\t\t\t\t\t休廊日…9月28日（月）<br>\n\t\t\t\t\t\t入場無料",
+        "bodyJp": "会期…2009年9月19日（土）～10月4日（日）<br>\n時間…平日 16:00-20:00／土日祝 13:00-20:00<br>\n休廊日…9月28日（月）<br>\n入場無料",
         "bodyEn": "2009.9.19(sat) - 10.4(sun)"
       },
       {
@@ -3091,20 +2922,19 @@ module.exports = [
         "url": "/archives/2009/090912193034.html",
         "imgSrc": "/upload/2009/tockdine4.gif",
         "imgAlt": "トクディーヌ女史のオカルティック☆ナイト vol.4",
-        "imgWidth": "168",
-        "bodyJp": "期日…2009年9月12日（土）<br>\n\t\t\t\t\t\t時間…19:30 start<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a>",
+        "bodyJp": "期日…2009年9月12日（土）<br>\n時間…19:30 start<br>\n料金…無料<br>\n講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a>",
         "bodyEn": "<a href=\"http://sensuidream.com/\">Wacana Tokudine</a>"
       },
       {
         "date": "2009.07.19",
         "isPast": true,
         "titleJp": "CHIISANA VIOLA ONGAKU-KAI",
-        "titleEn": "“CHIISANA VIOLA\n\t\t\t\t\t\t\t\tONGAKU-KAI”",
+        "titleEn": "“CHIISANA VIOLA ONGAKU-KAI”",
         "url": "/archives/2009/090719170035.html",
         "imgSrc": "/upload/2009/matsukuma.gif",
         "imgAlt": "ちいさなヴィオラ音楽会",
-        "bodyJp": "期日…2009年7月19日（日）<br>\n\t\t\t\t\t\t時間…午後5時30分（演奏は1時間程度を予定）<br>\n\t\t\t\t\t\t料金…500円（1ドリンク付き）<br>\n\t\t\t\t\t\t奏者…松隈聡子<br>\n\t\t\t\t\t\t演目…J.S.Bach 無伴奏チェロ組曲より第４番 Ｅ flat Major　ほか",
-        "bodyEn": "player ... Satoko Matsukuma (viola)<br>\n\t\t\t\t\t\tprogram ... J.S.Bach \"Unaccompanied cello suite No. 4 E flat Major\" , and more."
+        "bodyJp": "期日…2009年7月19日（日）<br>\n時間…午後5時30分（演奏は1時間程度を予定）<br>\n料金…500円（1ドリンク付き）<br>\n奏者…松隈聡子<br>\n演目…J.S.Bach 無伴奏チェロ組曲より第４番 Ｅ flat Major　ほか",
+        "bodyEn": "player ... Satoko Matsukuma (viola)<br>\nprogram ... J.S.Bach \"Unaccompanied cello suite No. 4 E flat Major\" , and more."
       },
       {
         "date": "2009.07.17",
@@ -3114,8 +2944,7 @@ module.exports = [
         "url": "/archives/2009/090717200045.html",
         "imgSrc": "/upload/2009/oc3.gif",
         "imgAlt": "トクディーヌ女史のオカルティック☆オールナイト",
-        "imgWidth": "168",
-        "bodyJp": "期日…2009年7月17日（金）<br>\n\t\t\t\t\t\t時間…20:00 open / 21:00 start / 4:00過ぎ end<br>\n\t\t\t\t\t\t講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n\t\t\t\t\t\t料金…500円（軽食付き）",
+        "bodyJp": "期日…2009年7月17日（金）<br>\n時間…20:00 open / 21:00 start / 4:00過ぎ end<br>\n講師…<a href=\"http://sensuidream.com/\">ワカナ・トクディーヌ</a><br>\n料金…500円（軽食付き）",
         "bodyEn": "Wacana Tokudine"
       },
       {
@@ -3126,7 +2955,6 @@ module.exports = [
         "url": "/archives/2009/090712190000.html",
         "imgSrc": "/upload/2009/yoimachi.jpeg",
         "imgAlt": "宵まち",
-        "imgWidth": "168",
         "bodyJp": "if MASACA, 佐野ヨウコ, 佐々木匡士",
         "bodyEn": "if MASAKA, Youko Sano, Masato Sasaki"
       },
@@ -3136,8 +2964,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.11",
         "titleEn": "“ToshimaCinema” vol. 11",
         "url": "/archives/2009/090711184021.html",
-        "bodyJp": "期日…2009年07月11日（土）<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…ツァイ・ミンリャン監督",
-        "bodyEn": "2009.7.11 (sat)<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2009年07月11日（土）<br>\n時間…20:00〜<br>\n議題…ツァイ・ミンリャン監督",
+        "bodyEn": "2009.7.11 (sat)<br>\n20:00 start"
       },
       {
         "date": "2009.06.20",
@@ -3147,8 +2975,7 @@ module.exports = [
         "url": "/archives/2009/090620190000.html",
         "imgSrc": "/upload/2009/occult2.gif",
         "imgAlt": "トクディーヌ女史のオカルティック☆ナイト vol.2",
-        "imgWidth": "168",
-        "bodyJp": "期日…2009年6月20日（土）<br>\n\t\t\t\t\t\t時間…19:00 start<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t講師…ワカナ・トクディーヌ",
+        "bodyJp": "期日…2009年6月20日（土）<br>\n時間…19:00 start<br>\n料金…無料<br>\n講師…ワカナ・トクディーヌ",
         "bodyEn": "Wacana Tokudine"
       },
       {
@@ -3159,9 +2986,8 @@ module.exports = [
         "url": "/archives/2009/090519160000.html",
         "imgSrc": "/upload/2009/kai.jpg",
         "imgAlt": "CREATIVE [KAI] 「色」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年5月19日（火）− 31日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00-20:00 / 土日 13:00-20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2009.05.19(tue) - 31(sun)<br>\n\t\t\t\t\t\tclosed on mondays"
+        "bodyJp": "会期…2009年5月19日（火）− 31日（日）<br>\n時間…平日 16:00-20:00 / 土日 13:00-20:00<br>\n月曜休廊<br>\n入場無料",
+        "bodyEn": "2009.05.19(tue) - 31(sun)<br>\nclosed on mondays"
       },
       {
         "date": "2009.05.05-",
@@ -3171,9 +2997,8 @@ module.exports = [
         "url": "/archives/2009/090505130000.html",
         "imgSrc": "/upload/2009/yamanaka-img1.jpg",
         "imgAlt": "ACCORDING TO WHAT 03<br/>山中慎太郎写真展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年5月5日（火・祝）〜17日（日）<br>\n\t\t\t\t\t\t時間…13時〜20時<br>\n\t\t\t\t\t\t休館…月曜<br>\n\t\t\t\t\t\t主催…A2Wシリーズ実行委員会<br>\n\t\t\t\t\t\t協賛…株式会社 カシマ<br>\n\t\t\t\t\t\t協力…アートスペース・テトラ<br>\n\t\t\t\t\t\tオープニング・レセプション：5日（火・祝）19:00〜　スライドショー＆トーク　参加費無料 ",
-        "bodyEn": "2009.5.5(tue)-17(sun)<br>\n\t\t\t\t\t\t13:00-20:00<br>\n\t\t\t\t\t\tClosed on Mondays<br>\n\t\t\t\t\t\torganised by A2W Executive Committee<br>\n\t\t\t\t\t\tco-supported by Kashima Co.,Ltd.<br>\n\t\t\t\t\t\tcooperation: art space tetra"
+        "bodyJp": "会期…2009年5月5日（火・祝）〜17日（日）<br>\n時間…13時〜20時<br>\n休館…月曜<br>\n主催…A2Wシリーズ実行委員会<br>\n協賛…株式会社 カシマ<br>\n協力…アートスペース・テトラ<br>\nオープニング・レセプション：5日（火・祝）19:00〜　スライドショー＆トーク　参加費無料 ",
+        "bodyEn": "2009.5.5(tue)-17(sun)<br>\n13:00-20:00<br>\nClosed on Mondays<br>\norganised by A2W Executive Committee<br>\nco-supported by Kashima Co.,Ltd.<br>\ncooperation: art space tetra"
       },
       {
         "date": "2009.04.10",
@@ -3183,33 +3008,30 @@ module.exports = [
         "url": "/archives/2009/090410200000.html",
         "imgSrc": "/upload/2009/tokuda.gif",
         "imgAlt": "トクディーヌ女史のオカルティック☆ナイト",
-        "imgWidth": "168",
-        "bodyJp": "日時…2009年4月10日（金）20:00 start<br>\n\t\t\t\t\t\t料金…無料<br>\n\t\t\t\t\t\t講師…ワカナ・トクディーヌ",
+        "bodyJp": "日時…2009年4月10日（金）20:00 start<br>\n料金…無料<br>\n講師…ワカナ・トクディーヌ",
         "bodyEn": "Wacana Tokudine"
       },
       {
         "date": "2009.04.01-",
         "isPast": true,
         "titleJp": "アートスペース・テトラ5周年記念企画Circulate 安部貴住個展",
-        "titleEn": "art space tetra 5th anniversaryTakasumi Abe\n\t\t\t\t\t\t\t“Circulate”",
+        "titleEn": "art space tetra 5th anniversaryTakasumi Abe “Circulate”",
         "url": "/archives/2009/090401160039.html",
         "imgSrc": "/upload/2009/abe_tetra5th.jpg",
         "imgAlt": "アートスペース・テトラ5周年記念企画<br />Circulate 安部貴住個展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年4月1日（水）〜19日（日）月曜休廊<br>\n\t\t\t\t\t\t時間…平日16:00-20:00 / 土日祝13:00-20:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2009.4.1(wed) - 19(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00"
+        "bodyJp": "会期…2009年4月1日（水）〜19日（日）月曜休廊<br>\n時間…平日16:00-20:00 / 土日祝13:00-20:00<br>\n入場無料",
+        "bodyEn": "2009.4.1(wed) - 19(sun)<br>\ntue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00"
       },
       {
         "date": "2009.03.30",
         "isPast": true,
-        "titleJp": "西アフリカ行ってきたよ！すごいんだって聞いて！ まじで！",
-        "titleEn": "“I went to West Africa! Please listen! It's\n\t\t\t\t\t\t\tgreat! It's real!”",
+        "titleJp": "西アフリカ行ってきたよ！すごいんだって聞いて！  まじで！",
+        "titleEn": "“I went to West Africa! Please listen! It's great! It's real!”",
         "url": "/archives/2009/090330193000.html",
         "imgSrc": "/upload/2009/25957491_1318257171.jpg",
         "imgAlt": "西アフリカ行ってきたよ！すごいんだって聞いて！  まじで！",
-        "imgWidth": "168",
-        "bodyJp": "日時…2009年3月30日（月）<br>\n\t\t\t\t\t\t時間…19:30 start<br>\n\t\t\t\t\t\t料金…1ドリンクオーダー",
-        "bodyEn": "2009.3.30(mon)<br>\n\t\t\t\t\t\t19:30 start<br>\n\t\t\t\t\t\t1 drink order"
+        "bodyJp": "日時…2009年3月30日（月）<br>\n時間…19:30 start<br>\n料金…1ドリンクオーダー",
+        "bodyEn": "2009.3.30(mon)<br>\n19:30 start<br>\n1 drink order"
       },
       {
         "date": "2009.03.03-",
@@ -3219,10 +3041,19 @@ module.exports = [
         "url": "/archives/2009/090303160000.html",
         "imgSrc": "/2009/hishikawa-1.jpg",
         "imgAlt": "菱川辰也 絵画展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年3月3日（火）〜22日（日）月曜休廊<br>\n\t\t\t\t\t\t時間…平日16:00-20:00 / 土日祝13:00-20:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2009.3.3(tue) - 22(sun)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00"
-      },
+        "bodyJp": "会期…2009年3月3日（火）〜22日（日）月曜休廊<br>\n時間…平日16:00-20:00 / 土日祝13:00-20:00<br>\n入場無料",
+        "bodyEn": "2009.3.3(tue) - 22(sun)<br>\ntue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00"
+      }
+    ],
+    "permalink": "tetra/page/9/index.html"
+  },
+  {
+    "pageNumber": 9,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2009.02.20",
         "isPast": true,
@@ -3231,33 +3062,30 @@ module.exports = [
         "url": "/archives/2009/090220200000.html",
         "imgSrc": "/2009/umedatetsuya0902.jpg",
         "imgAlt": "梅田哲也 solo Live 「 :Interlude: 」 ",
-        "imgWidth": "168",
-        "bodyJp": "期日…2月20日（金）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…1,000円 + 1ドリンクオーダー",
-        "bodyEn": "2009.2.20 (fri)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥1,000 + 1drink order"
+        "bodyJp": "期日…2月20日（金）<br>\n時間…20:00 start<br>\n料金…1,000円 + 1ドリンクオーダー",
+        "bodyEn": "2009.2.20 (fri)<br>\n20:00 start<br>\n¥1,000 + 1drink order"
       },
       {
         "date": "2009.02.13-",
         "isPast": true,
         "titleJp": "小山冴子 個展 「かせん」",
-        "titleEn": "Saeko Oyama “KASEN”",
+        "titleEn": "Saeko Oyama  “KASEN”",
         "url": "/archives/2009/090213160000.html",
         "imgSrc": "/2009/oyamakasenn.jpg",
         "imgAlt": "小山冴子 個展 「かせん」",
-        "imgWidth": "168",
-        "bodyJp": "会期...2009年2月13日（金）−2月20日（金）<br>\n\t\t\t\t\t\t時間...平日16:00-20:00 / 土日祝13:00-20:00<br>\n\t\t\t\t\t\t会期中無休<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2009.2.13(fri) - 2.20(fri)<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00<br>\n\t\t\t\t\t"
+        "bodyJp": "会期...2009年2月13日（金）−2月20日（金）<br>\n時間...平日16:00-20:00 / 土日祝13:00-20:00<br>\n会期中無休<br>\n入場無料",
+        "bodyEn": "2009.2.13(fri) - 2.20(fri)<br>\ntue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00<br>\n"
       },
       {
         "date": "2009.01.20-",
         "isPast": true,
         "titleJp": "日野陽太朗 個展「森を見て木を見ない２」",
-        "titleEn": "Yotaro Hino “can't see the trees for the forest”\n\t\t\t\t\t\t\t2",
+        "titleEn": "Yotaro Hino “can't see the trees for the forest” 2",
         "url": "/archives/2009/090120160000.html",
         "imgSrc": "/2008/HINO-NEW.jpg",
         "imgAlt": "日野陽太朗 個展<br>「森を見て木を見ない２」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2009年1月20日（火）− 2月1日（日）<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t時間…平日16:00-20:00 / 土日祝 13:00-20:00<br>\n\t\t\t\t\t\tクロージングパーティー…1月31日（土）19:00〜 参加費500円",
-        "bodyEn": "2009.1.20(tue) - 2.1(sun)<br>\n\t\t\t\t\t\tClosed on Mondays.<br>\n\t\t\t\t\t\ttue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00<br>\n\t\t\t\t\t\tClosing party 1.31(sat) 19:00- ¥500"
+        "bodyJp": "会期…2009年1月20日（火）− 2月1日（日）<br>\n月曜休廊<br>\n時間…平日16:00-20:00 / 土日祝 13:00-20:00<br>\nクロージングパーティー…1月31日（土）19:00〜 参加費500円",
+        "bodyEn": "2009.1.20(tue) - 2.1(sun)<br>\nClosed on Mondays.<br>\ntue-fri 16:00-20:00 / sat-sun and holiday 13:00-20:00<br>\nClosing party 1.31(sat) 19:00- ¥500"
       },
       {
         "date": "2008.12.19",
@@ -3267,9 +3095,8 @@ module.exports = [
         "url": "/archives/2008/081219200000.html",
         "imgSrc": "/2008/reknub4.jpg",
         "imgAlt": "Reknub #4 （ホスト：江上計太）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2008年12月19日（金）<br>\n\t\t\t\t\t\t時間…19:00 open / 19:30 start<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2008.12.08<br>\n\t\t\t\t\t\t19:00 open / 19:30 start<br>\n\t\t\t\t\t\t¥free"
+        "bodyJp": "期日…2008年12月19日（金）<br>\n時間…19:00 open / 19:30 start<br>\n入場無料",
+        "bodyEn": "2008.12.08<br>\n19:00 open / 19:30 start<br>\n¥free"
       },
       {
         "date": "2008.12.16",
@@ -3279,9 +3106,8 @@ module.exports = [
         "url": "/archives/2008/081216200000.html",
         "imgSrc": "/2008/ekmkem.jpg",
         "imgAlt": "EKMKEM",
-        "imgWidth": "168",
-        "bodyJp": "期日…2008年12月16日（火）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2008.12.16 (tue)<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥free"
+        "bodyJp": "期日…2008年12月16日（火）<br>\n時間…20:00 start<br>\n入場無料",
+        "bodyEn": "2008.12.16 (tue)<br>\n20:00 start<br>\n¥free"
       },
       {
         "date": "2008.12.14",
@@ -3291,9 +3117,8 @@ module.exports = [
         "url": "/archives/2008/081214190023.html",
         "imgSrc": "/2008/maher2008.jpg",
         "imgAlt": "Maher Shalal Hash Baz",
-        "imgWidth": "168",
-        "bodyJp": "期日…2008年12月14日（日）<br>\n\t\t\t\t\t\t時間…19:00 open / 22:00 close<br>\n\t\t\t\t\t\t料金…1,000円 + 1ドリンクオーダー",
-        "bodyEn": "2008.12.14<br>\n\t\t\t\t\t\t19:00 open / 22:00 close<br>\n\t\t\t\t\t\t1,000YEN + 1drink order"
+        "bodyJp": "期日…2008年12月14日（日）<br>\n時間…19:00 open /  22:00 close<br>\n料金…1,000円 + 1ドリンクオーダー",
+        "bodyEn": "2008.12.14<br>\n19:00 open / 22:00 close<br>\n1,000YEN + 1drink order"
       },
       {
         "date": "2008.12.13",
@@ -3303,20 +3128,9 @@ module.exports = [
         "url": "/archives/2008/081213190020.html",
         "imgSrc": "/2008/contre.jpg",
         "imgAlt": "CONTRE - ATTAQUE #6",
-        "imgWidth": "168",
         "bodyJp": "工藤冬里, 城戸英章, 豊嶋義之, 岡崎康洋, 江上計太",
         "bodyEn": "Tori Kudo, Hideaki Kido, Yoshiyuki Toyoshima, Yasuhiro Okazaki, Keita Egami"
-      }
-    ],
-    "permalink": "tetra/page/9/index.html"
-  },
-  {
-    "pageNumber": 9,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+      },
       {
         "date": "2008.12.05",
         "isPast": true,
@@ -3325,7 +3139,6 @@ module.exports = [
         "url": "/archives/2008/081205161418.html",
         "imgSrc": "/2008/UEDA0021.jpg",
         "imgAlt": "three blokes～三匹が吹く！(6)",
-        "imgWidth": "168",
         "bodyJp": "城戸 英章、松永 秀臣、吉田 主税",
         "bodyEn": "Hideaki Kido, Hideomi Matunaga, Chikara Yoshida"
       },
@@ -3337,9 +3150,8 @@ module.exports = [
         "url": "/archives/2008/081125130010.html",
         "imgSrc": "/2008/end_pre.jpg",
         "imgAlt": "EGAMI KEITA <br />NEW <br />DEPARTURE",
-        "imgWidth": "168",
-        "bodyJp": "会期…2008年11月25日（火）〜12月21日（日）<br>\n\t\t\t\t\t\t時間…13:00〜20:00<br>\n\t\t\t\t\t\t月曜休廊<br>\n\t\t\t\t\t\t企画…田中慶二（Calamari Inc. / art space tetra）",
-        "bodyEn": "2008.11.25 - 12.21<br>\n\t\t\t\t\t\t13:00-20:00<br>\n\t\t\t\t\t\tClosed on Mondays.<br>\n\t\t\t\t\t\tDirector...Keiji Tanaka (Calamari Inc. / art space tetra)<br>\n\t\t\t\t\t\t<span class=\"none\">Artist Talk ... 2008.12.06(sat) 19:00- ¥free<br>\n\t\t\t\t\t\t\t<a href=\"/archives/2008/081216200000.html\">EKMKEM</a>... 2008.12.16(tue) 20:00- ¥free<br>\n\t\t\t\t\t\t\tClosing Party ... 2008.12.20(sat) 18:00- ¥free</span>\n\t\t\t\t\t"
+        "bodyJp": "会期…2008年11月25日（火）〜12月21日（日）<br>\n時間…13:00〜20:00<br>\n月曜休廊<br>\n企画…田中慶二（Calamari Inc. / art space tetra）",
+        "bodyEn": "2008.11.25 - 12.21<br>\n13:00-20:00<br>\nClosed on Mondays.<br>\nDirector...Keiji Tanaka (Calamari Inc. / art space tetra)<br>\n<span class=\"none\">Artist Talk ... 2008.12.06(sat) 19:00- ¥free<br>\n<a href=\"/archives/2008/081216200000.html\">EKMKEM</a>... 2008.12.16(tue) 20:00- ¥free<br>\nClosing Party ... 2008.12.20(sat) 18:00- ¥free</span>"
       },
       {
         "date": "2008.11.18-",
@@ -3349,9 +3161,8 @@ module.exports = [
         "url": "/archives/2008/081118133345.html",
         "imgSrc": "/2008/creative_kai2008.jpg",
         "imgAlt": "CREATIVE [KAI] <br>「自由・FREE」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2008年11月18日（火）〜23日（日）<br>\n\t\t\t\t\t\t時間…13:00 - 20:00<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\tクロージングパーティー…11月23日（日）18:00〜［500円、軽食付き］",
-        "bodyEn": "2008.11.18 - 11.23<br>\n\t\t\t\t\t\t13:00 - 20:00"
+        "bodyJp": "会期…2008年11月18日（火）〜23日（日）<br>\n時間…13:00 - 20:00<br>\n入場無料<br>\nクロージングパーティー…11月23日（日）18:00〜［500円、軽食付き］",
+        "bodyEn": "2008.11.18 - 11.23<br>\n13:00 - 20:00"
       },
       {
         "date": "2008.11.15",
@@ -3361,7 +3172,6 @@ module.exports = [
         "url": "/archives/2008/081115190007.html",
         "imgSrc": "/data/2008/fuchigamitofunato.jpg",
         "imgAlt": "trop #2",
-        "imgWidth": "168",
         "bodyJp": "ふちがみとふなと",
         "bodyEn": "FuchigamitoFunato"
       },
@@ -3371,8 +3181,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.10",
         "titleEn": "“ToshimaCinema” vol. 10",
         "url": "/archives/2008/081017200049.html",
-        "bodyJp": "期日…2008年10月17日(金)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…ジャ・ジャンクー監督作品「青の稲妻」",
-        "bodyEn": "2008.10.17<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2008年10月17日(金)<br>\n時間…20:00〜<br>\n議題…ジャ・ジャンクー監督作品「青の稲妻」",
+        "bodyEn": "2008.10.17<br>\n20:00 start"
       },
       {
         "date": "2008.10.14",
@@ -3382,7 +3192,6 @@ module.exports = [
         "url": "/archives/2008/081014174346.html",
         "imgSrc": "/data/2008/sanbiki-chikara.jpg",
         "imgAlt": "three blokes～三匹が吹く！(5)",
-        "imgWidth": "168",
         "bodyJp": "城戸 英章、松永 秀臣、吉田 主税",
         "bodyEn": "Hideaki Kido, Hideomi Matznaga, Chikara Yoshida"
       },
@@ -3394,9 +3203,8 @@ module.exports = [
         "url": "/archives/2008/081007133125.html",
         "imgSrc": "/data/2008/utsunomiya2.jpg",
         "imgAlt": "ACCORDING TO WHAT 02 <br />宇都宮聡写真展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2008年10月7日（火）〜19日（日）<br>\n\t\t\t\t\t\t時間…13時〜20時<br>\n\t\t\t\t\t\t休館…10月14日（火）<br>\n\t\t\t\t\t\t主催…A2Wシリーズ実行委員会",
-        "bodyEn": "2008.10.07 - 10.19 *closed on 10.14<br>\n\t\t\t\t\t\t13:00 - 20:00"
+        "bodyJp": "会期…2008年10月7日（火）〜19日（日）<br>\n時間…13時〜20時<br>\n休館…10月14日（火）<br>\n主催…A2Wシリーズ実行委員会",
+        "bodyEn": "2008.10.07 - 10.19 *closed on 10.14<br>\n13:00 - 20:00"
       },
       {
         "date": "2008.09.23-",
@@ -3406,19 +3214,17 @@ module.exports = [
         "url": "/archives/2008/080923160000.html",
         "imgSrc": "/data/2008/setoguchia2.jpg",
         "imgAlt": "タイラカ vol.1 <br>- 瀬戸口朗子 個展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2008年9月23日（火）〜10月5日（日）<br>\n\t\t\t\t\t\t時間…平日 16:00~21:00 / 土日祝 13:00~21:00<br>\n\t\t\t\t\t\t休日…9月29日（月）<br>\n\t\t\t\t\t\t料金…入場無料",
-        "bodyEn": "2008.9.23 - 10.05 *closed on Monday<br>\n\t\t\t\t\t\t(week day) 16:00-21:00<br>\n\t\t\t\t\t\t(sat,sun,holiday) 13:00-21:00"
+        "bodyJp": "会期…2008年9月23日（火）〜10月5日（日）<br>\n時間…平日 16:00~21:00 / 土日祝 13:00~21:00<br>\n休日…9月29日（月）<br>\n料金…入場無料",
+        "bodyEn": "2008.9.23 - 10.05 *closed on Monday<br>\n(week day) 16:00-21:00<br>\n(sat,sun,holiday) 13:00-21:00"
       },
       {
         "date": "2008.09.11-",
         "isPast": true,
         "titleJp": "札幌から20代の女性作家2人がテトラにやってくる（よ）。",
-        "titleEn": "“2 young female artists from Hokkaido come to\n\t\t\t\t\t\t\ttetra.”",
+        "titleEn": "“2 young female artists from Hokkaido come to tetra.”",
         "url": "/archives/2008/080911110026.html",
         "imgSrc": "/data/2008/hokkaido2.jpg",
         "imgAlt": "札幌から20代の女性作家2人がテトラにやってくる（よ）。",
-        "imgWidth": "168",
         "bodyJp": "期間…2008年9月11日(木）〜21日（日）",
         "bodyEn": "Atsuko Kushibiki &amp; Sachiko Sawaguchi"
       },
@@ -3430,7 +3236,6 @@ module.exports = [
         "url": "/archives/2008/080904193000.html",
         "imgSrc": "/data/2008/3piki4.jpg",
         "imgAlt": "three blokes～三匹が吹く！(4)",
-        "imgWidth": "168",
         "bodyJp": "城戸 英章、松永 秀臣、吉田 主税",
         "bodyEn": "Hideaki Kido, Hideomi Matsnaga, Chikara Yoshida"
       },
@@ -3442,7 +3247,6 @@ module.exports = [
         "url": "/archives/2008/080829113947.html",
         "imgSrc": "/data/2008/popo08.jpg",
         "imgAlt": "第1場",
-        "imgWidth": "168",
         "bodyJp": "POPO",
         "bodyEn": "POPO"
       },
@@ -3454,9 +3258,8 @@ module.exports = [
         "url": "/archives/2008/080711220801.html",
         "imgSrc": "/data/2008/GavinOrange.jpg",
         "imgAlt": "Gavin Weber 個展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2008年7月11日（金）〜7月27日（日）<br>\n\t\t\t\t\t\t時間…13時〜20時<br>\n\t\t\t\t\t\t休館…月曜",
-        "bodyEn": "2008.07.11 - 07.27 *closed on Monday<br>\n\t\t\t\t\t\t13:00 - 20:00"
+        "bodyJp": "会期…2008年7月11日（金）〜7月27日（日）<br>\n時間…13時〜20時<br>\n休館…月曜",
+        "bodyEn": "2008.07.11 - 07.27 *closed on Monday<br>\n13:00 - 20:00"
       },
       {
         "date": "2008.07.06",
@@ -3466,7 +3269,6 @@ module.exports = [
         "url": "/archives/2008/080706221824.html",
         "imgSrc": "/data_en/2008/gaviniswelding.jpg",
         "imgAlt": "Gavin Weber 公開制作",
-        "imgWidth": "168",
         "bodyJp": "会期…2008年7月6日（日）〜7月10日（木）",
         "bodyEn": "2008.07.06 - 07.10"
       },
@@ -3478,8 +3280,7 @@ module.exports = [
         "url": "/archives/2008/080610200000.html",
         "imgSrc": "/data/2008/umeda_suzuki.jpg",
         "imgAlt": "梅田くんと鈴木さん",
-        "imgWidth": "168",
-        "bodyJp": "期日…2008年6月10日（火）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t料金…1,000円（+1drinkオーダー）",
+        "bodyJp": "期日…2008年6月10日（火）<br>\n時間…20:00 start<br>\n料金…1,000円（+1drinkオーダー）",
         "bodyEn": "Tetsuya Umeda, Atsushi Suzuki"
       },
       {
@@ -3490,7 +3291,6 @@ module.exports = [
         "url": "/archives/2008/080605193000.html",
         "imgSrc": "/data/2008/3biki3.jpg",
         "imgAlt": "three blokes ～ 三匹が吹く！（3）",
-        "imgWidth": "168",
         "bodyJp": "城戸 英章、松永 秀臣、吉田 主税",
         "bodyEn": "Hideaki Kido, Hideomi Maznaga, Chikara Yoshida"
       },
@@ -3500,8 +3300,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.9",
         "titleEn": "“ToshimaCinema” vol.9",
         "url": "/archives/2008/080528151221.html",
-        "bodyJp": "期日…2008年05月23日(金)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…エドワード・ヤン監督作品「クーリンチェ少年殺人事件」",
-        "bodyEn": "2008.05.23<br>\n\t\t\t\t\t\t18:00 start"
+        "bodyJp": "期日…2008年05月23日(金)<br>\n時間…20:00〜<br>\n議題…エドワード・ヤン監督作品「クーリンチェ少年殺人事件」",
+        "bodyEn": "2008.05.23<br>\n18:00 start"
       },
       {
         "date": "2008.05.06-",
@@ -3511,9 +3311,8 @@ module.exports = [
         "url": "/archives/2008/080506130000.html",
         "imgSrc": "/data/2008/toshima-koho2.jpg",
         "imgAlt": "ACCORDING TO WHAT 01<br/>戸島善寛写真展",
-        "imgWidth": "168",
-        "bodyJp": "会期…2008年5月6日（火）〜5月18日（日）<br>\n\t\t\t\t\t\t時間…13時〜20時<br>\n\t\t\t\t\t\t休館…月曜<br>\n\t\t\t\t\t\tクロージング・パーティー…5月17日（土）18:00〜　参加費500円（ドリンク・軽食）<br>\n\t\t\t\t\t\t主催…A2Wシリーズ実行委員会",
-        "bodyEn": "2008.05.06 - 05.18 *closed on Monday<br>\n\t\t\t\t\t\t13:00 - 20:00"
+        "bodyJp": "会期…2008年5月6日（火）〜5月18日（日）<br>\n時間…13時〜20時<br>\n休館…月曜<br>\nクロージング・パーティー…5月17日（土）18:00〜　参加費500円（ドリンク・軽食）<br>\n主催…A2Wシリーズ実行委員会",
+        "bodyEn": "2008.05.06 - 05.18 *closed on Monday<br>\n13:00 - 20:00"
       },
       {
         "date": "2008.04.04",
@@ -3523,7 +3322,6 @@ module.exports = [
         "url": "/archives/2008/080404193000.html",
         "imgSrc": "/data/2008/3piki.jpg",
         "imgAlt": "three blokes 〜 三匹が吹く！（2）",
-        "imgWidth": "168",
         "bodyJp": "城戸 英章、松永 秀臣、吉田 主税",
         "bodyEn": "Hideaki Kido, Hideomi Matsunaga, Chikara Yoshida"
       },
@@ -3535,21 +3333,19 @@ module.exports = [
         "url": "/archives/2008/080329190000.html",
         "imgSrc": "/data/2008/uchihashi5.jpg",
         "imgAlt": "内橋和久による内橋和久（5）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2008年3月29日（土） <br>\n\t\t\t\t\t\t時間…19:30 open / 20:00 start<br>\n\t\t\t\t\t\t料金…2,000円（1ドリンクつき）",
-        "bodyEn": "2008.03.29<br>\n\t\t\t\t\t\t19:30 open / 20:00 start<br>\n\t\t\t\t\t\t¥2,000(1drink inc.)"
+        "bodyJp": "期日…2008年3月29日（土） <br>\n時間…19:30 open / 20:00 start<br>\n料金…2,000円（1ドリンクつき）",
+        "bodyEn": "2008.03.29<br>\n19:30 open / 20:00 start<br>\n¥2,000(1drink inc.)"
       },
       {
         "date": "2008.02.26-",
         "isPast": true,
         "titleJp": "遠山裕崇 個展  テトラ・ラウンジ シリーズ （4）",
-        "titleEn": "“LOUNGE series”vol. 4 - Hirotaka Tohyama",
+        "titleEn": "“LOUNGE series”vol. 4  - Hirotaka Tohyama",
         "url": "/archives/2008/080226170000.html",
         "imgSrc": "/data/2008/lounge_4.jpg",
         "imgAlt": "遠山裕崇 個展 <br /> テトラ・ラウンジ シリーズ （4）",
-        "imgWidth": "168",
-        "bodyJp": "会期…02月26日（火）〜03月16日（日）<br>\n\t\t\t\t\t\t時間…平日 17:00〜21:00 / 土日祝 13:00〜20:00<br>\n\t\t\t\t\t\t休廊…月曜、3月1日（土）、3月8日（土）<br>\n\t\t\t\t\t\t※3月7日（土）は13:00〜18:00<br>\n\t\t\t\t\t\t※3月9日（日）は15:00〜20:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2008.02.26 - 03.16<br>\n\t\t\t\t\t\t(tue-fri) 17:00 - 21:00<br>\n\t\t\t\t\t\t(sat,sun) 13:00 - 20:00<br>\n\t\t\t\t\t\t*on 03.07 13:00 - 18:00<br>\n\t\t\t\t\t\t*on 03.09 15:00 - 20:00"
+        "bodyJp": "会期…02月26日（火）〜03月16日（日）<br>\n時間…平日 17:00〜21:00 / 土日祝 13:00〜20:00<br>\n休廊…月曜、3月1日（土）、3月8日（土）<br>\n※3月7日（土）は13:00〜18:00<br>\n※3月9日（日）は15:00〜20:00<br>\n入場無料",
+        "bodyEn": "2008.02.26 - 03.16<br>\n (tue-fri) 17:00 - 21:00<br>\n (sat,sun) 13:00 - 20:00<br>\n*on 03.07 13:00 - 18:00<br>\n*on 03.09 15:00 - 20:00"
       },
       {
         "date": "2008.02.22",
@@ -3557,8 +3353,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.8",
         "titleEn": "“ToshimaCinema” vol.8",
         "url": "/archives/2008/080222200011.html",
-        "bodyJp": "期日…2008年2月22(金）<br>\n\t\t\t\t\t\t時間…20:00 start<br>\n\t\t\t\t\t\t議題…ホウ・シャオシェン監督作品「童年往事 時の流れ」",
-        "bodyEn": "2008.02.22<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2008年2月22(金）<br>\n時間…20:00 start<br>\n議題…ホウ・シャオシェン監督作品「童年往事 時の流れ」",
+        "bodyEn": "2008.02.22<br>\n20:00 start"
       },
       {
         "date": "2008.02.01",
@@ -3568,7 +3364,6 @@ module.exports = [
         "url": "/archives/2008/080201190000.html",
         "imgSrc": "/data/2008/3piki.gif",
         "imgAlt": "three blokes 〜 三匹が吹く！(1)",
-        "imgWidth": "168",
         "bodyJp": "城戸 英章、上田 秀臣、吉田 主税",
         "bodyEn": "Hideaki Kido, Hideomi Ueda, Chikara Yoshida"
       },
@@ -3578,9 +3373,19 @@ module.exports = [
         "titleJp": "トシマシネマ vol.7",
         "titleEn": "“ToshimaCinema” vol.7",
         "url": "/archives/2007/071222152019.html",
-        "bodyJp": "期日…2007年12月22日(土)<br>\n\t\t\t\t\t\t時間…19:00〜<br>\n\t\t\t\t\t\t議題…エドワード・ヤン監督作品「ヤンヤン　夏の想い出」",
-        "bodyEn": "2007.12.22<br>\n\t\t\t\t\t\t19:00 start"
-      },
+        "bodyJp": "期日…2007年12月22日(土)<br>\n時間…19:00〜<br>\n議題…エドワード・ヤン監督作品「ヤンヤン　夏の想い出」",
+        "bodyEn": "2007.12.22<br>\n19:00 start"
+      }
+    ],
+    "permalink": "tetra/page/10/index.html"
+  },
+  {
+    "pageNumber": 10,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2007.12.06",
         "isPast": true,
@@ -3589,9 +3394,8 @@ module.exports = [
         "url": "/archives/2007/071206150000.html",
         "imgSrc": "/data/2007/egami07_1.jpg",
         "imgAlt": "江上計太の制作現場<br />テトラ・ラウンジ シリーズ （3）",
-        "imgWidth": "168",
-        "bodyJp": "公開制作…11月27日（火）〜12月5日（水）※時間不定<br>\n\t\t\t\t\t\t完成披露…12月6日（木）14:00〜<br>\n\t\t\t\t\t\t入場無料（差し入れ歓迎）",
-        "bodyEn": "2007.11.27 - 12.05<br>\n\t\t\t\t\t\t(maybe)13:00 - (maybe)18:00"
+        "bodyJp": "公開制作…11月27日（火）〜12月5日（水）※時間不定<br>\n完成披露…12月6日（木）14:00〜<br>\n入場無料（差し入れ歓迎）",
+        "bodyEn": "2007.11.27 - 12.05<br>\n(maybe)13:00 - (maybe)18:00"
       },
       {
         "date": "2007.11.30",
@@ -3599,8 +3403,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.6",
         "titleEn": "“ToshimaCinema” vol.6",
         "url": "/archives/2007/071130152351.html",
-        "bodyJp": "期日…2007年11月30日(金)<br>\n\t\t\t\t\t\t時間…19:00〜<br>\n\t\t\t\t\t\t議題…ホウ・シャオシェン監督作品「悲情城市」",
-        "bodyEn": "2007.11.30<br>\n\t\t\t\t\t\t19:00 start"
+        "bodyJp": "期日…2007年11月30日(金)<br>\n時間…19:00〜<br>\n議題…ホウ・シャオシェン監督作品「悲情城市」",
+        "bodyEn": "2007.11.30<br>\n19:00 start"
       },
       {
         "date": "2007.10.12",
@@ -3608,8 +3412,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.5",
         "titleEn": "“ToshimaCinema” vol.5",
         "url": "/archives/2007/071012152852.html",
-        "bodyJp": "期日…2007年10月12日(金)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…ホウ・シャオシェン監督作品「ミレニアム・マンボ」",
-        "bodyEn": "2007.10.12<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2007年10月12日(金)<br>\n時間…20:00〜<br>\n議題…ホウ・シャオシェン監督作品「ミレニアム・マンボ」",
+        "bodyEn": "2007.10.12<br>\n20:00 start"
       },
       {
         "date": "2007.09.25",
@@ -3619,7 +3423,6 @@ module.exports = [
         "url": "/archives/2007/070925200000.html",
         "imgSrc": "/data/2007/Osakat.jpg",
         "imgAlt": "trop ＃1",
-        "imgWidth": "168",
         "bodyJp": "梅田哲也、さや（tenniscoats）、植野隆司（tenniscoats） ＋ 梢夏子",
         "bodyEn": "Tetsuya Umeda, Saya, Takashi Ueno + Natsuko Kozue"
       },
@@ -3631,9 +3434,8 @@ module.exports = [
         "url": "/archives/2007/070828130000.html",
         "imgSrc": "/data/2007/metalic.jpg",
         "imgAlt": "Metallic Syndrome <br>by Work Camp Project",
-        "imgWidth": "168",
-        "bodyJp": "会期…8月28日（火）〜9月6日（木）<br>\n\t\t\t\t\t\t時間…平日 18:00〜22:00 / 土日 13:00〜20:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2007.08.28 - 09.06<br>\n\t\t\t\t\t\t(mon-fri) 18:00 - 22:00 <br>\n\t\t\t\t\t\t(sat-sun) 13:00 - 20:00 "
+        "bodyJp": "会期…8月28日（火）〜9月6日（木）<br>\n時間…平日 18:00〜22:00 / 土日 13:00〜20:00<br>\n入場無料",
+        "bodyEn": "2007.08.28 - 09.06<br>\n(mon-fri) 18:00 - 22:00 <br>\n(sat-sun) 13:00 - 20:00 "
       },
       {
         "date": "2007.07.28",
@@ -3643,8 +3445,7 @@ module.exports = [
         "url": "/archives/2007/070728193000.html",
         "imgSrc": "/data/2007/metal.jpg",
         "imgAlt": "寝苦しい夏の夜に寝室で奏でられる音楽",
-        "imgWidth": "168",
-        "bodyJp": "メタル（a.k.a.九州霊能者協会（念写隊））、木村貴輝（a.k.a. the monkies）、岩永ハナエ （a.k.a.空室、ゴミュニケーション）、宋秀臣（a.k.a. Sun Eight）\n\t\t\t\t\t",
+        "bodyJp": "メタル（a.k.a.九州霊能者協会（念写隊））、木村貴輝（a.k.a. the monkies）、岩永ハナエ （a.k.a.空室、ゴミュニケーション）、宋秀臣（a.k.a. Sun Eight）",
         "bodyEn": "Metal, Takateru Kimura, Hanae Iwanaga + Hideomi So(image projection)"
       },
       {
@@ -3653,19 +3454,9 @@ module.exports = [
         "titleJp": "アメリカまで／アメリカから",
         "titleEn": "“to America / from America”",
         "url": "/archives/2007/070717190000.html",
-        "bodyJp": "期日…2007年7月17日（火）　<br>\n\t\t\t\t\t\t時間…19:00〜 　<br>\n\t\t\t\t\t\t入場無料",
+        "bodyJp": "期日…2007年7月17日（火）　<br>\n時間…19:00〜 　<br>\n入場無料",
         "bodyEn": "Mizuki Endo"
-      }
-    ],
-    "permalink": "tetra/page/10/index.html"
-  },
-  {
-    "pageNumber": 10,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": false,
-    "entries": [
+      },
       {
         "date": "2007.07.15",
         "isPast": true,
@@ -3673,7 +3464,7 @@ module.exports = [
         "titleEn": "“LOUNGE series” vol. 2 - Shinro Ohtake",
         "url": "/archives/2007/070715190000.html",
         "bodyJp": "7月1５日（ <font color=\"#red\">日</font>） 1９：00　から",
-        "bodyEn": "2007.07.15<br>\n\t\t\t\t\t\t19:00 start<br>\n\t\t\t\t\t\t¥1,500"
+        "bodyEn": "2007.07.15<br>\n19:00 start<br>\n¥1,500"
       },
       {
         "date": "2007.07.13",
@@ -3681,8 +3472,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.4",
         "titleEn": "“ToshimaCinema” vol.4",
         "url": "/archives/2007/070713153149.html",
-        "bodyJp": "期日…2007年7月13日(金)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…エドワード・ヤン監督作品「カップルズ」",
-        "bodyEn": "2007.07.13<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2007年7月13日(金)<br>\n時間…20:00〜<br>\n議題…エドワード・ヤン監督作品「カップルズ」",
+        "bodyEn": "2007.07.13<br>\n20:00 start"
       },
       {
         "date": "2007.05.25",
@@ -3690,8 +3481,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.3",
         "titleEn": "“ToshimaCinema” vol.3",
         "url": "/archives/2007/070525153514.html",
-        "bodyJp": "期日…2007年5月25日(金)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…エドワード・ヤン監督作品「恐怖分子」",
-        "bodyEn": "2007.05.25<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2007年5月25日(金)<br>\n時間…20:00〜<br>\n議題…エドワード・ヤン監督作品「恐怖分子」",
+        "bodyEn": "2007.05.25<br>\n20:00 start"
       },
       {
         "date": "2007.05.12-",
@@ -3701,9 +3492,8 @@ module.exports = [
         "url": "/archives/2007/070512001339.html",
         "imgSrc": "/data/2007/hino07.gif",
         "imgAlt": "日野 陽太朗 個展 <br>テトラ・ラウンジ シリーズ （1）",
-        "imgWidth": "168",
-        "bodyJp": "会期…05月12日（土）〜06月03日（日）<br>\n\t\t\t\t\t\t時間…17:00〜21:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2007.05.12 - 06.03 *closed on Mondays<br>\n\t\t\t\t\t\t17:00 - 21:00 <br>\n\t\t\t\t\t"
+        "bodyJp": "会期…05月12日（土）〜06月03日（日）<br>\n時間…17:00〜21:00<br>\n入場無料",
+        "bodyEn": "2007.05.12 - 06.03 *closed on Mondays<br>\n17:00 - 21:00 <br>\n"
       },
       {
         "date": "2007.04.26",
@@ -3711,8 +3501,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.2",
         "titleEn": "“ToshimaCinema” vol.2",
         "url": "/archives/2007/070426153835.html",
-        "bodyJp": "期日…2007年4月26日(木)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…ホウ・シャオシェン監督作品「憂鬱な楽園」",
-        "bodyEn": "2007.04.26<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2007年4月26日(木)<br>\n時間…20:00〜<br>\n議題…ホウ・シャオシェン監督作品「憂鬱な楽園」",
+        "bodyEn": "2007.04.26<br>\n20:00 start"
       },
       {
         "date": "2007.03.16",
@@ -3720,8 +3510,8 @@ module.exports = [
         "titleJp": "トシマシネマ vol.1",
         "titleEn": "“ToshimaCinema” vol.1",
         "url": "/archives/2007/070316154210.html",
-        "bodyJp": "期日…2007年3月16日(金)<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t議題…ホウ・シャオシェン監督作品「恋恋風塵」",
-        "bodyEn": "2007.03.16<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2007年3月16日(金)<br>\n時間…20:00〜<br>\n議題…ホウ・シャオシェン監督作品「恋恋風塵」",
+        "bodyEn": "2007.03.16<br>\n20:00 start"
       },
       {
         "date": "2007.02.25",
@@ -3731,9 +3521,8 @@ module.exports = [
         "url": "/archives/2007/070225190000.html",
         "imgSrc": "/data/2007/uchi33.jpg",
         "imgAlt": "内橋和久による内橋和久（4）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2007年02月25日（日）<br>\n\t\t\t\t\t\t開場…19:30 / 開演…20:00<br>\n\t\t\t\t\t\t料金…1,500円（1ドリンク付）",
-        "bodyEn": "2007.02.25<br>\n\t\t\t\t\t\t19:30 open / 20:00 start<br>\n\t\t\t\t\t\t¥1,500 (1 drink inc. )"
+        "bodyJp": "期日…2007年02月25日（日）<br>\n開場…19:30 / 開演…20:00<br>\n料金…1,500円（1ドリンク付）",
+        "bodyEn": "2007.02.25<br>\n19:30 open / 20:00 start<br>\n¥1,500 (1 drink inc. )"
       },
       {
         "date": "2007.01.14",
@@ -3743,9 +3532,8 @@ module.exports = [
         "url": "/archives/2007/070114190000.html",
         "imgSrc": "/data/2007/uchi2.jpg",
         "imgAlt": "内橋和久による内橋和久（3）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2007年01月14日（日）<br>\n\t\t\t\t\t\t開場…19:30 / 開演…20:00<br>\n\t\t\t\t\t\t料金…1,500円（1ドリンク付）",
-        "bodyEn": "2007.01.14<br>\n\t\t\t\t\t\t19:30 open / 20:00 start<br>\n\t\t\t\t\t\t¥1,500 (1 drink inc.)"
+        "bodyJp": "期日…2007年01月14日（日）<br>\n開場…19:30 / 開演…20:00<br>\n料金…1,500円（1ドリンク付）",
+        "bodyEn": "2007.01.14<br>\n19:30 open / 20:00 start<br>\n¥1,500 (1 drink inc.)"
       },
       {
         "date": "2006.12.17-",
@@ -3755,9 +3543,8 @@ module.exports = [
         "url": "/archives/2006/061217130000.html",
         "imgSrc": "/data/2006/umeda.jpg",
         "imgAlt": "梅田 哲也 個展 「静かぬ」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2006年12月17日（日）〜2007年01月14日（日）<br>\n\t\t\t\t\t\t時間…13:00〜20:00<br>\n\t\t\t\t\t\t休廊…月曜　※1月8日（月、祝）は営業、翌9日（火）は休廊<br>\n\t\t\t\t\t\t※12月31日〜1月3日は休廊<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2006.12.17 - 2007.01.14<br>\n\t\t\t\t\t\t13:00 - 20:00"
+        "bodyJp": "会期…2006年12月17日（日）〜2007年01月14日（日）<br>\n時間…13:00〜20:00<br>\n休廊…月曜　※1月8日（月、祝）は営業、翌9日（火）は休廊<br>\n※12月31日〜1月3日は休廊<br>\n入場無料",
+        "bodyEn": "2006.12.17 - 2007.01.14<br>\n13:00 - 20:00"
       },
       {
         "date": "2006.12.03",
@@ -3767,9 +3554,8 @@ module.exports = [
         "url": "/archives/2006/061203190000.html",
         "imgSrc": "/data/2006/uchi3.jpg",
         "imgAlt": "内橋和久による内橋和久（2）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年12月03日（日）<br>\n\t\t\t\t\t\t開場…19:30 / 開演…20:00<br>\n\t\t\t\t\t\t料金…¥1,500（１ドリンク付き）",
-        "bodyEn": "2006.12.03<br>\n\t\t\t\t\t\t19:30 open / 20:00 start<br>\n\t\t\t\t\t\t¥1,500 (1 drink inc.)"
+        "bodyJp": "期日…2006年12月03日（日）<br>\n開場…19:30 / 開演…20:00<br>\n料金…¥1,500（１ドリンク付き）",
+        "bodyEn": "2006.12.03<br>\n19:30 open / 20:00 start<br>\n¥1,500 (1 drink inc.)"
       },
       {
         "date": "2006.11.24",
@@ -3779,9 +3565,8 @@ module.exports = [
         "url": "/archives/2006/061124190000.html",
         "imgSrc": "/data/2006/uchihashi2.jpg",
         "imgAlt": "Reknub #3 <br>（ゲスト：内橋和久）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年11月24日（金）<br>\n\t\t\t\t\t\t開始…20:00<br>\n\t\t\t\t\t\t料金…1,000円（１ドリンク付き）",
-        "bodyEn": "2006.11.24<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t\t¥1,000 (1 drink inc.)"
+        "bodyJp": "期日…2006年11月24日（金）<br>\n開始…20:00<br>\n料金…1,000円（１ドリンク付き）",
+        "bodyEn": "2006.11.24<br>\n20:00 start<br>\n¥1,000 (1 drink inc.)"
       },
       {
         "date": "2006.11.23",
@@ -3791,9 +3576,8 @@ module.exports = [
         "url": "/archives/2006/061123170000.html",
         "imgSrc": "/data/2006/cat3.jpg",
         "imgAlt": "HYMN - A Performance by Brian Catling",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年11月23日（木・祝）<br>\n\t\t\t\t\t\t開演…17:00 <br>\n\t\t\t\t\t\t入場料…1,500円（1ドリンク付き）",
-        "bodyEn": "2006.11.23<br>\n\t\t\t\t\t\t17:00 start<br>\n\t\t\t\t\t\t¥1,500 (1drink inc.)"
+        "bodyJp": "期日…2006年11月23日（木・祝）<br>\n開演…17:00 <br>\n入場料…1,500円（1ドリンク付き）",
+        "bodyEn": "2006.11.23<br>\n17:00 start<br>\n¥1,500 (1drink inc.)"
       },
       {
         "date": "2006.11.08",
@@ -3803,21 +3587,19 @@ module.exports = [
         "url": "/archives/2006/061108200000.html",
         "imgSrc": "/data/2006/jasonplusmuseumtuin.jpg",
         "imgAlt": "A talk by Patricia Pulles",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年11月8日（水）<br>\n\t\t\t\t\t\t時間…20:00〜<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2006.11.08<br>\n\t\t\t\t\t\t20:00 start<br>\n\t\t\t\t\t"
+        "bodyJp": "期日…2006年11月8日（水）<br>\n時間…20:00〜<br>\n入場無料",
+        "bodyEn": "2006.11.08<br>\n20:00 start<br>\n"
       },
       {
         "date": "2006.11.02",
         "isPast": true,
         "titleJp": "安部 貴住によるアメリカ滞在制作報告会",
-        "titleEn": "A talk about “Force of Nature” by Takasumi\n\t\t\t\t\t\t\tAbe",
+        "titleEn": "A talk about “Force of Nature” by Takasumi Abe",
         "url": "/archives/2006/061102190000.html",
         "imgSrc": "/data/2006/abe_usa.jpg",
         "imgAlt": "安部 貴住によるアメリカ滞在制作報告会",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年11月2日（木）<br>\n\t\t\t\t\t\t時間…19:00<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2006.11.02<br>\n\t\t\t\t\t\t19: 00 start<br>\n\t\t\t\t\t\t¥free"
+        "bodyJp": "期日…2006年11月2日（木）<br>\n時間…19:00<br>\n入場無料",
+        "bodyEn": "2006.11.02<br>\n19: 00 start<br>\n¥free"
       },
       {
         "date": "2006.10.05",
@@ -3827,21 +3609,19 @@ module.exports = [
         "url": "/archives/2006/061005200000.html",
         "imgSrc": "/data/2006/Gereon.jpg",
         "imgAlt": "Artist Talk by Gereon Lepper",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年10月05日（木）<br>\n\t\t\t\t\t\t時間…20:00〜 <br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2006.10.05<br>\n\t\t\t\t\t\t20:00 start"
+        "bodyJp": "期日…2006年10月05日（木）<br>\n時間…20:00〜 <br>\n入場無料",
+        "bodyEn": "2006.10.05<br>\n20:00 start"
       },
       {
         "date": "2006.09.28-",
         "isPast": true,
         "titleJp": "鈴木 淳 個展 「だけなんなん 001-200」と「五つの企画展」",
-        "titleEn": "Atsushi Suzuki“So What? 001-200 & other 5\n\t\t\t\t\t\t\tworks”",
+        "titleEn": "Atsushi Suzuki“So What? 001-200 & other 5 works”",
         "url": "/archives/2006/060928130000.html",
         "imgSrc": "/data/2006/dog.jpg",
         "imgAlt": "鈴木 淳 個展 <br />「だけなんなん 001-200」と<br>「五つの企画展」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2006年9月28日（木）〜10月15日（日）<br>\n\t\t\t\t\t\t時間…13:00〜20:00 <br>\n\t\t\t\t\t\t休廊…月曜　※10月9日（月）は祝日の為開廊。翌10日（火）を休廊とします。<br>\n\t\t\t\t\t\t入場無料<br>\n\t\t\t\t\t\tオープニングパーティー…9月30日（土） 19:00〜（参加費 1,000円）",
-        "bodyEn": "2006.09.28 - 10.15 *closed on Mondays<br>\n\t\t\t\t\t\t13:00 - 20:00"
+        "bodyJp": "会期…2006年9月28日（木）〜10月15日（日）<br>\n時間…13:00〜20:00 <br>\n休廊…月曜　※10月9日（月）は祝日の為開廊。翌10日（火）を休廊とします。<br>\n入場無料<br>\nオープニングパーティー…9月30日（土） 19:00〜（参加費 1,000円）",
+        "bodyEn": "2006.09.28 - 10.15  *closed on Mondays<br>\n13:00 - 20:00"
       },
       {
         "date": "2006.09.23",
@@ -3851,9 +3631,8 @@ module.exports = [
         "url": "/archives/2006/060923220306.html",
         "imgSrc": "/data/2006/kazu.jpg",
         "imgAlt": "内橋和久による内橋和久",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年09月23日（土） <br>\n\t\t\t\t\t\t開場…20:00 / 開演…20:30<br>\n\t\t\t\t\t\t料金…1,000円 + 1ドリンクオーダー",
-        "bodyEn": "2006.09.23<br>\n\t\t\t\t\t\t20:00 open / 20:30 start <br>\n\t\t\t\t\t\t¥1,000 +1drink order"
+        "bodyJp": "期日…2006年09月23日（土）  <br>\n開場…20:00 / 開演…20:30<br>\n料金…1,000円 + 1ドリンクオーダー",
+        "bodyEn": "2006.09.23<br>\n20:00 open / 20:30 start <br>\n¥1,000 +1drink order"
       },
       {
         "date": "2006.08.09-",
@@ -3863,9 +3642,8 @@ module.exports = [
         "url": "/archives/2006/060809130000.html",
         "imgSrc": "/data/2006/kailam.jpg",
         "imgAlt": "Kai Lam 個展 「Hybrid Fighter」",
-        "imgWidth": "168",
-        "bodyJp": "会期…2006年8月9日〜8月20日 <br>\n\t\t\t\t\t\t時間…13:00〜20:00<br>\n\t\t\t\t\t\t休廊…月曜休み<br>\n\t\t\t\t\t\t入場無料",
-        "bodyEn": "2006.08.09 - 08.20 *closed on Monday<br>\n\t\t\t\t\t\t13:00〜20:00 "
+        "bodyJp": "会期…2006年8月9日〜8月20日 <br>\n時間…13:00〜20:00<br>\n休廊…月曜休み<br>\n入場無料",
+        "bodyEn": "2006.08.09 - 08.20 *closed on Monday<br>\n13:00〜20:00 "
       },
       {
         "date": "2006.07.12",
@@ -3875,9 +3653,8 @@ module.exports = [
         "url": "/archives/2006/060712090105.html",
         "imgSrc": "/data/2006/chihei.jpg",
         "imgAlt": "moan ward 07",
-        "imgWidth": "168",
         "bodyJp": "畠山地平, 斜陽, 竹野恭章, heirakuG, Voice From the Fictionary: David Moscovich",
-        "bodyEn": "Chihei Hatakeyama, Shayou, Yasuaki Takeno, heirakuG, Voice From the Fictionary: David Moscovich\n\t\t\t\t\t"
+        "bodyEn": "Chihei Hatakeyama, Shayou, Yasuaki Takeno, heirakuG, Voice From the Fictionary: David Moscovich"
       },
       {
         "date": "2006.04.29",
@@ -3887,7 +3664,6 @@ module.exports = [
         "url": "/archives/2006/060429195617.html",
         "imgSrc": "/data/2006/luc-b.jpg",
         "imgAlt": "リュックフェラーリ映画祭",
-        "imgWidth": "168",
         "bodyJp": "期日…2006年4月29日（土）、30日（日）",
         "bodyEn": "2006.04.29, 30"
       },
@@ -3899,7 +3675,6 @@ module.exports = [
         "url": "/archives/2006/060211163426.html",
         "imgSrc": "/data/2006/Ielasisi.jpg",
         "imgAlt": "rhythm commission 6",
-        "imgWidth": "168",
         "bodyJp": "Giuseppe Ielasi, Thomas Ankersmit",
         "bodyEn": "Giuseppe Ielasi, Thomas Ankersmit"
       },
@@ -3911,7 +3686,6 @@ module.exports = [
         "url": "/archives/2006/060129000000.html",
         "imgSrc": "/data/2006/babu3.jpg",
         "imgAlt": "Babu 個展 (one against 4)",
-        "imgWidth": "168",
         "bodyJp": "会期…2006年1月29日(日）〜2006年2月5日(日)",
         "bodyEn": "2006.01.29 - 02.05"
       },
@@ -3923,10 +3697,19 @@ module.exports = [
         "url": "/archives/2006/060128000000.html",
         "imgSrc": "/data/2006/oa4_01.jpg",
         "imgAlt": "one against 4 <br>- BABU / ソウル兄弟",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年1月28日(土）<br>\n\t\t\t\t\t\t主催…detrra",
+        "bodyJp": "期日…2006年1月28日(土）<br>\n主催…detrra",
         "bodyEn": "BABU / Soul Kyodai"
-      },
+      }
+    ],
+    "permalink": "tetra/page/11/index.html"
+  },
+  {
+    "pageNumber": 11,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": false,
+    "entries": [
       {
         "date": "2006.01.21",
         "isPast": true,
@@ -3935,8 +3718,7 @@ module.exports = [
         "url": "/archives/2006/060121000000.html",
         "imgSrc": "/data/2006/sakaguchi.jpg",
         "imgAlt": "Reknub #2<br>(ゲスト：坂口壱彦）",
-        "imgWidth": "168",
-        "bodyJp": "期日…2006年1月21日（土）<br>\n\t\t\t\t\t\t時間…20:00〜",
+        "bodyJp": "期日…2006年1月21日（土）<br>\n時間…20:00〜",
         "bodyEn": "2006.01.21"
       },
       {
@@ -3947,7 +3729,6 @@ module.exports = [
         "url": "/archives/2006/060114000000.html",
         "imgSrc": "/data/2006/e2.jpg",
         "imgAlt": "Unseen Scenes",
-        "imgWidth": "168",
         "bodyJp": "エレーニア・ディペドロ（イタリア）、 カロリーナ・シルヴァ（スペイン）、長坂有希（日本）",
         "bodyEn": "Elenia Depedro, Carolina Silva, Aki Nagasaka"
       },
@@ -3959,7 +3740,6 @@ module.exports = [
         "url": "/archives/2005/051210131349.html",
         "imgSrc": "/data/2005/mw6_01.jpg",
         "imgAlt": "moan ward 06",
-        "imgWidth": "168",
         "bodyJp": "中村としまる, Shayne Bowden, 坂口壱彦, 電子卓上音楽団, kmmo",
         "bodyEn": "Nakamura Toshimaru, Shayne Bowden, Sakaguchi Kazuhiko, Denshi Takujyou Ongakudan, kmmo"
       },
@@ -3975,12 +3755,11 @@ module.exports = [
       {
         "date": "2005.11.15-",
         "isPast": true,
-        "titleJp": "llusoryReason 「a melodic gravitation between\n\t\t\t\t\t\t\tLight and Darkness」",
-        "titleEn": "llusoryReason “a melodic gravitation between\n\t\t\t\t\t\t\tLight and Darkness”",
+        "titleJp": "llusoryReason 「a melodic gravitation between Light and Darkness」",
+        "titleEn": "llusoryReason “a melodic gravitation between Light and Darkness”",
         "url": "/archives/2005/051115132557.html",
         "imgSrc": "/data/2005/sion_01.jpg",
         "imgAlt": "llusoryReason <br>「a melodic gravitation between Light and Darkness」",
-        "imgWidth": "168",
         "bodyJp": "2005.11.15(tue)-11.27(sun)",
         "bodyEn": "2005.11.15 -11.27"
       },
@@ -4001,20 +3780,9 @@ module.exports = [
         "url": "/archives/2005/051008213137.html",
         "imgSrc": "/data/2005/nomi.jpg",
         "imgAlt": "project for actual art 004 <br>乃美 希久子 個展",
-        "imgWidth": "168",
         "bodyJp": "2005.10.8(sat)-10.30(sun)",
         "bodyEn": "2005.10.8 - 10.30"
-      }
-    ],
-    "permalink": "tetra/page/11/index.html"
-  },
-  {
-    "pageNumber": 11,
-    "totalPages": 12,
-    "entryCount": 359,
-    "isFirstPage": false,
-    "isLastPage": true,
-    "entries": [
+      },
       {
         "date": "2005.09.13-",
         "isPast": true,
@@ -4023,7 +3791,6 @@ module.exports = [
         "url": "/archives/2005/050913213848.html",
         "imgSrc": "/data/2005/abe.jpg",
         "imgAlt": "安部 貴住 個展 <br>「CIRCULATE 」",
-        "imgWidth": "168",
         "bodyJp": "2005.09.13(tue)-10.02(sun)",
         "bodyEn": "2005.09.13 - 10.02"
       },
@@ -4035,9 +3802,8 @@ module.exports = [
         "url": "/archives/2005/050827100520.html",
         "imgSrc": "/data/2005/mw5_1.jpg",
         "imgAlt": "moan ward 05",
-        "imgWidth": "168",
         "bodyJp": "hercell, 諸岡光男+野田泰裕(sAm0), 電子卓上音楽団, river, 坂口壱彦, Monster Movie",
-        "bodyEn": "hercell, Morooka Mitsuo + Noda Yasuhiro(sAm0), Denshi Takujyou Ongakudan, river, Sakaguchi\n\t\t\t\t\t\tKazuhiko, Monster Movie"
+        "bodyEn": "hercell, Morooka Mitsuo + Noda Yasuhiro(sAm0), Denshi Takujyou Ongakudan, river, Sakaguchi Kazuhiko, Monster Movie"
       },
       {
         "date": "2005.07.01",
@@ -4052,11 +3818,10 @@ module.exports = [
         "date": "2005.06.26-",
         "isPast": true,
         "titleJp": "日野 陽太朗 個展（one against 3）",
-        "titleEn": "“one against” 3 - Youtarou Hino solo\n\t\t\t\t\t\t\texhibition",
+        "titleEn": "“one against” 3 - Youtarou Hino solo exhibition",
         "url": "/archives/2005/050626165251.html",
         "imgSrc": "/data/2005/oa3_02.jpg",
         "imgAlt": "日野 陽太朗 個展<br>（one against 3）",
-        "imgWidth": "168",
         "bodyJp": "2005.06.26(sun)-07.03(sun)",
         "bodyEn": "2005.06.26 - 07.03"
       },
@@ -4068,7 +3833,6 @@ module.exports = [
         "url": "/archives/2005/050625170235.html",
         "imgSrc": "/data/2005/oa3live_1.jpg",
         "imgAlt": "one against 3 <br >- 日野陽太朗 / shayne bowden",
-        "imgWidth": "168",
         "bodyJp": "2005.06.25(sat)",
         "bodyEn": "Youtarou Hino / Shayne Bowden"
       },
@@ -4080,7 +3844,6 @@ module.exports = [
         "url": "/archives/2005/050618170733.html",
         "imgSrc": "/data/2005/elevation.jpg",
         "imgAlt": "elevation",
-        "imgWidth": "168",
         "bodyJp": "Leaky Fields, 史音個性, Hashimoto Eri, Fujii Eri, Yasuda Kazu",
         "bodyEn": "Leaky Fields, shine-kosei, Hashimoto Eri, Fujii Eri, Yasuda Kazu"
       },
@@ -4092,7 +3855,6 @@ module.exports = [
         "url": "/archives/2005/050611170933.html",
         "imgSrc": "/data/2005/mw4_06.jpg",
         "imgAlt": "moan ward 04",
-        "imgWidth": "168",
         "bodyJp": "DJ Speedfarmer, 城戸英章, Cookie &amp; Tea, Erin Gee, lux diffusion",
         "bodyEn": "DJ Speedfarmer, Hodeaki Kido, Cookie &amp; Tea, Erin Gee, lux diffusion"
       },
@@ -4109,11 +3871,10 @@ module.exports = [
         "date": "2005.05.14-",
         "isPast": true,
         "titleJp": "project for actual art 003 - 遠山 裕崇 個展",
-        "titleEn": "“project for actual art” 003 - Hirotaka\n\t\t\t\t\t\t\tTohyama",
+        "titleEn": "“project for actual art” 003 - Hirotaka Tohyama",
         "url": "/archives/2005/050514224915.html",
         "imgSrc": "/data/2005/tohyama_03.jpg",
         "imgAlt": "project for actual art 003 <br>- 遠山 裕崇 個展",
-        "imgWidth": "168",
         "bodyJp": "2005.05.14(sat)-05.29(sun)",
         "bodyEn": "2005.05.14 - 05.29"
       },
@@ -4125,7 +3886,6 @@ module.exports = [
         "url": "/archives/2005/050429230405.html",
         "imgSrc": "/data/2005/reknub1.jpg",
         "imgAlt": "Reknub #1",
-        "imgWidth": "168",
         "bodyJp": " - ラドゥ・マルファッティ＆杉本拓とその周辺",
         "bodyEn": " - Radu Malfattti &amp; Taku Sugimoto &amp; around them"
       },
@@ -4137,7 +3897,6 @@ module.exports = [
         "url": "/archives/2005/050408122110.html",
         "imgSrc": "/data/2005/mw3_2.jpg",
         "imgAlt": "moan ward 03",
-        "imgWidth": "168",
         "bodyJp": "Jazzkammer (Norway), Mr.natural (USA), ayakomori+shayne bowden, 坂口壱彦, 電子卓上音楽団",
         "bodyEn": "Jazzkammer, Mr.natural, ayakomori+shayne bowden, Sakaguchi Kazuhiko, Denshi TakujyouOngakudan"
       },
@@ -4149,19 +3908,17 @@ module.exports = [
         "url": "/archives/2005/050226122646.html",
         "imgSrc": "/data/2005/mw2_0.jpg",
         "imgAlt": "moan ward 02",
-        "imgWidth": "168",
         "bodyJp": "ayakomori+woofa, Kido Hideaki, Sakaguchi Kazuhiko, lux diffusion+eri hashimoto, tomi, 電子卓上音楽団",
-        "bodyEn": "ayakomori+woofa, Kido Hideaki, Sakaguchi Kazuhiko, lux diffusion+eri hashimoto, tomi, Denshi\n\t\t\t\t\t\tTakujo Ongakudan"
+        "bodyEn": "ayakomori+woofa, Kido Hideaki, Sakaguchi Kazuhiko, lux diffusion+eri hashimoto, tomi, Denshi Takujo Ongakudan"
       },
       {
         "date": "2005.01.22-",
         "isPast": true,
         "titleJp": "安部 貴住 個展（one against 2）",
-        "titleEn": "“one against” 2  - Takasumi Abe solo\n\t\t\t\t\t\t\texhibition",
+        "titleEn": "“one against” 2  - Takasumi Abe solo exhibition",
         "url": "/archives/2005/050122122931.html",
         "imgSrc": "/data/2004/oa2e_1.jpg",
         "imgAlt": "安部 貴住 個展<br />（one against 2）",
-        "imgWidth": "168",
         "bodyJp": "2005.01.22(Sat) - 01.30(sun)",
         "bodyEn": "2005.01.22 - 01.30"
       },
@@ -4173,7 +3930,6 @@ module.exports = [
         "url": "/archives/2005/050122003028.html",
         "imgSrc": "/data/2005/oa2_06.jpg",
         "imgAlt": "one against 2　<br>-　安部貴住 / 空室",
-        "imgWidth": "168",
         "bodyJp": "2005.01.22(Sat)",
         "bodyEn": "Takasumi Abe / Kushitsu"
       },
@@ -4185,9 +3941,8 @@ module.exports = [
         "url": "/archives/2004/041219123252.html",
         "imgSrc": "/data/2004/mw1.jpg",
         "imgAlt": "moan ward 01",
-        "imgWidth": "168",
         "bodyJp": "電子卓上音楽団, Kazuhiko Sakaguchi, Hideaki Kido, lux diffusion, woofa, ayakomori, copr",
-        "bodyEn": "Denshi Takujyou Ongakudan, Kazuhiko Sakaguchi, Hideaki Kido, lux diffusion, woofa, ayakomori,\n\t\t\t\t\t\tcopr"
+        "bodyEn": "Denshi Takujyou Ongakudan, Kazuhiko Sakaguchi, Hideaki Kido, lux diffusion, woofa, ayakomori, copr"
       },
       {
         "date": "2004.11.23-",
@@ -4197,7 +3952,6 @@ module.exports = [
         "url": "/archives/2004/041123123544.html",
         "imgSrc": "/data/2004/paa2_02.jpg",
         "imgAlt": "project for actual art 002<br />日野 陽太朗 個展",
-        "imgWidth": "168",
         "bodyJp": "2004.11.23-12.12",
         "bodyEn": "2004.11.23-12.12"
       },
@@ -4209,7 +3963,6 @@ module.exports = [
         "url": "/archives/2004/041113123725.html",
         "imgSrc": "/data/2004/rc5_02.jpg",
         "imgAlt": "rhythm commission 5",
-        "imgWidth": "168",
         "bodyJp": "大友 良英、杉本 拓、山内 桂",
         "bodyEn": "Otomo Yoshihide, Taku Sugimoto, Katsura Yamauchi"
       },
@@ -4217,11 +3970,10 @@ module.exports = [
         "date": "2004.11.03-",
         "isPast": true,
         "titleJp": "Jayson Oleveria & Jonathan Olazo",
-        "titleEn": "Jayson Oliveria & Jonathan Olazo",
+        "titleEn": "Jayson Oliveria  & Jonathan Olazo",
         "url": "/archives/2004/041103124023.html",
         "imgSrc": "/data/2004/jojo_06.jpg",
         "imgAlt": "Jayson Oleveria & Jonathan Olazo",
-        "imgWidth": "168",
         "bodyJp": "2004.11.03-11.20",
         "bodyEn": "2004.11.03-11.20"
       },
@@ -4246,12 +3998,11 @@ module.exports = [
       {
         "date": "2004.09.11-",
         "isPast": true,
-        "titleJp": "實松 亮 個展 「Po-poMO」",
+        "titleJp": "實松 亮 個展  「Po-poMO」",
         "titleEn": "Akira Sanematsu “Po-poMO”",
         "url": "/archives/2004/040911194913.html",
         "imgSrc": "/data/2004/popomo.jpg",
         "imgAlt": "實松 亮 個展  「Po-poMO」",
-        "imgWidth": "168",
         "bodyJp": "2004.09.11 - 09.26",
         "bodyEn": "2004.09.11 - 09.26"
       },
@@ -4263,7 +4014,6 @@ module.exports = [
         "url": "/archives/2004/040904195115.html",
         "imgSrc": "/data/2004/another-shore.jpg",
         "imgAlt": "another shore",
-        "imgWidth": "168",
         "bodyJp": "miroque，moom瑠，kashiwa daisuke，soft clip",
         "bodyEn": "miroque, moom-ru, Kashiwa Daisuke, Soft Clip"
       },
@@ -4275,19 +4025,27 @@ module.exports = [
         "url": "/archives/2004/040724195658.html",
         "imgSrc": "/data/2004/p-factry.jpg",
         "imgAlt": "P-Factory <br>＜アナタモエガダイスキデス＞",
-        "imgWidth": "168",
         "bodyJp": "2004.07.24 - 08.01",
         "bodyEn": "2004.07.24 - 08.01"
-      },
+      }
+    ],
+    "permalink": "tetra/page/12/index.html"
+  },
+  {
+    "pageNumber": 12,
+    "totalPages": 13,
+    "entryCount": 366,
+    "isFirstPage": false,
+    "isLastPage": true,
+    "entries": [
       {
         "date": "2004.06.13-",
         "isPast": true,
-        "titleJp": "鈴木 淳 個展「Art Space Suzuki Atsushi\n\t\t\t\t\t\t\t(A.S.S.A)」",
-        "titleEn": "Atsushi Suzuki “art space Suzuki Atsushi\n\t\t\t\t\t\t\t(A.S.S.A.) ”",
+        "titleJp": "鈴木 淳 個展「Art Space Suzuki Atsushi (A.S.S.A)」",
+        "titleEn": "Atsushi Suzuki  “art space Suzuki Atsushi (A.S.S.A.) ”",
         "url": "/archives/2004/040613200249.html",
         "imgSrc": "/data/2004/suzuki.jpg",
         "imgAlt": "鈴木 淳 個展<br>「Art Space Suzuki Atsushi <br>(A.S.S.A)」",
-        "imgWidth": "168",
         "bodyJp": "2004.06.13-06.26",
         "bodyEn": "2004.06.13-06.26"
       },
@@ -4299,7 +4057,6 @@ module.exports = [
         "url": "/archives/2004/040612200450.html",
         "imgSrc": "/data/2004/oa1_1.jpg",
         "imgAlt": "one against 1 <br>- 鈴木淳 / KAPPA",
-        "imgWidth": "168",
         "bodyJp": "2004.06.12",
         "bodyEn": "Atsushi Suzuki / Kappa"
       },
@@ -4329,7 +4086,6 @@ module.exports = [
         "url": "/archives/2004/040403201018.html",
         "imgSrc": "/data/2004/paa1_01.jpg",
         "imgAlt": "project for actual art 001<br />安部 貴住 個展",
-        "imgWidth": "168",
         "bodyJp": "2004.04.03-04.24",
         "bodyEn": "2004.04.03-04.24"
       },
@@ -4341,11 +4097,10 @@ module.exports = [
         "url": "/archives/2004/040212193225.html",
         "imgSrc": "/2004/otomo04_01.jpg",
         "imgAlt": "大友 良英　レクチャー＆ソロライブ",
-        "imgWidth": "168",
         "bodyJp": "+　dumbo、電子卓上音楽団、六弦琴",
         "bodyEn": "+ dumbo, denshi-takujyo-ongakudan, rokugenkin"
       }
     ],
-    "permalink": "tetra/page/12/index.html"
+    "permalink": "tetra/page/13/index.html"
   }
 ];

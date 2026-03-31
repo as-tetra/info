@@ -153,11 +153,16 @@ async function processFile(filePath) {
     const htmlPath = path.join(dir, 'index.html');
     const bakPath = `${filePath}.bak`;
 
-    // すでに index.html が存在する場合
+    // すでに index.html が存在する場合: index.php が新しければ上書き
     if (await fs.pathExists(htmlPath)) {
-      console.log(colors.yellow(`⏭️  ${filePath} - index.html already exists, skipping`));
-      stats.skipped++;
-      return { converted: false, reason: 'index.html exists' };
+      const phpStat = await fs.stat(filePath);
+      const htmlStat = await fs.stat(htmlPath);
+      if (phpStat.mtimeMs <= htmlStat.mtimeMs) {
+        console.log(colors.yellow(`⏭️  ${filePath} - index.html is newer, skipping`));
+        stats.skipped++;
+        return { converted: false, reason: 'index.html is newer' };
+      }
+      console.log(colors.magenta(`🔄 ${filePath} - index.php is newer, overwriting index.html`));
     }
 
     // ファイル読み込み
@@ -172,8 +177,8 @@ async function processFile(filePath) {
         if (!CONFIG.noBackup) {
           await fs.copy(filePath, bakPath);
         }
-        // リネーム
-        await fs.move(filePath, htmlPath);
+        // リネーム（既存index.htmlがある場合は上書き）
+        await fs.move(filePath, htmlPath, { overwrite: true });
       }
       stats.converted++;
       return { converted: true, noPHP: true };
@@ -201,11 +206,9 @@ async function processFile(filePath) {
     await fs.writeFile(htmlPath, result, 'utf-8');
     console.log(colors.green(`   ✅ Created: index.html`));
 
-    // 元の index.php を削除（バックアップがあるので）
-    if (!CONFIG.noBackup) {
-      await fs.remove(filePath);
-      console.log(colors.dim(`   🗑️  Removed: index.php`));
-    }
+    // 元の index.php を削除
+    await fs.remove(filePath);
+    console.log(colors.dim(`   🗑️  Removed: index.php`));
 
     stats.converted++;
     return { converted: true };

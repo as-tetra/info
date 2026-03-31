@@ -17,3 +17,4 @@ node_modules/
 
 # ドキュメントファイル（Nunjucksテンプレートではない）
 ARCHITECTURE.md
+OPERATION_GUIDE.md

@@ -1074,14 +1074,11 @@ node scripts/optimize-large-images.js
 #### 3. リンク修正
 
 ```bash
-# 破損リンクチェック
-node scripts/check-broken-images.js
+# URL正規化（絶対URL、image.php、-thumb、NFD→NFC を一括修正）
+npm run normalize-urls
 
-# 包括的修正
-node scripts/comprehensive-image-fix.js
-
-# サムネイルリンク修正
-node scripts/fix-all-thumbs-comprehensive.js
+# または変換+ビルドをまとめて再実行
+npm run initial:process
 ```
 
 #### 4. コンポーネント追加・修正
@@ -1154,11 +1151,11 @@ npm run build:ghpages
 
 **解決策**:
 ```bash
-# リンクチェック
-node scripts/check-broken-images.js
+# URL正規化を再実行
+npm run normalize-urls
 
-# 修正
-node scripts/comprehensive-image-fix.js
+# または変換+ビルドをまとめて再実行
+npm run initial:process
 ```
 
 #### 3. ページネーションが生成されない

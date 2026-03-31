@@ -19,7 +19,7 @@
   </span>
   {% if entry.imgSrc %}
   <a href="{{ entry.url | url }}">
-    <img src="{{ entry.imgSrc | url }}" alt="{{ entry.imgAlt }}" {% if entry.imgWidth %}width="{{ entry.imgWidth }}"{% endif %}>
+    <img src="{{ entry.imgSrc | url }}" alt="{{ entry.imgAlt }}" width="{{ entry.imgWidth or '168' }}">
   </a>
   {% endif %}
 </div>
