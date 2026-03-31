@@ -1,5 +1,104 @@
 [
   {
+    "categoryName": "theater",
+    "categorySlug": "theater",
+    "totalEntries": 9,
+    "entries": [
+      {
+        "date": "2025.11.15",
+        "titleJp": "(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演",
+        "titleEn": "(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演",
+        "url": "/archives/2025/251115125722.html",
+        "imgSrc": "/upload/2025/077195fd-ec8e-44e8-b0b4-0b3d36bc7f06.jpeg",
+        "imgAlt": "(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2025.11.15</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/251115125722.html\">(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/251115125722.html\">(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2025/251115125722.html\"><img src=\"/upload/2025/077195fd-ec8e-44e8-b0b4-0b3d36bc7f06.jpeg\" alt=\"(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>■会期:2025/11/15(土)～16(日)</p>\n\n\t\t\t\t\t<p>■時間<br>\n\t\t\t\t\t\t2025/11/15(土)　16:00/19:00<br>\n\t\t\t\t\t\t2025/11/16(日)　16:00/19:00<br>\n\t\t\t\t\t\t30分前開場</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>■会期:2025/11/15(土)～16(日)</p>\n\n\t\t\t\t\t<p>■時間<br>\n\t\t\t\t\t\t2025/11/15(土)　16:00/19:00<br>\n\t\t\t\t\t\t2025/11/16(日)　16:00/19:00<br>\n\t\t\t\t\t\t30分前開場</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "2025.08.03",
+        "titleJp": "リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」",
+        "titleEn": "Licorina presents. \"NICK MY 23RD ! BIRTHDAY !\"",
+        "url": "/archives/2025/250803153100.html",
+        "imgSrc": "/upload/2025/honchira1.png",
+        "imgAlt": "リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2025.08.03</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/250803153100.html\">リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/250803153100.html\">Licorina presents. \"NICK MY 23RD ! BIRTHDAY !\"</a>\n\t\t\t\t\t</h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2025/250803153100.html\"><img src=\"/upload/2025/honchira1.png\" alt=\"リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>・日程：2025年8月3日(日) OPEN 15:00 / START 15:31<br>\n\t\t\t\t\t\t・会場：<a target=\"_blank\" href=\"/\">art space tetra</a> (〒812-0028 福岡市博多区須崎町 2-15)<br>\n\t\t\t\t\t\t・料金：共通 1500円(前売/当日共通 ワンドリンク付き)<br>\n\t\t\t\t\t\t大きくなったね！割 新生児の自分の写真の提示で200円キャッシュバック</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>August 3rd(Sun), 2025<br>\n\t\t\t\t\t\tOPEN 15:00 / START 15:31</p>\n\n\t\t\t\t\t<p>Venue:<br>\n\t\t\t\t\t\tart space tetra<br>\n\t\t\t\t\t\t2-15 Susaki-machi Hakata-ku Fukuoka, Japan<br>\n\t\t\t\t\t\t<a href=\"/\" target=\"_blank\">/</a>\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p>Charge: 1,500JPY (with 1 Drink)</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "2024.10.18-",
+        "titleJp": "风月企画第三回公演「金魚も夢を見る」",
+        "titleEn": "Kingyo mo Yumw wo Miru",
+        "url": "/archives/2024/241018190000.html",
+        "imgSrc": "/upload/2024/GYrpljdaoAA3Gia_small.jpeg",
+        "imgAlt": "风月企画第三回公演「金魚も夢を見る」",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.10.18-</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/241018190000.html\">风月企画第三回公演「金魚も夢を見る」</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/241018190000.html\">Kingyo mo Yumw wo Miru</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/241018190000.html\"><img src=\"/upload/2024/GYrpljdaoAA3Gia_small.jpeg\" alt=\"风月企画第三回公演「金魚も夢を見る」\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>2024年10月18日（金）〜2024年10月20日（日）</p>\n\n\t\t\t\t\t<p>10/18(金) 19:00<br>\n\t\t\t\t\t\t10/19(土) 14:00<br>\n\t\t\t\t\t\t10/19(土) 18:30<br>\n\t\t\t\t\t\t10/20(日) 14:00<br>\n\t\t\t\t\t\t10/20(日) 18:30</p>\n\n\t\t\t\t\t<p>前売券一般は2,000<br>\n\t\t\t\t\t\t前売券U-22は1,500<br>\n\t\t\t\t\t\t予約なし当日券は2,500</p>\n\n\t\t\t\t\t<p>【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) </p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>From October 18th to 20th, 2024</p>\n\n\t\t\t\t\t<p>Venue:<br>\n\t\t\t\t\t\tart space tetra<br>\n\t\t\t\t\t\t2-15 Susaki-machi Hakata-ku Fukuoka, Japan<br>\n\t\t\t\t\t\t<a href=\"/\" target=\"_blank\">/</a>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "2024.09.14",
+        "titleJp": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演\n\t\t\t\t\t\t\t「Title TBD」",
+        "titleEn": "ART FAIR EARTH2024 related project: Clark Memorial\n\t\t\t\t\t\t\tInternational High School Drama Club's WS presentation \"Title TBD",
+        "url": "/archives/2024/240914215712.html",
+        "imgSrc": "/upload/2025/IMG_2887.jpeg",
+        "imgAlt": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演 「Title TBD」",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.09.14</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240914215712.html\">ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演\n\t\t\t\t\t\t\t「Title TBD」</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240914215712.html\">ART FAIR EARTH2024 related project: Clark Memorial\n\t\t\t\t\t\t\tInternational High School Drama Club's WS presentation \"Title TBD</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/240914215712.html\"><img src=\"/upload/2025/IMG_2887.jpeg\" alt=\"ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演 「Title TBD」\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>日程：9月14日(SAT)<br>\n\t\t\t\t\t\t時間：<br>\n\t\t\t\t\t\t第一部　14:00開演（13:30開場）<br>\n\t\t\t\t\t\t第二部　17:00開演（16:30開場）</p>\n\n\t\t\t\t\t<p>※会場はart space tetraではございませんのでご注意ください。<br>\n\t\t\t\t\t\t会場：クラーク記念国際高等学校内3Fホール<br>\n\t\t\t\t\t\t〒810-0014 福岡県福岡市中央区平尾１丁目７−１</p>\n\n\t\t\t\t\t<p>一般¥2,000(税込)　18歳以下¥500(税込)</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>Date: September 14 (SAT)<br>\n\t\t\t\t\t\tHours:<br>\n\t\t\t\t\t\tFirst part: 14:00 (doors open at 13:30)<br>\n\t\t\t\t\t\tPart 2: 17:00 (doors open at 16:30)</p>\n\n\t\t\t\t\t<p>Please note that the venue is not art space tetra.<br>\n\t\t\t\t\t\tVenue: 3F Hall in Clark Memorial International High School<br>\n\t\t\t\t\t\t1-7-1 Hirao, Chuo-ku, Fukuoka-shi, Fukuoka 810-0014</p>\n\n\t\t\t\t\t<p>Adults ¥2,000 (tax included) Children under 18 ¥500 (tax included)</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "2024.09.13-",
+        "titleJp": "ART FAIR EARTH 2024 ～To cultivate freedom～",
+        "titleEn": "ART FAIR EARTH 2024 ～To cultivate freedom～",
+        "url": "/archives/2024/240913015854.html",
+        "imgSrc": "/upload/2024/1.jpg",
+        "imgAlt": "ART FAIR EARTH 2024 ～To cultivate freedom～",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.09.13-</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240913015854.html\">ART FAIR EARTH 2024 ～To cultivate freedom～</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240913015854.html\">ART FAIR EARTH 2024 ～To cultivate freedom～</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/240913015854.html\"><img src=\"/upload/2024/1.jpg\" alt=\"ART FAIR EARTH 2024 ～To cultivate freedom～\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>【会場】　art space tetra（福岡市博多区須崎町2-15）<br>\n\t\t\t\t\t\t※高校生による成果発表公演の会場は、クラーク記念国際高等学校内3Fホールにて行われます。<br>\n\t\t\t\t\t\t※その他、サテライト会場あり</p>\n\n\t\t\t\t\t<p>【日時】<br>\n\t\t\t\t\t\t　2024年９月13日（金）～ ９月23日（月）※最終日は15:00まで<br>\n\t\t\t\t\t\t　平　日　15:00～20:00<br>\n\t\t\t\t\t\t　土日祝　11:00～20:00<br>\n\t\t\t\t\t\t【入場料】500円</p>\n\n\t\t\t\t\t<p>【展示】<br>\n\t\t\t\t\t\t□1階ギャラリー<br>\n\t\t\t\t\t\t鈴木淳 絵画展<br>\n\t\t\t\t\t\tART FAIR EARTH® 資料展<br>\n\t\t\t\t\t\t□2階フロア<br>\n\t\t\t\t\t\t是本信高 写真展「100 Asian Portraits　“một trăm” Asians」（日本、ベトナム同時開催）</p>\n\n\t\t\t\t\t<p><br>\n\t\t\t\t\t\t【イベント】<br>\n\t\t\t\t\t\t　9月13日（金）　村上巨樹　ミャンマー音楽　トーク<br>\n\t\t\t\t\t\t　9月15日（日）　Takaaki KJ コロンビア　ストリートフォト<br>\n\t\t\t\t\t\t　9月16日（月）　調原作　アイスランド　オンライン現地レポート<br>\n\t\t\t\t\t\t　9月22日（日）　是本信高　ベトナム　写真展＆レポート<br>\n\t\t\t\t\t\t　9月23日（月）　アフメド・トゥバーシ　パレスチナトーク</p>\n\n\t\t\t\t\t<p>※会期中イベントは決まり次第各SNS等で報告いたします。</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>Venue] art space tetra (2-15 Suzaki-cho, Hakata-ku, Fukuoka City)<br>\n\t\t\t\t\t\tThe performance by high school students will be held at the 3rd floor hall of Clark Memorial\n\t\t\t\t\t\tInternational High School.<br>\n\t\t\t\t\t\tOther satellite venues are also available.</p>\n\n\t\t\t\t\t<p>Date &amp; Time<br>\n\t\t\t\t\t\t　Friday, September 13, 2024 - Monday, September 23, 2024 *Last day until 15:00<br>\n\t\t\t\t\t\t　Weekdays 15:00-20:00<br>\n\t\t\t\t\t\t　Saturdays, Sundays and holidays: 11:00-20:00<br>\n\t\t\t\t\t\tAdmission: 500 yen</p>\n\n\t\t\t\t\t<p>Exhibitions<br>\n\t\t\t\t\t\tGallery on the 1st floor<br>\n\t\t\t\t\t\tAtsushi Suzuki Painting Exhibition<br>\n\t\t\t\t\t\tART FAIR EARTH® Material Exhibitio<br>\n\t\t\t\t\t\t2F Floor<br>\n\t\t\t\t\t\tPhotography Exhibition “100 Asian Portraits ‘một trăm’ Asians” by Nobutaka Koremoto\n\t\t\t\t\t\t(Simultaneous exhibition in Japan and Vietnam)<br>\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p>Event<br>\n\t\t\t\t\t\t　September 13th (Fri) MURAKAMI Hiroki Myanmar Music Talk<br>\n\t\t\t\t\t\t　September 15 (Sun) Takaaki KJ Colombia Street Photography<br>\n\t\t\t\t\t\t　Sept. 16 (Mon) Hara Chou, Iceland Online Field Report<br>\n\t\t\t\t\t\t　Sept. 22 (Sun) Nobnutaka Koremoto Vietnam Photo Exhibition &amp; Report<br>\n\t\t\t\t\t\t　September 23 (Mon) Ahmed Tubasi Palestine Talk</p>\n\n\t\t\t\t\t<p>We will report on the events during the exhibition period on social networking sites as soon as\n\t\t\t\t\t\tthey are decided.<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "2024.02.11",
+        "titleJp": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
+        "titleEn": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
+        "url": "/archives/2024/240211140000.html",
+        "imgSrc": "/upload/2024/kyougenn.jpg",
+        "imgAlt": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.02.11</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240211140000.html\">河田全休ふるさと狂言ツアー✖︎かんじぇ</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240211140000.html\">河田全休ふるさと狂言ツアー✖︎かんじぇ</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/240211140000.html\"><img src=\"/upload/2024/kyougenn.jpg\" alt=\"河田全休ふるさと狂言ツアー✖︎かんじぇ\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>○日時<br>\n\t\t\t\t\t\t2024年2月11日(日)<br>\n\t\t\t\t\t\t1部14:00~(開場13:30~)<br>\n\t\t\t\t\t\t2部17:00~(開場16:30~)<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>○日時<br>\n\t\t\t\t\t\t2024年2月11日(日)<br>\n\t\t\t\t\t\t1部14:00~(開場13:30~)<br>\n\t\t\t\t\t\t2部17:00~(開場16:30~)</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "2023.12.01-",
+        "titleJp": "『どこかのだれか』(写真展示×演劇＋ライブペイント)",
+        "titleEn": "Dokokanodareka (Photo Exhibition+Stage+Live\n\t\t\t\t\t\t\tPaint)",
+        "url": "/archives/2023/231201130000.html",
+        "imgSrc": "/upload/2023/E477EB53-412B-4106-8651-BC891562F3F7.JPG",
+        "imgAlt": "『どこかのだれか』(写真展示×演劇＋ライブペイント)",
+        "imgWidth": "168",
+        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2023.12.01-</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2023/231201130000.html\">『どこかのだれか』(写真展示×演劇＋ライブペイント)</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2023/231201130000.html\">Dokokanodareka (Photo Exhibition+Stage+Live\n\t\t\t\t\t\t\tPaint)</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2023/231201130000.html\"><img src=\"/upload/2023/E477EB53-412B-4106-8651-BC891562F3F7.JPG\" alt=\"『どこかのだれか』(写真展示×演劇＋ライブペイント)\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>【日時】<br>\n\t\t\t\t\t\t2023/12/1（Fri）展示 13:00-21:00 舞台19:00<br>\n\t\t\t\t\t\t2023/12/2（Sat）展示12:00-21:00 舞台14:00/19:00<br>\n\t\t\t\t\t\t2023/12/3（Sun）展示12:00-21:00 舞台14:00/19:00</p>\n\n\t\t\t\t\t<p>【料金】<br>\n\t\t\t\t\t\t展示のみ:ワンドリンク制<br>\n\t\t\t\t\t\t演劇 : 一般 2500円 U-25 2000円<br>\n\t\t\t\t\t\t※どちらも1D付き</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>December 1st(Fri) Exhibition:13:00-21:00 , Stage:19:00<br>\n\t\t\t\t\t\tDecember 2nd(Sat) Exhibition:12:00-21:00 , Stage:14:00 / 19:00<br>\n\t\t\t\t\t\tDecember 3rd(Sun) Exhibition:12:00-21:00 , Stage:14:00 / 19:00</p>\n\n\t\t\t\t\t<p>Charge:<br>\n\t\t\t\t\t\tExhibition only : One drink is required to order. <br>\n\t\t\t\t\t\tStage: ¥2,500 U-25: ¥2,000 (with 1drink)<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>",
+        "isPast": true
+      },
+      {
+        "date": "",
+        "titleJp": "",
+        "titleEn": "",
+        "url": "/archives/2025/250302160000.html",
+        "html": "<div class=\"block_box\">\n\t\t\t\t\t<span class=\"en\">\n\t\t\t\t\t\t<p><a href=\"/archives/2025/250302160000.html\">Contact</a></p>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t\t<p><a href=\"/archives/2025/250302160000.html\">お問い合わせ</a></p>\n\t\t\t\t\t</span>\n\n\t\t\t\t</div>",
+        "isPast": false
+      },
+      {
+        "date": "",
+        "titleJp": "",
+        "titleEn": "",
+        "html": "<div class=\"block_box double\">\n\t\t\t\t\t<form action=\"/results.html\" id=\"cse-search-box\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cx\" value=\"014907293768141237070:-iqvx2tf_ey\">\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cof\" value=\"FORID:9\">\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"ie\" value=\"UTF-8\">\n\t\t\t\t\t\t\t<input type=\"text\" name=\"q\" size=\"40\" value=\"\" class=\"keywords\">\n\t\t\t\t\t\t\t<input type=\"submit\" name=\"sa\" value=\"search\" class=\"button\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</form>\n\t\t\t\t\t<script type=\"text/javascript\" src=\"http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja\"></script>\n\t\t\t\t</div>",
+        "isPast": false
+      }
+    ]
+  },
+  {
     "categoryName": "workshop / lecture",
     "categorySlug": "workshop_lecture",
     "totalEntries": 143,
@@ -1465,105 +1564,6 @@
         "imgAlt": "大友 良英　レクチャー＆ソロライブ",
         "imgWidth": "168",
         "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2004.02.12</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2004/040212193225.html\">大友 良英　レクチャー＆ソロライブ</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2004/040212193225.html\">Otomo Yoshihide <br>- lecture &amp; live</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2004/040212193225.html\"><img src=\"/2004/otomo04_01.jpg\" alt=\"大友 良英　レクチャー＆ソロライブ\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>+　dumbo、電子卓上音楽団、六弦琴</p>\n\n\t\t\t\t\t<p>2004.02.12-13</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>+ dumbo, denshi-takujyo-ongakudan, rokugenkin</p>\n\n\t\t\t\t\t<p>2004.02.12-13</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "",
-        "titleJp": "",
-        "titleEn": "",
-        "url": "/archives/2025/250302160000.html",
-        "html": "<div class=\"block_box\">\n\t\t\t\t\t<span class=\"en\">\n\t\t\t\t\t\t<p><a href=\"/archives/2025/250302160000.html\">Contact</a></p>\n\t\t\t\t\t</span>\n\t\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t\t<p><a href=\"/archives/2025/250302160000.html\">お問い合わせ</a></p>\n\t\t\t\t\t</span>\n\n\t\t\t\t</div>",
-        "isPast": false
-      },
-      {
-        "date": "",
-        "titleJp": "",
-        "titleEn": "",
-        "html": "<div class=\"block_box double\">\n\t\t\t\t\t<form action=\"/results.html\" id=\"cse-search-box\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cx\" value=\"014907293768141237070:-iqvx2tf_ey\">\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cof\" value=\"FORID:9\">\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"ie\" value=\"UTF-8\">\n\t\t\t\t\t\t\t<input type=\"text\" name=\"q\" size=\"40\" value=\"\" class=\"keywords\">\n\t\t\t\t\t\t\t<input type=\"submit\" name=\"sa\" value=\"search\" class=\"button\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</form>\n\t\t\t\t\t<script type=\"text/javascript\" src=\"http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja\"></script>\n\t\t\t\t</div>",
-        "isPast": false
-      }
-    ]
-  },
-  {
-    "categoryName": "theater",
-    "categorySlug": "theater",
-    "totalEntries": 9,
-    "entries": [
-      {
-        "date": "2025.11.15",
-        "titleJp": "(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演",
-        "titleEn": "(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演",
-        "url": "/archives/2025/251115125722.html",
-        "imgSrc": "/upload/2025/077195fd-ec8e-44e8-b0b4-0b3d36bc7f06.jpeg",
-        "imgAlt": "(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2025.11.15</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/251115125722.html\">(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/251115125722.html\">(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2025/251115125722.html\"><img src=\"/upload/2025/077195fd-ec8e-44e8-b0b4-0b3d36bc7f06.jpeg\" alt=\"(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>■会期:2025/11/15(土)～16(日)</p>\n\n\t\t\t\t\t<p>■時間<br>\n\t\t\t\t\t\t2025/11/15(土)　16:00/19:00<br>\n\t\t\t\t\t\t2025/11/16(日)　16:00/19:00<br>\n\t\t\t\t\t\t30分前開場</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>■会期:2025/11/15(土)～16(日)</p>\n\n\t\t\t\t\t<p>■時間<br>\n\t\t\t\t\t\t2025/11/15(土)　16:00/19:00<br>\n\t\t\t\t\t\t2025/11/16(日)　16:00/19:00<br>\n\t\t\t\t\t\t30分前開場</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "2025.08.03",
-        "titleJp": "リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」",
-        "titleEn": "Licorina presents. \"NICK MY 23RD ! BIRTHDAY !\"",
-        "url": "/archives/2025/250803153100.html",
-        "imgSrc": "/upload/2025/honchira1.png",
-        "imgAlt": "リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2025.08.03</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/250803153100.html\">リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2025/250803153100.html\">Licorina presents. \"NICK MY 23RD ! BIRTHDAY !\"</a>\n\t\t\t\t\t</h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2025/250803153100.html\"><img src=\"/upload/2025/honchira1.png\" alt=\"リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>・日程：2025年8月3日(日) OPEN 15:00 / START 15:31<br>\n\t\t\t\t\t\t・会場：<a target=\"_blank\" href=\"/\">art space tetra</a> (〒812-0028 福岡市博多区須崎町 2-15)<br>\n\t\t\t\t\t\t・料金：共通 1500円(前売/当日共通 ワンドリンク付き)<br>\n\t\t\t\t\t\t大きくなったね！割 新生児の自分の写真の提示で200円キャッシュバック</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>August 3rd(Sun), 2025<br>\n\t\t\t\t\t\tOPEN 15:00 / START 15:31</p>\n\n\t\t\t\t\t<p>Venue:<br>\n\t\t\t\t\t\tart space tetra<br>\n\t\t\t\t\t\t2-15 Susaki-machi Hakata-ku Fukuoka, Japan<br>\n\t\t\t\t\t\t<a href=\"/\" target=\"_blank\">/</a>\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p>Charge: 1,500JPY (with 1 Drink)</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "2024.10.18-",
-        "titleJp": "风月企画第三回公演「金魚も夢を見る」",
-        "titleEn": "Kingyo mo Yumw wo Miru",
-        "url": "/archives/2024/241018190000.html",
-        "imgSrc": "/upload/2024/GYrpljdaoAA3Gia_small.jpeg",
-        "imgAlt": "风月企画第三回公演「金魚も夢を見る」",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.10.18-</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/241018190000.html\">风月企画第三回公演「金魚も夢を見る」</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/241018190000.html\">Kingyo mo Yumw wo Miru</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/241018190000.html\"><img src=\"/upload/2024/GYrpljdaoAA3Gia_small.jpeg\" alt=\"风月企画第三回公演「金魚も夢を見る」\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>2024年10月18日（金）〜2024年10月20日（日）</p>\n\n\t\t\t\t\t<p>10/18(金) 19:00<br>\n\t\t\t\t\t\t10/19(土) 14:00<br>\n\t\t\t\t\t\t10/19(土) 18:30<br>\n\t\t\t\t\t\t10/20(日) 14:00<br>\n\t\t\t\t\t\t10/20(日) 18:30</p>\n\n\t\t\t\t\t<p>前売券一般は2,000<br>\n\t\t\t\t\t\t前売券U-22は1,500<br>\n\t\t\t\t\t\t予約なし当日券は2,500</p>\n\n\t\t\t\t\t<p>【場所】<a target=\"_blank\" href=\"/\">art space tetra</a>(福岡市博多区須崎町 2-15) </p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>From October 18th to 20th, 2024</p>\n\n\t\t\t\t\t<p>Venue:<br>\n\t\t\t\t\t\tart space tetra<br>\n\t\t\t\t\t\t2-15 Susaki-machi Hakata-ku Fukuoka, Japan<br>\n\t\t\t\t\t\t<a href=\"/\" target=\"_blank\">/</a>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "2024.09.14",
-        "titleJp": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演\n\t\t\t\t\t\t\t「Title TBD」",
-        "titleEn": "ART FAIR EARTH2024 related project: Clark Memorial\n\t\t\t\t\t\t\tInternational High School Drama Club's WS presentation \"Title TBD",
-        "url": "/archives/2024/240914215712.html",
-        "imgSrc": "/upload/2025/IMG_2887.jpeg",
-        "imgAlt": "ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演 「Title TBD」",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.09.14</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240914215712.html\">ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演\n\t\t\t\t\t\t\t「Title TBD」</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240914215712.html\">ART FAIR EARTH2024 related project: Clark Memorial\n\t\t\t\t\t\t\tInternational High School Drama Club's WS presentation \"Title TBD</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/240914215712.html\"><img src=\"/upload/2025/IMG_2887.jpeg\" alt=\"ART FAIR EARTH2024 関連企画 クラーク記念国際高等学校演劇部 WS成果発表公演 「Title TBD」\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>日程：9月14日(SAT)<br>\n\t\t\t\t\t\t時間：<br>\n\t\t\t\t\t\t第一部　14:00開演（13:30開場）<br>\n\t\t\t\t\t\t第二部　17:00開演（16:30開場）</p>\n\n\t\t\t\t\t<p>※会場はart space tetraではございませんのでご注意ください。<br>\n\t\t\t\t\t\t会場：クラーク記念国際高等学校内3Fホール<br>\n\t\t\t\t\t\t〒810-0014 福岡県福岡市中央区平尾１丁目７−１</p>\n\n\t\t\t\t\t<p>一般¥2,000(税込)　18歳以下¥500(税込)</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>Date: September 14 (SAT)<br>\n\t\t\t\t\t\tHours:<br>\n\t\t\t\t\t\tFirst part: 14:00 (doors open at 13:30)<br>\n\t\t\t\t\t\tPart 2: 17:00 (doors open at 16:30)</p>\n\n\t\t\t\t\t<p>Please note that the venue is not art space tetra.<br>\n\t\t\t\t\t\tVenue: 3F Hall in Clark Memorial International High School<br>\n\t\t\t\t\t\t1-7-1 Hirao, Chuo-ku, Fukuoka-shi, Fukuoka 810-0014</p>\n\n\t\t\t\t\t<p>Adults ¥2,000 (tax included) Children under 18 ¥500 (tax included)</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "2024.09.13-",
-        "titleJp": "ART FAIR EARTH 2024 ～To cultivate freedom～",
-        "titleEn": "ART FAIR EARTH 2024 ～To cultivate freedom～",
-        "url": "/archives/2024/240913015854.html",
-        "imgSrc": "/upload/2024/1.jpg",
-        "imgAlt": "ART FAIR EARTH 2024 ～To cultivate freedom～",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.09.13-</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240913015854.html\">ART FAIR EARTH 2024 ～To cultivate freedom～</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240913015854.html\">ART FAIR EARTH 2024 ～To cultivate freedom～</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/240913015854.html\"><img src=\"/upload/2024/1.jpg\" alt=\"ART FAIR EARTH 2024 ～To cultivate freedom～\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>【会場】　art space tetra（福岡市博多区須崎町2-15）<br>\n\t\t\t\t\t\t※高校生による成果発表公演の会場は、クラーク記念国際高等学校内3Fホールにて行われます。<br>\n\t\t\t\t\t\t※その他、サテライト会場あり</p>\n\n\t\t\t\t\t<p>【日時】<br>\n\t\t\t\t\t\t　2024年９月13日（金）～ ９月23日（月）※最終日は15:00まで<br>\n\t\t\t\t\t\t　平　日　15:00～20:00<br>\n\t\t\t\t\t\t　土日祝　11:00～20:00<br>\n\t\t\t\t\t\t【入場料】500円</p>\n\n\t\t\t\t\t<p>【展示】<br>\n\t\t\t\t\t\t□1階ギャラリー<br>\n\t\t\t\t\t\t鈴木淳 絵画展<br>\n\t\t\t\t\t\tART FAIR EARTH® 資料展<br>\n\t\t\t\t\t\t□2階フロア<br>\n\t\t\t\t\t\t是本信高 写真展「100 Asian Portraits　“một trăm” Asians」（日本、ベトナム同時開催）</p>\n\n\t\t\t\t\t<p><br>\n\t\t\t\t\t\t【イベント】<br>\n\t\t\t\t\t\t　9月13日（金）　村上巨樹　ミャンマー音楽　トーク<br>\n\t\t\t\t\t\t　9月15日（日）　Takaaki KJ コロンビア　ストリートフォト<br>\n\t\t\t\t\t\t　9月16日（月）　調原作　アイスランド　オンライン現地レポート<br>\n\t\t\t\t\t\t　9月22日（日）　是本信高　ベトナム　写真展＆レポート<br>\n\t\t\t\t\t\t　9月23日（月）　アフメド・トゥバーシ　パレスチナトーク</p>\n\n\t\t\t\t\t<p>※会期中イベントは決まり次第各SNS等で報告いたします。</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>Venue] art space tetra (2-15 Suzaki-cho, Hakata-ku, Fukuoka City)<br>\n\t\t\t\t\t\tThe performance by high school students will be held at the 3rd floor hall of Clark Memorial\n\t\t\t\t\t\tInternational High School.<br>\n\t\t\t\t\t\tOther satellite venues are also available.</p>\n\n\t\t\t\t\t<p>Date &amp; Time<br>\n\t\t\t\t\t\t　Friday, September 13, 2024 - Monday, September 23, 2024 *Last day until 15:00<br>\n\t\t\t\t\t\t　Weekdays 15:00-20:00<br>\n\t\t\t\t\t\t　Saturdays, Sundays and holidays: 11:00-20:00<br>\n\t\t\t\t\t\tAdmission: 500 yen</p>\n\n\t\t\t\t\t<p>Exhibitions<br>\n\t\t\t\t\t\tGallery on the 1st floor<br>\n\t\t\t\t\t\tAtsushi Suzuki Painting Exhibition<br>\n\t\t\t\t\t\tART FAIR EARTH® Material Exhibitio<br>\n\t\t\t\t\t\t2F Floor<br>\n\t\t\t\t\t\tPhotography Exhibition “100 Asian Portraits ‘một trăm’ Asians” by Nobutaka Koremoto\n\t\t\t\t\t\t(Simultaneous exhibition in Japan and Vietnam)<br>\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p>Event<br>\n\t\t\t\t\t\t　September 13th (Fri) MURAKAMI Hiroki Myanmar Music Talk<br>\n\t\t\t\t\t\t　September 15 (Sun) Takaaki KJ Colombia Street Photography<br>\n\t\t\t\t\t\t　Sept. 16 (Mon) Hara Chou, Iceland Online Field Report<br>\n\t\t\t\t\t\t　Sept. 22 (Sun) Nobnutaka Koremoto Vietnam Photo Exhibition &amp; Report<br>\n\t\t\t\t\t\t　September 23 (Mon) Ahmed Tubasi Palestine Talk</p>\n\n\t\t\t\t\t<p>We will report on the events during the exhibition period on social networking sites as soon as\n\t\t\t\t\t\tthey are decided.<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "2024.02.11",
-        "titleJp": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
-        "titleEn": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
-        "url": "/archives/2024/240211140000.html",
-        "imgSrc": "/upload/2024/kyougenn.jpg",
-        "imgAlt": "河田全休ふるさと狂言ツアー✖︎かんじぇ",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2024.02.11</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240211140000.html\">河田全休ふるさと狂言ツアー✖︎かんじぇ</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2024/240211140000.html\">河田全休ふるさと狂言ツアー✖︎かんじぇ</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2024/240211140000.html\"><img src=\"/upload/2024/kyougenn.jpg\" alt=\"河田全休ふるさと狂言ツアー✖︎かんじぇ\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>○日時<br>\n\t\t\t\t\t\t2024年2月11日(日)<br>\n\t\t\t\t\t\t1部14:00~(開場13:30~)<br>\n\t\t\t\t\t\t2部17:00~(開場16:30~)<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>○日時<br>\n\t\t\t\t\t\t2024年2月11日(日)<br>\n\t\t\t\t\t\t1部14:00~(開場13:30~)<br>\n\t\t\t\t\t\t2部17:00~(開場16:30~)</p>\n\t\t\t\t</span>\n\t\t\t</div>",
-        "isPast": true
-      },
-      {
-        "date": "2023.12.01-",
-        "titleJp": "『どこかのだれか』(写真展示×演劇＋ライブペイント)",
-        "titleEn": "Dokokanodareka (Photo Exhibition+Stage+Live\n\t\t\t\t\t\t\tPaint)",
-        "url": "/archives/2023/231201130000.html",
-        "imgSrc": "/upload/2023/E477EB53-412B-4106-8651-BC891562F3F7.JPG",
-        "imgAlt": "『どこかのだれか』(写真展示×演劇＋ライブペイント)",
-        "imgWidth": "168",
-        "html": "<div class=\"block_box\">\n\t\t\t\t<div class=\"date_past\">\n\t\t\t\t\t2023.12.01-</div>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<h1><a href=\"/archives/2023/231201130000.html\">『どこかのだれか』(写真展示×演劇＋ライブペイント)</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<h1><a href=\"/archives/2023/231201130000.html\">Dokokanodareka (Photo Exhibition+Stage+Live\n\t\t\t\t\t\t\tPaint)</a></h1>\n\t\t\t\t</span>\n\t\t\t\t<a href=\"/archives/2023/231201130000.html\"><img src=\"/upload/2023/E477EB53-412B-4106-8651-BC891562F3F7.JPG\" alt=\"『どこかのだれか』(写真展示×演劇＋ライブペイント)\" width=\"168\"></a>\n\t\t\t\t<span class=\"jp\">\n\t\t\t\t\t<p>【日時】<br>\n\t\t\t\t\t\t2023/12/1（Fri）展示 13:00-21:00 舞台19:00<br>\n\t\t\t\t\t\t2023/12/2（Sat）展示12:00-21:00 舞台14:00/19:00<br>\n\t\t\t\t\t\t2023/12/3（Sun）展示12:00-21:00 舞台14:00/19:00</p>\n\n\t\t\t\t\t<p>【料金】<br>\n\t\t\t\t\t\t展示のみ:ワンドリンク制<br>\n\t\t\t\t\t\t演劇 : 一般 2500円 U-25 2000円<br>\n\t\t\t\t\t\t※どちらも1D付き</p>\n\t\t\t\t</span>\n\t\t\t\t<span class=\"en\">\n\t\t\t\t\t<p>December 1st(Fri) Exhibition:13:00-21:00 , Stage:19:00<br>\n\t\t\t\t\t\tDecember 2nd(Sat) Exhibition:12:00-21:00 , Stage:14:00 / 19:00<br>\n\t\t\t\t\t\tDecember 3rd(Sun) Exhibition:12:00-21:00 , Stage:14:00 / 19:00</p>\n\n\t\t\t\t\t<p>Charge:<br>\n\t\t\t\t\t\tExhibition only : One drink is required to order. <br>\n\t\t\t\t\t\tStage: ¥2,500 U-25: ¥2,000 (with 1drink)<br>\n\t\t\t\t\t</p>\n\t\t\t\t</span>\n\t\t\t</div>",
         "isPast": true
       },
       {
