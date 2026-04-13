@@ -24,12 +24,22 @@ async function extractArchiveEntries() {
 
     const entries = [];
 
-    // block_boxを抽出（menu_titleは除外）
+    // block_boxを抽出（menu_title、検索フォーム、sub_menu内は除外）
     $('.block_box').each((i, elem) => {
       const $block = $(elem);
 
       // menu_titleブロックをスキップ
       if ($block.find('.menu_title').length > 0) {
+        return;
+      }
+
+      // 検索フォーム（block_box double）をスキップ
+      if ($block.hasClass('double') || $block.find('#cse-search-box').length > 0) {
+        return;
+      }
+
+      // sub_menu内のblock_boxをスキップ
+      if ($block.parents('.sub_menu').length > 0) {
         return;
       }
 

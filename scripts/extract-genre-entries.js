@@ -36,6 +36,16 @@ async function extractGenreEntries() {
         return;
       }
 
+      // 検索フォーム（block_box double）をスキップ
+      if ($block.hasClass('double') || $block.find('#cse-search-box').length > 0) {
+        return;
+      }
+
+      // sub_menu内のblock_boxをスキップ
+      if ($block.parents('.sub_menu').length > 0) {
+        return;
+      }
+
       // エントリー情報を抽出
       const date = $block.find('.date, .date_past').text().trim();
       const titleJp = $block.find('.jp h1 a').text().trim();
