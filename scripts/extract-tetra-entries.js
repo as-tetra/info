@@ -21,6 +21,12 @@ async function extractTetraEntries() {
     // タイトルblock_boxはスキップ
     if ($block.find('.menu_title').length > 0) return;
 
+    // 検索フォーム（block_box double）をスキップ
+    if ($block.hasClass('double') || $block.find('#cse-search-box').length > 0) return;
+
+    // sub_menu内のblock_boxをスキップ
+    if ($block.parents('.sub_menu').length > 0) return;
+
     // 日付を抽出
     const dateText = $block.find('.date, .date_past').text().trim();
     const isPast = $block.find('.date_past').length > 0;

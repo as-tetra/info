@@ -1018,6 +1018,7 @@ body.responsive .block1 strong {
 		height: auto;
 	}
 
+	body.responsive .sub_menu,
 	body.event_archive_responsive .sub_menu,
 	body.year_archive_responsive .sub_menu {
 		width: 100%;
@@ -1029,6 +1030,7 @@ body.responsive .block1 strong {
 		font-size: 1.25em;
 	}
 
+	body.responsive .sub_menu .block_box,
 	body.event_archive_responsive .sub_menu .block_box,
 	body.year_archive_responsive .sub_menu .block_box {
 		width: 98%;
@@ -1036,6 +1038,7 @@ body.responsive .block1 strong {
 		border-bottom: 2px solid #fff;
 	}
 
+	body.responsive .sub_menu .block_box:nth-of-type(1),
 	body.event_archive_responsive .sub_menu .block_box:nth-of-type(1),
 	body.year_archive_responsive .sub_menu .block_box:nth-of-type(1) {
 		margin: 1%;

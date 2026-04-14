@@ -50,7 +50,8 @@ module.exports = function (eleventyConfig) {
 
   // その他の静的コンテンツ
   eleventyConfig.addPassthroughCopy('special');
-  eleventyConfig.addPassthroughCopy('sponsor');
+  // sponsor ページは本番から除去済み
+  // eleventyConfig.addPassthroughCopy('sponsor');
   eleventyConfig.addPassthroughCopy('cat47');
   eleventyConfig.addPassthroughCopy('choukoku');
   eleventyConfig.addPassthroughCopy('info');
