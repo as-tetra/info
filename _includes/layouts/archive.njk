@@ -6,9 +6,6 @@ layout: base.njk
 
 <div class="archive-header">
   <h1>{% if year %}{{ year }} Archives{% else %}All Archives{% endif %}</h1>
-  {% if pagination.pages.length > 1 %}
-  <p class="page-info">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</p>
-  {% endif %}
 </div>
 
 {# Entry List #}

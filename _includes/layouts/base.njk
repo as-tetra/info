@@ -22,7 +22,7 @@
   {# Additional head content #}
   {% block head %}{% endblock %}
 </head>
-<body class="responsive">
+<body class="{{ bodyClass | default('responsive') }}">
 
 {# Header #}
 {% include "components/header.njk" %}
