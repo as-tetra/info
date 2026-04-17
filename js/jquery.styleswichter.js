@@ -50,7 +50,7 @@
       if(this.rel == 'stylesheet' && this.title == o.linkTitle){
         if(o.cssPath != ''){
           this.href = o.cssPath;
-          $.cookie(o.cookieName,this.href,{
+          $.cookie(o.cookieName,o.cssPath,{
             path: o.cookiePath,
             expires: o.cookieDays,
             domain: o.cookieDomain,
