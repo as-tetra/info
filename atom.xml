@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
    <title>art space tetra</title>
-   <link rel="alternate" type="text/html" href="/info/" />
-   <link rel="self" type="application/atom+xml" href="/info/atom.xml" />
+   <link rel="alternate" type="text/html" href="/" />
+   <link rel="self" type="application/atom+xml" href="/atom.xml" />
    <id>tag:www.as-tetra.info,2026://3</id>
    <updated>2026-01-07T11:18:20Z</updated>
    
@@ -10,7 +10,7 @@
 
 <entry>
    <title>武谷知歩個展「堆積」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2026/260224201102.html" />
+   <link rel="alternate" type="text/html" href="/archives/2026/260224201102.html" />
    <id>tag:www.as-tetra.info,2026://3.1476</id>
    
    <published>2026-02-24T11:11:02Z</published>
@@ -27,7 +27,7 @@
    
    <content type="html" xml:lang="ja" xml:base="/">
       <![CDATA[■プロフィール
-<img src="/info/upload/2026/S__9224200_0.jpg" width=“400" >
+<img src ="/upload/2026/S__9224200_0.jpg" width=“400" >
 2004年長崎県生まれ。
 九州産業大学造形短期大学部研究生在学中。
 
@@ -44,7 +44,7 @@
 </entry>
 <entry>
    <title>テトラ アナーキー大放談 最終回！</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2026/260211095010.html" />
+   <link rel="alternate" type="text/html" href="/archives/2026/260211095010.html" />
    <id>tag:www.as-tetra.info,2026://3.1475</id>
    
    <published>2026-02-11T00:50:10Z</published>
@@ -78,7 +78,7 @@
 </entry>
 <entry>
    <title>《Cursed Cards 素敵な呪い》</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2026/260114000000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2026/260114000000.html" />
    <id>tag:www.as-tetra.info,2026://3.1477</id>
    
    <published>2026-01-13T15:00:00Z</published>
@@ -159,7 +159,7 @@ Yogo
 </entry>
 <entry>
    <title>是本信高写真展　100人のアジア人の肖像 2nd「バーサンとズゥエン」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2026/260109012707.html" />
+   <link rel="alternate" type="text/html" href="/archives/2026/260109012707.html" />
    <id>tag:www.as-tetra.info,2026://3.1473</id>
    
    <published>2026-01-08T16:27:07Z</published>
@@ -189,7 +189,7 @@ Yogo
 </entry>
 <entry>
    <title>art space tetra クローズのおしらせ</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2026/260106200000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2026/260106200000.html" />
    <id>tag:www.as-tetra.info,2026://3.1474</id>
    
    <published>2026-01-06T11:00:00Z</published>
@@ -221,7 +221,7 @@ Yogo
 </entry>
 <entry>
    <title>お正月だよ！倉地さんスペシャル 2026</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2026/260103010000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2026/260103010000.html" />
    <id>tag:www.as-tetra.info,2026://3.1469</id>
    
    <published>2026-01-02T16:00:00Z</published>
@@ -308,7 +308,7 @@ AM放送的な音質悪い感じになるとおもいますが、
 </entry>
 <entry>
    <title>鈴木淳展「,etc. 2025」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251227114117.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251227114117.html" />
    <id>tag:www.as-tetra.info,2025://3.1472</id>
    
    <published>2025-12-27T02:41:17Z</published>
@@ -334,7 +334,7 @@ AM放送的な音質悪い感じになるとおもいますが、
 </entry>
 <entry>
    <title>capture late morning live 25(調原作,鈴木淳,中村勇治)</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251220110000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251220110000.html" />
    <id>tag:www.as-tetra.info,2025://3.1470</id>
    
    <published>2025-12-20T02:00:00Z</published>
@@ -375,7 +375,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ「On the Bed 2025-12 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251220004355.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251220004355.html" />
    <id>tag:www.as-tetra.info,2025://3.1471</id>
    
    <published>2025-12-19T15:43:55Z</published>
@@ -409,7 +409,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>笹久保伸レクチャーライブ    記録者の芸術/秩父前衛派の実践</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251218203852.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251218203852.html" />
    <id>tag:www.as-tetra.info,2025://3.1467</id>
    
    <published>2025-12-18T11:38:52Z</published>
@@ -445,17 +445,17 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 ◇プロフィール
 ■レクチャー / 演奏
 笹久保伸（音楽家・記録者）
-<img src="/info/upload/2025/f96539b5-42f8-438a-a988-914606f7dba6.jpeg" width=“400" >
+<img src ="/upload/2025/f96539b5-42f8-438a-a988-914606f7dba6.jpeg" width=“400" >
 クラシックギターを学び、現代音楽とアンデス音楽の演奏で南米・欧州各地に出演。2004〜08年にペルー農村で音楽調査を行い、伝説的な音楽家から伝統のギター音楽を学ぶ。帰国後は自らのアイデンティティと向き合い「秩父前衛派」として民俗調査や武甲山の環境テーマに取り組み、音楽・映像・写真作品を国内外の芸術祭で発表。東京藝術大学、多摩美術大学、早稲田大学、立教大学、立命館大学ほかで特別講義を行い、多数の現代作曲家の作品を世界初演。これまでに44枚のアルバム作品をリリース。
 
 ■対談ゲスト
 尾中俊介（詩人・グラフィックデザイナー）
-<img src="/info/upload/2025/c0dc2674-d2e4-4298-be19-745183b28594.jpeg" width=“400" >
+<img src ="/upload/2025/c0dc2674-d2e4-4298-be19-745183b28594.jpeg" width=“400" >
 主に芸術関連の印刷物を手がける。最近の仕事に『プラカードのために｜For a Placard』（国立国際美術館）、『TCAA 2024-2026受賞記念展「湿地」梅田哲也・呉夏枝』（東京都現代美術館）など。AHA!編『はな子のいる風景』（武蔵野市立吉祥寺美術館）で第52回造本装幀コンクール東京都知事賞。自身の詩集『CUL-DE-SAC』で第15回中原中也賞最終候補。
 
 ■モデレーター
 三好剛平（三声舎）
-<img src="/info/upload/2025/17a79a96-5503-45f8-8981-d3f17b989ae6.jpeg" width=“400" >
+<img src ="/upload/2025/17a79a96-5503-45f8-8981-d3f17b989ae6.jpeg" width=“400" >
 株式会社三声舎代表。プロデューサー。
 
 福岡を拠点として、映画・文化芸術にかかわるプロジェクトを中心に企画、制作、執筆等を行う。アジア映画の上映＆交流イベント「Asian Film Joint」主宰。LOVEFMラジオ「OUR CULTURE, OUR VIEW」制作・出演ほか。
@@ -467,7 +467,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>樫山凛太郎 初個展 「島のにおい 傷のかたち ひとの行く末」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251206000000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251206000000.html" />
    <id>tag:www.as-tetra.info,2025://3.1468</id>
    
    <published>2025-12-05T15:00:00Z</published>
@@ -509,7 +509,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>C  h  o  c  o  t  a  n  a / ちょこたな - モノクロ写真（是本信高）と 映像（わえ）の二人展</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251129110000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251129110000.html" />
    <id>tag:www.as-tetra.info,2025://3.1464</id>
    
    <published>2025-11-29T02:00:00Z</published>
@@ -527,7 +527,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
    <category term="1343" label="是本信高" scheme="http://www.sixapart.com/ns/types#tag" />
    
    <content type="html" xml:lang="ja" xml:base="/">
-      <![CDATA[<img src="/info/upload/2025/7e21a80f-4a0e-45a5-b162-0eefc83bf513-thumb.jpeg">
+      <![CDATA[<img src="/upload/2025/7e21a80f-4a0e-45a5-b162-0eefc83bf513-thumb.jpeg">
 
 C  h  o  c  o  t  a  n  a
 ちょこたな
@@ -569,7 +569,7 @@ EVENT INFORMATION
 </entry>
 <entry>
    <title>「絵とダンスセッション」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251122224935.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251122224935.html" />
    <id>tag:www.as-tetra.info,2025://3.1466</id>
    
    <published>2025-11-22T13:49:35Z</published>
@@ -589,14 +589,14 @@ EVENT INFORMATION
 山本泰輔
 樋口聖子
 キヨカ
-<img src="/info/upload/2025/%E3%83%86%E3%83%88%E3%83%A9%E3%81%A6%E3%82%99%E8%B8%8A%E3%82%8B%202.JPG" width=“400" >
+<img src ="/upload/2025/%E3%83%86%E3%83%88%E3%83%A9%E3%81%A6%E3%82%99%E8%B8%8A%E3%82%8B%202.JPG" width=“400" >
 ]]>
       
    </content>
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-11 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251122224433.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251122224433.html" />
    <id>tag:www.as-tetra.info,2025://3.1465</id>
    
    <published>2025-11-22T13:44:33Z</published>
@@ -637,7 +637,7 @@ EVENT INFORMATION
 </entry>
 <entry>
    <title>(劇)池田商会.25周年記念 総合芸術舎玉屋・ノーガード一夜限りの復活公演</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251115125722.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251115125722.html" />
    <id>tag:www.as-tetra.info,2025://3.1457</id>
    
    <published>2025-11-15T03:57:22Z</published>
@@ -707,7 +707,7 @@ Vol.2　ノーガード「百鬼夜行」
 </entry>
 <entry>
    <title>脱線した風景A Derailed Landscape</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251108002706.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251108002706.html" />
    <id>tag:www.as-tetra.info,2025://3.1463</id>
    
    <published>2025-11-07T15:27:06Z</published>
@@ -747,7 +747,7 @@ Vol.2　ノーガード「百鬼夜行」
 </entry>
 <entry>
    <title>クリス・ロメロ 個展『DUNGEON』</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251028120602.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251028120602.html" />
    <id>tag:www.as-tetra.info,2025://3.1462</id>
    
    <published>2025-10-28T03:06:02Z</published>
@@ -767,14 +767,14 @@ Vol.2　ノーガード「百鬼夜行」
 個展『DUNGEON』では、
 ダンジョンを人生の課題の比喩として使用。
 ユーモアと脆さを交えた絵画や彫刻をゲームのような空間に配置し、探索と発見を楽しめる展示。
-<img src="/info/upload/2025/IMG_2314-thumb.jpeg" width=“400" >
+<img src ="/upload/2025/IMG_2314-thumb.jpeg" width=“400" >
 ]]>
       
    </content>
 </entry>
 <entry>
    <title>capture late morning live 24(w/Kurihara)</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251026110000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251026110000.html" />
    <id>tag:www.as-tetra.info,2025://3.1459</id>
    
    <published>2025-10-26T02:00:00Z</published>
@@ -797,7 +797,7 @@ Vol.2　ノーガード「百鬼夜行」
 <a href="https://kuriharatakuya.com" target="_blank">https://kuriharatakuya.com</a>
 - 中村勇治(bass clarinet, soprano saxophone)
 <a href="https://capture.nakamurayuji.com" target="_blank">https://capture.nakamurayuji.com</a>
-<img src="/info/upload/2025/nakamura-thumb.jpg" width="300" height="auto">
+<img src="/upload/2025/nakamura-thumb.jpg" width="300" height="auto">
 *50音順
 
 朝活ライブ24回目を開催いたします。
@@ -815,7 +815,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title> Berlin Netzzz! MINI  BerlinNetzzz! / art space tetra  present</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251025142251.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251025142251.html" />
    <id>tag:www.as-tetra.info,2025://3.1460</id>
    
    <published>2025-10-25T05:22:51Z</published>
@@ -892,7 +892,7 @@ The アナログ 2.5D ミニシアター!!
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-10 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251025103756.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251025103756.html" />
    <id>tag:www.as-tetra.info,2025://3.1461</id>
    
    <published>2025-10-25T01:37:56Z</published>
@@ -928,7 +928,7 @@ The アナログ 2.5D ミニシアター!!
 </entry>
 <entry>
    <title>art space tetra アーティスト イン レジデンス 第４弾  　/　WER DA（Werner Kernebeck、David Braithwaite）</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251022152233.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251022152233.html" />
    <id>tag:www.as-tetra.info,2025://3.1458</id>
    
    <published>2025-10-22T06:22:33Z</published>
@@ -946,8 +946,8 @@ The アナログ 2.5D ミニシアター!!
    
    
    <content type="html" xml:lang="ja" xml:base="/">
-      <![CDATA[<img src="/info/upload/2025/2.jpg" width=“400" >
-<img src="/info/upload/2025/3.jpg" width=“400" >
+      <![CDATA[<img src ="/upload/2025/2.jpg" width=“400" >
+<img src ="/upload/2025/3.jpg" width=“400" >
 WER DA は、ベルリンを拠点に活動する Werner Kernebeck（ヴェアナー・ケルネベック） とDavid Braithwaite（デイヴィッド・ブレイスウェイト）によるアーティストデュオ。名はドイツ語で「誰がそこ に？」を意味し、存在や自然とのつながりを問う姿勢を示す。2014年、ヴェアナーのインスタレーション《Home》に登場した「冬のクリーチャー」から活動を開始。 自分たちのルーツを探りながら衣装を制作 し、クリーチャーとしてのパフォーマンスを行ってきた。ヨーロッパ各地の仮装文化や先史的風習に着 想を得て作品を発展。自然素材と現代の人工物を組み合わせ、 本能的な感覚と遊び心をもって精霊的 存在を創造している。2018年以降はジンやテキストにも活動を広げ、人類や社会の現在を省察してい る。二人はまた、プロジェクト・スペース「NEON KUNST」を運営し、CZENTRIFUGA や GOGO TRASH な ど複数のコレクティブに参加、共同性と実験性に基づいた活動を展開している。日本各地や福岡で見つけた素材を組み合わせてインスタレーションを制作し、10月25日・26日のイベントでは、完成した作品を舞台にパフォーマンスも行います。
 
 https://werdada.wordpress.com/　 　https://neonkunst.home.blog/　　https://gogotrashberlin.wordpress.com/archiv/]]>
@@ -956,7 +956,7 @@ https://werdada.wordpress.com/　 　https://neonkunst.home.blog/　　https://g
 </entry>
 <entry>
    <title>Overlap</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251016124200.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251016124200.html" />
    <id>tag:www.as-tetra.info,2025://3.1456</id>
    
    <published>2025-10-16T03:42:00Z</published>
@@ -982,7 +982,7 @@ insta: www.instagram.com/artspacetetra
 </entry>
 <entry>
    <title>イイダ傘店 『令和七年秋 ２０周年記念展 福岡』</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/251001163957.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/251001163957.html" />
    <id>tag:www.as-tetra.info,2025://3.1455</id>
    
    <published>2025-10-01T07:39:57Z</published>
@@ -1042,7 +1042,7 @@ insta: www.instagram.com/artspacetetra
 </entry>
 <entry>
    <title>Art Fair Earth 2025</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250927222155.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250927222155.html" />
    <id>tag:www.as-tetra.info,2025://3.1454</id>
    
    <published>2025-09-27T13:21:55Z</published>
@@ -1069,7 +1069,7 @@ insta: www.instagram.com/artspacetetra
 </entry>
 <entry>
    <title>上村卓大個展　「見えているものと食べたらなくなるもの」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250909224910.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250909224910.html" />
    <id>tag:www.as-tetra.info,2025://3.1453</id>
    
    <published>2025-09-09T13:49:10Z</published>
@@ -1104,13 +1104,13 @@ insta: www.instagram.com/artspacetetra
       <![CDATA[「見えているものと食べたらなくなるもの」
 ここでいう「見えているもの」は、壁にかけられ展示されている作品のことを指しています。一方「食べたらなくなるもの」は、一目見て分かるように、レリーフ状の籠の中に積まれた野菜や果実のことです。これらの作品には100円硬貨を入れるコインボックスがそれぞれに備え付けられていて、展示されている野菜や果実に見合う〈料〉と「等価交換」できる無人販売所の仕様にもなっています。電飾の球が少しずつ切れていくように、籠の中の野菜や果実はいくらかの100円硬貨と交換されて目の前からなくなっていきますが、かえって作品の抱えられる時間的な幅は「見えるもの」をこえて、「なくなるもの」との「あいだ」もしくは「そのあと」を含むような広がりとして感じられます。
 
-<img src="/info/upload/2025/2.jpg" width=“400" >
+<img src ="/upload/2025/2.jpg" width=“400" >
 
 
 1980年、高知県出身、福岡県在住。彫刻家。
 主な展覧会に、2025年「瀬戸内国際芸術祭春会期《瀬居島プロジェクト”SAY YES”》」旧瀬居中学校(香川）、2024年「周縁からはじまる」Artist Cafe Fukuoka(福岡）、2022年「居場所について」OVERGROUND（福岡）、2020年「発生の場」佐賀大学美術館（佐賀）、 2014年「Under35/2014 上村卓大展」BankART Studio NYK（神奈川）、 2009年「変成態-リアルな現代の物質性-vol.2 泉孝昭×上村卓大」Gallery αM（東京）などがある。
 
-<img src="/info/upload/2025/S__5038099_0.jpg" width=“400" >
+<img src ="/upload/2025/S__5038099_0.jpg" width=“400" >
 
 
 ]]>
@@ -1118,7 +1118,7 @@ insta: www.instagram.com/artspacetetra
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-9 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250906014924.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250906014924.html" />
    <id>tag:www.as-tetra.info,2025://3.1452</id>
    
    <published>2025-09-05T16:49:24Z</published>
@@ -1153,7 +1153,7 @@ insta: www.instagram.com/artspacetetra
 </entry>
 <entry>
    <title>Chat(ter)ing 9ueerly——クィアはおしゃべり</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250831003052.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250831003052.html" />
    <id>tag:www.as-tetra.info,2025://3.1443</id>
    
    <published>2025-08-30T15:30:52Z</published>
@@ -1193,7 +1193,7 @@ https://forms.gle/2AbwpZYvjB9vbw9aA
 </entry>
 <entry>
    <title>HAKODA Solo Exhibtion「Force of Distance」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250822155103.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250822155103.html" />
    <id>tag:www.as-tetra.info,2025://3.1442</id>
    
    <published>2025-08-22T06:51:03Z</published>
@@ -1222,7 +1222,7 @@ https://forms.gle/2AbwpZYvjB9vbw9aA
 </entry>
 <entry>
    <title> 山下夏木 個展 LIFE&apos;25</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250812185432.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250812185432.html" />
    <id>tag:www.as-tetra.info,2025://3.1450</id>
    
    <published>2025-08-12T09:54:32Z</published>
@@ -1243,7 +1243,7 @@ https://forms.gle/2AbwpZYvjB9vbw9aA
 </entry>
 <entry>
    <title>capture late morning live 23(w/サネマツアキラ)</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250810110000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250810110000.html" />
    <id>tag:www.as-tetra.info,2025://3.1449</id>
    
    <published>2025-08-10T02:00:00Z</published>
@@ -1265,7 +1265,7 @@ https://forms.gle/2AbwpZYvjB9vbw9aA
 サネマツアキラ(voice,per,electronics)
 中村勇治(bass clarinet, soprano saxophone)
 <a href="https://capture.nakamurayuji.com" target="_blank">https://capture.nakamurayuji.com</a>
-<img src="/info/upload/2023/yuji_small-thumb.jpg" width="300"height="auto"><span style="font-size:8px;">
+<img src="/upload/2023/yuji_small-thumb.jpg" width="300"height="auto"><span style="font-size:8px;">
 photo:<a href="https://www.instagram.com/chi.vino_ch/"target="_blank">@chi.vino_ch</a></span>
 *50音順
 
@@ -1282,7 +1282,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-8 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250809222256.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250809222256.html" />
    <id>tag:www.as-tetra.info,2025://3.1451</id>
    
    <published>2025-08-09T13:22:56Z</published>
@@ -1312,7 +1312,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>リコリナpresents.「NICK MY 23RD ! BIRTHDAY !」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250803153100.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250803153100.html" />
    <id>tag:www.as-tetra.info,2025://3.1445</id>
    
    <published>2025-08-03T06:31:00Z</published>
@@ -1341,7 +1341,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>Yun Hyejeong ユン・ヘジョン Tigers and Women</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250726214331.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250726214331.html" />
    <id>tag:www.as-tetra.info,2025://3.1448</id>
    
    <published>2025-07-26T12:43:31Z</published>
@@ -1379,7 +1379,7 @@ Visual Poetry :  Love Note
 </entry>
 <entry>
    <title>市野 多見 &amp; トマ メゾンナス「ジュネーブのアート事情」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250726120537.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250726120537.html" />
    <id>tag:www.as-tetra.info,2025://3.1446</id>
    
    <published>2025-07-26T03:05:37Z</published>
@@ -1509,7 +1509,7 @@ Head/Haut école d’art et de design de Genève ジュネーブ美術・デザ�
 </entry>
 <entry>
    <title>大池田展～映像の四半世紀～</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250716212632.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250716212632.html" />
    <id>tag:www.as-tetra.info,2025://3.1447</id>
    
    <published>2025-07-16T12:26:32Z</published>
@@ -1569,7 +1569,7 @@ Head/Haut école d’art et de design de Genève ジュネーブ美術・デザ�
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-7 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250712214505.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250712214505.html" />
    <id>tag:www.as-tetra.info,2025://3.1444</id>
    
    <published>2025-07-12T12:45:05Z</published>
@@ -1603,7 +1603,7 @@ Head/Haut école d’art et de design de Genève ジュネーブ美術・デザ�
 </entry>
 <entry>
    <title>Eyeless bird</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250630003653.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250630003653.html" />
    <id>tag:www.as-tetra.info,2025://3.1440</id>
    
    <published>2025-06-29T15:36:53Z</published>
@@ -1635,7 +1635,7 @@ tel.092-673-5151
 </entry>
 <entry>
    <title>Sounds Of Jugaad</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250628180000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250628180000.html" />
    <id>tag:www.as-tetra.info,2025://3.1438</id>
    
    <published>2025-06-28T09:00:00Z</published>
@@ -1687,10 +1687,10 @@ Junes K
 Born in Fukuoka, Japan, Junes K is the winner of OTAIRECORD's "Beat Grand Prix CLASH 2019," a grand prix for beatmakers. He is highly respected among other beatmakers for his production speed and quality, as well as his unique worldview on sound. His style is based on hip hop with a touch of electronica. His music succeeds in pulling listeners into his colorful sound world of instrumental hip hop music.。
 
 <hr>
-<img src="/info/upload/2025/68732-thumb.jpg" width="400" height="auto">
-<img src="/info/upload/2025/68748-thumb.jpg" width="400" height="auto">
-<img src="/info/upload/2025/68747-thumb.jpg" width="400" height="auto">
-<img src="/info/upload/2025/68746-thumb.jpg" width="400" height="auto">
+<img src="/upload/2025/68732-thumb.jpg" width="400" height="auto">
+<img src="/upload/2025/68748-thumb.jpg" width="400" height="auto">
+<img src="/upload/2025/68747-thumb.jpg" width="400" height="auto">
+<img src="/upload/2025/68746-thumb.jpg" width="400" height="auto">
 
 
 Jugaad
@@ -1707,7 +1707,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-6 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250621193053.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250621193053.html" />
    <id>tag:www.as-tetra.info,2025://3.1439</id>
    
    <published>2025-06-21T10:30:53Z</published>
@@ -1736,7 +1736,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>capture late morning live 22(w/倉地久美夫)</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250621110000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250621110000.html" />
    <id>tag:www.as-tetra.info,2025://3.1437</id>
    
    <published>2025-06-21T02:00:00Z</published>
@@ -1759,7 +1759,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 <a href="http://kumkumkura.seesaa.net/" target="_blank">http://kumkumkura.seesaa.net/</a>
 中村勇治(bass clarinet, soprano saxophone)
 <a href="https://capture.nakamurayuji.com" target="_blank">https://capture.nakamurayuji.com</a>
-<img src="/info/upload/2023/yuji_small-thumb.jpg" width="300"height="auto"><span style="font-size:8px;">
+<img src="/upload/2023/yuji_small-thumb.jpg" width="300"height="auto"><span style="font-size:8px;">
 photo:<a href="https://www.instagram.com/chi.vino_ch/"target="_blank">@chi.vino_ch</a></span>
 *50音順
 
@@ -1777,7 +1777,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>平家あたる個展「アパートメント・ムニキス」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250608150000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250608150000.html" />
    <id>tag:www.as-tetra.info,2025://3.1435</id>
    
    <published>2025-06-08T06:00:00Z</published>
@@ -1819,7 +1819,7 @@ art space tetra / capture works and music 中村勇治 <a href="https://www.naka
 </entry>
 <entry>
    <title>谷本仰 / AVAN / ミドリトモヒデ</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250607150000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250607150000.html" />
    <id>tag:www.as-tetra.info,2025://3.1436</id>
    
    <published>2025-06-07T06:00:00Z</published>
@@ -1849,7 +1849,7 @@ art space tetra / capture works and music (Yuji Nakamura) 070-5400-1965 / <a hre
 </entry>
 <entry>
    <title>Sid Frank Talk &amp; Live Performance  - Soundscapes, Fragments of Memory -</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250602224806.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250602224806.html" />
    <id>tag:www.as-tetra.info,2025://3.1434</id>
    
    <published>2025-06-02T13:48:06Z</published>
@@ -1871,19 +1871,19 @@ art space tetra / capture works and music (Yuji Nakamura) 070-5400-1965 / <a hre
       モントリオールを拠点に活動するサウンドアーティスト、シド・フランク。フィールドレコーディング、ラジオ放送、レコードアーカイブなど、多様な音源を組み合わせ聴く者の記憶や感情を揺さぶる彼のミニマルな電子音やドローンを体験するイベント。
 1部では、シド・フランクの静寂の中に響く繊細な音のレイヤーが、空間を新たな風景へと変貌させる過去作品を体験できるエキシビジョンと、調によるインタビューで彼の制作に対する姿勢や、インスピレーションを探ります。そして2部では、Sid Frankと小貫 誠、Layla Morpho、Mitsuo Morooka、調原作の4名を加えたメインライブ。「音の風景」「記憶の断片」というテーマで、それぞれのアーティストが持つ独自の音世界が融合し、予測不能な音の旅が始まります。
 
-      <![CDATA[<img src="/info/upload/2025/IMG_1113.jpeg" width=“400" >
+      <![CDATA[<img src ="/upload/2025/IMG_1113.jpeg" width=“400" >
 
 Sid Frank
 シド・フランクはモントリオールを拠点とするサウンドアーティストで、フィールドレコーディング、AM、FM、短波ラジオ放送の録音、レコードコレクションのアーカイブから集めたサウンドを組み込んだミニマルな電子ドローンを制作。これまで、日本、中国、台湾、メキシコ、カナダで演奏。
 
-<img src="/info/upload/2025/IMG_1111.jpeg" width=“400" >
+<img src ="/upload/2025/IMG_1111.jpeg" width=“400" >
 onuki makoto  /小貫　誠
 福岡市在住。
 エレクトロニクス/フィールドレコーディングなどの素材を用いた
 定位感の歪んだパフォーマンスを得意とする。
 ソロ名義の傍ら、ドローンポップユニット「SEA LEVEL」での活動や、サイケデリックロックバンド『蟬』ではドラムスを担当。
 
-<img src="/info/upload/2025/IMG_1109.jpeg" width=“400" >
+<img src ="/upload/2025/IMG_1109.jpeg" width=“400" >
 調 原作 
 ITエンジニア / 音楽家 / 美術家
 主な仕事はITエンジニアをしながら、展覧会等も開催している
@@ -1895,13 +1895,13 @@ ITエンジニア / 音楽家 / 美術家
 https://monogs.net/tag/music/
 Instagram  @gensaku.shirabe
 
-<img src="/info/upload/2025/IMG_1112.jpeg" width=“400" >
+<img src ="/upload/2025/IMG_1112.jpeg" width=“400" >
 Layla Morpho/レイラ・モルフォ
 ４才よりピアノを始め、ボストンのニューイングランド音楽院にてSteve Druryに師事する。その頃からエレクトロニカ、アンビエント、インダストリアル、ドローン、ノイズ、ハウス、ヒップホップ、フリージャズ、近現代ミニマルクラシック音楽などに影響を受け始める。そのような異種な音楽要素を凝縮した独自のスタイルを確立すべく、今までの音楽経験を元に2022年よりトラックメイキングを始める。アルバムα(フィジカルとデジタル)とβ(デジタルのみ)発売中。
 https://laylamorpho.bandcamp.com/ 
 Instagram @laylamorpho
 
-<img src="/info/upload/2025/IMG_1110.jpeg" width=“400" >
+<img src ="/upload/2025/IMG_1110.jpeg" width=“400" >
 諸岡光男 
 1979年生まれ。ドラムやテレビ演奏、音と映像のパフォーマンス・展示などで活動。今回は約4年ぶりのライブとなる。
 Instagram ＠morookamitsuo]]>
@@ -1909,7 +1909,7 @@ Instagram ＠morookamitsuo]]>
 </entry>
 <entry>
    <title>劉青山（リウ・セイザン） 写真展</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250524223203.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250524223203.html" />
    <id>tag:www.as-tetra.info,2025://3.1433</id>
    
    <published>2025-05-24T13:32:03Z</published>
@@ -1924,7 +1924,7 @@ Instagram ＠morookamitsuo]]>
    
    
    <content type="html" xml:lang="ja" xml:base="/">
-      <![CDATA[<img src="/info/upload/2025/IMG_1108.jpeg" width=“400" >
+      <![CDATA[<img src ="/upload/2025/IMG_1108.jpeg" width=“400" >
 劉青山（Qingshan Liu）
 1994年 中国・重慶生まれ
 
@@ -1942,7 +1942,7 @@ Instagram ＠morookamitsuo]]>
 </entry>
 <entry>
    <title>capture next vol.3</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250518183000.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250518183000.html" />
    <id>tag:www.as-tetra.info,2025://3.1430</id>
    
    <published>2025-05-18T09:30:00Z</published>
@@ -1986,7 +1986,7 @@ art space tetra運営メンバー/管楽器奏者/オーガナイザー、即興
 </entry>
 <entry>
    <title>鈴木淳個展シリーズ 「On the Bed 2025-5 ,etc.」</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250517190852.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250517190852.html" />
    <id>tag:www.as-tetra.info,2025://3.1431</id>
    
    <published>2025-05-17T10:08:52Z</published>
@@ -2023,7 +2023,7 @@ art space tetra運営メンバー/管楽器奏者/オーガナイザー、即興
 </entry>
 <entry>
    <title>曝す（さらす） ～IYOTA JIMMY、加藤笑平、鳴島充人による連続10日間の公開制作～</title>
-   <link rel="alternate" type="text/html" href="/info/archives/2025/250502223632.html" />
+   <link rel="alternate" type="text/html" href="/archives/2025/250502223632.html" />
    <id>tag:www.as-tetra.info,2025://3.1428</id>
    
    <published>2025-05-02T13:36:32Z</published>
