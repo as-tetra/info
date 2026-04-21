@@ -5,7 +5,7 @@
 <div id="header">
   <a href="{{ '/' | url }}"><img src="{{ '/images/tetra_logo09w.png' | url }}" alt="art space tetra" class="head_logo"></a>
   <span class="alignright">
-    <p>{% if lastUpdate %}last update : {{ lastUpdate }}{% endif %}</p>
+    <p>{% if lastUpdate or site.lastUpdate %}last update : {{ lastUpdate or site.lastUpdate }}{% endif %}</p>
     <p>
       <a href="#" onmousedown="$.fn.StyleSwichter({cssPath: '{{ '/css/tetra_en.css' | url }}'}); this.blur(); return false;" onmouseup="$('.main').masonry();">english</a> /
       <a href="#" onmousedown="$.fn.StyleSwichter({cssPath: '{{ '/css/tetra_jp.css' | url }}'}); this.blur(); return false;" onmouseup="$('.main').masonry();" class="min90">日本語</a>

@@ -61,6 +61,10 @@ async function extractGenreEntries() {
       const imgAlt = $block.find('img').attr('alt');
       const imgWidth = $block.find('img').attr('width');
 
+      // 本文（jpとenの両方）
+      const bodyJp = $block.find('.jp p').map((i, el) => $(el).html()).get().join('\n');
+      const bodyEn = $block.find('.en p').map((i, el) => $(el).html()).get().join('\n');
+
       // HTMLブロックを保存（後でそのまま出力するため）
       entries.push({
         date,
@@ -70,6 +74,8 @@ async function extractGenreEntries() {
         imgSrc,
         imgAlt,
         imgWidth,
+        bodyJp,
+        bodyEn,
         html: $.html($block), // 元のHTML構造を保持
         isPast: $block.find('.date_past').length > 0
       });

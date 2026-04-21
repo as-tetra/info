@@ -22,4 +22,14 @@
     <img src="{{ entry.imgSrc | url }}" alt="{{ entry.imgAlt }}" width="{{ entry.imgWidth or '168' }}">
   </a>
   {% endif %}
+  {% if entry.bodyJp %}
+  <span class="jp">
+    <p>{{ entry.bodyJp | safe }}</p>
+  </span>
+  {% endif %}
+  {% if entry.bodyEn %}
+  <span class="en">
+    <p>{{ entry.bodyEn | safe }}</p>
+  </span>
+  {% endif %}
 </div>

@@ -5,20 +5,15 @@ pagination:
   alias: page
 permalink: "{{ page.permalink }}"
 layout: base.njk
+bodyClass: "event_archive_responsive"
 title: "{{ page.categoryName }}"
 ---
 
 {# カテゴリーアーカイブ - MTのMTPaginate相当 #}
 <div class="main">
   {# ヘッダー #}
-  <div class="archive-header">
-    <h1>{{ page.categoryName }}</h1>
-    <p class="category-info">
-      {{ page.categoryCount }} entries
-      {% if page.totalPages > 1 %}
-      <span class="page-indicator">(Page {{ page.pageNumber + 1 }} of {{ page.totalPages }})</span>
-      {% endif %}
-    </p>
+  <div class="block_box">
+    <h1 class="menu_title">{{ page.categoryName }}</h1>
   </div>
 
   {# エントリーリスト (MTPaginateContent) #}

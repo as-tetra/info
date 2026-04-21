@@ -62,6 +62,11 @@ function addPathPrefix(content, prefix) {
       from: /src\s*=\s*(["'])(\/(?!\/)[^"']*?)\1/g,
       to: (match, quote, url) => `src=${quote}${prefix}${url}${quote}`
     },
+    // action="..." (form action)
+    {
+      from: /action\s*=\s*(["'])(\/(?!\/)[^"']*?)\1/g,
+      to: (match, quote, url) => `action=${quote}${prefix}${url}${quote}`
+    },
     // url(...) (CSS)
     {
       from: /url\(\s*(\/(?!\/)[^)]*?)\s*\)/g,

@@ -6,6 +6,7 @@ pagination:
   reverse: false
 permalink: "archives/page-{{ pagination.pageNumber + 1 }}/index.html"
 layout: base.njk
+bodyClass: "year_archive_responsive"
 title: Archives
 ---
 
@@ -22,9 +23,6 @@ title: Archives
 <div class="main">
   <div class="archive-header">
     <h1>All Archives</h1>
-    {% if pagination.pages.length > 1 %}
-    <p class="page-info">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }} ({{ entries | length }} total entries)</p>
-    {% endif %}
   </div>
 
   {# Entry List #}

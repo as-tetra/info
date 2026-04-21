@@ -73,6 +73,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('googlef1194ab5597e9418.html');
   eleventyConfig.addPassthroughCopy('googlehostedservice.html');
   eleventyConfig.addPassthroughCopy('y_key_*.html');
+  eleventyConfig.addPassthroughCopy('CNAME');
 
   // ========================================
   // .nojekyll 自動生成（GitHub Pages用）
